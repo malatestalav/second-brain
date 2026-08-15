@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "slug": "serie-sul-management-vol-1",
+      "title": "Serie sul Management, Vol. 1",
+      "type": "book",
+      "hash": "9efb113000247fba3a9d3796594bc75734eeed8a68113ff970a9d23688ba4682",
+      "status": "extracted",
+      "ingested": "2026-08-15T19:57:13.872736"
+    },
+    {
+      "slug": "serie-sul-management-vol-2",
+      "title": "Serie sul Management, Vol. 2",
+      "type": "book",
+      "hash": "6d0e69b44f49665278a461154c475ab7a6f83f82e0e34d13d19aba7842ae5c12",
+      "status": "extracted",
+      "ingested": "2026-08-15T19:57:13.880193"
+    }
+  ]
+}

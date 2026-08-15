@@ -26,7 +26,8 @@ Documenti grezzi in `Library/`, raggruppati per tipo. Una voce per source ingest
 <!-- L'AI aggiunge qui una riga per ogni podcast ingestato -->
 
 ### Libri
-<!-- L'AI aggiunge qui una riga per ogni libro/capitolo ingestato -->
+- [Serie sul Management Vol. 1](Library/books/serie-sul-management-vol-1.md) — Framework di PR, marketing, comunicazione e amministrazione
+- [Serie sul Management Vol. 2](Library/books/serie-sul-management-vol-2.md) — Framework di organizzazione, ruoli, e stabilizzazione aziendale
 
 ---
 
@@ -38,7 +39,8 @@ Pagine che rappresentano entità (aziende, persone, prodotti, framework). Aggreg
 <!-- Resources/companies/ -->
 
 ### Framework
-<!-- Resources/frameworks/ -->
+- [[management-series-vol-1]] — PR, Marketing, Admin Know-How (L. Ron Hubbard)
+- [[management-series-vol-2]] — Responsabile Organizzativo e stabilizzazione aziendale (L. Ron Hubbard)
 
 ### Prodotti
 <!-- Resources/products/ -->
