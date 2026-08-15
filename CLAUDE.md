@@ -145,3 +145,19 @@ NON:
 - Usare `[link](markdown)` per le note del vault interno
 
 <!-- CORREZIONI UTENTE: Aggiungi nuove regole qui sotto man mano che l'utente ti insegna -->
+
+## Auto-Push a Fine di OGNI Messaggio (Desktop Only)
+
+**Contesto:** Nell'app desktop di Claude Code, l'hook `Stop` non scatta in modo affidabile. La soluzione è che **l'assistente stesso** esegua il push a fine di ogni risposta che tocca il vault, non affidarsi agli hook dell'app.
+
+**Regola permanente:** 
+Come ULTIMA azione di ogni messaggio che ha modificato il vault, esegui:
+```bash
+bash "/Users/antoniomalatesta/Desktop/Second Brain/.claude/hooks/auto-push.sh"
+```
+
+Lo script è **idempotente** (esce subito se non c'è nulla) e **sicuro** (ha guardie che lo limitano a questo repo). **Non chiedere permesso — fallo e basta.** Include il commit + push in un'unica azione. Se offline, loga l'errore e continua.
+
+**Effetto atteso:** Il badge "+N" di modifiche pendenti torna a 0 dopo ogni risposta. Su GitHub compaiono commit `auto: <timestamp>`.
+
+**Fallback:** Gli hook registrati a livello utente (`~/.claude/settings.json`) rimangono come backstop; se l'app desktop un giorno li esegue, è un bonus.
