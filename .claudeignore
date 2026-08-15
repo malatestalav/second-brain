@@ -1,0 +1,23 @@
+# Privacy: File e cartelle che Claude NON deve leggere o accedere
+# Aggiungi percorsi qui per i contenuti sensibili
+
+# Credenziali e segreti
+.env
+.env.*
+*.key
+*.pem
+credentials/
+secrets/
+
+# Diari privati (se ne tieni uno)
+# private/
+# journal/
+
+# Documenti finanziari
+# finance/
+
+# Cartelle cliniche
+# health/
+
+# Dati riservati dei clienti
+# confidential/
