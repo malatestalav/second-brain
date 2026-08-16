@@ -5,7 +5,7 @@ status: active
 tags: [competitor, haccp, ristorazione]
 ---
 
-**Norma® Food Safety Pilot** (dominio `norma-haccp.com`, Instagram [@norma.haccp](https://www.instagram.com/norma.haccp)) è un competitor diretto di [[Antonio Malatesta]] e [[Vito Romano]] nel mercato della conformità HACCP per la ristorazione. Profilo ricostruito da screenshot e screen recording del funnel forniti da Antonio.
+**Norma® Food Safety Pilot** (dominio `norma-haccp.com`, Instagram [@norma.haccp](https://www.instagram.com/norma.haccp)) è un competitor diretto di [[Antonio Malatesta]] e [[Vito Romano]] nel mercato della conformità HACCP per la ristorazione. Profilo ricostruito da screenshot e screen recording del funnel e dell'account Instagram forniti da Antonio.
 
 ## Prodotto: le 3 feature core
 
@@ -74,10 +74,28 @@ Hero claim → problema HACCP italiano → feature 01/02/03 → confronto con al
 - **Campagna:** `NORMA - VAD Funnel 18/06/2026`, adset "REMARKETING [creative vad]"
 - Confermato quindi che il booking-gate sopra descritto è lo stadio finale di un funnel di remarketing attivo, non la prima esposizione
 
+## Profilo Instagram (@norma.haccp)
+
+> [!note] Account ancora piccolo
+> Al 16/08/2026: **15 post, 18 follower, 14 seguiti**. Nonostante investano già in ads a pagamento (vedi funnel sopra), la presenza organica è agli inizi: l'ads spending precede la crescita organica, o l'account è nuovo/secondario rispetto ad altri canali non ancora mappati.
+
+**Bio/link:** 3 link in bio — sito (`norma-haccp.com`), un webinar del 15 luglio (via `link.delera.co`, tool di landing/CRM terzo), e la demo gated (`smart.norma-haccp.com`, lo stesso funnel già mappato sopra).
+
+**Content mix osservato (griglia post):**
+- **Serie educativa "Protocollo Norma AI"** — post numerati (#01, #02, #03...) su temi HACCP puri: "I 7 Principi che salvano la tua attività", "Il controllo delle temperature", "Contaminazione crociata: come evitarla in 5 mosse". Contenuto value-first, non promozionale diretto
+- **Feature promo** — post dedicati a Panic Mode, controllo temperature, HACCP guidato da AI, spesso con creator/testimonial in video (persona in giacca, mezzobusto, tono "esperto")
+- **Partnership/co-marketing con Meta Sicurezza** — webinar co-brandizzati ("MetaHACCP + Norma") con **Ing. Vincenzo Di Gioia, Founder & CEO di Meta Sicurezza**. Temi: prevenzione, sicurezza impianti, "L'HACCP semplice, veloce, digitale". Format: webinar live + contenuti "on demand" + riepiloghi post-evento ("I 7 messaggi che ci portiamo a casa dal webinar")
+- **Milestone/PR post** — "Abbiamo fatto la storia": dal 7 maggio 2026 presentato ufficialmente **a 38 enti di controllo sanitario**, claim "100% copertura nazionale". Badge: Conformità, Digitalizzazione, Supporto reale, Prevenzione intelligente
+- **Social proof diretto** — screenshot di messaggi/commenti entusiasti ("molto valido questo sistema, spero che abbia larga e veloce diffusione"; "complimenti per un app del genere, vi proiettate sicuramente nel futuro!") e testimonial cliente nominativo: **Gianni Lupo, Osteria New York** — "Con Norma risparmiamo tempo, riduciamo gli errori, abbiamo tutto sotto controllo"
+- **Contenuto soft/brand** — auguri di Ferragosto, tono da attività locale/vicina anche se il prodotto è B2B SaaS
+
+> [!important] Strategia di canale
+> Norma® corre **due binari paralleli**: (1) ads a pagamento su FB/IG che portano dritti al funnel di demo+booking, e (2) content marketing organico via webinar + partnership con un altro player del settore sicurezza (Meta Sicurezza) per costruire autorità e credibilità istituzionale (38 enti di controllo, testimonial reali). La combinazione "PR istituzionale + testimonial cliente reale + educational series" compensa i pochi follower: puntano su credibilità/autorità più che su reach organico.
+
 ## Da approfondire
 
-- Contenuto reale del profilo Instagram [@norma.haccp](https://www.instagram.com/norma.haccp) (bio, follower, tipo contenuti) — non raggiungibile da questa sessione, egress bloccato anche verso instagram.com
 - Pricing della Licenza PRO oltre i 14 giorni gratuiti, e cosa include la versione "freemium" post-trial
 - Verifica claim "Validato dai Carabinieri del NAS" (che tipo di validazione, ufficiale o citazione informale)
 - Terzo motivo della sezione "3 motivi per riscattare" (non catturato nello screen recording)
-- Volume e crescita follower/engagement social
+- Dettagli della partnership con Meta Sicurezza (accordo commerciale o solo co-marketing)
+- Contenuto del webinar del 15 luglio e follow-up

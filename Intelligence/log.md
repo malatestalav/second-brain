@@ -27,3 +27,5 @@ Cronologia di tutte le fonti aggiunte al vault via `/ingest`.
   - Wiki: [[norma-haccp]] (prodotto, proposta di valore, funnel di lead-gen)
 - **--:--** | competitor | norma-haccp | profilo arricchito da 2 screen recording del funnel completo (video demo + booking) forniti da [[Antonio Malatesta]]; profilo Instagram non raggiungibile (egress bloccato)
   - Wiki: [[norma-haccp]] (feature dettagliate, team, dati sanzioni/rischio, modello di conversione con booking obbligatorio)
+- **--:--** | competitor | norma-haccp | aggiunto profilo Instagram @norma.haccp da screenshot forniti da [[Antonio Malatesta]]
+  - Wiki: [[norma-haccp]] (metriche account, content mix, partnership Meta Sicurezza, testimonial cliente)
