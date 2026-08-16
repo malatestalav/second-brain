@@ -5,52 +5,79 @@ status: active
 tags: [competitor, haccp, ristorazione]
 ---
 
-**Norma® Food Safety Pilot** (dominio `norma-haccp.com`) è un competitor diretto di [[Antonio Malatesta]] e [[Vito Romano]] nel mercato della conformità HACCP per la ristorazione, segnalato da Antonio via screenshot della landing page.
+**Norma® Food Safety Pilot** (dominio `norma-haccp.com`, Instagram [@norma.haccp](https://www.instagram.com/norma.haccp)) è un competitor diretto di [[Antonio Malatesta]] e [[Vito Romano]] nel mercato della conformità HACCP per la ristorazione. Profilo ricostruito da screenshot e screen recording del funnel forniti da Antonio.
 
-## Prodotto
+## Prodotto: le 3 feature core
 
-Piattaforma di conformità HACCP che combina:
+> [!important] Posizionamento prodotto
+> "La piattaforma interviene in ogni aspetto quotidiano per semplificare, ottimizzare e automatizzare le operazioni, seguendo le normative HACCP al 100%." Claim quantificato: la gestione HACCP manuale ruba **84 minuti al giorno** al ristoratore e ai collaboratori (14 min controllo temperature, 11 min registri pulizie, 13 min verifica scadenze, 17 min etichettatura alimenti, + altre voci).
 
-- **Sensori IoT** per il monitoraggio automatico (temperature, punti critici presumibilmente)
-- **AI predittiva** (nome del componente: **"Assistente OKYO® IoT"**, citato nella sezione feature)
-- **Panic Mode®** (funzione brandizzata, probabilmente allerta/emergenza in caso di non conformità rilevata)
-- **Assistente AI sempre attivo**, disponibile **24/7**
+**Feature 01 — Sensori Cryo® IoT**
+Sensori autoconfiguranti (operativi 30 secondi dopo l'accensione), misurano temperatura e umidità in continuo ogni minuto 24/7. Dati diretti sull'app, storico cronologico completo, timestamp non modificabili (anti-contestazione in ispezione). Alert push immediato su anomalia. Dashboard mostra monitoraggio multi-frigorifero in tempo reale con soglie colorate (verde/rosso).
 
-> [!important] Posizionamento
-> Norma® vende "piena conformità HACCP, a prova di HACCP, ASL e ispettori" come promessa centrale. Il framing è la paura del controllo/sanzione, non l'efficienza operativa. Aggancia il problema con una sezione dedicata: "Il problema dell'HACCP italiano nel 2026".
+**Feature 02 — Norma® AI Assistant**
+Assistente personale del locale: traccia i flussi del manuale di autocontrollo costruito dall'utente, segue le procedure giorno per giorno, notifiche prima delle scadenze, alert in tempo reale su anomalia sensore o procedura non eseguita nei tempi.
 
-## Proposta di valore
+**Feature 03 — Panic Mode**
+Bottone di emergenza per le ispezioni: lo premi, l'ispettore inquadra un QR code e in 30 secondi vede SCIA, manuale, registri, attestati del personale, storico anomalie. Claimato come "unica funzione del genere sul mercato HACCP italiano". Presentato in anteprima il 7 maggio 2026 a 38 nuclei (presumibilmente NAS).
 
-> [!tip] Claim principale
-> "Il modo più sicuro per avere la piena conformità HACCP, a prova di HACCP, ASL e ispettori" — "il sistema più completo per assicurarti la piena conformità, in semplicità, con il supporto degli assistenti sicuri."
+**Manuale digitale dinamico**: si aggiorna da solo quando cambia una normativa o si aggiunge/sostituisce un'attrezzatura. Punto di attacco esplicito ai competitor: "una delle non conformità più frequenti riscontrate da NAS e ASL è che il manuale viene fatto e poi dimenticato nel cassetto" — manuali cartacei vecchi di anni.
 
-Presenti anche recensioni/social proof ("Dicono di noi") e una sezione "L'idea dietro Norma® è semplice" che probabilmente spiega il razionale del prodotto in modo narrativo.
+## Differenziazione dichiarata vs alternative
 
-## Funnel di acquisizione
+Nel funnel Norma® attacca esplicitamente due categorie di soluzioni esistenti (utile per capire come si posizionano contro concorrenti come te):
 
-Landing page a **lead-gen con video demo gated**, non self-serve/pricing pubblico:
+- **A. Manuale cartaceo del consulente HACCP** — "il 99,9% dei ristoratori ha un consulente HACCP. Il problema è che una volta redatto il manuale sei solo, perché il tuo consulente non sarà in alcun modo responsabile dell'effettiva applicazione delle indicazioni del manuale."
+- **B. Altre app HACCP "digitalizzano ma non sono davvero smart"** — "la digitalizzazione è solo un aspetto [...] ma nella pratica cambia poco o nulla se tu devi comunque ricordare ogni [passaggio manualmente]". Claim: "'Digitalizzare' non significa essere automaticamente conformi."
 
-1. Hero con claim + CTA
-2. Sezione problema ("problema HACCP italiano 2026")
-3. Sezione prodotto (sensori IoT, AI, Panic Mode, assistente 24/7)
-4. Social proof (recensioni)
-5. Sezione "idea dietro Norma"
-6. **Questionario** per sbloccare la video demo — micro-form di qualificazione lead
-7. Spiegazione "cosa succede quando lasci i tuoi dati": accesso immediato a video demo, accesso al "Full Report", una **garanzia/convenzione gratuita** legata all'uso di Norma, video demo personalizzato
-8. FAQ finale ("Le domande che ci fanno più spesso")
+> [!tip] Insight per il tuo posizionamento
+> Norma® si posiziona come categoria a parte ("non è un'altra app HACCP smart, è proprio un'altra categoria"), puntando su automazione reale (sensori + AI) contro digitalizzazione passiva. Se il tuo prodotto compete qui, differenziati su QUALE parte del lavoro automatizzi davvero, non solo su "abbiamo un'app".
 
-Traffico osservato: campagna Facebook Ads → Instagram Stories, **remarketing** attivo a giugno 2026 (`NORMA - VAD Funnel 18/06/2026`, adset "REMARKETING [creative vad]").
+## Team (mostrato in landing come trust signal)
 
-> [!important] Implicazione strategica
-> Norma® ha un funnel strutturato: ads → landing con narrativa problema/soluzione → form di qualificazione → demo personalizzata + report gratuito come incentivo alla conversione. È un modello "content-gated demo" pensato per raccogliere lead qualificati e nutrire poi via video/report, non vendita diretta da pagina. Il funnel di [[Antonio Malatesta]] è oggi manuale via WhatsApp (3 touch); Norma® ha automatizzato la parte di qualificazione e nutrimento iniziale del lead.
+- **Vincenzo Liccardi** — Founder, Restaurant Business Coach & Innovator. 30 anni di esperienza diretta nella direzione di ristoranti, 4 manuali best-seller su Restaurant Management, titolare di MadOut Srl, fondatore di FOODCOST in Cloud
+- **Sara Baldassari** — Food Safety Specialist. Esperienza reale in cucine prestigiose, focus su temperature/conservazione, tracciabilità/conformità, cost control
+- **Dott. Giacomo Favaro** — Food Safety Expert, Tecnologo Alimentare. Esperto di sistemi HACCP
 
-> [!warning] Rischio competitivo
-> Se Norma® sta investendo in remarketing (non solo cold traffic), significa che ha già un pubblico caldo consolidato e sta ottimizzando la fase finale del funnel. Il posizionamento su "paura del controllo/sanzione" è un angle di marketing efficace nel settore HACCP e replicabile.
+## Leva persuasiva: rischio e sanzioni (dati citati)
+
+> [!warning] Claim usati per creare urgenza
+> - Nel 2025 i Carabinieri NAS hanno condotto **45.762 ispezioni** e chiuso/sequestrato **1.331 attività** in Italia
+> - Molte ispezioni nascono da segnalazioni di clienti scontenti, ex dipendenti e concorrenti
+> - Sanzioni cumulative citate: €1.000-6.000 (piano HACCP scorretto), €500-3.000 (igiene personale/pulizia), €1.000-6.000 (personale non formato sulle norme), €3.000-24.000 (omissione elenco allergeni nel menù)
+> - Esempio citato: un'ispezione con 3-4 non conformità può costare facilmente 15.000-20.000€ al ristoratore, più il rischio di sospensione attività ("danno reputazionale")
+> - Framing: "Non si tratta di 'se' ma soltanto di 'quando' gli operatori del NAS entreranno nel tuo locale"
+> - Footer del sito: **"Validato dai Carabinieri del NAS"** — claim di endorsement/validazione istituzionale da verificare
+
+## Funnel completo (ricostruito da screen recording)
+
+Struttura in due fasi distinte:
+
+**Fase 1 — Landing pubblica** (raggiunta da ads Facebook/Instagram, vedi sotto)
+Hero claim → problema HACCP italiano → feature 01/02/03 → confronto con alternative → team → dati rischio/sanzioni → CTA "Prenota la consulenza gratuita"
+
+**Fase 2 — Post-conversione (video demo gated)**
+1. Landing "Step 1": "NON CHIUDERE QUESTA PAGINA" + video demo embed
+2. Testo che ancora il video: "la demo è solo l'inizio, lo step successivo è una consulenza gratuita e senza impegno con un esperto Norma: è condizione necessaria per ricevere i 14 giorni di Licenza PRO gratuita"
+3. Riepilogo "Cosa hai appena visto nella video demo" con lo stat degli 84 minuti/giorno
+4. Deep-dive sulle 3 feature (sensori, AI assistant, panic mode)
+5. Sezione "3 motivi per riscattare subito i 14 giorni gratuiti": (1) urgenza — ogni giorno di ritardo è un giorno di rischio, (2) nessun impegno/vincolo, freemium disponibile a fine prova, (3) [terzo motivo non catturato]
+6. CTA "Prenota la consulenza gratuita" → **calendario di booking integrato** (slot giornalieri, fuso orario Europe/Rome)
+7. La consulenza è **obbligatoria** per sbloccare la licenza PRO gratuita di 14 giorni (non è self-serve)
+
+> [!important] Modello di conversione
+> Norma® non vende self-serve: il funnel forza un **booking di consulenza telefonica/video con un umano** come gate obbligatorio per attivare la prova gratuita. Questo è probabilmente per qualificare il lead e fare vendita assistita (upsell post-trial). È l'opposto di un free trial self-serve immediato.
+
+## Funnel di acquisizione (traffico)
+
+- **Canale:** Facebook Ads → Instagram Stories
+- **Campagna:** `NORMA - VAD Funnel 18/06/2026`, adset "REMARKETING [creative vad]"
+- Confermato quindi che il booking-gate sopra descritto è lo stadio finale di un funnel di remarketing attivo, non la prima esposizione
 
 ## Da approfondire
 
-- Pricing e modello di vendita (non esposto in landing, probabile vendita assistita post-demo)
-- Contenuto reale del "Full Report" offerto come incentivo
-- Dettaglio tecnico di sensori IoT e Panic Mode®
-- Volume/qualità delle recensioni mostrate
-- Chi c'è dietro l'azienda (team, funding, da quanto sul mercato)
+- Contenuto reale del profilo Instagram [@norma.haccp](https://www.instagram.com/norma.haccp) (bio, follower, tipo contenuti) — non raggiungibile da questa sessione, egress bloccato anche verso instagram.com
+- Pricing della Licenza PRO oltre i 14 giorni gratuiti, e cosa include la versione "freemium" post-trial
+- Verifica claim "Validato dai Carabinieri del NAS" (che tipo di validazione, ufficiale o citazione informale)
+- Terzo motivo della sezione "3 motivi per riscattare" (non catturato nello screen recording)
+- Volume e crescita follower/engagement social
