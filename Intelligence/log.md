@@ -23,3 +23,5 @@ Cronologia di tutte le fonti aggiunte al vault via `/ingest`.
 
 - **--:--** | competitor | norma-haccp | pagina non raggiungibile (egress bloccato), profilo creato con dati parziali dall'URL/UTM
   - Wiki: [[norma-haccp]]
+- **--:--** | competitor | norma-haccp | profilo completato da screenshot landing page fornito da [[Antonio Malatesta]]
+  - Wiki: [[norma-haccp]] (prodotto, proposta di valore, funnel di lead-gen)

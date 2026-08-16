@@ -1,37 +1,56 @@
 ---
 type: competitor
 date: 2026-08-16
-status: draft
+status: active
 tags: [competitor, haccp, ristorazione]
 ---
 
-> [!warning] Dati parziali
-> La pagina prodotto (`smart.norma-haccp.com`) non è stata raggiungibile da questa sessione (egress di rete bloccato verso il dominio). Le info sotto sono dedotte solo dall'URL e dai parametri UTM. Da completare con screenshot o testo incollato manualmente da [[Antonio Malatesta]].
+**Norma® Food Safety Pilot** (dominio `norma-haccp.com`) è un competitor diretto di [[Antonio Malatesta]] e [[Vito Romano]] nel mercato della conformità HACCP per la ristorazione, segnalato da Antonio via screenshot della landing page.
 
-## Cosa si sa
+## Prodotto
 
-**Norma HACCP** (dominio `norma-haccp.com`, prodotto "Smart") è un competitor segnalato da [[Antonio Malatesta]]. Dal nome del dominio, opera nell'ambito della gestione **HACCP** per il settore della ristorazione, lo stesso mercato target dell'azienda di Antonio e [[Vito Romano]].
+Piattaforma di conformità HACCP che combina:
 
-## Funnel osservato
+- **Sensori IoT** per il monitoraggio automatico (temperature, punti critici presumibilmente)
+- **AI predittiva** (nome del componente: **"Assistente OKYO® IoT"**, citato nella sezione feature)
+- **Panic Mode®** (funzione brandizzata, probabilmente allerta/emergenza in caso di non conformità rilevata)
+- **Assistente AI sempre attivo**, disponibile **24/7**
 
-Link raccolto da campagna Facebook/Instagram attiva:
+> [!important] Posizionamento
+> Norma® vende "piena conformità HACCP, a prova di HACCP, ASL e ispettori" come promessa centrale. Il framing è la paura del controllo/sanzione, non l'efficienza operativa. Aggancia il problema con una sezione dedicata: "Il problema dell'HACCP italiano nel 2026".
 
-- **Canale:** Facebook Ads → Instagram Stories
-- **Campagna:** `NORMA - VAD Funnel 18/06/2026`
-- **Adset:** Remarketing (creative "vad")
-- **Contenuto:** "copy10 alta imm.10"
-- **Tipo:** funnel di remarketing, quindi utente già in un pubblico caldo/retargeting, non prima esposizione
+## Proposta di valore
+
+> [!tip] Claim principale
+> "Il modo più sicuro per avere la piena conformità HACCP, a prova di HACCP, ASL e ispettori" — "il sistema più completo per assicurarti la piena conformità, in semplicità, con il supporto degli assistenti sicuri."
+
+Presenti anche recensioni/social proof ("Dicono di noi") e una sezione "L'idea dietro Norma® è semplice" che probabilmente spiega il razionale del prodotto in modo narrativo.
+
+## Funnel di acquisizione
+
+Landing page a **lead-gen con video demo gated**, non self-serve/pricing pubblico:
+
+1. Hero con claim + CTA
+2. Sezione problema ("problema HACCP italiano 2026")
+3. Sezione prodotto (sensori IoT, AI, Panic Mode, assistente 24/7)
+4. Social proof (recensioni)
+5. Sezione "idea dietro Norma"
+6. **Questionario** per sbloccare la video demo — micro-form di qualificazione lead
+7. Spiegazione "cosa succede quando lasci i tuoi dati": accesso immediato a video demo, accesso al "Full Report", una **garanzia/convenzione gratuita** legata all'uso di Norma, video demo personalizzato
+8. FAQ finale ("Le domande che ci fanno più spesso")
+
+Traffico osservato: campagna Facebook Ads → Instagram Stories, **remarketing** attivo a giugno 2026 (`NORMA - VAD Funnel 18/06/2026`, adset "REMARKETING [creative vad]").
 
 > [!important] Implicazione strategica
-> Norma HACCP investe in remarketing su Instagram Stories, segno di un funnel di acquisizione strutturato e attivo a giugno 2026. Utile confronto diretto con lo stato attuale del funnel di [[Antonio Malatesta]], ancora manuale via WhatsApp (vedi [[operator]]).
+> Norma® ha un funnel strutturato: ads → landing con narrativa problema/soluzione → form di qualificazione → demo personalizzata + report gratuito come incentivo alla conversione. È un modello "content-gated demo" pensato per raccogliere lead qualificati e nutrire poi via video/report, non vendita diretta da pagina. Il funnel di [[Antonio Malatesta]] è oggi manuale via WhatsApp (3 touch); Norma® ha automatizzato la parte di qualificazione e nutrimento iniziale del lead.
+
+> [!warning] Rischio competitivo
+> Se Norma® sta investendo in remarketing (non solo cold traffic), significa che ha già un pubblico caldo consolidato e sta ottimizzando la fase finale del funnel. Il posizionamento su "paura del controllo/sanzione" è un angle di marketing efficace nel settore HACCP e replicabile.
 
 ## Da approfondire
 
-- Prodotto: funzionalità specifiche della piattaforma "Smart"
-- Pricing e modello di vendita
-- Target: dimensione ristoranti, verticale (ristorazione generica vs catene)
-- Proposta di valore e claim principali
-- Screenshot o testo della landing page (l'AI non riesce a raggiungerla direttamente)
-
-> [!tip] Prossimo passo
-> Incolla qui il testo della landing page o uno screenshot per completare il profilo, oppure usa `/ingest` su un PDF/screenshot del sito.
+- Pricing e modello di vendita (non esposto in landing, probabile vendita assistita post-demo)
+- Contenuto reale del "Full Report" offerto come incentivo
+- Dettaglio tecnico di sensori IoT e Panic Mode®
+- Volume/qualità delle recensioni mostrate
+- Chi c'è dietro l'azienda (team, funding, da quanto sul mercato)
