@@ -11,7 +11,7 @@ updated: 2026-08-15
 ### 1. Sicurezza 100% ai Controlli ASL
 **Il problema:** Quando arriva un'ispezione, il ristoratore è in ansia. Deve cercare i registri giusti, le schede, i manuali nei faldoni. Se non trova un documento in 30 secondi, l'ispettore inizia a scavare più a fondo e a dubitare di tutta l'operazione. Disordine trasmette insicurezza immediata.
 
-**Consapevolezza cliente:** Già consapevole. L'obbligo legale HACCP esiste — il cliente lo sa. Non sa che può essere digitale.
+**Consapevolezza cliente:** Già consapevole. L'obbligo legale HACCP esiste: il cliente lo sa. Non sa che può essere digitale.
 
 **Come lo risolviamo:** Con HACCP Digitale, tutto è organizzato e pronto su tablet. Un click e trovi qualsiasi documento. Ispettore vede chiarezza, integrità dei dati, tracciamento audit completo.
 
@@ -25,7 +25,7 @@ updated: 2026-08-15
 ### 3. Libertà di Innovare
 **Il problema:** Tra compilazione HACCP e gestione operativa, il ristoratore non ha tempo di ricercare nuovi prodotti, testare ricette diverse, scalare l'attività, migliorare il menu. È bloccato dalla burocrazia.
 
-**Consapevolezza cliente:** Meno consapevole inizialmente. È una visione futura — "se liberi tempo, puoi fare più cose".
+**Consapevolezza cliente:** Meno consapevole inizialmente. È una visione futura: "se liberi tempo, puoi fare più cose".
 
 **Come lo risolviamo:** Liberando 3-4 ore/settimana, il ristoratore ritrova tempo per decisioni strategiche, ricerca, innovazione, mantenendo piena conformità normativa.
 
@@ -39,7 +39,7 @@ I ristoratori descrivono il problema come:
 - "Perdita di tempo pura"
 - "Distrazioni dal vero lavoro"
 
-**Esempio concreto:** Cuoco con mani sporche d'olio deve compilare registri cartacei — sporca i fogli, deve ricominciare, frustrazione.
+**Esempio concreto:** Cuoco con mani sporche d'olio deve compilare registri cartacei: sporca i fogli, deve ricominciare, frustrazione.
 
 ---
 
@@ -65,3 +65,5 @@ Con HACCP Digitale:
 - **Accesso multi-utente:** Cameriere riceve notifica push "È ora di compilare la scheda pulizie", fa un click, fatto. Cuoco riceve "Registro ricevimenti prodotto", riempie i dati rilevanti dal suo ruolo, firma digitale, archiviato.
 - **Master dashboard:** Titolare vede tutto in tempo reale. Zero ricerca nei faldoni. Zero compilazioni ritardate. Zero stress.
 - **Real-time compliance:** La conformità non è un evento ogni 3 mesi, è un costante dello stato operativo.
+
+<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator — ultima modifica: 2026-08-17T21:29:31Z</span>

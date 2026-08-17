@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HACCP Digitale — Piano d'Azione Interno (Hubbard Framework)</title>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black:wght@900&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        /* === VIEWPORT BASE (MANDATORY) === */
+        html, body { height: 100%; overflow-x: hidden; }
+        html { scroll-snap-type: y mandatory; scroll-behavior: smooth; }
+
+        .slide {
+            width: 100vw;
+            height: 100vh;
+            height: 100dvh;
+            overflow: hidden;
+            scroll-snap-align: start;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+
+        .slide-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            max-height: 100%;
+            overflow: hidden;
+            padding: clamp(1rem, 4vw, 4rem);
+        }
+
+        :root {
+            --bg-primary: #1a1a1a;
+            --bg-gradient: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 50%, #1a1a1a 100%);
+            --card-bg: #FF5722;
+            --text-primary: #ffffff;
+            --text-on-card: #1a1a1a;
+            --title-size: clamp(1.5rem, 5vw, 4rem);
+            --h2-size: clamp(1.25rem, 3.5vw, 2.5rem);
+            --h3-size: clamp(1rem, 2.5vw, 1.75rem);
+            --body-size: clamp(0.75rem, 1.5vw, 1.125rem);
+            --small-size: clamp(0.65rem, 1vw, 0.875rem);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            background: var(--bg-gradient);
+            font-family: 'Space Grotesk', sans-serif;
+            color: var(--text-primary);
+            margin: 0;
+            padding: 0;
+        }
+
+        /* === BOLD SIGNAL THEME === */
+
+        .card {
+            background: var(--card-bg);
+            color: var(--text-on-card);
+            padding: clamp(40px, 5vw, 80px);
+            border-radius: 12px;
+            max-width: 600px;
+            text-align: left;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+            animation: slideIn 0.8s ease-out;
+            position: relative;
+            z-index: 2;
+        }
+
+        .card h1 {
+            font-family: 'Archivo Black', sans-serif;
+            font-size: clamp(32px, 5vw, 56px);
+            line-height: 1.1;
+            margin-bottom: 20px;
+            letter-spacing: -1px;
+        }
+
+        .card h2 {
+            font-family: 'Archivo Black', sans-serif;
+            font-size: clamp(24px, 4vw, 40px);
+            margin-bottom: 25px;
+            letter-spacing: -0.5px;
+        }
+
+        .card h3 {
+            font-family: 'Archivo Black', sans-serif;
+            font-size: clamp(18px, 2.5vw, 28px);
+            margin-top: 25px;
+            margin-bottom: 15px;
+        }
+
+        .card p {
+            font-size: clamp(14px, 1.5vw, 18px);
+            line-height: 1.6;
+            opacity: 0.95;
+            margin-bottom: 15px;
+        }
+
+        .card ul {
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
+
+        .card li {
+            font-size: clamp(14px, 1.5vw, 18px);
+            line-height: 1.6;
+            margin-bottom: 10px;
+            opacity: 0.95;
+        }
+
+        .slide-number {
+            position: absolute;
+            top: 40px;
+            left: 40px;
+            font-family: 'Archivo Black', sans-serif;
+            font-size: clamp(64px, 12vw, 120px);
+            color: rgba(255, 255, 255, 0.05);
+            line-height: 1;
+            z-index: 0;
+            user-select: none;
+        }
+
+        .nav-dots {
+            position: absolute;
+            bottom: 40px;
+            right: 40px;
+            display: flex;
+            gap: 12px;
+            z-index: 10;
+        }
+
+        .dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.3);
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .dot.active {
+            background: #FF5722;
+            transform: scale(1.3);
+        }
+
+        .keyboard-hint {
+            position: absolute;
+            bottom: 40px;
+            left: 40px;
+            font-size: clamp(11px, 1vw, 13px);
+            color: rgba(255, 255, 255, 0.4);
+            font-family: 'Space Grotesk', sans-serif;
+        }
+
+        /* === ANIMATIONS === */
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(-40px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .reveal {
+            opacity: 0;
+            transform: translateY(20px);
+            animation: reveal 0.6s ease-out forwards;
+        }
+
+        @keyframes reveal {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .reveal-1 { animation-delay: 0.2s; }
+        .reveal-2 { animation-delay: 0.4s; }
+        .reveal-3 { animation-delay: 0.6s; }
+        .reveal-4 { animation-delay: 0.8s; }
+
+        /* === EDIT MODE === */
+
+        [contenteditable] {
+            outline: none;
+        }
+
+        [contenteditable]:hover {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 4px;
+        }
+
+        [contenteditable]:focus {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 4px;
+        }
+
+        .edit-mode-badge {
+            position: absolute;
+            top: 20px;
+            right: 30px;
+            background: rgba(255, 87, 34, 0.8);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: bold;
+            display: none;
+            z-index: 20;
+        }
+
+        .edit-mode-active .edit-mode-badge {
+            display: block;
+        }
+
+        /* === RESPONSIVE === */
+
+        @media (max-height: 700px) {
+            .card { padding: clamp(30px, 3vw, 50px); }
+            .keyboard-hint { display: none; }
+        }
+
+        @media (max-height: 600px) {
+            .nav-dots { display: none; }
+            .slide-number { font-size: clamp(40px, 8vw, 80px); }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            * { animation-duration: 0.01ms !important; }
+        }
+
+        .table-data {
+            width: 100%;
+            font-size: clamp(12px, 1.2vw, 15px);
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+
+        .table-data td {
+            padding: 10px;
+            border-bottom: 1px solid rgba(26, 26, 26, 0.2);
+            text-align: left;
+        }
+
+        .table-data th {
+            padding: 10px;
+            border-bottom: 2px solid #1a1a1a;
+            text-align: left;
+            font-weight: bold;
+        }
+
+        .highlight {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 2px 6px;
+            border-radius: 3px;
+        }
+
+    </style>
+</head>
+<body>
+
+<!-- === SLIDE 1: TITLE === -->
+<div class="slide">
+    <div class="slide-number">01</div>
+    <div class="slide-content">
+        <div class="card">
+            <h1 contenteditable="true">HACCP Digitale<br>Piano d'Azione Interno</h1>
+            <p contenteditable="true">Struttura, metriche e ruoli basati sul framework di Ron Hubbard</p>
+            <p contenteditable="true" style="font-size: clamp(12px, 1.2vw, 15px); margin-top: 30px; opacity: 0.8;">Per il team di Nexvision</p>
+        </div>
+    </div>
+    <div class="keyboard-hint">← → per navigare</div>
+</div>
+
+<!-- === SLIDE 2: OVERVIEW === -->
+<div class="slide">
+    <div class="slide-number">02</div>
+    <div class="slide-content">
+        <div class="card">
+            <h2 contenteditable="true">6 Priorità Immediate</h2>
+            <ul contenteditable="true">
+                <li><strong>1. Tracking Finanziario</strong> — Conosci il margine reale per licenza</li>
+                <li><strong>2. Retention & Churn</strong> — Valida che i 4 clienti continueranno</li>
+                <li><strong>3. Ruolo Organizzativo</strong> — Prepara la struttura per la crescita</li>
+                <li><strong>4. Product-Market Fit</strong> — Video testimonial dai clienti</li>
+                <li><strong>5. Metriche di Funnel</strong> — Traccia settimana per settimana</li>
+                <li><strong>6. Comunicazione Interna</strong> — Il team sa cosa sta succedendo</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- === SLIDE 3: PRIORITA' 1A === -->
+<div class="slide">
+    <div class="slide-number">03</div>
+    <div class="slide-content">
+        <div class="card">
+            <h2 contenteditable="true">Priorità 1: Tracking Finanziario</h2>
+            <h3 contenteditable="true">Cosa manca: il costo reale per cliente</h3>
+            <p contenteditable="true"><strong>Azioni questa settimana:</strong></p>
+            <ul contenteditable="true">
+                <li>Hosting mensile (AWS, Heroku, ecc.) ÷ numero clienti</li>
+                <li>Support manuale (ore Vito) × €20-30/ora</li>
+                <li>Sviluppo/manutenzione (ore Antonio) ÷ 12 mesi ÷ clienti</li>
+                <li>Margine finale = Ricavo (€25/mese) - Costo Totale</li>
+            </ul>
+            <p contenteditable="true" style="margin-top: 20px; font-weight: bold;">⚠️ Se margine &lt; €10/mese = stai perdendo soldi. Se &gt; €15 = sostenibile.</p>
+        </div>
+    </div>
+</div>
+
+<!-- === SLIDE 4: PRIORITA' 1B === -->
+<div class="slide">
+    <div class="slide-number">04</div>
+    <div class="slide-content">
+        <div class="card">
+            <h2 contenteditable="true">Priorità 1: Azione Concreta</h2>
+            <p contenteditable="true"><strong>Domani mattina (lunedì):</strong></p>
+            <p contenteditable="true">Siedi con Vito. Apri un foglio Google. Scrivi:</p>
+            <table class="table-data">
+                <tr>
+                    <th>Voce</th>
+                    <th>Costo Mensile</th>
+                    <th>Per Licenza</th>
+                </tr>
+                <tr>
+                    <td>Hosting</td>
+                    <td>€___</td>
+                    <td>€___ (÷4)</td>
+                </tr>
+                <tr>
+                    <td>Support (Vito)</td>
+                    <td>€___</td>
+                    <td>€___ (÷4)</td>
+                </tr>
+                <tr>
+                    <td>Sviluppo (Antonio)</td>
+                    <td>€___</td>
+                    <td>€___ (÷4)</td>
+                </tr>
+                <tr>
+                    <td><strong>TOTALE</strong></td>
+                    <td><strong>€___</strong></td>
+                    <td><strong>€___</strong></td>
+                </tr>
+            </table>
+            <p contenteditable="true" style="margin-top: 15px; font-size: clamp(13px, 1.2vw, 15px);"><strong>Ricavo per licenza:</strong> €25/mese | <strong>Margine:</strong> €___ | <strong>%:</strong> ___%</p>
+        </div>
+    </div>
+</div>
+
+<!-- === SLIDE 5: PRIORITA' 2 === -->
+<div class="slide">
+    <div class="slide-number">05</div>
+    <div class="slide-content">
+        <div class="card">
+            <h2 contenteditable="true">Priorità 2: Retention & Churn</h2>
+            <h3 contenteditable="true">Cosa manca: sai se i 4 clienti continueranno</h3>
+            <ul contenteditable="true">
+                <li><strong>Contatta i 4 clienti (lunedì):</strong> "Come state usando HACCP? Rinnoverete a fine anno?"</li>
+                <li><strong>Traccia uso settimanale:</strong> Nome cliente, ultima azione, data. Se >2 settimane = a rischio.</li>
+                <li><strong>Crea engagement:</strong> Chiamata, video custom, feature tailor-made. Trasformali da "app" a "consulente".</li>
+            </ul>
+            <p contenteditable="true" style="margin-top: 20px; font-weight: bold;">⏰ Tempo: 1 ora questa settimana (4 chiamate × 15 min ciascuna)</p>
+        </div>
+    </div>
+</div>
+
+<!-- === SLIDE 6: PRIORITA' 3 === -->
+<div class="slide">
+    <div class="slide-number">06</div>
+    <div class="slide-content">
+        <div class="card">
+            <h2 contenteditable="true">Priorità 3: Ruolo Organizzativo</h2>
+            <h3 contenteditable="true">Quando avrai 50+ clienti, chi gestisce support?</h3>
+            <ul contenteditable="true">
+                <li><strong>Non implementare adesso.</strong> Prepara per il futuro.</li>
+                <li><strong>Job description oggi:</strong> "Responsabile Onboarding & Support HACCP" — Onboarding clienti, email, feedback, training video, SOP.</li>
+                <li><strong>Documenta SOP di support (questa settimana):</strong> 5 step per cliente nuovo.</li>
+                <li><strong>Avvio:</strong> Quando avrai 20+ clienti (Q4 2026 probabilmente).</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- === SLIDE 7: PRIORITA' 4 === -->
+<div class="slide">
+    <div class="slide-number">07</div>
+    <div class="slide-content">
+        <div class="card">
+            <h2 contenteditable="true">Priorità 4: Product-Market Fit</h2>
+            <h3 contenteditable="true">Produci testimonial dai 4 clienti</h3>
+            <ul contenteditable="true">
+                <li><strong>Video 60-90 sec verticali</strong> (mobile-first): "Sono [nome], prima spendevo X minuti, adesso Y. Risparmio Z."</li>
+                <li><strong>Registra con telefono</strong> — audio ambiente ok, non perfetto.</li>
+                <li><strong>Social proof sheet:</strong> Screenshot chat WhatsApp (anonimizzati), numeri ("4 clienti in 20 giorni", "95% riduzione tempo").</li>
+            </ul>
+            <p contenteditable="true" style="margin-top: 20px; font-weight: bold;">📹 Azione questa settimana: Chiedi ai 4 clienti il video.</p>
+        </div>
+    </div>
+</div>
+
+<!-- === SLIDE 8: PRIORITA' 5 === -->
+<div class="slide">
+    <div class="slide-number">08</div>
+    <div class="slide-content">
+        <div class="card">
+            <h2 contenteditable="true">Priorità 5: Metriche di Funnel</h2>
+            <h3 contenteditable="true">Traccia settimana per settimana</h3>
+            <ul contenteditable="true">
+                <li>Prospect contattati (target: 25/sett)</li>
+                <li>Risposte WhatsApp % (target: 50%)</li>
+                <li>Appuntamenti demo (target: 5/sett)</li>
+                <li>Demo fatte (target: 5/sett)</li>
+                <li>Licenze chiuse (target: 2/sett)</li>
+                <li>Churn (target: 0)</li>
+            </ul>
+            <p contenteditable="true" style="margin-top: 20px;"><strong>Revisione settimanale 15 min (lunedì 9am):</strong> Antonio + Antonio Smaldini. "Cosa è andato bene? Cosa è bloccato? Cosa aggiustiamo?"</p>
+        </div>
+    </div>
+</div>
+
+<!-- === SLIDE 9: PRIORITA' 6 === -->
+<div class="slide">
+    <div class="slide-number">09</div>
+    <div class="slide-content">
+        <div class="card">
+            <h2 contenteditable="true">Priorità 6: Comunicazione Interna</h2>
+            <h3 contenteditable="true">Il team sa cosa sta succedendo?</h3>
+            <ul contenteditable="true">
+                <li><strong>Daily operativo (Slack/WhatsApp):</strong> 3 volte/sett (lunedì, mercoledì, venerdì). "Ieri ho contattato 20 prospect da [città]. Prossimo: [azione]."</li>
+                <li><strong>Riunione mentale 30 min ogni 15 giorni:</strong> Antonio, Vito, Antonio Smaldini. "Dove siamo? Cosa abbiamo imparato? Cosa ajustiamo?"</li>
+                <li><strong>NON decision-making.</strong> Solo awareness e alignment.</li>
+            </ul>
+            <p contenteditable="true" style="margin-top: 20px;">💬 Azione oggi: Crea Slack team (o WhatsApp). Primo messaggio: stato iniziale.</p>
+        </div>
+    </div>
+</div>
+
+<!-- === SLIDE 10: RIEPILOGO AZIONI === -->
+<div class="slide">
+    <div class="slide-number">10</div>
+    <div class="slide-content">
+        <div class="card">
+            <h2 contenteditable="true">Timeline Azioni (Prossimi 7 Giorni)</h2>
+            <table class="table-data">
+                <tr>
+                    <th>Giorno</th>
+                    <th>Azione</th>
+                    <th>Tempo</th>
+                </tr>
+                <tr>
+                    <td><strong>Lunedì</strong></td>
+                    <td>Calcola margine per licenza</td>
+                    <td>2h</td>
+                </tr>
+                <tr>
+                    <td><strong>Lunedì</strong></td>
+                    <td>Contatta 4 clienti (uso app, retention?)</td>
+                    <td>1h</td>
+                </tr>
+                <tr>
+                    <td><strong>Martedì</strong></td>
+                    <td>Richiedi video testimonial</td>
+                    <td>30 min</td>
+                </tr>
+                <tr>
+                    <td><strong>Mercoledì</strong></td>
+                    <td>Crea foglio tracciamento settimanale</td>
+                    <td>1h</td>
+                </tr>
+                <tr>
+                    <td><strong>Mercoledì</strong></td>
+                    <td>Crea comunicazione interna (Slack)</td>
+                    <td>30 min</td>
+                </tr>
+            </table>
+            <p contenteditable="true" style="margin-top: 15px; font-size: clamp(13px, 1.2vw, 15px;"><strong>Totale:</strong> ~8-9 ore in 7 giorni, distribuite. Niente crisi. Esecuzione.</p>
+        </div>
+    </div>
+</div>
+
+<!-- === SLIDE 11: PRINCIPIO HUBBARD === -->
+<div class="slide">
+    <div class="slide-number">11</div>
+    <div class="slide-content">
+        <div class="card">
+            <h2 contenteditable="true">Il Principio Chiave</h2>
+            <p contenteditable="true" style="font-size: clamp(16px, 2vw, 22px); line-height: 1.8; margin-top: 20px;">
+                <strong>"Se i numeri salgono, l'organizzazione regge.<br>Se i numeri crollano, c'è un problema interno."</strong>
+            </p>
+            <p contenteditable="true" style="margin-top: 30px;">Queste 6 priorità non riguardano il mercato (è vuoto, sei unico).<br>Riguardano se stai costruendo un'azienda solida.<br>Hubbard lo chiama "stabilità strutturale".</p>
+        </div>
+    </div>
+</div>
+
+<!-- === SLIDE 12: NEXT STEPS === -->
+<div class="slide">
+    <div class="slide-number">12</div>
+    <div class="slide-content">
+        <div class="card">
+            <h2 contenteditable="true">Prossimi Passi</h2>
+            <ul contenteditable="true">
+                <li>✅ Leggi questo piano d'azione almeno una volta.</li>
+                <li>✅ Condividi con Vito e Antonio Smaldini (lunedì mattina).</li>
+                <li>✅ Assegna le azioni (chi fa cosa, quando).</li>
+                <li>✅ Comincia lunedì mattina con il tracking finanziario.</li>
+                <li>✅ Traccia progress settimanale (il foglio di metriche).</li>
+            </ul>
+            <p contenteditable="true" style="margin-top: 30px; font-weight: bold;">Non è un documento di pianificazione strategica.<br>È una checklist operativa per i prossimi 7 giorni.</p>
+        </div>
+    </div>
+</div>
+
+<!-- === SLIDE 13: FINE === -->
+<div class="slide">
+    <div class="slide-number">13</div>
+    <div class="slide-content">
+        <div class="card">
+            <h1 contenteditable="true">Avanti!</h1>
+            <p contenteditable="true">HACCP Digitale è una soluzione reale a un problema reale.<br>Il mercato è tuo.<br><br>Ora fai sì che l'azienda interna regga quando cresci.</p>
+            <p contenteditable="true" style="margin-top: 40px; opacity: 0.7; font-size: clamp(12px, 1.2vw, 15px);">Nexvision S.r.l. | Agosto 2026</p>
+        </div>
+    </div>
+</div>
+
+<!-- === NAV DOTS === -->
+<div class="nav-dots" id="nav-dots"></div>
+<div class="edit-mode-badge">✏️ EDIT MODE</div>
+
+<!-- === JAVASCRIPT: NAVIGATION, EDIT MODE, INTERACTIVITY === -->
+<script>
+    const slides = document.querySelectorAll('.slide');
+    let currentSlide = 0;
+    let editModeEnabled = false;
+
+    // Initialize nav dots
+    function initNavDots() {
+        const container = document.getElementById('nav-dots');
+        slides.forEach((_, index) => {
+            const dot = document.createElement('div');
+            dot.className = 'dot' + (index === 0 ? ' active' : '');
+            dot.addEventListener('click', () => goToSlide(index));
+            container.appendChild(dot);
+        });
+    }
+
+    function goToSlide(n) {
+        currentSlide = (n + slides.length) % slides.length;
+        slides.forEach((slide, idx) => {
+            slide.style.display = idx === currentSlide ? 'flex' : 'none';
+        });
+        updateNavDots();
+    }
+
+    function updateNavDots() {
+        document.querySelectorAll('.dot').forEach((dot, idx) => {
+            dot.classList.toggle('active', idx === currentSlide);
+        });
+    }
+
+    function nextSlide() {
+        goToSlide(currentSlide + 1);
+    }
+
+    function prevSlide() {
+        goToSlide(currentSlide - 1);
+    }
+
+    // Keyboard navigation
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowRight' || e.key === ' ') nextSlide();
+        if (e.key === 'ArrowLeft') prevSlide();
+        if (e.key === 'e' || e.key === 'E') toggleEditMode();
+    });
+
+    // Mouse wheel / touch navigation
+    let lastScroll = 0;
+    document.addEventListener('wheel', (e) => {
+        const now = Date.now();
+        if (now - lastScroll < 500) return;
+        lastScroll = now;
+        e.deltaY > 0 ? nextSlide() : prevSlide();
+    }, { passive: true });
+
+    // Edit mode toggle
+    function toggleEditMode() {
+        editModeEnabled = !editModeEnabled;
+        document.body.classList.toggle('edit-mode-active', editModeEnabled);
+
+        if (editModeEnabled) {
+            // Enable contenteditable
+            document.querySelectorAll('[contenteditable]').forEach(el => {
+                el.contentEditable = 'true';
+            });
+            // Save to localStorage on change
+            document.querySelectorAll('[contenteditable]').forEach(el => {
+                el.addEventListener('input', saveToLocalStorage);
+            });
+        } else {
+            saveToLocalStorage();
+        }
+    }
+
+    function saveToLocalStorage() {
+        const data = {};
+        slides.forEach((slide, idx) => {
+            const content = {};
+            slide.querySelectorAll('[contenteditable]').forEach((el, elIdx) => {
+                content[elIdx] = el.innerHTML;
+            });
+            data[`slide-${idx}`] = content;
+        });
+        localStorage.setItem('presentation-data', JSON.stringify(data));
+    }
+
+    function loadFromLocalStorage() {
+        const data = localStorage.getItem('presentation-data');
+        if (!data) return;
+
+        const parsed = JSON.parse(data);
+        slides.forEach((slide, idx) => {
+            const slideData = parsed[`slide-${idx}`];
+            if (slideData) {
+                const editables = slide.querySelectorAll('[contenteditable]');
+                editables.forEach((el, elIdx) => {
+                    if (slideData[elIdx]) {
+                        el.innerHTML = slideData[elIdx];
+                    }
+                });
+            }
+        });
+    }
+
+    // Initialize
+    initNavDots();
+    goToSlide(0);
+    loadFromLocalStorage();
+
+    // Show first slide
+    slides[0].style.display = 'flex';
+</script>
+
+</body>
+</html>

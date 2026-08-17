@@ -3,7 +3,8 @@
     "allow": [
       "Bash(gh auth *)",
       "Bash(gh api *)",
-      "Bash(which gh *)"
+      "Bash(which gh *)",
+      "Bash(bash \"/Users/antoniomalatesta/Desktop/Second Brain/.claude/hooks/auto-push.sh\")"
     ]
   }
 }

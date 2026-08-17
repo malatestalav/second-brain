@@ -8,7 +8,7 @@ updated: 2026-08-15
 
 ## Settore di Riferimento
 
-**Somministrazione di alimenti e bevande** — ristorazione, baristica, hotellerie.
+**Somministrazione di alimenti e bevande:** ristorazione, baristica, hotellerie.
 
 Normativa europea obbliga ogni attività alimentare ad avere un sistema di autocontrollo HACCP (Hazard Analysis Critical Control Points) documentato. Fino ad oggi, questo è stato fatto solo su carta.
 
@@ -46,7 +46,7 @@ Attività di piccole-medie dimensioni:
 
 **Rischio:** Sanzioni pesanti se la documentazione è carente, illeggibile o incompleta durante un'ispezione.
 
-**La verità:** Non esiste legge che richieda carta. La normativa richiede solo che HACCP sia documentato e tracciabile. Digitale soddisfa completamente il requisito legale — ma il mercato non lo sa ancora.
+**La verità:** Non esiste legge che richieda carta. La normativa richiede solo che HACCP sia documentato e tracciabile. Digitale soddisfa completamente il requisito legale, ma il mercato non lo sa ancora.
 
 ## Cosa è Cambiato negli Ultimi 5-10 Anni
 
@@ -56,10 +56,12 @@ Attività di piccole-medie dimensioni:
 
 - **Consulenti HACCP tradizionali:** Vendono piani cartacei, accesso annuale, nessun supporto digitale
 - **Provider internazionali:** Software HACCP/food safety complessi, costi alti (€1000+/anno), pensati per catene/multinazionali, non per PMI
-- **Gestori** (B2B target): I ristoratori sono i buyer finali — consapevoli del problema ma non consapevoli che esiste una soluzione digitale semplice e affidabile
+- **Gestori** (B2B target): I ristoratori sono i buyer finali, consapevoli del problema ma non consapevoli che esiste una soluzione digitale semplice e affidabile
 
 ## Tendenze Normative
 
 - UE spinge per dematerializzazione documenti
 - Controlli ASL sempre più frequenti e rigorosi
 - Responsabilità penale e civile del titolare (non delegabile) per non-conformità
+
+<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator — ultima modifica: 2026-08-17T21:29:31Z</span>

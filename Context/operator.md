@@ -48,7 +48,7 @@ Focus principale: **Creazione e ottimizzazione dei funnel di acquisizione client
 
 - Canale principale: WhatsApp (l'unico usato attualmente per commerciale)
 - Velocità importante: risposte rapide, azioni concrete
-- Non usa ancora media/podcast/creator per reach — tutto manuale
+- Non usa ancora media/podcast/creator per reach: tutto manuale
 
 ## Strumenti e Accessi
 
@@ -63,3 +63,5 @@ Focus principale: **Creazione e ottimizzazione dei funnel di acquisizione client
 - Impatiente: lanciato prodotto in 20 giorni, velocità di esecuzione
 - Data-driven quando possibile (traccia metriche workflow)
 - Vuole sbagliare veloce e correggere subito
+
+<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator — ultima modifica: 2026-08-17T21:29:31Z</span>

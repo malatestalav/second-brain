@@ -1,0 +1,123 @@
+{
+  "vault_root": "./",
+  "discovered_at": "2026-08-15T00:00:00Z",
+  "folder_index_convention": {
+    "name": "CLAUDE.md",
+    "confidence": "high",
+    "evidence": "Ogni cartella principale ha un CLAUDE.md con routing e regole",
+    "coverage": 1.0
+  },
+  "roles": [
+    {
+      "name": "identity",
+      "path": "./Context/operator.md",
+      "kind": "file",
+      "layer": "curated",
+      "is_standard": true,
+      "confidence": "high",
+      "purpose": "Profilo operatore, autorità, responsabilità, modello di lavoro"
+    },
+    {
+      "name": "context",
+      "path": "./Context/",
+      "kind": "folder",
+      "layer": "curated",
+      "is_standard": true,
+      "confidence": "high",
+      "purpose": "Conoscenza canonica: organizzazione, strategia, brand, team, servizi, ICP"
+    },
+    {
+      "name": "projects",
+      "path": "./Projects/",
+      "kind": "folder",
+      "layer": "curated",
+      "is_standard": true,
+      "confidence": "high",
+      "purpose": "Unità di lavoro attive e recenti con ricerca, spec, bozze, note"
+    },
+    {
+      "name": "departments",
+      "path": "./Departments/",
+      "kind": "folder",
+      "layer": "curated",
+      "is_standard": false,
+      "confidence": "high",
+      "purpose": "Struttura organizzativa per dipartimento (Admin, Marketing, Distribuzione, Delivery)"
+    },
+    {
+      "name": "decisions",
+      "path": "./Intelligence/",
+      "kind": "folder",
+      "layer": "curated",
+      "is_standard": true,
+      "confidence": "high",
+      "purpose": "Processi, decisioni, log, meeting intelligence"
+    },
+    {
+      "name": "daily",
+      "path": "./Daily/",
+      "kind": "folder",
+      "layer": "session",
+      "is_standard": true,
+      "confidence": "high",
+      "purpose": "Voci di diario giornaliere (YYYY-MM-DD.md)"
+    },
+    {
+      "name": "team",
+      "path": "./Team/",
+      "kind": "folder",
+      "layer": "curated",
+      "is_standard": true,
+      "confidence": "high",
+      "purpose": "Profili persone (operatori, collaboratori, contractor), daily personali, task"
+    },
+    {
+      "name": "skills",
+      "path": "./Skills/",
+      "kind": "folder",
+      "layer": "curated",
+      "is_standard": true,
+      "confidence": "high",
+      "purpose": "Skill specifiche, playbook, SOP, referenze"
+    },
+    {
+      "name": "resources",
+      "path": "./Resources/",
+      "kind": "folder",
+      "layer": "curated",
+      "is_standard": true,
+      "confidence": "high",
+      "purpose": "Libreria di prompt, framework, template, reference material"
+    },
+    {
+      "name": "onboarding",
+      "path": "./Onboarding/",
+      "kind": "folder",
+      "layer": "curated",
+      "is_standard": true,
+      "confidence": "high",
+      "purpose": "Documenti di onboarding per persone"
+    },
+    {
+      "name": "library",
+      "path": "./Library/",
+      "kind": "folder",
+      "layer": "raw",
+      "is_standard": true,
+      "confidence": "high",
+      "purpose": "Raw materials: libri, articoli, PDF estratti, contenuto grezzo da digerire"
+    },
+    {
+      "name": "index",
+      "path": "./index.md",
+      "kind": "file",
+      "layer": "curated",
+      "is_standard": true,
+      "confidence": "high",
+      "purpose": "Wiki root index — punto di ingresso al vault"
+    }
+  ],
+  "missing_standard_roles": ["meetings", "transcripts", "archive"],
+  "low_confidence_roles": [],
+  "unconfirmed_custom_roles": []
+}

@@ -25,14 +25,14 @@ Centralizza tutti i manuali, schede e registri HACCP in un'unica piattaforma dig
 - Tracciamento audit completo
 
 **Chi lo acquista:**
-Gestori di attività di somministrazione alimentare — titolari, amministratori con potere decisionale e accesso al conto corrente.
+Gestori di attività di somministrazione alimentare: titolari, amministratori con potere decisionale e accesso al conto corrente.
 
 **Modalità di acquisto:**
 Licenza annuale
 
 **Prezzo attuale:** €300/anno per attività singola
 
-**Stato commerciale:** Attiva — 4 licenze vendute in 20 giorni
+**Stato commerciale:** Attiva, 4 licenze vendute in 20 giorni
 
 **Target di fatturato 2026:** 500 licenze = €150.000
 
@@ -58,3 +58,5 @@ Al momento non esplicito, ma opportunità evidenti:
 - Analytics predittive per tracciabilità
 - Multi-location dashboard per catene
 - Export/import automatico per audit
+
+<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator — ultima modifica: 2026-08-17T21:29:31Z</span>
