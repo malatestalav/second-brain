@@ -4,6 +4,7 @@ source: Library/pdfs/speak-to-sell-persuade-influence-an.md
 author: Dan Kennedy
 status: indexed
 tags: [marketing, business, dan-kennedy, public-speaking, vendita]
+date: 2026-08-18
 ---
 
 # Speak To Sell: Persuade, Influence, And Sell From The Platform

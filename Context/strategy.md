@@ -2,12 +2,13 @@
 type: context
 tags: [strategy, okrs, goals]
 last_reviewed: 2026-08-15
+status: active
 ---
 
 # Strategia e OKR
 
 ## Missione Aziendale
-Semplificare i processi aziendali in un ristorante — specificamente, liberare i ristoratori dalla tortura della gestione cartacea HACCP.
+Semplificare i processi aziendali in un ristorante . specificamente, liberare i ristoratori dalla tortura della gestione cartacea HACCP.
 
 ## Obiettivi Annuali (2026)
 
@@ -38,7 +39,7 @@ Semplificare i processi aziendali in un ristorante — specificamente, liberare 
 
 ---
 
-## Focus Trimestrale (Q3 2026 — Resto di Agosto + Settembre + Ottobre)
+## Focus Trimestrale (Q3 2026: Resto di Agosto + Settembre + Ottobre)
 
 | Priorità | Perché | Proprietario | Risultato Chiave | Stato |
 |----------|-----|-------|------------|--------|
@@ -51,19 +52,19 @@ Semplificare i processi aziendali in un ristorante — specificamente, liberare 
 
 ## Revisione Trimestre Precedente (N/A)
 
-Azienda lanciata il 26 luglio 2026 — meno di 30 giorni. Niente trimestre precedente da rivedere.
+Azienda lanciata il 26 luglio 2026 . meno di 30 giorni. Niente trimestre precedente da rivedere.
 
 ---
 
 ## Metriche da Tracciare Settimanale
 
-1. **Prospect contattati** — Lista lavorata
-2. **Risposte ottenute** — Tasso di apertura/risposta WhatsApp
-3. **Appuntamenti fissati** — Conversion contatto → app
-4. **Video guardati** — Engagement pre-visita (confermato da risposta post-video)
-5. **Appuntamenti rispettati** — % senza no-show
-6. **Demo fatte** — Qualità incontro
-7. **Licenze chiuse** — Fatturato settimanale
+1. **Prospect contattati** . Lista lavorata
+2. **Risposte ottenute** . Tasso di apertura/risposta WhatsApp
+3. **Appuntamenti fissati** . Conversion contatto → app
+4. **Video guardati** . Engagement pre-visita (confermato da risposta post-video)
+5. **Appuntamenti rispettati** . % senza no-show
+6. **Demo fatte** . Qualità incontro
+7. **Licenze chiuse** . Fatturato settimanale
 
 Revisione settimanale di 15 minuti tra Antonio e Antonio Smaldini per correggere territorio, script, approccio.
 

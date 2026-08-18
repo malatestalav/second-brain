@@ -6,9 +6,8 @@ status: active
 employment: full-time
 relationship: Cugino di Antonio Malatesta
 updated: 2026-08-15
+tags: [profile, co-founder, team]
 ---
-
-# Vito Romano
 
 **Titolo:** Socio, HACCP Digitale (Nexvision S.r.l.)
 
@@ -20,7 +19,7 @@ updated: 2026-08-15
 
 ## Background
 
-Socio e cugino di Antonio. Coinvolto fin dall'inizio nella fondazione di HACCP Digitale. Bilancia i tempi di Antonio — mentre Antonio si concentra su marketing e strategia, Vito stabilizza le operazioni.
+Socio e cugino di Antonio. Coinvolto fin dall'inizio nella fondazione di HACCP Digitale. Bilancia i tempi di Antonio . mentre Antonio si concentra su marketing e strategia, Vito stabilizza le operazioni.
 
 ## Responsabilità Attuale
 

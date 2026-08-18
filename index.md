@@ -1,3 +1,9 @@
+---
+type: index
+status: active
+tags: [wiki, index]
+---
+
 # Wiki Index
 
 Catalogo content-oriented del wiki. Layer 2 del pattern [LLM Wiki](https://github.com/karpathy/llm-wiki). Aggiornato dall'AI a ogni `/ingest` o quando una pagina wiki viene creata/modificata.
@@ -139,4 +145,4 @@ Pagine con molti backlink (entità/concetti centrali). L'AI le aggiorna man mano
 
 <!-- Pagine spostate in Intelligence/archive/ ma ancora referenziabili -->
 
-<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator — ultima modifica: 2026-08-18T00:30:00Z</span>
+<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator . ultima modifica: 2026-08-18T00:30:00Z</span>

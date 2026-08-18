@@ -2,6 +2,7 @@
 type: context
 tags: [customer-pain, problems]
 updated: 2026-08-15
+status: active
 ---
 
 # Pain Point Clienti
@@ -66,4 +67,4 @@ Con HACCP Digitale:
 - **Master dashboard:** Titolare vede tutto in tempo reale. Zero ricerca nei faldoni. Zero compilazioni ritardate. Zero stress.
 - **Real-time compliance:** La conformità non è un evento ogni 3 mesi, è un costante dello stato operativo.
 
-<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator — ultima modifica: 2026-08-17T21:29:31Z</span>
+<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator . ultima modifica: 2026-08-17T21:29:31Z</span>

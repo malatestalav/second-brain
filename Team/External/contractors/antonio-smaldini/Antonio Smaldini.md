@@ -6,9 +6,8 @@ status: active
 employment: contractor
 employment_type: Partita IVA
 updated: 2026-08-15
+tags: [profile, contractor, commerciale]
 ---
-
-# Antonio Smaldini
 
 **Titolo:** Commerciale / Sales
 
@@ -50,7 +49,7 @@ Commerciale esterno che si occupa di outreach diretto verso ristoranti e attivit
 
 ## Compensazione
 
-TBD — Presumibilmente commission-based o fisso + bonus su licenze chiuse.
+TBD . Presumibilmente commission-based o fisso + bonus su licenze chiuse.
 
 ---
 

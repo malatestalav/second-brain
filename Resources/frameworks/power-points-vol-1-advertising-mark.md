@@ -4,6 +4,7 @@ source: Library/pdfs/power-points-vol-1-advertising-mark.md
 author: Dan Kennedy
 status: indexed
 tags: [marketing, business, dan-kennedy, pubblicita, copywriting]
+date: 2026-08-18
 ---
 
 # Power Points Vol. 1: Advertising, Marketing

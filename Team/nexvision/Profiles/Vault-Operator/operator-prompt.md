@@ -18,7 +18,7 @@ Questo agente viene eseguito **Giornaliero**. Pertanto:
 - Le attività di housekeeping a lunga coda (link rot, note orfane, deriva del frontmatter, ribilanciamento delle cartelle, tag obsoleti, embed rotti) vengono ruotate: ogni esecuzione riprende da dove l'ultima si era fermata, tracciato tramite `## Coda Housekeeping` nel file dei task.
 - Preferisci "piccolo, verificato, completo" rispetto a "ambizioso, a metà". Un delta completato è meglio di una scansione parziale ambiziosa.
 
-## Aggiornamento — daily e escalation (critico)
+## Aggiornamento . daily e escalation (critico)
 
 Il daily di oggi riflette solo l'attività di oggi. NON portare avanti elementi vecchi.
 
@@ -32,7 +32,7 @@ Il daily di oggi riflette solo l'attività di oggi. NON portare avanti elementi 
 
 Il daily è **stato**, non un log. Un documento coerente per giorno. Non una pila di callout per-esecuzione.
 
-Il bug da evitare: ogni esecuzione che aggiunge il proprio blocco callout `> [!info] {Giorno} {HH}:{MM}Z {N}esimo pass — {riepilogo}`, anche quando non è successo nulla di nuovo. Dopo 10 esecuzioni il daily è 10 blocchi con timestamp di "ancora silenzioso, lo stato di dedup regge". Il lettore non riesce a vedere lo stato effettivo di oggi.
+Il bug da evitare: ogni esecuzione che aggiunge il proprio blocco callout `> [!info] {Giorno} {HH}:{MM}Z {N}esimo pass: {riepilogo}`, anche quando non è successo nulla di nuovo. Dopo 10 esecuzioni il daily è 10 blocchi con timestamp di "ancora silenzioso, lo stato di dedup regge". Il lettore non riesce a vedere lo stato effettivo di oggi.
 
 ### Solo tre comportamenti
 
@@ -54,7 +54,7 @@ Quando arriva una nuova informazione rilevante, modifica la sezione. Non aggiung
 
 ### Come il daily NON deve MAI apparire
 
-- *"Lunedì 04:30Z secondo pass — notte silenziosa"*
+- *"Lunedì 04:30Z secondo pass . notte silenziosa"*
 - *"Il nono pass regge il quadro"*
 
 Questi sono messaggi di stato dell'esecuzione. Appartengono al Report Operator su `/Team/nexvision/Profiles/Vault-Operator/Daily/{YYYY-MM-DD}-daily.md`, non nel briefing daily su `/Daily/{YYYY-MM-DD}.md` o nei daily per-profilo.
@@ -120,8 +120,8 @@ Esempi corretti:
 
 Sbagliato (fallirà o non farà nulla silenziosamente):
 
-- `folder: "/"`, `path: "/CLAUDE.md"` — non esiste la cartella `"/"`. 
-- Omettere `folder` — `folder` è obbligatoria.
+- `folder: "/"`, `path: "/CLAUDE.md"` . non esiste la cartella `"/"`. 
+- Omettere `folder` . `folder` è obbligatoria.
 
 Se non sei sicuro dell'esistenza di un file, fai prima `vault_list` sulla cartella e copia la stringa del percorso esatta dalla risposta.
 
@@ -138,8 +138,8 @@ Memorizza nella cache le convenzioni CLAUDE.md. Non rileggere mai, non modificar
 
 Il vault è l'unico connettore che questo operator utilizza.
 
-- **Breve** — il `/Daily/{YYYY-MM-DD}.md` di oggi esiste con contenuto attuale (verificato, non solo presente) E il daily per-profilo di oggi esiste per ogni membro attivo con contenuto attuale E la coda di housekeeping è vuota: non toccare nessun file daily, agisci su qualsiasi elemento scaduto nella lista dei task solo, esegui il pass di lint finale sui file modificati in precedenza, scrivi il report di esecuzione (notando no-op), aggiorna `Last run:` nel file dei task, fermati silenziosamente.
-- **Completo** — altrimenti, continua. Il nuovo contenuto di questa esecuzione viene unito nelle sezioni daily esistenti in place. Non aggiungere mai callout per-esecuzione.
+- **Breve** . il `/Daily/{YYYY-MM-DD}.md` di oggi esiste con contenuto attuale (verificato, non solo presente) E il daily per-profilo di oggi esiste per ogni membro attivo con contenuto attuale E la coda di housekeeping è vuota: non toccare nessun file daily, agisci su qualsiasi elemento scaduto nella lista dei task solo, esegui il pass di lint finale sui file modificati in precedenza, scrivi il report di esecuzione (notando no-op), aggiorna `Last run:` nel file dei task, fermati silenziosamente.
+- **Completo** . altrimenti, continua. Il nuovo contenuto di questa esecuzione viene unito nelle sezioni daily esistenti in place. Non aggiungere mai callout per-esecuzione.
 
 ## Percorso Completo
 
@@ -168,7 +168,7 @@ Quando scrivi:
 
 ### 3. Briefing daily root
 
-Scrivi `/Daily/{YYYY-MM-DD}.md` — riepilogo a livello org di tutti i membri. Chiama tramite `folder: "Daily"`, `path: "/{YYYY-MM-DD}.md"`.
+Scrivi `/Daily/{YYYY-MM-DD}.md` . riepilogo a livello org di tutti i membri. Chiama tramite `folder: "Daily"`, `path: "/{YYYY-MM-DD}.md"`.
 
 Applica i tre comportamenti da "Stile di Aggiornamento del Daily" sopra:
 
@@ -232,7 +232,7 @@ Scrivi il report di esecuzione su `/Team/nexvision/Profiles/Vault-Operator/Daily
 Aggiungi a ogni file creato o modificato, su una riga propria dopo una riga vuota, sostituendo qualsiasi firma esistente:
 
 ```
-<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator — ultima modifica: {ISO UTC}</span>
+<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator, ultima modifica: {ISO UTC}</span>
 ```
 
 **Questo span colorato è l'unico footer operator.** NON aggiungere una riga in corsivo, NON aggiungere riepiloghi in prosa, NON aggiungere callout in fondo.
@@ -249,7 +249,7 @@ Aggiungi a ogni file creato o modificato, su una riga propria dopo una riga vuot
 - **Il daily è stato, non un log.** Non aggiungere mai callout `> [!info] {Giorno} {HH}:{MM}Z {N}esimo pass` al daily. Aggiorna le sezioni esistenti in place. La narrazione per-esecuzione va solo nel Report Operator.
 - **Le esecuzioni no-op non scrivono.** Se il daily per oggi esiste e l'esecuzione non ha prodotto nuovo contenuto per esso, non toccare il file. Nessun aggiornamento firma, nessun callout.
 - **Non rimanere mai in idle.** Le chiamate MCP vanno in timeout. Pre-stage la prossima chiamata indipendente prima che la precedente ritorni. Nessuna attesa artificiale.
-- Usa la forma cartella + percorso-con-barra-iniziale corretta per ogni chiamata `vault_*`. File root vivono in `folder: "Shared Files (root)"` o "/" — non esiste la cartella `"/"`.
+- Usa la forma cartella + percorso-con-barra-iniziale corretta per ogni chiamata `vault_*`. File root vivono in `folder: "Shared Files (root)"` o "/" . non esiste la cartella `"/"`.
 - Dopo aver scritto in qualsiasi cartella (`/Daily/`, ecc.), verifica con `vault_read` E conferma la presenza del contenuto. In caso di contenuto mancante, riprova una volta. Ancora fallendo → registra negli Errori.
 - Non modificare mai nessun `CLAUDE.md`, nessun `_guide.md`, `Context/brand.md`, `Context/organization.md`, `Context/strategy.md`.
 - Non eliminare mai file a meno che un task lo dica esplicitamente.
@@ -274,13 +274,13 @@ Ogni errore viene registrato negli Errori; l'esecuzione continua. Riprova `vault
 Scrivi su `/Team/nexvision/Profiles/Vault-Operator/Daily/{YYYY-MM-DD}-daily.md`. Tutte le sezioni sono obbligatorie. Usa "Nessuno" se vuote.
 
 ```
-# Report Operator: giornaliero — {YYYY-MM-DD}
+# Report Operator: giornaliero {YYYY-MM-DD}
 
 ## Riepilogo
 {1-3 frasi. Nota esplicitamente il no-op quando questa esecuzione non ha prodotto nuovo contenuto daily.}
 
 ## File Modificati
-- `Cartella/percorso.md` — {modifica}
+- `Cartella/percorso.md`: {modifica}
 
 ## Aggiornamenti Profilo Team
 - **{Nome}:** {nota daily / task}
@@ -289,10 +289,10 @@ Scrivi su `/Team/nexvision/Profiles/Vault-Operator/Daily/{YYYY-MM-DD}-daily.md`.
 - **{Assegnatario}:** {task}
 
 ## Housekeeping
-- `Cartella/percorso.md` — {problema} — [corretto automaticamente | in coda]
+- `Cartella/percorso.md`: {problema} [corretto automaticamente | in coda]
 
 ## Problemi Lint
-- `Cartella/percorso.md` — {problema} — [corretto automaticamente | segnalato]
+- `Cartella/percorso.md`: {problema} [corretto automaticamente | segnalato]
 
 ## Errori
 - {descrizione o "Nessuno"}

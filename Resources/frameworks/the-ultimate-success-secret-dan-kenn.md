@@ -4,6 +4,7 @@ source: Library/pdfs/the-ultimate-success-secret-dan-kenn.md
 author: Dan S. Kennedy
 status: indexed
 tags: [marketing, business, dan-kennedy, mindset, azione]
+date: 2026-08-18
 ---
 
 # The Ultimate Success Secret
@@ -12,7 +13,7 @@ Booklet conciso (71 pagine) che riduce decine di teorie sul successo a un solo p
 
 ## Argomenti Principali
 
-- **Azione come unico vero segreto:** a differenza di Napoleon Hill (tredici principi) o Stephen Covey (sette abitudini), [[Dan Kennedy|Kennedy]] riduce tutto a un singolo fattore comportamentale: agire subito, senza aspettare condizioni perfette.
+- **Azione come unico vero segreto:** a differenza di Napoleon Hill (tredici principi) o Stephen Covey (sette abitudini), [[dan-kennedy|Kennedy]] riduce tutto a un singolo fattore comportamentale: agire subito, senza aspettare condizioni perfette.
 - **La formula Controllo = Responsabilità:** ogni volta che si incolpa un fattore esterno (economia, concorrenza, capo), si cede una quota di controllo sulla propria vita o business.
 - **Storie di persone che hanno rifiutato la "prigione" dell'handicap:** aneddoti concreti (un uomo su sedia a rotelle, un venditore cieco) usati per mostrare che la disabilità non spiega il fallimento, la scelta di agire sì.
 - **La Miracle Formula:** confronto tra due imprenditori quasi identici, uno che cresce e uno che ristagna, per isolare la variabile comportamentale che fa la differenza.

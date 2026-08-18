@@ -1,6 +1,8 @@
 ---
 type: skill-example
 skill: newsletter-writer
+status: active
+tags: [skill, newsletter, reference]
 ---
 
 # Edizione di Esempio
@@ -17,4 +19,4 @@ skill: newsletter-writer
 
 ## Perché È Buona
 
-<!-- Spiega cosa rende efficace questa edizione. Esempi: "Ottimo oggetto — mi ha fatto aprire subito", "Lunghezza perfetta per una lettura settimanale", "L'aneddoto personale nell'intro la rende umana". -->
+<!-- Spiega cosa rende efficace questa edizione. Esempi: "Ottimo oggetto . mi ha fatto aprire subito", "Lunghezza perfetta per una lettura settimanale", "L'aneddoto personale nell'intro la rende umana". -->

@@ -4,11 +4,12 @@ source: Library/pdfs/magnetic-marketing-how-to-attract-a-f-pdfgear-com.md
 author: Dan S. Kennedy
 status: indexed
 tags: [marketing, business, dan-kennedy, direct-response, positioning]
+date: 2026-08-18
 ---
 
 # Magnetic Marketing: How To Attract A Flood Of New Customers
 
-Il manifesto fondativo del sistema di [[Dan Kennedy|Dan S. Kennedy]]: smettere di "cacciare" clienti con branding e immagine, e costruire invece un sistema che li attrae magneticamente attraverso un'offerta specifica rivolta a un pubblico specifico.
+Il manifesto fondativo del sistema di [[dan-kennedy|Dan S. Kennedy]]: smettere di "cacciare" clienti con branding e immagine, e costruire invece un sistema che li attrae magneticamente attraverso un'offerta specifica rivolta a un pubblico specifico.
 
 ## Argomenti Principali
 

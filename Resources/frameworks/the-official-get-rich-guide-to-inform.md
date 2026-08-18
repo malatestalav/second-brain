@@ -4,11 +4,12 @@ source: Library/pdfs/the-official-get-rich-guide-to-inform.md
 author: Robert Skrob e Bob Regnerus (prefazione di Dan S. Kennedy)
 status: indexed
 tags: [marketing, business, dan-kennedy, info-marketing, internet-marketing]
+date: 2026-08-18
 ---
 
 # The Official Get Rich Guide to Information Marketing
 
-Piano pratico per costruire o far crescere un business di vendita di informazioni (ebook, membership, corsi) sfruttando internet, scritto da Robert Skrob e Bob Regnerus con la prefazione e l'endorsement diretto di [[Dan Kennedy]].
+Piano pratico per costruire o far crescere un business di vendita di informazioni (ebook, membership, corsi) sfruttando internet, scritto da Robert Skrob e Bob Regnerus con la prefazione e l'endorsement diretto di [[dan-kennedy|Dan Kennedy]].
 
 ## Argomenti Principali
 

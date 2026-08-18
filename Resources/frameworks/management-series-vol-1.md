@@ -4,9 +4,10 @@ source: Library/books/serie-sul-management-vol-1.docx
 author: L. Ron Hubbard
 status: indexed
 tags: [management, marketing, admin, pr, communication, framework]
+date: 2026-08-15
 ---
 
-# Management Series Vol. 1 — PR, Marketing, Admin Know-How
+# Management Series Vol. 1: PR, Marketing, Admin Know-How
 
 Framework fondamentale sulla gestione aziendale, focalizzato su pubbliche relazioni, marketing e amministrazione.
 

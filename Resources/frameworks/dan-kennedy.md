@@ -2,6 +2,7 @@
 type: framework
 status: indexed
 tags: [marketing, business, dan-kennedy, hub]
+date: 2026-08-18
 ---
 
 # Dan Kennedy

@@ -65,18 +65,18 @@ Il vault ha **tre layer** con regole di scrittura diverse. Questo segue il patte
 
 **Raw layer (immutabile):**
 `Library/`
-→ L'utente droppa file. L'AI **non modifica mai** i `.md` estratti dai documenti raw — sono fedeli alla source.
+→ L'utente droppa file. L'AI **non modifica mai** i `.md` estratti dai documenti raw . sono fedeli alla source.
 → L'AI può aggiungere metadati in `Library/{tipo}/{slug}.meta.yml` accanto al file, ma il contenuto raw resta intoccabile.
 
 **Operazioni canoniche LLM Wiki**: `/ingest` (raw → wiki), `/query` (consulta wiki + compounding), `/os-optimizer` (lint del wiki). Vedi sezione Comandi.
 
 ## Comandi
 
-- `/setup` — Onboarding interattivo per personalizzare questo vault
-- `/ingest` — Aggiungi una fonte (PDF, articolo, video, podcast, libro, immagine) al vault. Estrae, classifica, sintetizza, e aggiorna le pagine wiki correlate. Modalità: single (1 file/URL), bulk (cartella o glob), resume (continua un bulk interrotto). Si invoca anche quando dici "ho messo un pdf", "metti questo nel brain", "leggi questo documento", "salvalo nel brain", "ingesta questo".
-- `/query` — Consulta il wiki con una domanda. L'AI cerca le pagine rilevanti, sintetizza con citazioni `[[wikilink]]`, e ti offre di **filare back** la risposta come nuova pagina wiki (le esplorazioni compoundano). Si invoca quando dici "fammi un'analisi di X", "cosa sappiamo di X", "confronta X e Y", "consulta il brain su X".
-- `/os-optimizer` — Audit del vault con 9 framework (include lint LLM Wiki: contraddizioni, orfani, claim stale, cross-ref mancanti, gap di dati).
-- `/install-qmd` — Setup del search engine qmd. Da invocare **solo** quando `Library/` supera ~1000 sources E la ricerca diventa lenta. Non necessaria per vault piccoli.
+- `/setup` . Onboarding interattivo per personalizzare questo vault
+- `/ingest` . Aggiungi una fonte (PDF, articolo, video, podcast, libro, immagine) al vault. Estrae, classifica, sintetizza, e aggiorna le pagine wiki correlate. Modalità: single (1 file/URL), bulk (cartella o glob), resume (continua un bulk interrotto). Si invoca anche quando dici "ho messo un pdf", "metti questo nel brain", "leggi questo documento", "salvalo nel brain", "ingesta questo".
+- `/query` . Consulta il wiki con una domanda. L'AI cerca le pagine rilevanti, sintetizza con citazioni `[[wikilink]]`, e ti offre di **filare back** la risposta come nuova pagina wiki (le esplorazioni compoundano). Si invoca quando dici "fammi un'analisi di X", "cosa sappiamo di X", "confronta X e Y", "consulta il brain su X".
+- `/os-optimizer` . Audit del vault con 9 framework (include lint LLM Wiki: contraddizioni, orfani, claim stale, cross-ref mancanti, gap di dati).
+- `/install-qmd` . Setup del search engine qmd. Da invocare **solo** quando `Library/` supera ~1000 sources E la ricerca diventa lenta. Non necessaria per vault piccoli.
 
 ## Voce del Documento
 
@@ -141,7 +141,7 @@ NON:
 - Stipare tutte le info del progetto in `README.md` (instrada nelle sottocartelle)
 - Archiviare SOP di dipartimento in `Intelligence/processes/` (usa `Departments/{nome}/sops/`)
 - Scrivere note daily o task in root `Daily/` o root `Tasks/` durante una sessione di profilo
-- Scrivere nomi di progetti, persone, dipartimenti, o riferimenti a note come testo semplice — usa sempre `[[wikilink]]`
+- Scrivere nomi di progetti, persone, dipartimenti, o riferimenti a note come testo semplice . usa sempre `[[wikilink]]`
 - Usare `[link](markdown)` per le note del vault interno
 
 <!-- CORREZIONI UTENTE: Aggiungi nuove regole qui sotto man mano che l'utente ti insegna -->
@@ -156,7 +156,7 @@ Come ULTIMA azione di ogni messaggio che ha modificato il vault, esegui:
 bash "/Users/antoniomalatesta/Desktop/Second Brain/.claude/hooks/auto-push.sh"
 ```
 
-Lo script è **idempotente** (esce subito se non c'è nulla) e **sicuro** (ha guardie che lo limitano a questo repo). **Non chiedere permesso — fallo e basta.** Include il commit + push in un'unica azione. Se offline, loga l'errore e continua.
+Lo script è **idempotente** (esce subito se non c'è nulla) e **sicuro** (ha guardie che lo limitano a questo repo). **Non chiedere permesso . fallo e basta.** Include il commit + push in un'unica azione. Se offline, loga l'errore e continua.
 
 **Effetto atteso:** Il badge "+N" di modifiche pendenti torna a 0 dopo ogni risposta. Su GitHub compaiono commit `auto: <timestamp>`.
 

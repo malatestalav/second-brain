@@ -1,9 +1,11 @@
 ---
 type: skill-reference
 skill: linkedin-writer
+status: active
+tags: [skill, linkedin]
 ---
 
-# LinkedIn Writer — Note
+# LinkedIn Writer: Note
 
 ## Voce e Tono
 

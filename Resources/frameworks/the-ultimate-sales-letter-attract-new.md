@@ -4,6 +4,7 @@ source: Library/pdfs/the-ultimate-sales-letter-attract-new.md
 author: Dan S. Kennedy
 status: indexed
 tags: [marketing, business, dan-kennedy, copywriting, direct-response]
+date: 2026-08-18
 ---
 
 # The Ultimate Sales Letter
@@ -13,7 +14,7 @@ Sistema step-by-step in 28 passaggi per scrivere lettere di vendita che vengono 
 ## Argomenti Principali
 
 - **Il Sistema Kennedy in 28 step:** dal capire davvero il cliente ("Get 'into' the Customer") fino alla spedizione ("Mail!"), passando per bozza, riscrittura per strategia, riscrittura per stile, revisione grafica e pretest.
-- **Dodici formule di headline:** l'headline decide se la lettera viene letta o cestinata, ed è il punto su cui [[Dan Kennedy|Kennedy]] insiste di più.
+- **Dodici formule di headline:** l'headline decide se la lettera viene letta o cestinata, ed è il punto su cui [[dan-kennedy|Kennedy]] insiste di più.
 - **Ammissione di un difetto ("damaging admission"):** dichiarare apertamente un limite del prodotto per costruire credibilità immediata, prima ancora di vendere.
 - **Gestione di prezzo e obiezioni:** un passaggio dedicato a "beat the price bugaboo", cioè disinnescare l'obiezione sul prezzo prima che il lettore la sollevi.
 - **Sales letter per web e sequenze:** capitoli aggiunti nella 3° edizione su copy per siti e sul potere di una sequenza di lettere invece di un unico invio.

@@ -4,6 +4,7 @@ source: Library/pdfs/no-b-s-direct-marketing-dan-s-kenn.md
 author: Dan S. Kennedy
 status: indexed
 tags: [marketing, business, dan-kennedy, direct-response, copywriting]
+date: 2026-08-18
 ---
 
 # No B.S. Direct Marketing (for Non-Direct Marketing Businesses)

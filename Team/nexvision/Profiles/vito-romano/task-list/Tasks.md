@@ -2,6 +2,8 @@
 type: task-list
 person: Vito Romano
 updated: 2026-08-15
+status: active
+tags: [task-list, vito-romano]
 ---
 
 # Task di Vito Romano

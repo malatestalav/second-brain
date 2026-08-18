@@ -1,6 +1,8 @@
 ---
 type: skill-example
 skill: linkedin-writer
+status: active
+tags: [skill, linkedin, reference]
 ---
 
 # Post di Esempio

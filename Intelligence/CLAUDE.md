@@ -1,4 +1,4 @@
-Questa cartella contiene la conoscenza organizzativa: meeting, concorrenti, intelligence di mercato, decisioni, processi, archivio. Insieme a `Resources/`, costituisce il **wiki layer** (Layer 2 LLM Wiki) — LLM-owned per le sotto-cartelle di conoscenza pura.
+Questa cartella contiene la conoscenza organizzativa: meeting, concorrenti, intelligence di mercato, decisioni, processi, archivio. Insieme a `Resources/`, costituisce il **wiki layer** (Layer 2 LLM Wiki) . LLM-owned per le sotto-cartelle di conoscenza pura.
 
 > [!important] Ownership
 > - `meetings/` → user-owned (sono note operative, scritte durante/dopo i meeting)

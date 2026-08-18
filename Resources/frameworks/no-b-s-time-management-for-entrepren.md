@@ -4,11 +4,12 @@ source: Library/pdfs/no-b-s-time-management-for-entrepren.md
 author: Dan Kennedy
 status: indexed
 tags: [marketing, business, dan-kennedy, produttivita, time-management]
+date: 2026-08-18
 ---
 
 # No B.S. Time Management for Entrepreneurs: The Ultimate No Holds Barred Kick Butt Guide to Time Productivity & Sanity
 
-Manuale di gestione del tempo scritto specificamente per l'imprenditore multitasking, non per l'impiegato da scrivania: [[Dan Kennedy]] tratta il tempo come l'unico asset veramente scarso e insegna a difenderlo con misure che lui stesso definisce radicali.
+Manuale di gestione del tempo scritto specificamente per l'imprenditore multitasking, non per l'impiegato da scrivania: [[dan-kennedy|Dan Kennedy]] tratta il tempo come l'unico asset veramente scarso e insegna a difenderlo con misure che lui stesso definisce radicali.
 
 ## Argomenti Principali
 

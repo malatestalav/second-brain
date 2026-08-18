@@ -4,9 +4,10 @@ source: Library/books/serie-sul-management-vol-2.docx
 author: L. Ron Hubbard
 status: indexed
 tags: [management, organization, roles, functions, stability, framework]
+date: 2026-08-15
 ---
 
-# Management Series Vol. 2 — Il Responsabile Organizzativo
+# Management Series Vol. 2: Il Responsabile Organizzativo
 
 Framework sulla stabilizzazione strutturale aziendale, focalizzato su ruoli organizzativi, funzioni, e il ruolo del **Responsabile Organizzativo**.
 
@@ -22,7 +23,7 @@ Il **Responsabile Organizzativo** è una figura organizzativa dedicata a stabili
 
 2. **Ruoli Chiari**: Ogni persona deve fare esattamente la sua funzione. Nessuna sovrapposizione, nessuna lacuna.
 
-3. **Non Sostituzione**: Il Responsabile Organizzativo è un'**estensione** del sistema, non un sostituto. Non togliere chi cura l'organizzazione di un reparto per farne il Responsabile Organizzativo — sarebbe un disastro.
+3. **Non Sostituzione**: Il Responsabile Organizzativo è un'**estensione** del sistema, non un sostituto. Non togliere chi cura l'organizzazione di un reparto per farne il Responsabile Organizzativo . sarebbe un disastro.
 
 4. **Scopo**: Stabilire e mantenere l'assetto organizzativo.
 

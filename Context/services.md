@@ -2,6 +2,7 @@
 type: context
 tags: [services, products]
 updated: 2026-08-15
+status: active
 ---
 
 # Servizi e Prodotti
@@ -59,4 +60,4 @@ Al momento non esplicito, ma opportunità evidenti:
 - Multi-location dashboard per catene
 - Export/import automatico per audit
 
-<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator — ultima modifica: 2026-08-17T21:29:31Z</span>
+<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator . ultima modifica: 2026-08-17T21:29:31Z</span>

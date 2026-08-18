@@ -4,11 +4,12 @@ source: Library/pdfs/no-b-s-guide-to-direct-response-soci.md
 author: Dan Kennedy, Kim Walsh-Phillips
 status: indexed
 tags: [marketing, business, dan-kennedy, social-media, direct-response]
+date: 2026-08-18
 ---
 
 # No B.S. Guide to Direct Response Social Media Marketing
 
-Applica i principi classici del direct response marketing ai social media, respingendo l'idea che "mi piace" e follower siano indicatori di successo: [[Dan Kennedy]] e [[Kim Walsh-Phillips]] insistono che l'unica metrica che conta è il ritorno economico misurabile.
+Applica i principi classici del direct response marketing ai social media, respingendo l'idea che "mi piace" e follower siano indicatori di successo: [[dan-kennedy|Dan Kennedy]] e [[kim-walsh-phillips|Kim Walsh-Phillips]] insistono che l'unica metrica che conta è il ritorno economico misurabile.
 
 ## Argomenti Principali
 

@@ -8,21 +8,21 @@ Raw layer del vault. Documenti grezzi che l'utente droppa: PDF, articoli web, vi
 2. **L'AI non scrive qui spontaneamente.** I file entrano solo via `/ingest` o drop manuale dell'utente.
 3. **Naming slug-kebab.** Nome file: `{slug-kebab-case}.{ext}`. Niente spazi, niente caratteri speciali, lowercase. Es. `ferrari-regulatory-2026-q1.pdf`, non `Ferrari Regulatory 2026 Q1.pdf`.
 4. **Tripletta per file.** Per ogni source `Library/{tipo}/{slug}.{ext}` esistono fianco a fianco:
-   - `{slug}.{ext}` — l'originale immutabile
-   - `{slug}.md` — testo estratto (pdftotext, transcript, markdown da web clipper)
-   - `{slug}.meta.yml` — metadati: hash, autore, data, source URL, status (`ingested` / `pending`), tags
+ - `{slug}.{ext}` . l'originale immutabile
+ - `{slug}.md` . testo estratto (pdftotext, transcript, markdown da web clipper)
+ - `{slug}.meta.yml` . metadati: hash, autore, data, source URL, status (`ingested` / `pending`), tags
 
 ## Struttura
 
 ```
 Library/
-  pdfs/        documenti PDF (paper, regulatory, manuali, ebook)
-  articles/    articoli web (markdown da Obsidian Web Clipper o estratto via defuddle)
-  videos/      transcript YouTube/video (markdown)
-  podcasts/    transcript podcast (markdown)
-  books/       libri o capitoli (markdown)
-  images/      immagini standalone (screenshot, diagrammi, infografiche)
-  .cache/ocr/  output di ocrmypdf (cache, non toccare)
+ pdfs/ documenti PDF (paper, regulatory, manuali, ebook)
+ articles/ articoli web (markdown da Obsidian Web Clipper o estratto via defuddle)
+ videos/ transcript YouTube/video (markdown)
+ podcasts/ transcript podcast (markdown)
+ books/ libri o capitoli (markdown)
+ images/ immagini standalone (screenshot, diagrammi, infografiche)
+ .cache/ocr/ output di ocrmypdf (cache, non toccare)
 ```
 
 Una source non entra mai in due cartelle. Se non sai dove va, è probabilmente `articles/` o `books/`.

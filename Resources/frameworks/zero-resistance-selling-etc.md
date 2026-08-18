@@ -4,11 +4,12 @@ source: Library/pdfs/zero-resistance-selling-etc.md
 author: Maxwell Maltz con Dan S. Kennedy, William T. Brooks, Matt Oechsli, Jeff Paul e Pamela Yellen
 status: indexed
 tags: [marketing, business, dan-kennedy, vendita, psico-cibernetica]
+date: 2026-08-18
 ---
 
 # Zero Resistance Selling
 
-Applica la psico-cibernetica di Maxwell Maltz (autore di Psycho-Cybernetics) specificamente alla vendita: elimina la resistenza interna del venditore (paura, procrastinazione, blocco nelle chiamate) prima di lavorare sulle tecniche di vendita vere e proprie. Scritto postumo, con Maltz "co-autore" tramite il suo archivio di appunti e cinque esperti di vendita contemporanei, tra cui [[Dan Kennedy]], che unificano la voce nel testo.
+Applica la psico-cibernetica di Maxwell Maltz (autore di Psycho-Cybernetics) specificamente alla vendita: elimina la resistenza interna del venditore (paura, procrastinazione, blocco nelle chiamate) prima di lavorare sulle tecniche di vendita vere e proprie. Scritto postumo, con Maltz "co-autore" tramite il suo archivio di appunti e cinque esperti di vendita contemporanei, tra cui [[dan-kennedy|Dan Kennedy]], che unificano la voce nel testo.
 
 ## Argomenti Principali
 

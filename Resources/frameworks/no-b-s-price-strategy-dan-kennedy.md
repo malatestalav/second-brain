@@ -4,11 +4,12 @@ source: Library/pdfs/no-b-s-price-strategy-dan-kennedy.md
 author: Dan Kennedy, Jason Marrs
 status: indexed
 tags: [marketing, business, dan-kennedy, pricing, profit]
+date: 2026-08-18
 ---
 
 # No B.S. Price Strategy
 
-Libro dedicato interamente alla decisione più temuta e sottovalutata di ogni imprenditore, il prezzo: [[Dan Kennedy]] e [[Jason Marrs]] sostengono che la maggior parte delle aziende si sottoprezza per paura, non per necessità di mercato, e che il prezzo determina praticamente ogni altro aspetto del business.
+Libro dedicato interamente alla decisione più temuta e sottovalutata di ogni imprenditore, il prezzo: [[dan-kennedy|Dan Kennedy]] e [[jason-marrs|Jason Marrs]] sostengono che la maggior parte delle aziende si sottoprezza per paura, non per necessità di mercato, e che il prezzo determina praticamente ogni altro aspetto del business.
 
 ## Argomenti Principali
 

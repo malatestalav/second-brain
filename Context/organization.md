@@ -2,6 +2,7 @@
 type: context
 tags: [organization, company]
 updated: 2026-08-15
+status: active
 ---
 
 # Organizzazione
@@ -19,9 +20,9 @@ updated: 2026-08-15
 
 ## Origine e POV
 
-**Perché l'azienda è nata:** Antonio ha gestito ristoranti e discoteche per 10 anni. Ha sofferto personalmente il problema della gestione HACCP cartacea — compilazione manuale di registri di temperatura, schede di ricevimento, manuali, tutto su carta. Era inefficiente, soggetto a errori, e richiedeva ore ogni settimana. Quando un'ispezione arrivava, doveva cercare disperatamente i documenti tra i faldoni. Non esistevano software per gestire HACCP digitalmente nel mercato italiano — solo consulenti che vendevano piani cartacei.
+**Perché l'azienda è nata:** Antonio ha gestito ristoranti e discoteche per 10 anni. Ha sofferto personalmente il problema della gestione HACCP cartacea . compilazione manuale di registri di temperatura, schede di ricevimento, manuali, tutto su carta. Era inefficiente, soggetto a errori, e richiedeva ore ogni settimana. Quando un'ispezione arrivava, doveva cercare disperatamente i documenti tra i faldoni. Non esistevano software per gestire HACCP digitalmente nel mercato italiano . solo consulenti che vendevano piani cartacei.
 
-**POV / Convinzione centrale:** "Il ristoratore non dovrebbe sprecare tempo in burocrazia. Deve concentrarsi sulla qualità del cibo, sulla gestione del personale e sulla soddisfazione dei clienti. La normativa HACCP è obbligatoria per legge, ma non obbligatoria su carta — può essere digitale. Se digitalizziamo questo processo, liberiamo ore di tempo ogni settimana e riduciamo il rischio di sanzioni."
+**POV / Convinzione centrale:** "Il ristoratore non dovrebbe sprecare tempo in burocrazia. Deve concentrarsi sulla qualità del cibo, sulla gestione del personale e sulla soddisfazione dei clienti. La normativa HACCP è obbligatoria per legge, ma non obbligatoria su carta . può essere digitale. Se digitalizziamo questo processo, liberiamo ore di tempo ogni settimana e riduciamo il rischio di sanzioni."
 
 ## Prodotti e Servizi
 
@@ -29,12 +30,12 @@ updated: 2026-08-15
 - **Nome:** HACCP Digitale
 - **Modello:** Web app su licenza annuale
 - **Cosa fa:** Digitalizza tutti i manuali, schede e elenchi di controllo HACCP. Registri compilabili da qualsiasi dispositivo connesso a internet con login personale. Include:
-  - Registri di temperatura
-  - Schede di ricevimento/acquisto prodotti
-  - Manuali di autocontrollo
-  - Notifiche automatiche e promemoria
-  - Accesso multi-utente (camerieri, cuochi, titolare con ruoli differenti)
-  - Dashboard visualizzazione conformità
+ - Registri di temperatura
+ - Schede di ricevimento/acquisto prodotti
+ - Manuali di autocontrollo
+ - Notifiche automatiche e promemoria
+ - Accesso multi-utente (camerieri, cuochi, titolare con ruoli differenti)
+ - Dashboard visualizzazione conformità
 
 **Stato:** Attiva, primissima fase
 

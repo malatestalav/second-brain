@@ -4,11 +4,12 @@ source: Library/pdfs/no-b-s-guide-to-powerful-presentatio.md
 author: Dan Kennedy, Dustin Mathews, Dave VanHoose
 status: indexed
 tags: [marketing, business, dan-kennedy, public-speaking, vendita]
+date: 2026-08-18
 ---
 
 # No B.S. Guide to Powerful Presentations
 
-Manuale sulla costruzione e vendita tramite presentazioni pubbliche, dal vivo o online: [[Dan Kennedy]] con [[Dustin Mathews]] e [[Dave VanHoose]] trattano la presentazione come lo strumento singolo più leveraged per costruire autorità, vendere uno-a-molti e scalare un business.
+Manuale sulla costruzione e vendita tramite presentazioni pubbliche, dal vivo o online: [[dan-kennedy|Dan Kennedy]] con [[dustin-mathews|Dustin Mathews]] e [[dave-vanhoose|Dave VanHoose]] trattano la presentazione come lo strumento singolo più leveraged per costruire autorità, vendere uno-a-molti e scalare un business.
 
 ## Argomenti Principali
 

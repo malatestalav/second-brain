@@ -4,6 +4,7 @@ source: Library/pdfs/the-phenomenon-achieve-more-in-the.md
 author: Dan Kennedy e 26 collaboratori
 status: indexed
 tags: [marketing, business, dan-kennedy, crescita, mindset]
+date: 2026-08-18
 ---
 
 # The Phenomenon: Achieve More in the Next 12 Months Than the Previous 12 Years

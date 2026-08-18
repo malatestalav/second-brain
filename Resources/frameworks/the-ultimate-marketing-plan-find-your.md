@@ -4,6 +4,7 @@ source: Library/pdfs/the-ultimate-marketing-plan-find-your.md
 author: Dan S. Kennedy
 status: indexed
 tags: [marketing, business, dan-kennedy, usp, direct-response]
+date: 2026-08-18
 ---
 
 # The Ultimate Marketing Plan
@@ -12,7 +13,7 @@ Guida in 15 step per costruire il messaggio di marketing giusto, portarlo ai tar
 
 ## Argomenti Principali
 
-- **Unique Selling Proposition (USP):** il cuore del libro. Prima di scegliere media o tattiche, bisogna trovare cosa rende l'offerta diversa in modo positivo e rilevante rispetto ai concorrenti. [[Dan Kennedy|Kennedy]] usa il caso Domino's ("Fresh, hot pizza delivered in 30 minutes or less, guaranteed") come esempio di USP che ha costruito un impero.
+- **Unique Selling Proposition (USP):** il cuore del libro. Prima di scegliere media o tattiche, bisogna trovare cosa rende l'offerta diversa in modo positivo e rilevante rispetto ai concorrenti. [[dan-kennedy|Kennedy]] usa il caso Domino's ("Fresh, hot pizza delivered in 30 minutes or less, guaranteed") come esempio di USP che ha costruito un impero.
 - **Targeting dei prospect giusti:** identificare con precisione chi comprerà, non inseguire un pubblico generico.
 - **Prova e credibilità:** testimonianze, garanzie, dimostrazioni concrete per superare lo scetticismo del compratore.
 - **Pubblicità gratuita e passaparola:** tecniche a basso costo ("Poor Boy Marketing") per generare visibilità senza budget pubblicitario grande.

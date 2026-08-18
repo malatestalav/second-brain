@@ -5,9 +5,8 @@ role: Founder
 status: active
 employment: full-time
 updated: 2026-08-15
+tags: [profile, founder, team]
 ---
-
-# Antonio Malatesta
 
 **Titolo:** Founder, HACCP Digitale (Nexvision S.r.l.)
 
@@ -19,7 +18,7 @@ updated: 2026-08-15
 
 ## Background
 
-Imprenditore con 10 anni di esperienza diretta nella gestione di ristoranti e discoteche. Ha vissuto sulla propria pelle il problema della gestione HACCP cartacea — ore spese in compilazione manuale, registri sporchi, disorganizzazione nei controlli ASL. Da questa frustrazione personale è nata l'idea di HACCP Digitale.
+Imprenditore con 10 anni di esperienza diretta nella gestione di ristoranti e discoteche. Ha vissuto sulla propria pelle il problema della gestione HACCP cartacea . ore spese in compilazione manuale, registri sporchi, disorganizzazione nei controlli ASL. Da questa frustrazione personale è nata l'idea di HACCP Digitale.
 
 ## Responsabilità Attuale
 

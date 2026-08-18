@@ -2,6 +2,8 @@
 type: task-list
 person: Antonio Smaldini
 updated: 2026-08-15
+status: active
+tags: [task-list, antonio-smaldini]
 ---
 
 # Task di Antonio Smaldini

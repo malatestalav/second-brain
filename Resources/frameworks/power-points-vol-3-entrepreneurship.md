@@ -4,6 +4,7 @@ source: Library/pdfs/power-points-vol-3-entrepreneurship.md
 author: Dan Kennedy
 status: indexed
 tags: [marketing, business, dan-kennedy, imprenditoria, innovazione]
+date: 2026-08-18
 ---
 
 # Power Points Vol. 3: Entrepreneurship

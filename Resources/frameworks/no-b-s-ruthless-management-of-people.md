@@ -4,11 +4,12 @@ source: Library/pdfs/no-b-s-ruthless-management-of-people.md
 author: Dan Kennedy
 status: indexed
 tags: [marketing, business, dan-kennedy, management, hr, profit]
+date: 2026-08-18
 ---
 
 # No B.S. Ruthless Management of People & Profits
 
-Guida spietata alla gestione del personale per imprenditori stanchi della psicologia da manuale accademico: [[Dan Kennedy]] sostiene che il rapporto datore di lavoro-dipendente è intrinsecamente adversariale e va gestito per il profitto, non per il consenso.
+Guida spietata alla gestione del personale per imprenditori stanchi della psicologia da manuale accademico: [[dan-kennedy|Dan Kennedy]] sostiene che il rapporto datore di lavoro-dipendente è intrinsecamente adversariale e va gestito per il profitto, non per il consenso.
 
 ## Argomenti Principali
 

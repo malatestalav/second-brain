@@ -2,6 +2,7 @@
 type: context
 tags: [brand, voice, messaging]
 updated: 2026-08-15
+status: active
 ---
 
 # Brand
@@ -10,7 +11,7 @@ updated: 2026-08-15
 
 **Tagline:** "Più tempo per i gestori di bar e ristoranti"
 
-**Sottotitolo lungo:** "HACCP Digitale — gestisci la sicurezza alimentare in secondi, non in ore. Concentrati su cibo e clienti."
+**Sottotitolo lungo:** "HACCP Digitale . gestisci la sicurezza alimentare in secondi, non in ore. Concentrati su cibo e clienti."
 
 ## Voce del Brand
 
@@ -19,15 +20,15 @@ updated: 2026-08-15
 **Cosa significa:**
 - **Diretta:** Senza giri di parole. Il ristoratore non ha tempo per prosa. "Risparmi 45 minuti al giorno" è meglio di "ottimizza i flussi di lavoro".
 - **Calda:** Empatica al dolore che il ristoratore vive. Non fredda o distaccata. Capisce la frustrazione della compilazione cartacea.
-- **Tecnica:** Accenni al "come funziona" — firme digitali, cloud, integrità dei dati, conformità normativa — perché il ristoratore vuole sapere che è serio e legale.
+- **Tecnica:** Accenni al "come funziona" . firme digitali, cloud, integrità dei dati, conformità normativa . perché il ristoratore vuole sapere che è serio e legale.
 
 ## 5 Attributi del Tono del Brand
 
-1. **Pratico** — Soluzioni che funzionano, non teoria
-2. **Affidabile** — Se dico che è legale, è legale. Se dico che salva tempo, salva tempo.
-3. **Semplice** — Interfaccia pulita, processo facile da capire, niente jargon inutile
-4. **Tecnico** — Competenza evidente, riferimenti a normativa, conformità, tracciamento audit
-5. **Empatico** — Capisce la frustrazione, non giudica il passato cartaceo, offre soluzione
+1. **Pratico** . Soluzioni che funzionano, non teoria
+2. **Affidabile** . Se dico che è legale, è legale. Se dico che salva tempo, salva tempo.
+3. **Semplice** . Interfaccia pulita, processo facile da capire, niente jargon inutile
+4. **Tecnico** . Competenza evidente, riferimenti a normativa, conformità, tracciamento audit
+5. **Empatico** . Capisce la frustrazione, non giudica il passato cartaceo, offre soluzione
 
 ## Frasi Caratteristiche Utilizzate nei Contenuti
 
@@ -46,25 +47,25 @@ Da definire con Antonio nei prossimi funnel test:
 - ~~"Innovativo"~~ (sovrausato)
 - ~~"Rivoluzionario"~~ (hype non supportata ancora)
 
-**Raccomandazione:** Testare con il ristoratore effettivo — usare le parole che usa lui.
+**Raccomandazione:** Testare con il ristoratore effettivo . usare le parole che usa lui.
 
 ## Argomenti che Amiamo Trattare
 
-1. **Sicurezza alimentare** — Conformità, ispettori, sanzioni, tracciabilità
-2. **Gestione del tempo** — Quanto tempo si risparmia, ore liberate per altro
-3. **Qualità della vita ristoratore** — Ridurre stress, recuperare serenità
-4. **Efficienza operativa** — Come il team lavora meglio, meno attrito
+1. **Sicurezza alimentare** . Conformità, ispettori, sanzioni, tracciabilità
+2. **Gestione del tempo** . Quanto tempo si risparmia, ore liberate per altro
+3. **Qualità della vita ristoratore** . Ridurre stress, recuperare serenità
+4. **Efficienza operativa** . Come il team lavora meglio, meno attrito
 
 ## Argomenti che Evitiamo Pubblicamente
 
 - Critiche esplicite ai consulenti HACCP (accenderei conflitto diretto)
-- Promesse di crescita esponenziale (non è il posizionamento — il focus è riducente tempo, non scalare)
+- Promesse di crescita esponenziale (non è il posizionamento . il focus è riducente tempo, non scalare)
 - Paragoni con soluzioni enterprise complicate (non sono competitor, hanno target diverso)
 
 ## Identità Visiva
 
 **Colori:**
-- **Verde dominante** — Trasmette pulizia, professionalità, sicurezza alimentare
+- **Verde dominante** . Trasmette pulizia, professionalità, sicurezza alimentare
 - Bianco per contrasto (spazi bianchi, chiarezza)
 - Possibile accento di arancione/warm per umanità (calore, contatto)
 
@@ -75,9 +76,9 @@ Da definire con Antonio nei prossimi funnel test:
 ## Sensazione che Lettori/Clienti Dovrebbero Provare
 
 **Sequenza ideale:**
-1. **Sorpresa** — "Wow, esiste veramente una soluzione HACCP digitale?"
-2. **Sicurezza** — "Ok, è legale, è conforme, è affidabile"
-3. **Decisione di acquisto** — "Compro questo subito, non voglio aspettare"
+1. **Sorpresa** . "Wow, esiste veramente una soluzione HACCP digitale?"
+2. **Sicurezza** . "Ok, è legale, è conforme, è affidabile"
+3. **Decisione di acquisto** . "Compro questo subito, non voglio aspettare"
 
 **Sensazione globale:** "Finalmente qualcuno che capisce il mio problema e ha una soluzione semplice."
 

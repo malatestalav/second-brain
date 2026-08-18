@@ -2,6 +2,7 @@
 type: context
 tags: [team, organization]
 updated: 2026-08-15
+status: active
 ---
 
 # Team

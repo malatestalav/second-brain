@@ -1,9 +1,11 @@
 ---
 type: skill-reference
 skill: newsletter-writer
+status: active
+tags: [skill, newsletter]
 ---
 
-# Newsletter Writer — Strategia
+# Newsletter Writer: Strategia
 
 ## Nome della Newsletter
 

@@ -4,6 +4,7 @@ source: Library/pdfs/making-them-believe-how-one-of-americ.md
 author: Dan S. Kennedy e Chip Kessler
 status: indexed
 tags: [marketing, business, dan-kennedy, authority, positioning]
+date: 2026-08-18
 ---
 
 # Making Them Believe: How One of America's Master Marketers Made Millions

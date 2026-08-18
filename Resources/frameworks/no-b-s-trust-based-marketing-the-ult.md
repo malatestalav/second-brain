@@ -4,6 +4,7 @@ source: Library/pdfs/no-b-s-trust-based-marketing-the-ult.md
 author: Dan Kennedy e Matt Zagula
 status: indexed
 tags: [marketing, business, dan-kennedy, fiducia, direct-response]
+date: 2026-08-18
 ---
 
 # No B.S. Trust-Based Marketing

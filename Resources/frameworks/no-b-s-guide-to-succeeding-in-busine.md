@@ -4,6 +4,7 @@ source: Library/pdfs/no-b-s-guide-to-succeeding-in-busine.md
 author: Dan S. Kennedy
 status: indexed
 tags: [marketing, business, dan-kennedy, mindset, contrarian]
+date: 2026-08-18
 ---
 
 # No B.S. Guide to Succeeding in Business by Breaking All the Rules

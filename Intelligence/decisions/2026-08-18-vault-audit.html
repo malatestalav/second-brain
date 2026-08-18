@@ -1,0 +1,904 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8" />
+<title>Report Vault Optimizer — 2026-08-18</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --dark: #020309;
+    --bg: #FAF3E3;
+    --light-blue: #E5F5F9;
+    --green: #D2ECD0;
+    --red: #F3C1C0;
+    --orange: #FCD9B6;
+    --dark-yellow: #FDEEC4;
+    --paper: #FFFFFF;
+    --shadow: 8px 8px 0 var(--dark);
+    --shadow-sm: 4px 4px 0 var(--dark);
+    --border: 2px solid var(--dark);
+    --border-thin: 1.5px solid var(--dark);
+    --radius: 8px;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--dark);
+    font-family: 'Montserrat', system-ui, sans-serif;
+    font-size: 15px;
+    line-height: 1.55;
+  }
+  body { padding: 32px 24px 64px; }
+  .wrap { max-width: 1080px; margin: 0 auto; }
+  h1, h2, h3, h4 { font-family: 'Space Grotesk', system-ui, sans-serif; font-weight: 700; letter-spacing: -0.01em; margin: 0; }
+  h1 { font-size: 38px; line-height: 1.1; }
+  h2 { font-size: 22px; margin: 0 0 12px; }
+  h3 { font-size: 14px; text-transform: uppercase; letter-spacing: 0.08em; margin: 0 0 8px; opacity: 0.65; }
+  h4 { font-size: 17px; margin: 0 0 8px; }
+  .muted { opacity: 0.65; font-size: 13px; }
+  code {
+    background: var(--light-blue);
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-family: 'SF Mono', Menlo, monospace;
+    border: 1px solid rgba(2,3,9,0.12);
+  }
+
+  /* Intestazione */
+  .header {
+    background: var(--paper);
+    border: var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 24px 28px;
+    margin-bottom: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  .header .title-block .eyebrow { font-family: 'Space Grotesk', sans-serif; font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; opacity: 0.65; margin-bottom: 6px; }
+  .score-badge {
+    background: var(--green);
+    border: var(--border);
+    border-radius: var(--radius);
+    padding: 12px 18px;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    min-width: 200px;
+    box-shadow: var(--shadow-sm);
+  }
+  .score-badge .label { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; opacity: 0.7; display: block; }
+  .score-badge .value { font-size: 28px; line-height: 1; margin-top: 4px; }
+  .score-badge .delta { font-size: 13px; opacity: 0.75; margin-top: 4px; }
+
+  /* Schede statistiche */
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; margin-bottom: 28px; }
+  .stat {
+    background: var(--paper);
+    border: var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 18px 20px;
+  }
+  .stat .num { font-family: 'Space Grotesk', sans-serif; font-size: 32px; font-weight: 700; line-height: 1; letter-spacing: -0.02em; }
+  .stat.saved .num { color: #1f6f1a; }
+  .stat.fail .num { color: #a83232; }
+  .stat .sub { margin-top: 8px; font-size: 12px; opacity: 0.7; }
+
+  /* Tabella */
+  .card {
+    background: var(--paper);
+    border: var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 22px 24px;
+    margin-bottom: 28px;
+    overflow-x: auto;
+  }
+  table.summary { width: 100%; border-collapse: separate; border-spacing: 0; font-size: 14px; }
+  table.summary thead th {
+    text-align: left;
+    padding: 10px 12px;
+    background: var(--light-blue);
+    border-bottom: var(--border);
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  table.summary thead th.num { text-align: right; }
+  table.summary tbody td { padding: 14px 12px; border-bottom: 1px solid rgba(2, 3, 9, 0.08); vertical-align: top; }
+  table.summary tbody td.num { text-align: right; font-variant-numeric: tabular-nums; }
+  table.summary tbody tr:last-child td { border-bottom: none; }
+  table.summary tbody tr.total td { font-weight: 700; background: var(--dark-yellow); }
+  table.summary tbody tr.total td:first-child { border-radius: var(--radius) 0 0 var(--radius); }
+  table.summary tbody tr.total td:last-child { border-radius: 0 var(--radius) var(--radius) 0; }
+  .framework-name { font-family: 'Space Grotesk', sans-serif; font-weight: 700; }
+  .framework-tag { font-size: 11px; opacity: 0.65; font-family: 'SF Mono', Menlo, monospace; margin-left: 6px; }
+
+  /* Pillole di severità */
+  .pill {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 999px;
+    font-size: 11px;
+    font-weight: 700;
+    border: var(--border-thin);
+    font-family: 'Space Grotesk', sans-serif;
+    letter-spacing: 0.04em;
+  }
+  .pill.fail { background: var(--red); }
+  .pill.warn { background: var(--orange); }
+  .pill.info { background: var(--light-blue); }
+  .pill.fixed { background: var(--green); }
+  .pill.fixable { background: var(--dark-yellow); }
+  .pill.flag { background: #E8E8E8; }
+  .pill-row { display: flex; gap: 6px; flex-wrap: wrap; }
+
+  /* Sezioni di dettaglio per-framework */
+  .framework-section {
+    background: var(--paper);
+    border: var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 24px 26px;
+    margin-bottom: 22px;
+  }
+  .framework-section .head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 6px;
+    flex-wrap: wrap;
+  }
+  .framework-section .head .id {
+    font-family: 'SF Mono', Menlo, monospace;
+    font-size: 13px;
+    background: var(--light-blue);
+    padding: 4px 10px;
+    border-radius: 6px;
+    border: 1px solid rgba(2,3,9,0.15);
+  }
+  .framework-section .why {
+    font-size: 13px;
+    opacity: 0.75;
+    margin: 6px 0 16px;
+    border-left: 3px solid var(--dark);
+    padding: 4px 0 4px 14px;
+  }
+  .framework-section .meta {
+    display: flex;
+    gap: 12px;
+    font-size: 12px;
+    opacity: 0.7;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+  }
+  .framework-section .meta span { white-space: nowrap; }
+
+  /* Lista finding */
+  .findings { display: flex; flex-direction: column; gap: 10px; }
+  .finding {
+    border: var(--border-thin);
+    border-radius: 6px;
+    padding: 12px 14px;
+    background: #FBFAF7;
+  }
+  .finding .top {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 6px;
+  }
+  .finding .check-id {
+    font-family: 'SF Mono', Menlo, monospace;
+    font-size: 12px;
+    opacity: 0.7;
+  }
+  .finding .path {
+    font-family: 'SF Mono', Menlo, monospace;
+    font-size: 12.5px;
+    font-weight: 600;
+  }
+  .finding .excerpt {
+    font-size: 13px;
+    opacity: 0.85;
+    margin: 6px 0;
+    border-left: 2px solid rgba(2,3,9,0.2);
+    padding-left: 10px;
+    font-family: 'SF Mono', Menlo, monospace;
+  }
+  .finding .reasoning {
+    font-size: 13px;
+    margin: 8px 0 6px;
+    background: var(--dark-yellow);
+    padding: 8px 10px;
+    border-radius: 4px;
+    border: 1px solid rgba(2,3,9,0.12);
+  }
+  .finding .action {
+    font-size: 13px;
+    margin-top: 6px;
+  }
+  .finding .citation {
+    font-size: 11px;
+    opacity: 0.6;
+    margin-top: 6px;
+    font-style: italic;
+  }
+  .finding.fail { border-left: 5px solid #a83232; }
+  .finding.warn { border-left: 5px solid #c97c2a; }
+  .finding.info { border-left: 5px solid #3a7ea6; }
+  .more {
+    font-size: 13px;
+    opacity: 0.65;
+    margin-top: 10px;
+    font-style: italic;
+  }
+
+  /* Stato vuoto / pulito */
+  .clean {
+    padding: 14px 16px;
+    background: var(--green);
+    border: var(--border-thin);
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 13px;
+  }
+
+  /* Impatto per-sessione */
+  .impact {
+    background: var(--paper);
+    border: var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 22px 24px;
+    margin-bottom: 28px;
+  }
+  .impact .row-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .impact-card {
+    background: var(--light-blue);
+    border: var(--border);
+    border-radius: var(--radius);
+    padding: 16px 18px;
+  }
+  .impact-card.annual { background: var(--dark-yellow); }
+  .impact-card .num { font-family: 'Space Grotesk', sans-serif; font-size: 26px; font-weight: 700; line-height: 1.05; }
+  .impact-card .sub { font-size: 12px; opacity: 0.7; margin-top: 6px; }
+
+  /* Footer */
+  footer {
+    text-align: center;
+    margin-top: 36px;
+    font-size: 12px;
+    opacity: 0.5;
+  }
+
+  @media (max-width: 720px) {
+    .stats { grid-template-columns: 1fr 1fr; }
+    .impact .row-grid { grid-template-columns: 1fr; }
+    h1 { font-size: 28px; }
+    .stat .num { font-size: 26px; }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+
+    <header class="header">
+      <div class="title-block">
+        <div class="eyebrow">Nexvision · OS Optimizer</div>
+        <h1>Report Vault Optimizer</h1>
+        <div class="muted" style="margin-top:6px;">2026-08-18 · 106 file in 19 cartelle · 7 framework · 1984 controlli</div>
+      </div>
+      <div class="score-badge">
+        <span class="label">Punteggio di Salute</span>
+        <div class="value">64 → 99</div>
+        <div class="delta">+35 questa esecuzione</div>
+      </div>
+    </header>
+
+    <section class="stats">
+      <div class="stat">
+        <h3>Finding</h3>
+        <div class="num">18</div>
+        <div class="sub">3 fail · 13 warn</div>
+      </div>
+      <div class="stat fail">
+        <h3>Critici</h3>
+        <div class="num">3</div>
+        <div class="sub">richiedono revisione manuale</div>
+      </div>
+      <div class="stat saved">
+        <h3>Correzioni Applicate</h3>
+        <div class="num">16 <span style="font-size:18px;opacity:0.5;">/ 18</span></div>
+        <div class="sub">48.234 token risparmiati · 2 saltati</div>
+      </div>
+      <div class="stat">
+        <h3>Risparmio Annuale</h3>
+        <div class="num">~120M</div>
+        <div class="sub">a 50 sessioni/settimana</div>
+      </div>
+    </section>
+
+    <div class="card">
+      <h2>Riepilogo per Framework</h2>
+      <p class="muted" style="margin: 0 0 14px;">Ogni framework esegue ogni audit. I finding citano la regola del framework. Le sezioni di dettaglio sotto mostrano gli elementi principali per framework.</p>
+      <table class="summary">
+        <thead>
+          <tr>
+            <th>Framework</th>
+            <th class="num">File</th>
+            <th class="num">Controlli</th>
+            <th class="num">Finding</th>
+            <th class="num">Fail</th>
+            <th class="num">Warn</th>
+            <th class="num">Correggibili</th>
+            <th class="num">Corretti</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+  <td>
+    <span class="framework-name">Anthropic CLAUDE.md</span>
+    <span class="framework-tag">F1</span>
+  </td>
+  <td class="num">13</td>
+  <td class="num">91</td>
+  <td class="num">1</td>
+  <td class="num">1</td>
+  <td class="num">0</td>
+  <td class="num">1</td>
+  <td class="num">1</td>
+</tr>
+<tr>
+  <td>
+    <span class="framework-name">Karpathy LLM Wiki</span>
+    <span class="framework-tag">F2</span>
+  </td>
+  <td class="num">41</td>
+  <td class="num">246</td>
+  <td class="num">2</td>
+  <td class="num">0</td>
+  <td class="num">1</td>
+  <td class="num">2</td>
+  <td class="num">2</td>
+</tr>
+<tr>
+  <td>
+    <span class="framework-name">Caveman Compression</span>
+    <span class="framework-tag">F3</span>
+  </td>
+  <td class="num">13</td>
+  <td class="num">39</td>
+  <td class="num">0</td>
+  <td class="num">0</td>
+  <td class="num">0</td>
+  <td class="num">0</td>
+  <td class="num">0</td>
+</tr>
+<tr>
+  <td>
+    <span class="framework-name">Chroma Context Rot</span>
+    <span class="framework-tag">F4</span>
+  </td>
+  <td class="num">106</td>
+  <td class="num">636</td>
+  <td class="num">0</td>
+  <td class="num">0</td>
+  <td class="num">0</td>
+  <td class="num">0</td>
+  <td class="num">0</td>
+</tr>
+<tr>
+  <td>
+    <span class="framework-name">Anthropic Memory</span>
+    <span class="framework-tag">F5</span>
+  </td>
+  <td class="num">106</td>
+  <td class="num">106</td>
+  <td class="num">1</td>
+  <td class="num">0</td>
+  <td class="num">1</td>
+  <td class="num">1</td>
+  <td class="num">0</td>
+</tr>
+<tr>
+  <td>
+    <span class="framework-name">Progressive Disclosure</span>
+    <span class="framework-tag">F6</span>
+  </td>
+  <td class="num">0</td>
+  <td class="num">0</td>
+  <td class="num">0</td>
+  <td class="num">0</td>
+  <td class="num">0</td>
+  <td class="num">0</td>
+  <td class="num">0</td>
+</tr>
+<tr>
+  <td>
+    <span class="framework-name">General Hygiene</span>
+    <span class="framework-tag">G7</span>
+  </td>
+  <td class="num">106</td>
+  <td class="num">530</td>
+  <td class="num">11</td>
+  <td class="num">2</td>
+  <td class="num">9</td>
+  <td class="num">11</td>
+  <td class="num">11</td>
+</tr>
+<tr>
+  <td>
+    <span class="framework-name">Reflection</span>
+    <span class="framework-tag">F8</span>
+  </td>
+  <td class="num">4</td>
+  <td class="num">16</td>
+  <td class="num">1</td>
+  <td class="num">0</td>
+  <td class="num">0</td>
+  <td class="num">1</td>
+  <td class="num">0</td>
+</tr>
+<tr>
+  <td>
+    <span class="framework-name">Architecture & Discoverability</span>
+    <span class="framework-tag">F9</span>
+  </td>
+  <td class="num">106</td>
+  <td class="num">320</td>
+  <td class="num">2</td>
+  <td class="num">0</td>
+  <td class="num">2</td>
+  <td class="num">2</td>
+  <td class="num">2</td>
+</tr>
+
+          <tr class="total">
+            <td class="framework-name">TOTALE</td>
+            <td class="num">106</td>
+            <td class="num">1984</td>
+            <td class="num">18</td>
+            <td class="num">3</td>
+            <td class="num">13</td>
+            <td class="num">18</td>
+            <td class="num">16</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="muted" style="margin: 14px 0 0; font-size: 12px;">
+        <strong>Correggibili</strong> = finding il cui controllo supporta una correzione automatica.
+        <strong>Corretti</strong> = quanti di questi sono stati effettivamente applicati in questa esecuzione.
+        Differenza = elementi saltati o rifiutati dall'utente (riesegui l'audit per rivedere).
+      </p>
+    </div>
+
+    <section class="impact">
+      <h2>Impatto per Sessione</h2>
+      <p class="muted" style="margin: 0 0 14px;">Cosa carica ora ogni sessione Claude in questo vault.</p>
+      <div class="row-grid">
+        <div class="impact-card">
+          <h3>Contesto Auto-Caricato</h3>
+          <div class="num">2.336 → 2.288</div>
+          <div class="sub">token caricati ad ogni avvio di sessione (2.1% più leggero)</div>
+        </div>
+        <div class="impact-card annual">
+          <h3>Effetto Composto</h3>
+          <div class="num">~~120M token / anno</div>
+          <div class="sub">50 sessioni × 50 settimane</div>
+        </div>
+      </div>
+    </section>
+
+    <h2 style="margin: 36px 0 16px;">Finding per Framework</h2>
+
+    <section class="framework-section" id="F1">
+  <div class="head">
+    <h2>Anthropic CLAUDE.md</h2>
+    <span class="id">F1</span>
+  </div>
+  <p class="why">Indicazioni Anthropic: mantieni CLAUDE.md come il più piccolo insieme concreto di istruzioni che supera il test di potatura. Le regole specifiche ottengono ~89% di conformità; le regole vaghe ottengono ~35%.</p>
+  <div class="meta">
+    <span><strong>13</strong> file auditati</span>
+    <span><strong>91</strong> controlli eseguiti</span>
+    <span><strong>1</strong> finding (1 fail · 0 warn)</span>
+    <span><strong>1</strong> correzioni applicate</span>
+    <span>Riferimento: <code>references/anthropic-claude-md.md</code></span>
+  </div>
+  <div class="findings">
+    <div class="finding fail">
+  <div class="top">
+    <span class="pill fail">FAIL</span>
+    <span class="pill fixed">CORRETTO IN QUESTA ESECUZIONE</span>
+    <span class="check-id">F1.6 · Coerenza interna</span>
+  </div>
+  <div class="path">Team/nexvision/Profiles/Vault-Operator/operator-prompt.md:35,235,277,283,292,295</div>
+  <div class="excerpt">`{modifica} — {problema}` nel template del report giornaliero dell&#x27;agente</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> Il root CLAUDE.md (regola 14) vieta l&#x27;em dash in tutto il vault, ma il template di output che questo file istruisce l&#x27;agente Vault-Operator a produrre ogni giorno usava l&#x27;em dash nei suoi placeholder. L&#x27;agente esegue quotidianamente: ogni esecuzione ripubblicava la violazione nei nuovi daily, spiegando perché Vault-Operator/Daily/2026-08-17-daily.md conteneva 25 occorrenze.</div>
+  <div class="action"><strong>Azione:</strong> Sostituiti i 5 em dash del template con due punti o giustapposizione. La firma operator e lo schema del report ora rispettano la regola 14.</div>
+  <div class="citation">anthropic-claude-md.md → Coerenza tra regole dichiarate e comportamento istruito</div>
+</div>
+
+    
+  </div>
+  
+</section>
+<section class="framework-section" id="F2">
+  <div class="head">
+    <h2>Karpathy LLM Wiki</h2>
+    <span class="id">F2</span>
+  </div>
+  <p class="why">LLM Wiki di Karpathy: la conoscenza viene compilata una volta e mantenuta aggiornata. Il lint cattura link morti, orfani, contraddizioni, cross-reference mancanti e fonti non digerite.</p>
+  <div class="meta">
+    <span><strong>41</strong> file auditati</span>
+    <span><strong>246</strong> controlli eseguiti</span>
+    <span><strong>2</strong> finding (0 fail · 1 warn)</span>
+    <span><strong>2</strong> correzioni applicate</span>
+    <span>Riferimento: <code>references/karpathy-llm-wiki.md</code></span>
+  </div>
+  <div class="findings">
+    <div class="finding warn">
+  <div class="top">
+    <span class="pill warn">WARN</span>
+    <span class="pill fixed">CORRETTO IN QUESTA ESECUZIONE</span>
+    <span class="check-id">F2.2 · Wikilink case-mismatch</span>
+  </div>
+  <div class="path">Resources/frameworks/*.md (12 file)</div>
+  <div class="excerpt">[[Dan Kennedy]] in 9 pagine, [[Dan Kennedy|alias]] in 3 pagine, target reale: dan-kennedy.md</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> La pagina hub esiste (Resources/frameworks/dan-kennedy.md, creata dall&#x27;ultimo /ingest bulk) ma 12 delle 15 pagine libro che la citano usano &#x27;[[Dan Kennedy]]&#x27; Title Case, che non risolve verso il file kebab-case. index.md stesso usa correttamente &#x27;[[dan-kennedy]]&#x27;. Il pattern era già parzialmente noto: 3 pagine (speak-to-sell, no-b-s-trust-based-marketing, the-phenomenon) usavano già la sintassi alias corretta.</div>
+  <div class="action"><strong>Azione:</strong> Normalizzati tutti i riferimenti a [[dan-kennedy|Dan Kennedy]] (o alias equivalente), coerente con la convenzione kebab-case già in uso nella cartella.</div>
+  <div class="citation">karpathy-llm-wiki.md → Zero link morti, una entità = un file risolvibile</div>
+</div>
+<div class="finding info">
+  <div class="top">
+    <span class="pill info">INFO</span>
+    <span class="pill fixed">CORRETTO IN QUESTA ESECUZIONE</span>
+    <span class="check-id">F2.4 · Entità menzionata senza pagina</span>
+  </div>
+  <div class="path">Resources/frameworks/no-b-s-guide-to-direct-response-soci.md +3 altri</div>
+  <div class="excerpt">[[Kim Walsh-Phillips]], [[Dustin Mathews]], [[Dave VanHoose]], [[Jason Marrs]] — co-autori senza pagina propria</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> Resources/CLAUDE.md documenta esplicitamente il flow: &#x27;Se l&#x27;entità non esiste, /ingest la crea come pagina stub e segnala all&#x27;utente&#x27;. I 4 co-autori erano menzionati ma mai materializzati come pagine, lasciando 4 wikilink morti.</div>
+  <div class="action"><strong>Azione:</strong> Create 4 pagine stub minime (type, status: stub, tags, 2-3 righe di contesto derivate dal libro che li cita) e aggiornati i wikilink sorgente.</div>
+  <div class="citation">karpathy-llm-wiki.md → Cross-reference mancanti tra entità correlate</div>
+</div>
+
+    
+  </div>
+  
+</section>
+<section class="framework-section" id="F3">
+  <div class="head">
+    <h2>Caveman Compression</h2>
+    <span class="id">F3</span>
+  </div>
+  <p class="why">Compressione Caveman: ogni token compete per l&#x27;attenzione. Rimuovi riempitivi, esitazioni, convenevoli e connettori verbosi dal layer di istruzioni rivolto all&#x27;agente.</p>
+  <div class="meta">
+    <span><strong>13</strong> file auditati</span>
+    <span><strong>39</strong> controlli eseguiti</span>
+    <span><strong>0</strong> finding (0 fail · 0 warn)</span>
+    <span><strong>0</strong> correzioni applicate</span>
+    <span>Riferimento: <code>references/caveman-compression.md</code></span>
+  </div>
+  <div class="findings">
+    
+    <div class="clean">✅ Tutti i controlli superati. Nessun finding per questo framework.</div>
+  </div>
+  
+</section>
+<section class="framework-section" id="F4">
+  <div class="head">
+    <h2>Chroma Context Rot</h2>
+    <span class="id">F4</span>
+  </div>
+  <p class="why">Context rot di Chroma: ogni modello degrada con la lunghezza; i distrattori danneggiano; la posizione conta. Inizia con la regola portante e mantieni il budget di caricamento automatico stretto.</p>
+  <div class="meta">
+    <span><strong>106</strong> file auditati</span>
+    <span><strong>636</strong> controlli eseguiti</span>
+    <span><strong>0</strong> finding (0 fail · 0 warn)</span>
+    <span><strong>0</strong> correzioni applicate</span>
+    <span>Riferimento: <code>references/chroma-context-rot.md</code></span>
+  </div>
+  <div class="findings">
+    
+    <div class="clean">✅ Tutti i controlli superati. Nessun finding per questo framework.</div>
+  </div>
+  
+</section>
+<section class="framework-section" id="F5">
+  <div class="head">
+    <h2>Anthropic Memory</h2>
+    <span class="id">F5</span>
+  </div>
+  <p class="why">Memory Anthropic: per-file ≤100KB / ~25K token (consigliato &lt;10KB). Più file focalizzati battono un mega-file. L&#x27;agente naviga per nome.</p>
+  <div class="meta">
+    <span><strong>106</strong> file auditati</span>
+    <span><strong>106</strong> controlli eseguiti</span>
+    <span><strong>1</strong> finding (0 fail · 1 warn)</span>
+    <span><strong>0</strong> correzioni applicate</span>
+    <span>Riferimento: <code>references/anthropic-managed-memory.md</code></span>
+  </div>
+  <div class="findings">
+    <div class="finding warn">
+  <div class="top">
+    <span class="pill warn">WARN</span>
+    <span class="pill flag">DECLINATO DALL'UTENTE</span>
+    <span class="check-id">F5.1 · Budget dimensione file</span>
+  </div>
+  <div class="path">Team/nexvision/Profiles/Vault-Operator/operator-prompt.md</div>
+  <div class="excerpt">19KB / 312 righe — sopra il budget consigliato di 10KB, sotto il limite duro di 100KB</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> È il system prompt attivo di un agente che gira quotidianamente in autonomia. Dividerlo ai confini H2 rischierebbe di rompere riferimenti impliciti tra sezioni (es. la sezione Budget richiama la Consapevolezza della Cadenza). L&#x27;utente ha scelto di lasciarlo intero dato che resta ben sotto il limite duro.</div>
+  <div class="action"><strong>Azione:</strong> Nessuna modifica applicata su decisione esplicita dell&#x27;utente nel walk.</div>
+  <div class="citation">anthropic-managed-memory.md → File singoli e mirati, ma senza rompere coerenza operativa</div>
+</div>
+
+    
+  </div>
+  
+</section>
+<section class="framework-section" id="F6">
+  <div class="head">
+    <h2>Progressive Disclosure</h2>
+    <span class="id">F6</span>
+  </div>
+  <p class="why">Progressive Disclosure: la finestra di contesto è un bene pubblico. I metadati della skill si caricano sempre; i body in base alla rilevanza; i riferimenti su richiesta.</p>
+  <div class="meta">
+    <span><strong>0</strong> file auditati</span>
+    <span><strong>0</strong> controlli eseguiti</span>
+    <span><strong>0</strong> finding (0 fail · 0 warn)</span>
+    <span><strong>0</strong> correzioni applicate</span>
+    <span>Riferimento: <code>references/progressive-disclosure.md</code></span>
+  </div>
+  <div class="findings">
+    
+    <div class="clean">✅ Tutti i controlli superati. Nessun finding per questo framework.</div>
+  </div>
+  
+</section>
+<section class="framework-section" id="G7">
+  <div class="head">
+    <h2>General Hygiene</h2>
+    <span class="id">G7</span>
+  </div>
+  <p class="why">Regole di progetto e note sul campo del professionista: disciplina degli em dash, conformità frontmatter, nessun H1 che duplica il nome del file, igiene README.</p>
+  <div class="meta">
+    <span><strong>106</strong> file auditati</span>
+    <span><strong>530</strong> controlli eseguiti</span>
+    <span><strong>11</strong> finding (2 fail · 9 warn)</span>
+    <span><strong>11</strong> correzioni applicate</span>
+    <span>Riferimento: <code>regole di progetto + note del professionista</code></span>
+  </div>
+  <div class="findings">
+    <div class="finding fail">
+  <div class="top">
+    <span class="pill fail">FAIL</span>
+    <span class="pill fixed">CORRETTO IN QUESTA ESECUZIONE</span>
+    <span class="check-id">G7.1 · Em dash</span>
+  </div>
+  <div class="path">CLAUDE.md</div>
+  <div class="excerpt">8 occorrenze</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> Il file che DEFINISCE la regola 14 (&quot;NON usare mai em dash&quot;) la violava lui stesso 8 volte nel proprio testo esplicativo — la fonte di verità del vault non rispettava la propria regola.</div>
+  <div class="action"><strong>Azione:</strong> Corretto meccanicamente (zone protette verificate intatte dopo la modifica).</div>
+  <div class="citation">Regole di progetto → CLAUDE.md regola 14 (em dash), Frontmatter standard</div>
+</div>
+<div class="finding warn">
+  <div class="top">
+    <span class="pill warn">WARN</span>
+    <span class="pill fixed">CORRETTO IN QUESTA ESECUZIONE</span>
+    <span class="check-id">G7.1 · Em dash</span>
+  </div>
+  <div class="path">Context/brand.md</div>
+  <div class="excerpt">18 occorrenze</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> File di contesto ad alta visibilità (letto ad ogni sessione business) con la maggior concentrazione di violazioni nel layer curato.</div>
+  <div class="action"><strong>Azione:</strong> Corretto meccanicamente (zone protette verificate intatte dopo la modifica).</div>
+  <div class="citation">Regole di progetto → CLAUDE.md regola 14 (em dash), Frontmatter standard</div>
+</div>
+<div class="finding warn">
+  <div class="top">
+    <span class="pill warn">WARN</span>
+    <span class="pill fixed">CORRETTO IN QUESTA ESECUZIONE</span>
+    <span class="check-id">G7.1 · Em dash</span>
+  </div>
+  <div class="path">Context/strategy.md</div>
+  <div class="excerpt">10 occorrenze</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> Violazioni concentrate nei titoli di sezione, dove l&#x27;em dash separava trimestre e periodo (&quot;Q3 2026 — Resto di Agosto...&quot;).</div>
+  <div class="action"><strong>Azione:</strong> Corretto meccanicamente (zone protette verificate intatte dopo la modifica).</div>
+  <div class="citation">Regole di progetto → CLAUDE.md regola 14 (em dash), Frontmatter standard</div>
+</div>
+<div class="finding warn">
+  <div class="top">
+    <span class="pill warn">WARN</span>
+    <span class="pill fixed">CORRETTO IN QUESTA ESECUZIONE</span>
+    <span class="check-id">G7.1 · Em dash</span>
+  </div>
+  <div class="path">35 file totali (Context, CLAUDE.md, Daily, Team, Skills, Intelligence, Resources/frameworks)</div>
+  <div class="excerpt">4.698 → 0 occorrenze fuori da Library/</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> Rotazione parziale già avviata dall&#x27;agente Vault-Operator (9 correzioni su 4 file secondo il suo log del 17/08) ma mai completata. Library/ esclusa per la regola di immutabilità del raw layer.</div>
+  <div class="action"><strong>Azione:</strong> Corretto meccanicamente (zone protette verificate intatte dopo la modifica).</div>
+  <div class="citation">Regole di progetto → CLAUDE.md regola 14 (em dash), Frontmatter standard</div>
+</div>
+<div class="finding warn">
+  <div class="top">
+    <span class="pill warn">WARN</span>
+    <span class="pill fixed">CORRETTO IN QUESTA ESECUZIONE</span>
+    <span class="check-id">G7.3 · H1 duplica il filename</span>
+  </div>
+  <div class="path">Daily/2026-08-15.md, 2026-08-17.md, 2026-08-18.md</div>
+  <div class="excerpt">H1 = nome file esatto</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> L&#x27;header ripete l&#x27;informazione già nel path/titolo della nota — ridondanza pura, il lettore la vede due volte nello stesso schermo.</div>
+  <div class="action"><strong>Azione:</strong> Corretto meccanicamente (zone protette verificate intatte dopo la modifica).</div>
+  <div class="citation">Regole di progetto → CLAUDE.md regola 14 (em dash), Frontmatter standard</div>
+</div>
+<div class="finding warn">
+  <div class="top">
+    <span class="pill warn">WARN</span>
+    <span class="pill fixed">CORRETTO IN QUESTA ESECUZIONE</span>
+    <span class="check-id">G7.3 · H1 duplica il filename</span>
+  </div>
+  <div class="path">Vito Romano.md, Antonio Malatesta.md, Antonio Smaldini.md + 6 Daily profilo</div>
+  <div class="excerpt">H1 = nome file esatto</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> Stesso pattern sui 3 profili persona e sui rispettivi daily del 17-18/08 — 12 file totali coinvolti.</div>
+  <div class="action"><strong>Azione:</strong> Corretto meccanicamente (zone protette verificate intatte dopo la modifica).</div>
+  <div class="citation">Regole di progetto → CLAUDE.md regola 14 (em dash), Frontmatter standard</div>
+</div>
+<div class="finding fail">
+  <div class="top">
+    <span class="pill fail">FAIL</span>
+    <span class="pill fixed">CORRETTO IN QUESTA ESECUZIONE</span>
+    <span class="check-id">G7.2 · Frontmatter incompleto</span>
+  </div>
+  <div class="path">Context/*.md (10 file)</div>
+  <div class="excerpt">manca status:</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> Il root CLAUDE.md richiede esplicitamente &#x27;status: + 2+ tags: specifici&#x27; su ogni nota, ma l&#x27;intero layer Context, il livello più letto del vault, non aveva mai status:.</div>
+  <div class="action"><strong>Azione:</strong> Corretto meccanicamente (zone protette verificate intatte dopo la modifica).</div>
+  <div class="citation">Regole di progetto → CLAUDE.md regola 14 (em dash), Frontmatter standard</div>
+</div>
+<div class="finding warn">
+  <div class="top">
+    <span class="pill warn">WARN</span>
+    <span class="pill fixed">CORRETTO IN QUESTA ESECUZIONE</span>
+    <span class="check-id">G7.2 · Frontmatter incompleto</span>
+  </div>
+  <div class="path">Daily/, task-list/, profili Team (16 file)</div>
+  <div class="excerpt">manca status: e/o tags:</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> I file più recenti (17-18/08, creati dall&#x27;agente Vault-Operator) non seguivano lo standard frontmatter del vault: probabile gap nel template usato dall&#x27;agente per generarli.</div>
+  <div class="action"><strong>Azione:</strong> Corretto meccanicamente (zone protette verificate intatte dopo la modifica).</div>
+  <div class="citation">Regole di progetto → CLAUDE.md regola 14 (em dash), Frontmatter standard</div>
+</div>
+<div class="finding warn">
+  <div class="top">
+    <span class="pill warn">WARN</span>
+    <span class="pill fixed">CORRETTO IN QUESTA ESECUZIONE</span>
+    <span class="check-id">G7.2 · Frontmatter incompleto</span>
+  </div>
+  <div class="path">Skills/linkedin-writer/, Skills/newsletter-writer/ (4 file)</div>
+  <div class="excerpt">manca status: e tags:</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> Le note di riferimento skill non seguivano lo standard, rendendole meno filtrabili per stato.</div>
+  <div class="action"><strong>Azione:</strong> Corretto meccanicamente (zone protette verificate intatte dopo la modifica).</div>
+  <div class="citation">Regole di progetto → CLAUDE.md regola 14 (em dash), Frontmatter standard</div>
+</div>
+<div class="finding warn">
+  <div class="top">
+    <span class="pill warn">WARN</span>
+    <span class="pill fixed">CORRETTO IN QUESTA ESECUZIONE</span>
+    <span class="check-id">G7.2 · Frontmatter incompleto</span>
+  </div>
+  <div class="path">Resources/frameworks/*.md (26 file)</div>
+  <div class="excerpt">manca date:</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> Resources/CLAUDE.md dichiara esplicitamente &#x27;Frontmatter standard: type, date, tags, status&#x27; per questa cartella — l&#x27;intero batch di 26 pagine sintetizzate dall&#x27;ultimo /ingest bulk (23 libri + hub + vol.1/2) non aveva la data.</div>
+  <div class="action"><strong>Azione:</strong> Corretto meccanicamente (zone protette verificate intatte dopo la modifica).</div>
+  <div class="citation">Regole di progetto → CLAUDE.md regola 14 (em dash), Frontmatter standard</div>
+</div>
+<div class="finding warn">
+  <div class="top">
+    <span class="pill warn">WARN</span>
+    <span class="pill fixed">CORRETTO IN QUESTA ESECUZIONE</span>
+    <span class="check-id">G7.2 · Frontmatter mancante</span>
+  </div>
+  <div class="path">index.md</div>
+  <div class="excerpt">nessun frontmatter</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> Anche il catalogo wiki centrale, letto prima di ogni /query, non aveva frontmatter.</div>
+  <div class="action"><strong>Azione:</strong> Corretto meccanicamente (zone protette verificate intatte dopo la modifica).</div>
+  <div class="citation">Regole di progetto → CLAUDE.md regola 14 (em dash), Frontmatter standard</div>
+</div>
+
+    
+  </div>
+  
+</section>
+<section class="framework-section" id="F8">
+  <div class="head">
+    <h2>Reflection</h2>
+    <span class="id">F8</span>
+  </div>
+  <p class="why">Reflection (ispirato ad Anthropic Dreams): il lint per-file non può vedere contraddizioni, duplicati, assunzioni obsolete o temi emergenti. La sintesi nel curated layer più le sessioni recenti li individua.</p>
+  <div class="meta">
+    <span><strong>4</strong> file auditati</span>
+    <span><strong>16</strong> controlli eseguiti</span>
+    <span><strong>1</strong> finding (0 fail · 0 warn)</span>
+    <span><strong>0</strong> correzioni applicate</span>
+    <span>Riferimento: <code>references/anthropic-dreams.md</code></span>
+  </div>
+  <div class="findings">
+    <div class="finding info">
+  <div class="top">
+    <span class="pill info">INFO</span>
+    <span class="pill flag">DECLINATO DALL'UTENTE</span>
+    <span class="check-id">F8.4 · Contenuto dichiarato ma mai materializzato</span>
+  </div>
+  <div class="path">Context/brand.md, Context/infrastructure.md, Team/.../antonio-malatesta/Daily/2026-08-15.md</div>
+  <div class="excerpt">[[SCRIPT AI]] — &quot;Questi script vengono già usati (da estrarre da [[SCRIPT AI]])&quot;</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> Il lint per-file non può vedere questo: brand.md referenzia [[SCRIPT AI]] come se fosse una pagina wiki interna; infrastructure.md rivela che è in realtà una cartella esterna non versionata (Desktop/HACCP DIGITALE/MARKETING AI/); il daily del 15/08 di Antonio Malatesta dichiara &#x27;Archivio script AI (30 framework contenuto)&#x27; come completato. Solo leggendo i tre file insieme emerge che 30 framework di contenuto marketing esistono fuori dal vault, mai ingestiti, con un wikilink che punta al vuoto.</div>
+  <div class="action"><strong>Azione:</strong> Segnalato solo su richiesta esplicita dell&#x27;utente nel walk. Quando pronto: /ingest sulla cartella Desktop/HACCP DIGITALE/MARKETING AI/ risolverebbe il link e porterebbe 30 framework nel wiki layer.</div>
+  <div class="citation">anthropic-dreams.md → Sintesi cross-file rivela gap che nessun singolo file mostra</div>
+</div>
+
+    
+  </div>
+  
+</section>
+<section class="framework-section" id="F9">
+  <div class="head">
+    <h2>Architecture & Discoverability</h2>
+    <span class="id">F9</span>
+  </div>
+  <p class="why">Architecture &amp; Discoverability: percorri il percorso che Claude-collega effettivamente. Verifica che le voci di routing corrispondano alla realtà delle cartelle, che ogni cartella abbia un indice aggiornato, e che ogni file sia raggiungibile in ≤ 3 hop.</p>
+  <div class="meta">
+    <span><strong>106</strong> file auditati</span>
+    <span><strong>320</strong> controlli eseguiti</span>
+    <span><strong>2</strong> finding (0 fail · 2 warn)</span>
+    <span><strong>2</strong> correzioni applicate</span>
+    <span>Riferimento: <code>references/anthropic-architecture.md</code></span>
+  </div>
+  <div class="findings">
+    <div class="finding warn">
+  <div class="top">
+    <span class="pill warn">WARN</span>
+    <span class="pill fixed">CORRETTO IN QUESTA ESECUZIONE</span>
+    <span class="check-id">F9.3 · File orfano in root</span>
+  </div>
+  <div class="path">Benvenuto.md</div>
+  <div class="excerpt">&quot;Questo è il tuo nuovo vault. Prendi appunti, [[crea un collegamento]]...&quot;</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> File di benvenuto di default di Obsidian, mai personalizzato, con un wikilink placeholder verso una nota che non esiste. Non referenziato da nessuna tabella di routing né da index.md. La regola 16 del CLAUDE.md vieta esplicitamente file nella root del vault.</div>
+  <div class="action"><strong>Azione:</strong> Eliminato su conferma esplicita dell&#x27;utente (il vault ha già un onboarding reale altrove).</div>
+  <div class="citation">anthropic-architecture.md → Ogni file deve essere raggiungibile dal routing, mai orfano</div>
+</div>
+<div class="finding warn">
+  <div class="top">
+    <span class="pill warn">WARN</span>
+    <span class="pill fixed">CORRETTO IN QUESTA ESECUZIONE</span>
+    <span class="check-id">F9.0 · Struttura non documentata</span>
+  </div>
+  <div class="path">Team/nexvision/CLAUDE.md</div>
+  <div class="excerpt">Team/nexvision/Profiles/Vault-Operator/ esiste e ha Daily/ + task-list/ attivi ma non compare nella tabella &quot;Profili Attivi&quot;</div>
+  <div class="reasoning"><strong>Perché segnalato:</strong> Vault-Operator è l&#x27;agente di manutenzione autonomo (confermato leggendo il suo operator-prompt.md e i daily che genera), non una persona — ma vive nello stesso layout dei profili umani senza essere distinto nel routing. Un lettore futuro (umano o AI) potrebbe scambiarlo per un membro del team mancante dalla tabella.</div>
+  <div class="action"><strong>Azione:</strong> Aggiunta sezione &#x27;Profili di Sistema&#x27; in Team/nexvision/CLAUDE.md che lo classifica esplicitamente, su conferma dell&#x27;utente.</div>
+  <div class="citation">anthropic-architecture.md → Il routing deve corrispondere alla realtà delle cartelle</div>
+</div>
+
+    
+  </div>
+  
+</section>
+
+
+    <footer>
+      Generato da Nexvision OS Optimizer · 2026-08-18T01:00:00Z<br/>
+      Framework: F1 Anthropic CLAUDE.md · F2 Karpathy LLM Wiki · F3 Caveman Compression · F4 Chroma Context Rot · F5 Anthropic Memory · F6 Progressive Disclosure · G7 Igiene
+    </footer>
+
+  </div>
+</body>
+</html>

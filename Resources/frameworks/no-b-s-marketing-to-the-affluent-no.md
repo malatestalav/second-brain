@@ -4,6 +4,7 @@ source: Library/pdfs/no-b-s-marketing-to-the-affluent-no.md
 author: Dan S. Kennedy
 status: indexed
 tags: [marketing, business, dan-kennedy, pricing, luxury]
+date: 2026-08-18
 ---
 
 # No B.S. Marketing to the Affluent

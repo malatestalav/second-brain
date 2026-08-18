@@ -2,6 +2,8 @@
 type: task-list
 person: Antonio Malatesta
 updated: 2026-08-15
+status: active
+tags: [task-list, antonio-malatesta]
 ---
 
 # Task di Antonio Malatesta

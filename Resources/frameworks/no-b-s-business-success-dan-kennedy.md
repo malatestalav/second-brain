@@ -4,6 +4,7 @@ source: Library/pdfs/no-b-s-business-success-dan-kennedy.md
 author: Dan Kennedy
 status: indexed
 tags: [marketing, business, dan-kennedy, entrepreneurship, mindset]
+date: 2026-08-18
 ---
 
 # No B.S. Business Success

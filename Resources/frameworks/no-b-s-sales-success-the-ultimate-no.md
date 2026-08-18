@@ -4,11 +4,12 @@ source: Library/pdfs/no-b-s-sales-success-the-ultimate-no.md
 author: Dan Kennedy
 status: indexed
 tags: [marketing, business, dan-kennedy, vendita, persuasione]
+date: 2026-08-18
 ---
 
 # No B.S. Sales Success: The Ultimate No Holds Barred Kick Butt Take No Prisoners & Make Tons of Money Guide
 
-Manuale di vendita per chi vuole smettere di prospettare a freddo e costruire un sistema di vendita basato su posizionamento, prova e processo strutturato: [[Dan Kennedy]] applica alla vendita gli stessi principi di direct response marketing che usa nel resto della sua opera.
+Manuale di vendita per chi vuole smettere di prospettare a freddo e costruire un sistema di vendita basato su posizionamento, prova e processo strutturato: [[dan-kennedy|Dan Kennedy]] applica alla vendita gli stessi principi di direct response marketing che usa nel resto della sua opera.
 
 ## Argomenti Principali
 
