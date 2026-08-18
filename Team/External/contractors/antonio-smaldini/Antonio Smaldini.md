@@ -47,6 +47,10 @@ Commerciale esterno che si occupa di outreach diretto verso ristoranti e attivit
 - WhatsApp con Antonio per reporting
 - Feedback rapido su script e approccio
 
+## Materiali di Vendita
+
+- [Script di vendita — Playbook Commerciale](../../../../Projects/HACCP%20Digitale/drafts/script-vendita-commerciale.md) . apertura freddo/inbound, demo, obiezioni, chiusura, follow-up
+
 ## Compensazione
 
 TBD . Presumibilmente commission-based o fisso + bonus su licenze chiuse.
