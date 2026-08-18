@@ -47,6 +47,7 @@ Da definire con Antonio nei prossimi funnel test:
 - ~~"Innovativo"~~ (sovrausato)
 - ~~"Rivoluzionario"~~ (hype non supportata ancora)
 - ~~"Rubare" (es. "ti rubo due minuti")~~ (bandita esplicitamente da [[Antonio Malatesta]], in nessun contesto, nemmeno come modo di dire nell'apertura di uno script di vendita)
+- ~~"Disturbo" (es. "disturbo due minuti?")~~ (bandita esplicitamente da [[Antonio Malatesta]] nelle aperture di script di vendita: suona come una scusa, non come un'apertura sicura)
 
 **Raccomandazione:** Testare con il ristoratore effettivo . usare le parole che usa lui.
 
