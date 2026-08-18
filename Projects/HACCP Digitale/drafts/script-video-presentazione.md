@@ -38,9 +38,7 @@ Per questo ci ho messo tre anni a costruire un sistema digitale che fa tutto que
 
 ## CALL TO ACTION (70-90 sec)
 
-"Se gestisci un bar o un ristorante qui a Potenza o in provincia e questa cosa ti tocca da vicino, iscriviti, perché nei prossimi giorni ti faccio vedere esattamente come funziona, passo per passo.
-
-E se vuoi vederlo dal vivo prima ancora, ti lascio un link dove puoi prenotare una consulenza gratuita con me, senza impegno. Iscriviti, e ci vediamo nel prossimo video."
+"Se gestisci un bar o un ristorante qui a Potenza o in provincia e questa cosa ti tocca da vicino, scrivici. Ti mandiamo subito il link in chat, così prenoti la tua consulenza gratuita e capiamo insieme, senza impegno, se questo software può aiutarti oppure no."
 
 ---
 
@@ -50,4 +48,13 @@ E se vuoi vederlo dal vivo prima ancora, ti lascio un link dove puoi prenotare u
 - Tono: diretto, caldo, esperienza vissuta in prima persona. Coerente con [[brand]] (pratico, affidabile, empatico).
 - Linguaggio ICP: evitare "dematerializzazione", "cloud", "innovativo". Usare "tempo", "stress", "in regola", "tranquillo con l'ispettore" (vedi [[icp]]).
 - Geo-targeting esplicito nel copy: "Potenza e provincia", coerente con campagna organica locale.
-- CTA a due step: iscrizione nel video, poi link per prenotazione consulenza gratuita va in descrizione/primo commento (non nel parlato oltre l'accenno).
+- CTA: "scrivici" in commento o DM, azione trackable (non follow/iscrizione). Chi scrive riceve il link per prenotare la consulenza gratuita direttamente in chat.
+
+## Verifica framework (Library/Resources)
+
+Confrontato con [[the-ultimate-sales-letter-attract-new]], [[no-b-s-guide-to-powerful-presentatio]], [[speak-to-sell-persuade-influence-an]], [[no-b-s-guide-to-direct-response-soci]] (Dan Kennedy).
+
+- **Speakers' Formula** (attenzione, rapport, credibilità, problema, offerta, garanzia, urgenza, CTA): rispettata nella sequenza hook → promessa → problema → CTA. Credibilità costruita sull'esperienza diretta di [[Antonio Malatesta]] ("l'ho vissuta sulla mia pelle"), non su claim astratti.
+- **CTA misurabile, non vanity metric** ([[no-b-s-guide-to-direct-response-soci]]): "scrivici" genera un lead trackable (messaggio diretto), coerente col principio che like/follower non contano, solo l'azione che porta a un opt-in reale.
+- **Garanzia implicita**: "senza impegno" nella CTA copre la funzione di rassicurazione prevista dalla Irresistible Offer Architecture.
+- **Non applicato**: damaging admission (ammissione di un limite del prodotto, da [[the-ultimate-sales-letter-attract-new]]) e urgenza esplicita. Valutare se aggiungerli in una v2, ma il video resta breve (90 sec) e coerente col tono [[brand]] che evita hype.
