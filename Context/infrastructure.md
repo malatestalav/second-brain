@@ -18,7 +18,8 @@ status: active
 
 ## Gestione Progetti e CRM
 
-- **CRM:** Non esiste. Lista clienti manuale (spreadsheet Excel probabilmente)
+- **CRM:** Non esiste ancora uno strutturato, ma [[Antonio Malatesta]] ha un account [[GHL]] (GoHighLevel) scelto come piattaforma per il primo funnel di acquisizione (form di qualificazione + pipeline lead + notifiche), vedi [[funnel-questionario-ghl]]. Non ancora collegato come connettore MCP in sessione: configurazione manuale nell'account.
+- **CRM precedente:** Lista clienti manuale (spreadsheet Excel probabilmente)
 - **Progetti:** Non strutturato. Todo list mentale o note sparse
 - **Task management:** Niente
 
