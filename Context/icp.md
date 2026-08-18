@@ -1,7 +1,7 @@
 ---
 type: context
 tags: [icp, customer-profile]
-updated: 2026-08-15
+updated: 2026-08-18
 ---
 
 # Profilo Cliente Ideale (ICP)
@@ -16,7 +16,7 @@ updated: 2026-08-15
 
 ## La Loro Giornata Tipo
 
-1. Arrivo in attività — prima cosa: procedure necessarie per apertura
+1. Arrivo in attività, prima cosa: procedure necessarie per apertura
 2. Preparazione cucina / setup sala
 3. **Durante servizio:** Gestione clienti, pulizie, produzione cibo
 4. Se rimane tempo: Compilazione HACCP (spesso no, viene rinviata o saltata)
@@ -39,7 +39,7 @@ Descrivono il problema HACCP come:
 - "Burocrazia che mi stressa"
 - "Registri che non finiscono mai"
 
-Non parlano di "dematerializzazione" o "cloud" — parlano di:
+Non parlano di "dematerializzazione" o "cloud". Parlano di:
 - "Fare le cose veloce"
 - "Essere tranquillo con l'ispettore"
 - "Avere più tempo per il ristorante"
@@ -52,7 +52,7 @@ Non parlano di "dematerializzazione" o "cloud" — parlano di:
 
 **Trigger #1:** Controllo ASL imminente. Titolare realizza che la documentazione è un disastro.
 
-**Trigger #2:** Dipendente nuovo. Titolare deve insegnare come compilare registri cartacei — impiega ore, il dipendente odia il task.
+**Trigger #2:** Dipendente nuovo. Titolare deve insegnare come compilare registri cartacei. Impiega ore, il dipendente odia il task.
 
 **Trigger #3:** Ospite chiede informazioni su allergeni. Titolare non ritrova la scheda tecnica nei faldoni. Situazione imbarazzante.
 
@@ -71,7 +71,7 @@ Non parlano di "dematerializzazione" o "cloud" — parlano di:
 - Titolare valuta, parla con socio o con consulente
 - Firma contratto
 
-**Challenge:** Il titolare non è mai presente al primo passaggio — lavora nel ristorante. Commerciale deve cercare la finestra giusta.
+**Challenge:** Il titolare non è mai presente al primo passaggio. Lavora nel ristorante. Commerciale deve cercare la finestra giusta.
 
 ## Tendenze di Mercato che Li Riguardano
 
@@ -86,12 +86,12 @@ Non parlano di "dematerializzazione" o "cloud" — parlano di:
 
 **Canale dominante:** WhatsApp, Telegram, contatti diretti.
 
-Non seguono podcast di business, non leggono blog, non ascoltano webinar — sono iper-occupati nel ristorante. La migliore comunicazione è quella breve, diretta, che arriva dove sono (telefono).
+Non seguono podcast di business, non leggono blog, non ascoltano webinar. Sono iper-occupati nel ristorante. La migliore comunicazione è quella breve, diretta, che arriva dove sono (telefono).
 
 ## Esempi Reali di ICP (Clienti Attuali)
 
-1. **Bar singolo socio, Potenza** — Gestisce tutto lui, 45+ min/giorno su HACCP
-2. **Ristorante, Potenza** — Unico socio, staff piccolo, HACCP mai compilato in tempo
+1. **Bar singolo socio, Potenza**: Gestisce tutto lui, 45+ min/giorno su HACCP
+2. **Ristorante, Potenza**: Unico socio, staff piccolo, HACCP mai compilato in tempo
 3. [Clienti 3 e 4 nel backlog]
 
 Non ho nomi/indirizzi pubblici da condividere, ma profilo è chiaro.
@@ -107,3 +107,5 @@ Non ho nomi/indirizzi pubblici da condividere, ma profilo è chiaro.
 5. **Sequenza:** 3 tentativi in 5 giorni lavorativi se no-response, poi ritenta tra 30 giorni
 6. **Appuntamento:** Sempre con ore e giorno precisi, confermato il giorno prima
 7. **Demo:** Personalizzata sulla loro attività, non generica
+
+<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator — ultima modifica: 2026-08-18T00:30:00Z</span>

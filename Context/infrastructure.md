@@ -1,7 +1,7 @@
 ---
 type: context
 tags: [stack, tools, infrastructure]
-updated: 2026-08-15
+updated: 2026-08-18
 ---
 
 # Stack e Infrastruttura
@@ -98,8 +98,10 @@ Non so l'architettura interna di HACCP Digitale (web app). Da chiedere a Antonio
 
 ## Cosa Costruire Insieme (Priorità)
 
-1. **CRM minimale** — Tracciare prospect → demo → chiusura
-2. **Marketing automation** — Sequenza WhatsApp per Touch 1-2-3
-3. **Dashboard metriche** — Visualizzazione real-time flusso acquisizione
-4. **Knowledge base** — FAQ clienti, onboarding self-serve
-5. **Calendario booking** — Appuntamenti centralizzati e reminders
+1. **CRM minimale**: Tracciare prospect → demo → chiusura
+2. **Marketing automation**: Sequenza WhatsApp per Touch 1-2-3
+3. **Dashboard metriche**: Visualizzazione real-time flusso acquisizione
+4. **Knowledge base**: FAQ clienti, onboarding self-serve
+5. **Calendario booking**: Appuntamenti centralizzati e reminders
+
+<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator — ultima modifica: 2026-08-18T00:30:00Z</span>
