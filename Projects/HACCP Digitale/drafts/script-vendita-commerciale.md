@@ -5,161 +5,122 @@ status: draft
 tags: [script, vendita, commerciale, playbook]
 ---
 
-# Script di Vendita — Playbook per il Commerciale
+# Script di Vendita — Playbook Commerciale HACCP Digitale
 
-Playbook operativo per [[Antonio Smaldini]], costruito sui principi di vendita e persuasione della libreria in `Library/` (vedi sezione finale per l'elenco completo dei framework usati) e sui dati reali di [[icp]], [[pain-points]], [[services]] e [[brand]].
+Playbook operativo per chi vende HACCP Digitale sul campo (oggi [[Antonio Smaldini]], ma pensato per chiunque ricopra questo ruolo in futuro). Ogni tecnica citata è stata verificata leggendo il testo originale in `Library/pdfs/`, non solo le sintesi in `Resources/frameworks/`: ogni sezione indica libro, capitolo/step esatto, e cosa dice davvero il testo. Dove aggiungo un adattamento pratico per HACCP Digitale, lo segnalo chiaramente come tale, non come citazione.
 
 > [!info] Come usarlo
-> Non è testo da leggere a memoria parola per parola. Sono blocchi modulari: apertura, presentazione, obiezioni, chiusura, follow-up. Prendi la struttura e le frasi chiave, adattale al tuo modo di parlare sul campo.
+> Non è testo da leggere a memoria parola per parola. Prendi la struttura e adattala al tuo modo di parlare sul campo.
 
 ---
 
-## Fase 1a — Primo Contatto a Freddo (outreach diretto)
+## Fase 1 — Ottenere il Permesso di Vendere
 
-Per prospect non ancora scaldati dal video/funnel: visita diretta o WhatsApp.
+**Tecnica verificata:** [[no-b-s-sales-success-the-ultimate-no]], Parte 3, "Step One: Permission to Sell". Il libro dice esplicitamente che non si può vendere efficacemente a qualcuno che si sta mentalmente allontanando da te, e nemmeno costringerlo ad ascoltare. Serve prima ottenere un consenso esplicito ad ascoltare l'offerta. Il modello di domanda che il libro fornisce è preciso:
 
-**Principio guida:** in [[no-b-s-sales-success-the-ultimate-no]] Kennedy chiama questo step "Permission to Sell": prima di vendere, ti prendi il permesso di parlare, non attacchi subito col pitch. In [[making-them-believe-how-one-of-americ]] la formula è Problem → Agitate → Offer: nomini il problema che il ristoratore vive ma non dice ad alta voce, lo lasci risuonare, poi offri la via d'uscita.
+> "If I could show you how to ___, would you be interested in knowing more about it?"
 
-**Apertura (permission to sell):**
+**Adattamento pratico:**
 
-> "Ciao, scusa il disturbo due minuti. Gestisco un progetto qui a Potenza per i locali come il tuo, ti rubo davvero solo trenta secondi, poi decidi tu se ha senso continuare. Va bene?"
+> "Se ti facessi vedere come far compilare l'HACCP al tuo staff in pochi minuti invece che perderci 45 minuti al giorno, ti interesserebbe saperne di più?"
 
-**Problem/Agitate (linguaggio ICP, da [[pain-points]]):**
-
-> "Ti faccio una domanda diretta: quanto tempo perdi ogni giorno con i registri HACCP? Perché la maggior parte dei titolari che sento qui in zona mi dice la stessa cosa: si alza prima, li compila di corsa, o li rimanda e poi li fa tutti insieme la sera prima del controllo, di corsa, sperando di non aver dimenticato niente."
-
-Lascia un attimo di silenzio dopo questa frase. Non riempirlo tu.
-
-**Offer (transizione):**
-
-> "Io lavoro con un software che si chiama HACCP Digitale, fatto da uno che ha gestito ristoranti e discoteche per dieci anni qui in zona, non da un'azienda di software che non ha mai messo piede in una cucina. Ti faccio vedere due minuti come funziona, senza impegno?"
+Chi risponde sì ha dato il permesso di vendere: da lì in poi la conversazione prosegue con il suo consenso, non contro la sua resistenza.
 
 ---
 
-## Fase 1b — Richiamo Lead Inbound (dal video + questionario)
+## Fase 2 — Costruire Credibilità
 
-Questo lead ha già visto il video, ha scritto "scrivici", ha compilato le 4 domande su [specs/funnel-questionario-ghl.md](../specs/funnel-questionario-ghl.md). Non è un contatto a freddo: **non ripartire da zero**, usa le sue risposte.
+**Tecnica verificata:** [[making-them-believe-how-one-of-americ]] sostiene, come tesi centrale del libro, che l'autorità è precondizione della vendita: prima ancora dei risultati da mostrare, chi vende deve stabilire una posizione credibile (nel caso studio del libro, un titolo, una presentazione, una coerenza di fondo).
 
-**Regola d'oro:** apri citando esattamente quello che ha scritto lui. Aumenta la fiducia immediata (nessuno si aspetta che tu abbia letto davvero le sue risposte) e ti fa risparmiare tempo.
-
-> "Ciao [Nome], sono [Antonio], ho visto che hai compilato il questionario su HACCP Digitale. Hai scritto che [ripeti la sua risposta alla domanda 4, es. 'hai un controllo ASL in arrivo' / 'hai avuto un problema recente']. Raccontami meglio, così ti faccio vedere esattamente la parte del software che ti risolve quello."
-
-Priorità di richiamo (già definita nella spec del funnel): chi ha indicato controllo ASL imminente o problema/multa recente va richiamato per primo, entro poche ore.
+**Adattamento pratico per HACCP Digitale:** la credibilità qui non si costruisce con un titolo, ma con fatti verificabili: [[Antonio Malatesta]] ha gestito locali per quasi dieci anni prima di creare il software, non è un'azienda esterna che ha letto la normativa online. Menzionalo con un fatto concreto, non con un'affermazione generica tipo "siamo esperti".
 
 ---
 
-## Fase 2 — Presentazione / Demo dal Vivo
+## Fase 3 — Ammettere un Limite Reale (Damaging Admission)
 
-Struttura basata sulla **Speakers' Formula** di [[no-b-s-guide-to-powerful-presentatio]]: attenzione, rapport, credibilità, problema, offerta, garanzia, urgenza, call to action.
+**Tecnica verificata:** [[the-ultimate-sales-letter-attract-new]], Step 3, "Create a Damaging Admission and Address Flaws Openly". Il testo è chiaro: ogni prodotto ha dei lati poco attraenti, e ammetterli apertamente fa salire la credibilità agli occhi di chi ascolta, molto più di qualsiasi affermazione a favore. L'esempio del libro è una lettera di un piccolo ristorante italiano che ammette di non avere camerieri in smoking né menu altisonanti, e trasforma lo svantaggio in un motivo di fiducia.
 
-**1. Credibilità (senza vantarti, con i fatti):**
+**Adattamento pratico:**
 
-> "Prima di farti vedere il software: io e [[Antonio Malatesta]] non siamo sviluppatori che hanno letto la normativa su internet. Lui ha gestito locali per quasi dieci anni, io sto in giro tutti i giorni tra bar e ristoranti della zona. L'abbiamo fatto perché il problema lo vivevamo noi per primi."
+> "Il primo giorno, quando configuri tutto per la prima volta, ci metti 20-30 minuti, non 5. Dopo quello sì, sono davvero 10-15 minuti al giorno invece di 45."
 
-**2. Damaging admission (da [[the-ultimate-sales-letter-attract-new]]):** ammetti un limite vero prima che lo scopra da solo, disarma lo scetticismo.
-
-> "Ti dico una cosa onestamente: il primo giorno, quando configuri tutto per la prima volta, ci metti 20-30 minuti, non 5. Dopo quello, sì, sono davvero 10-15 minuti al giorno invece di 45. Non voglio venderti una bugia sul giorno uno."
-
-**3. Problema → Offerta (demo guidata sulle sue risposte al questionario, se inbound):**
-
-Mostra sul tablet/telefono, in ordine:
-- Registro temperature: un click, compilato
-- Notifica push a un dipendente (se ha detto di avere staff): mostra che il cameriere/cuoco riceve il promemoria da solo, il titolare non deve rincorrere nessuno
-- Dashboard master: tutto visibile in tempo reale, zero faldoni
-- Firma digitale e tracciamento audit: rassicurazione per chi teme la parte "legale"
-
-**4. Garanzia / rassicurazione:**
-
-> "Non è un impegno a vita: è una licenza annuale, {{'€300/anno' — da [[services]]}}, e da subito vedi se ti semplifica davvero la giornata."
-
-**5. Urgenza (onesta, non fabbricata — coerente con [[brand]] che evita hype):**
-
-> "Non ti dico 'offerta valida solo oggi' perché non è vero e non mi piace lavorare così. Ti dico solo questo: ogni settimana che rimandi sono altri 45 minuti al giorno che continui a perdere, e un altro controllo ASL che ti trova come oggi."
+Ammetti solo limiti veri. Non è una tecnica per inventare falsa umiltà, è per dire una cosa vera prima che il cliente la scopra da solo e inizi a dubitare del resto.
 
 ---
 
-## Fase 3 — Gestione Obiezioni
+## Fase 4 — Presentare Combinando Emozione e Logica
 
-### Obiezione Prezzo
+**Tecnica verificata:** [[no-b-s-sales-success-the-ultimate-no]], Parte 3, "Step Four: Emotional Logic". Il libro (citando il termine coniato da Zig Ziglar) dice che le persone comprano per motivi emotivi ma hanno bisogno di ragioni logiche per giustificare a se stesse la decisione. Elenca cinque fattori emotivi che spingono all'azione: **amore, orgoglio, paura, senso di colpa, avidità/interesse personale**. Il consiglio esplicito è combinare sempre emozione e logica insieme, mai una senza l'altra.
 
-Da [[no-b-s-price-strategy-dan-kennedy]]: il prezzo va difeso con **preeminence** (posizionamento da autorità, non sconto) e va **anticipato** prima che il prospect lo sollevi, non subito scontato per riflesso.
-
-> "So a cosa stai pensando: 300 euro l'anno. Fanno 25 euro al mese. Meno di una cena per due persone. In cambio non pensi più al rischio di una multa che parte da qualche centinaio di euro e sale, e ti riprendi almeno 3-4 ore a settimana. Non è un costo, è tempo che ti torna in tasca."
-
-**Se insiste per uno sconto:**
-
-> "Non è che il prezzo sia negoziabile perché non abbiamo fiducia in quello che vendiamo: è 300 euro per tutti, allo stesso modo. Quello che posso fare è aiutarti a partire subito così inizi a risparmiare tempo da questa settimana, non a fine mese."
-
-*Nota per te (venditore):* [[no-b-s-price-strategy-dan-kennedy]] dedica un capitolo intero al fatto che i venditori scontano per abitudine o insicurezza propria, non perché il cliente lo chieda davvero. Prima di offrire uno sconto, chiediti se te lo ha chiesto lui o se lo stai facendo tu per paura del "no".
-
-### Obiezione "Devo pensarci" / "Ne parlo con il socio"
-
-Da [[icp]]: il processo decisionale reale dura 4-5 ore non consecutive, spesso con un secondo passaggio. Non forzare la chiusura in un colpo solo se il titolare ha davvero bisogno di parlarne con un socio — ma qualifica la vera obiezione:
-
-> "Certo, ha senso. Dimmi una cosa però, così non ti richiamo a vuoto: è che vuoi confrontarti con [socio/consulente], o è il prezzo che ti frena? Te lo chiedo perché sono due conversazioni diverse."
-
-### Obiezione "Ho già un consulente HACCP che mi segue"
-
-> "Perfetto, allora hai già la parte difficile fatta, il piano di autocontrollo. HACCP Digitale non sostituisce il tuo consulente, semplifica la parte che fai tutti i giorni tu: la compilazione. Il consulente ti fa il piano una volta l'anno, tu i registri li tocchi ogni giorno."
-
-### Takeaway (per prospect tiepidi o non in target)
-
-Da [[no-b-s-sales-success-the-ultimate-no]]: a volte disqualificare aumenta il desiderio più di insistere. Utile quando senti che il prospect non è davvero interessato, o non rientra nel target (fuori Potenza e provincia, attività troppo piccola/informale):
-
-> "Guarda, onestamente non è per tutti. Se hai zero problemi con l'HACCP oggi e ti va bene così, probabilmente non ti cambia la vita. È per chi perde tempo vero o ha paura del prossimo controllo. Se non è il tuo caso, nessun problema, ci vediamo comunque in giro."
+**Adattamento pratico per HACCP Digitale** (quale fattore emotivo usare, con la giustificazione logica a supporto):
+- **Paura:** rischio di una sanzione al controllo ASL → giustificazione logica: costo di una multa vs. 300 euro/anno
+- **Orgoglio:** essere il locale più organizzato della zona, non quello che l'ispettore guarda con sospetto → giustificazione logica: dashboard sempre in ordine, tracciamento audit
+- **Interesse personale (tempo/denaro):** 3-4 ore a settimana recuperate → giustificazione logica: 45 minuti al giorno che diventano 10-15
 
 ---
 
-## Fase 4 — Chiusura
+## Fase 5 — Gestire il Prezzo
 
-Da [[no-b-s-sales-success-the-ultimate-no]]: "non si vende, si aiuta la gente a comprare." La chiusura non è un trucco finale, è la conseguenza naturale se le fasi precedenti hanno funzionato.
+**Tecnica verificata 1 — Beat the Price Bugaboo:** [[the-ultimate-sales-letter-attract-new]], Step 7. Tre strategie concrete dal testo:
+- **Confronto mele con pere:** non confrontare il prezzo con quello di un concorrente diretto, confrontalo con un costo di categoria diversa e più alto. *Adattamento:* non paragonare 300€/anno ad "altri software", paragonalo al costo di una sanzione ASL o alle ore di lavoro perse in un anno.
+- **Vendere il "bulk":** elencare tutto ciò che è incluso per far percepire la mole di valore, non solo il prezzo. *Adattamento:* "300 euro l'anno ti danno registri illimitati, notifiche automatiche, dashboard multi-utente, firma digitale, tracciamento audit completo" — elenca, non riassumere.
+- **Parlare del costo per sviluppare l'offerta:** il libro mostra che spiegare l'impegno dietro un prodotto ne aumenta il valore percepito. *Adattamento:* i tre anni di sviluppo, testati su locali veri, non su un foglio Excel teorico.
 
-> "Da quello che mi hai detto, ha senso partire. Ti serve solo il telefono e cinque minuti, ti attivo la licenza adesso e ti faccio vedere subito come configurare il primo registro insieme, così esci da qui con tutto già impostato."
+**Tecnica verificata 2 — Triangle of Preeminence:** [[no-b-s-price-strategy-dan-kennedy]], Capitolo 8. Il testo definisce preeminenza come "surpassing all others in a distinguished way", costruita su tre lati: competenza/servizio eccellente, marketing ad alta visibilità, coinvolgimento nella comunità. Il principio: chi costruisce preeminenza rende il prezzo una preoccupazione secondaria per il cliente.
 
-Chiudi sempre attivando qualcosa in presenza (non "ti mando il link dopo"): riduce il rischio che si raffreddi.
+**Tecnica verificata 3 — Discounting Without Damage:** [[no-b-s-price-strategy-dan-kennedy]], Capitolo 2. Il testo è netto: scontare sposta l'attenzione dal valore al prezzo e danneggia la percezione di valore stessa. Cita studi (su farmaci, prodotti cosmetici, hotel) in cui lo stesso prodotto venduto scontato viene valutato peggio da chi l'ha comprato scontato rispetto a chi ha pagato il prezzo pieno. **Non è un'opinione, è un dato riportato nel libro.**
 
----
+**Adattamento pratico se il cliente chiede uno sconto:**
 
-## Fase 5 — Morning After (post-vendita immediato)
-
-Da [[no-b-s-sales-success-the-ultimate-no]], il sesto step del processo: la vendita non finisce alla firma, il giorno dopo è dove nasce il rimorso da acquisto o la conferma.
-
-- Messaggio WhatsApp entro 24 ore dalla chiusura: "Tutto ok con la prima compilazione? Se qualcosa non è chiaro scrivimi, sono qui."
-- Se ha dipendenti: verifica che almeno un membro dello staff abbia ricevuto e capito la prima notifica push.
-- Annota il cliente nella pipeline GHL come "Cliente" e segnala ad [[Antonio Malatesta]] eventuali frizioni emerse nel primo utilizzo (feedback prodotto).
+> "Il prezzo è lo stesso per tutti, 300 euro l'anno. Quello che posso fare è aiutarti a partire subito, così inizi a risparmiare tempo da questa settimana."
 
 ---
 
-## Fase 6 — Follow-up per Chi Non Chiude Subito
+## Fase 6 — Chiudere e il Giorno Dopo (Morning After)
 
-Da [[no-b-s-trust-based-marketing-the-ult]]: la "delayed sale". Non serve chiudere al primo incontro, serve non sparire e continuare a costruire fiducia senza essere invadente.
+**Tecnica verificata:** [[no-b-s-sales-success-the-ultimate-no]], Parte 3, "Step Six: The Morning After". Il testo spiega che alcuni clienti soffrono di "rimorso da acquisto" nei giorni successivi alla firma, quando l'emozione del momento è passata. Il rimedio descritto: un messaggio o lettera di rassicurazione post-vendita che ringrazia, si congratula per la scelta e ribadisce le ragioni per cui era una buona decisione; eventualmente un piccolo omaggio non concordato durante la vendita. Il libro collega esplicitamente questo passaggio anche alla costruzione di un sistema di referral basato sulla relazione, non sulla singola transazione.
 
-Sequenza consigliata (coerente con la strategia già in [[icp]]: 3 tentativi in 5 giorni lavorativi, poi ritenta tra 30 giorni):
-1. **Giorno 0:** demo fatta, nessuna chiusura → messaggio di ringraziamento, nessuna pressione
-2. **Giorno 2-3:** invia un contenuto di valore, non un altro pitch (es. il video di [drafts/script-video-presentazione.md](../drafts/script-video-presentazione.md), o la testimonianza di uno dei 4 clienti attuali)
-3. **Giorno 5:** ultimo tentativo diretto: "Hai avuto modo di pensarci? Se serve altro tempo nessun problema, ti richiamo tra un mese."
-4. **Giorno 30:** ritenta, spesso il trigger nel frattempo è cambiato (nuovo controllo ASL, nuovo dipendente, problema con un cliente allergico)
-
----
-
-## Nota per Te (gestione del "no")
-
-Da [[zero-resistance-selling-etc]]: la riluttanza a fare la chiamata o la visita successiva dopo una serie di "no" non è pigrizia, è un meccanismo psicologico normale, non un giudizio sulle tue capacità. Un "no" di oggi è un dato di processo, non un verdetto definitivo su di te. Se senti che rimandi il prossimo contatto dopo un rifiuto, è il segnale per farlo prima, non dopo.
+**Adattamento pratico:**
+- Messaggio WhatsApp entro 24 ore dalla chiusura: ringraziamento, non ulteriore vendita
+- Verifica che almeno un membro dello staff abbia ricevuto e capito la prima notifica push
+- Solo dopo che il cliente ha visto il primo beneficio reale, chiedi un referral
 
 ---
 
-## Framework Usati (Library/Resources)
+## Fase 7 — Perché Non Rincorrere Troppo (Takeaway Selling)
 
-Playbook costruito su questi framework della libreria, tutti sintetizzati in `Resources/frameworks/`:
+**Tecnica verificata:** [[no-b-s-sales-success-the-ultimate-no]], Parte 5, "The Awesome Power of Takeaway Selling". Attenzione: **non è una battuta da dire al cliente**. Il libro descrive un meccanismo di scarsità strutturale basato su domanda e offerta: rendersi meno accessibili aumenta il valore percepito. Gli esempi concreti nel testo sono un consulente che non risponde al telefono se non ai clienti VIP, e un venditore di un'opportunità di business che richiede al prospect di compilare un questionario di quattro pagine prima ancora di ricevere la brochure.
 
-- [[no-b-s-sales-success-the-ultimate-no]] . struttura in 6 step del processo di vendita, takeaway selling, "aiutare a comprare"
-- [[no-b-s-guide-to-powerful-presentatio]] . Speakers' Formula per la struttura della demo
-- [[making-them-believe-how-one-of-americ]] . formula Problem/Agitate/Offer, autorità come precondizione
-- [[the-ultimate-sales-letter-attract-new]] . damaging admission, gestione obiezione prezzo
-- [[no-b-s-price-strategy-dan-kennedy]] . preeminence pricing, anti-sconto riflesso
-- [[no-b-s-trust-based-marketing-the-ult]] . delayed sale, follow-up basato su fiducia non su pressione
+**Perché questo riguarda già HACCP Digitale:** il questionario di 4 domande in [specs/funnel-questionario-ghl.md](../specs/funnel-questionario-ghl.md), da compilare prima di ottenere il link per la consulenza gratuita, è esattamente questo meccanismo applicato al funnel. Per il venditore la conseguenza pratica è: non serve rincorrere un lead con più messaggi di quanti ne servano, e non serve accettare di parlare con chiunque immediatamente. Il filtro fa parte della strategia, non è un limite da aggirare.
+
+---
+
+## Fase 8 — Struttura della Presentazione
+
+**Tecnica verificata:** [[no-b-s-guide-to-powerful-presentatio]], Capitolo 17, "The Organized Mind Buys: Sequencing Content for Persuasive Impact". Il libro elenca una sequenza precisa in cinque step: **Attention → Establish the Need → Satisfying the Need → Visualization → Call to Action**.
+
+**Adattamento pratico per la demo dal vivo:**
+1. **Attention:** apri con la domanda di permission-to-sell (Fase 1)
+2. **Establish the Need:** fai emergere il problema reale del suo locale (tempo perso, rischio ASL)
+3. **Satisfying the Need:** mostra il software che risolve esattamente quel problema
+4. **Visualization:** fagli immaginare la prossima settimana senza quel problema ("niente più sera prima del controllo a compilare tutto di corsa")
+5. **Call to Action:** chiudi attivando la licenza lì, non "ti mando il link dopo"
+
+---
+
+## Nota per il Venditore — Gestire il "No"
+
+**Tecnica verificata:** [[zero-resistance-selling-etc]] descrive la riluttanza a fare il prossimo contatto dopo un rifiuto ("call reluctance") come conseguenza diretta dell'immagine che una persona ha di sé (self-image), non come pigrizia. Il rimedio proposto dal libro è la pratica ripetuta di visualizzazione mentale (mental rehearsal) della situazione temuta con esito positivo, prima di affrontarla dal vivo.
+
+---
+
+## Framework Verificati (Library/Resources)
+
+- [[no-b-s-sales-success-the-ultimate-no]] . Permission to Sell, Emotional Logic, The Morning After, Takeaway Selling
+- [[the-ultimate-sales-letter-attract-new]] . Damaging Admission, Beat the Price Bugaboo
+- [[no-b-s-price-strategy-dan-kennedy]] . Triangle of Preeminence, Discounting Without Damage
+- [[no-b-s-guide-to-powerful-presentatio]] . sequenza in 5 step per la presentazione persuasiva
+- [[making-them-believe-how-one-of-americ]] . autorità come precondizione della vendita
 - [[zero-resistance-selling-etc]] . gestione psicologica del "no" per il venditore
-- [[speak-to-sell-persuade-influence-an]] . tono da autorità/esperto durante la demo one-to-one
-- [[magnetic-marketing-how-to-attract-a-f-pdfgear-com]] . coerenza del messaggio (Chi/Messaggio/Media) tra video, funnel e script di vendita
 
-Non ho attinto ai libri della libreria non pertinenti alla vendita diretta (es. time management, wealth attraction, get rich guide to info marketing): restano disponibili in `Resources/frameworks/` per altri usi futuri.
+Ogni tecnica sopra è stata verificata leggendo il passaggio originale nel relativo file in `Library/pdfs/`, non solo la sintesi in `Resources/frameworks/`.

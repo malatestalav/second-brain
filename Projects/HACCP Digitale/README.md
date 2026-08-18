@@ -18,4 +18,4 @@ Lanciato da 20 giorni, 4 licenze vendute. Focus attuale: costruire il funnel di 
 - [Script video presentazione (promessa-problema-CTA)](drafts/script-video-presentazione.md) . primo video organico, target Potenza e provincia
 - [Spec funnel questionario + GHL](specs/funnel-questionario-ghl.md) . pagina di qualificazione lead collegata alla CTA del video, da configurare manualmente in GHL
 - [Workflow completo campagna](specs/workflow-campagna-completo.md) . scaletta end-to-end dal video organico alla delivery finale del cliente
-- [Script di vendita per il commerciale](drafts/script-vendita-commerciale.md) . playbook per [[Antonio Smaldini]]: apertura, demo, obiezioni, chiusura, follow-up
+- [Script di vendita commerciale](drafts/script-vendita-commerciale.md) . playbook per chi vende HACCP Digitale sul campo (oggi [[Antonio Smaldini]]): apertura, demo, prezzo, chiusura, follow-up, ogni tecnica verificata sul testo originale dei libri

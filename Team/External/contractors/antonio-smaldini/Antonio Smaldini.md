@@ -49,7 +49,7 @@ Commerciale esterno che si occupa di outreach diretto verso ristoranti e attivit
 
 ## Materiali di Vendita
 
-- [Script di vendita — Playbook Commerciale](../../../../Projects/HACCP%20Digitale/drafts/script-vendita-commerciale.md) . apertura freddo/inbound, demo, obiezioni, chiusura, follow-up
+- [Script di vendita — Playbook Commerciale](../../../../Projects/HACCP%20Digitale/drafts/script-vendita-commerciale.md) . playbook generale per chi vende HACCP Digitale sul campo, non specifico a questo profilo: apertura, demo, prezzo, chiusura, follow-up
 
 ## Compensazione
 

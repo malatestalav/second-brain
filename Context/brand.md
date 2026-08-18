@@ -46,6 +46,7 @@ Da definire con Antonio nei prossimi funnel test:
 - ~~"Portare il tuo business al livello successivo"~~ (cliché marketing)
 - ~~"Innovativo"~~ (sovrausato)
 - ~~"Rivoluzionario"~~ (hype non supportata ancora)
+- ~~"Rubare" (es. "ti rubo due minuti")~~ (bandita esplicitamente da [[Antonio Malatesta]], in nessun contesto, nemmeno come modo di dire nell'apertura di uno script di vendita)
 
 **Raccomandazione:** Testare con il ristoratore effettivo . usare le parole che usa lui.
 
