@@ -16,15 +16,15 @@ Video in prima persona di [[Antonio Malatesta]]. Campagna organica, targeting Po
 
 ## HOOK (0-5 sec)
 
-"Ragazzi, faccio questo video perché ci ho messo tre anni a risolvere questo problema."
+"Ragazzi, faccio questo video perché chi mi conosce sa che gestisco locali da quasi dieci anni."
 
 ## PROMESSA (5-20 sec)
 
-"Tre anni tra ristoranti e discoteche gestite da me, prima di arrivare a una soluzione che funziona davvero. Oggi, se hai un bar o un ristorante qui a Potenza o in provincia, ti faccio vedere come si gestisce l'HACCP in pochi minuti al giorno, invece che in ore. Niente più carta, niente più stress prima del controllo. Solo tu, il telefono, e la certezza di essere in regola."
+"E in tutti questi anni ho sempre avuto lo stesso problema: gestire l'HACCP su carta. Per questo ci ho messo tre anni a creare un software, si chiama HACCP Digitale, che semplifica tutta questa gestione e la collega a tutto il resto della tua attività. Se hai un bar o un ristorante qui a Potenza o in provincia, oggi ti faccio vedere come funziona: HACCP in pochi minuti al giorno, invece che in ore. Niente più carta, niente più stress prima del controllo. Solo tu, il telefono, e la certezza di essere in regola."
 
 ## PROBLEMA (20-70 sec)
 
-"Perché te lo dico con questa sicurezza? Perché l'ho vissuto sulla mia pelle, come lo vivi tu adesso.
+"Perché te lo dico con questa sicurezza? Perché l'ho vissuto sulla mia pelle, in quasi dieci anni tra ristoranti e discoteche gestite da me, e lo vivi tu adesso.
 
 Ti alzi la mattina, apri il locale, e prima ancora di pensare alla cucina o alla sala devi pensare ai registri. Temperature dei frigo, schede di ricevimento merce, pulizie. Roba che ti ruba 45 minuti al giorno, tutti i giorni, quando quel tempo dovresti darlo ai clienti, non alla burocrazia.
 
@@ -32,9 +32,9 @@ E se hai dipendenti lo sai meglio di me: il cuoco compila le schede con le mani 
 
 Poi magari arriva un cliente e ti chiede se un piatto contiene allergeni. Tu lo sai che la scheda tecnica esiste, il problema è trovarla in mezzo a un faldone di carta.
 
-Io questa cosa l'ho vissuta per anni gestendo le mie attività. E la verità è che i registri cartacei non sono solo una perdita di tempo: sono un rischio. Un rischio per la tua tranquillità, e un rischio legale, perché la responsabilità è tua, non del cuoco o del cameriere.
+Io questa cosa l'ho vissuta per quasi dieci anni gestendo le mie attività. E la verità è che i registri cartacei non sono solo una perdita di tempo: sono un rischio. Un rischio per la tua tranquillità, e un rischio legale, perché la responsabilità è tua, non del cuoco o del cameriere.
 
-Per questo ci ho messo tre anni a costruire un sistema digitale che fa tutto questo al posto tuo: registri compilati dal telefono in pochi secondi, notifiche che ricordano al tuo team cosa fare e quando, e tu che hai sempre sotto controllo la situazione senza dover correre dietro a nessuno."
+Per questo HACCP Digitale fa tutto questo al posto tuo: registri compilati dal telefono in pochi secondi, notifiche che ricordano al tuo team cosa fare e quando, e tu che hai sempre sotto controllo la situazione senza dover correre dietro a nessuno."
 
 ## CALL TO ACTION (70-90 sec)
 
