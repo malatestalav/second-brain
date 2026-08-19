@@ -29,3 +29,10 @@ Cronologia di tutte le fonti aggiunte al vault via `/ingest`.
  - Nota qualità: `no-b-s-trust-based-marketing-the-ult` aveva font offuscato nel PDF sorgente (estrazione testo garbled); sintesi recuperata leggendo pagine renderizzate come immagini, flag lasciato nella pagina wiki
 
 **Totale ingestato:** 23 libri (+ 2 in attesa di OCR) | 24 pagine wiki create | ~7.6M caratteri estratti
+
+- **00:35** | ingest | pdf | procedure-haccp-digitale | 3 wiki pages created
+  - Raw: `Library/pdfs/procedure-haccp-digitale.md` (63 pag., 89k caratteri)
+  - Wiki: [[procedure-haccp-digitale]] (Processo: 13 GMP e punti critici di controllo HACCP)
+  - Stub creati: [[haccp-digitale]] (prodotto software), [[nexvision]] (azienda produttrice)
+
+**Totale ingestato:** 1 documento | 3 pagine wiki create | ~89k caratteri estratti

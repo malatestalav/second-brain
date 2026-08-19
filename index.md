@@ -20,6 +20,7 @@ L'AI legge questo file **prima** di rispondere a una `/query`, per orientarsi se
 Documenti grezzi in `Library/`, raggruppati per tipo. Una voce per source ingestato. Linka al `.md` estratto (non al binario).
 
 ### PDF
+- [Procedure Autocontrollo HACCP Digitale](Library/pdfs/procedure-haccp-digitale.md): Manuale 13 procedure GMP e punti critici di controllo per software NeXvision
 - [Magnetic Marketing](Library/pdfs/magnetic-marketing-how-to-attract-a-f-pdfgear-com.md): Attrarre clienti con offerta mirata invece di inseguirli con branding generico
 - [Making Them Believe](Library/pdfs/making-them-believe-how-one-of-americ.md): Tecniche di autorità e persuasione di un ciarlatano geniale, applicate al business onesto
 - [Million Dollar Swipe File](Library/pdfs/million-dollar-swipe-file-dan-kennedy.md): PDF scansionato, testo non estraibile: richiede OCR (`status: needs-ocr`)
@@ -66,7 +67,7 @@ Documenti grezzi in `Library/`, raggruppati per tipo. Una voce per source ingest
 Pagine che rappresentano entità (aziende, persone, prodotti, framework). Aggregano informazioni da più sources.
 
 ### Aziende
-<!-- Resources/companies/ -->
+- [[nexvision]]: Produttore del software HACCP Digitale (stub)
 
 ### Framework
 - [[management-series-vol-1]]: PR, Marketing, Admin Know-How (L. Ron Hubbard)
@@ -97,7 +98,7 @@ Pagine che rappresentano entità (aziende, persone, prodotti, framework). Aggreg
 - [[zero-resistance-selling-etc]]: Psico-cibernetica applicata alla vendita
 
 ### Prodotti
-<!-- Resources/products/ -->
+- [[haccp-digitale]]: Software di autocontrollo HACCP per attività alimentari (NeXvision, stub)
 
 ### Competitor
 <!-- Intelligence/competitors/ -->
@@ -119,6 +120,9 @@ Pagine di sintesi, analisi, comparazioni, ricerca tematica. Spesso generate via 
 
 ### Decisioni
 <!-- Intelligence/decisions/ -->
+
+### Processi
+- [[procedure-haccp-digitale]]: 13 procedure GMP e punti critici di controllo (temperature, allergeni, pest control, tracciabilità)
 
 ---
 
