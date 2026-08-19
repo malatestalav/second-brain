@@ -32,7 +32,7 @@ status: active
 
 ## Frasi Caratteristiche Utilizzate nei Contenuti
 
-Questi script vengono già usati (da estrarre da [[SCRIPT AI]]):
+Questi script vengono già usati (vedi [[script-ai-video-social|Script AI — Content Bank Video Social]]):
 - "Ristoratore! E basta!" (hook problem-based)
 - "La verità è che..." (pattern verità scomoda)
 - "Se non..." (consequence-based)

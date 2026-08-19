@@ -20,4 +20,8 @@ Lanciato da 20 giorni, 4 licenze vendute. Focus attuale: costruire il funnel di 
 - [Workflow completo campagna](specs/workflow-campagna-completo.md) . scaletta end-to-end dal video organico alla delivery finale del cliente
 - [Script di vendita commerciale](drafts/script-vendita-commerciale.md) . playbook per chi vende HACCP Digitale sul campo (oggi [[Antonio Smaldini]]): apertura, demo, prezzo, chiusura, follow-up, ogni tecnica verificata sul testo originale dei libri
 - [Simulazioni di vendita](drafts/script-simulazioni-vendita.md) . 6 dialoghi completi dal saluto all'arrivederci, uno per ogni tipo di obiezione
-- [Nuovi script video social](drafts/script-video-idee-social.md) . nuova serie sulle 3 strutture del content bank esistente (`SCRIPT AI.docx`), basata su fatti del vault non ancora usati
+- [Nuovi script video social](drafts/script-video-idee-social.md) . nuova serie sulle 3 strutture del content bank esistente, basata su fatti del vault non ancora usati
+
+## Riferimenti
+
+- [Script AI — Content Bank Video Social](../../Resources/templates/script-ai-video-social.md) . i 30 script originali già in uso, template curato in `Resources/templates/`
