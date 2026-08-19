@@ -21,6 +21,7 @@ Lanciato da 20 giorni, 4 licenze vendute. Focus attuale: costruire il funnel di 
 - [Script di vendita commerciale](drafts/script-vendita-commerciale.md) . playbook per chi vende HACCP Digitale sul campo (oggi [[Antonio Smaldini]]): apertura, demo, prezzo, chiusura, follow-up, ogni tecnica verificata sul testo originale dei libri
 - [Simulazioni di vendita](drafts/script-simulazioni-vendita.md) . 6 dialoghi completi dal saluto all'arrivederci, uno per ogni tipo di obiezione
 - [Nuovi script video social](drafts/script-video-idee-social.md) . nuova serie sulle 3 strutture del content bank esistente, basata su fatti del vault non ancora usati
+- [Script oltre bar e ristoranti](drafts/script-video-altre-attivita.md) . 5 script per macellerie, pescherie, latterie/caseifici, hook-problema-soluzione-CTA
 
 ## Riferimenti
 
