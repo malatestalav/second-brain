@@ -20,6 +20,10 @@ Lanciato da 20 giorni, 4 licenze vendute. Focus attuale: costruire il funnel di 
 - [Spec funnel questionario + GHL](specs/funnel-questionario-ghl.md) . pagina di qualificazione lead collegata alla CTA del video, da configurare manualmente in GHL
 - [Workflow completo campagna](specs/workflow-campagna-completo.md) . scaletta end-to-end dal video organico alla delivery finale del cliente
 - [Script di vendita commerciale](drafts/script-vendita-commerciale.md) . playbook per chi vende HACCP Digitale sul campo (oggi [[Antonio Smaldini]]): apertura, demo, prezzo, chiusura, follow-up, ogni tecnica verificata sul testo originale dei libri
+- [SOP processo di vendita](specs/sop-processo-vendita.md) . procedura dettagliata fase per fase (lista prospect, 3 touch, demo, chiusura, retry, revisione settimanale, espansione geografica), con trigger, responsabile e cosa registrare nei tracker
+- [Log appuntamenti e prospect](tracking/appuntamenti-log.md) . tracker in tempo reale di ogni prospect nel funnel
+- [Log obiezioni](tracking/obiezioni-log.md) . tracker delle obiezioni incontrate in demo, con risposta usata ed esito
+- [Metriche settimanali funnel](tracking/metriche-settimanali.md) . rollup settimanale contatti → risposte → appuntamenti → demo → chiusure, verso l'obiettivo Q3
 - [Simulazioni di vendita](drafts/script-simulazioni-vendita.md) . 6 dialoghi completi dal saluto all'arrivederci, uno per ogni tipo di obiezione
 - [Nuovi script video social](drafts/script-video-idee-social.md) . nuova serie sulle 3 strutture del content bank esistente, basata su fatti del vault non ancora usati
 - [Script oltre bar e ristoranti](drafts/script-video-altre-attivita.md) . 5 script per macellerie, pescherie, latterie/caseifici, hook-problema-soluzione-CTA

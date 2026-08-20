@@ -50,6 +50,9 @@ Commerciale esterno che si occupa di outreach diretto verso ristoranti e attivit
 ## Materiali di Vendita
 
 - [Script di vendita — Playbook Commerciale](../../../../Projects/HACCP%20Digitale/drafts/script-vendita-commerciale.md) . playbook generale per chi vende HACCP Digitale sul campo, non specifico a questo profilo: apertura, demo, prezzo, chiusura, follow-up
+- [SOP processo di vendita](../../../../Projects/HACCP%20Digitale/specs/sop-processo-vendita.md) . procedura operativa fase per fase da seguire sul campo, con cosa registrare in quale tracker
+- [Log appuntamenti e prospect](../../../../Projects/HACCP%20Digitale/tracking/appuntamenti-log.md) . da aggiornare in tempo reale ad ogni touch/incontro
+- [Log obiezioni](../../../../Projects/HACCP%20Digitale/tracking/obiezioni-log.md) . da compilare subito dopo ogni demo o rifiuto
 
 ## Compensazione
 

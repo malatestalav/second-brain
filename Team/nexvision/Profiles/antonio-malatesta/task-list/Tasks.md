@@ -13,6 +13,8 @@ tags: [task-list, antonio-malatesta]
 - [ ] Creare 3-5 video testimonial da clienti attuali (60-90 sec, verticali, via telefono è OK)
 - [ ] Testare sequenza WhatsApp 3-touch su 20 prospect (Touch 1 = problema, Touch 2 = video, Touch 3 = richiesta appuntamento)
 - [ ] Perfezionare script telefonico post-demo ("Perfetto, allora ci vediamo... le mando il video su WhatsApp")
+- [ ] Condividere con [[Antonio Smaldini]] la [SOP processo di vendita](../../../../Projects/HACCP%20Digitale/specs/sop-processo-vendita.md) e i tracker collegati, avviare la compilazione in tempo reale
+- [ ] Fissare la prima revisione settimanale di 15 minuti (Fase 8 della SOP) e compilare la prima riga in [metriche-settimanali.md](../../../../Projects/HACCP%20Digitale/tracking/metriche-settimanali.md)
 
 ## 📊 Metriche da Tracciare
 
