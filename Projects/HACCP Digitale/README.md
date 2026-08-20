@@ -3,6 +3,7 @@ type: project
 project: HACCP Digitale
 status: active
 tags: [haccp-digitale, marketing, video]
+aliases: [HACCP Digitale]
 ---
 
 # HACCP Digitale
@@ -25,4 +26,6 @@ Lanciato da 20 giorni, 4 licenze vendute. Focus attuale: costruire il funnel di 
 
 ## Riferimenti
 
-- [Script AI — Content Bank Video Social](../../Resources/templates/script-ai-video-social.md) . i 30 script originali già in uso, template curato in `Resources/templates/`
+- [Script AI, Content Bank Video Social](../../Resources/templates/script-ai-video-social.md) . i 30 script originali già in uso, template curato in `Resources/templates/`
+
+<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator, ultima modifica: 2026-08-19T09:30:00Z</span>

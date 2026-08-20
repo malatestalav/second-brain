@@ -4,7 +4,8 @@
       "Bash(gh auth *)",
       "Bash(gh api *)",
       "Bash(which gh *)",
-      "Bash(bash \"/Users/antoniomalatesta/Desktop/Second Brain/.claude/hooks/auto-push.sh\")"
+      "Bash(bash \"/Users/antoniomalatesta/Desktop/Second Brain/.claude/hooks/auto-push.sh\")",
+      "Bash(xargs -n1 basename)"
     ]
   }
 }
