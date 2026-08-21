@@ -21,6 +21,7 @@ Lanciato da 20 giorni, 4 licenze vendute. Focus attuale: costruire il funnel di 
 - [Workflow completo campagna](specs/workflow-campagna-completo.md) . scaletta end-to-end dal video organico alla delivery finale del cliente
 - [Script di vendita commerciale](drafts/script-vendita-commerciale.md) . playbook per chi vende HACCP Digitale sul campo (oggi [[Antonio Smaldini]]): apertura, demo, prezzo, chiusura, follow-up, ogni tecnica verificata sul testo originale dei libri
 - [SOP processo di vendita](specs/sop-processo-vendita.md) . procedura dettagliata fase per fase (lista prospect, 3 touch, demo, chiusura, retry, revisione settimanale, espansione geografica), con trigger, responsabile e cosa registrare nei tracker
+- [Workflow telefonate e WhatsApp](specs/workflow-commerciale-telefono-whatsapp.md) . giornata tipo del commerciale a blocchi orari, quale canale usare in ogni fase, script di chiamata e messaggio, regole per le chiamate a freddo e gestione no-show
 - [Log appuntamenti e prospect](tracking/appuntamenti-log.md) . tracker in tempo reale di ogni prospect nel funnel
 - [Log obiezioni](tracking/obiezioni-log.md) . tracker delle obiezioni incontrate in demo, con risposta usata ed esito
 - [Metriche settimanali funnel](tracking/metriche-settimanali.md) . rollup settimanale contatti → risposte → appuntamenti → demo → chiusure, verso l'obiettivo Q3

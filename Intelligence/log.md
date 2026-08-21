@@ -45,3 +45,8 @@ Cronologia di tutte le fonti aggiunte al vault via `/ingest`.
   - Tracking: `appuntamenti-log.md`, `obiezioni-log.md`, `metriche-settimanali.md` (`Projects/HACCP Digitale/tracking/`) — tabelle da compilare in tempo reale da [[Antonio Smaldini]]
   - Aggiornati: README del progetto HACCP Digitale, profilo di [[Antonio Smaldini]], task-list di [[Antonio Malatesta]]
   - Origine: sessione chat sulla preparazione della riunione commerciale del 20/08, non un ingest da fonte esterna
+
+- **build** | workflow telefonate/WhatsApp per il commerciale | 3 file creati/aggiornati
+  - Spec: [[workflow-commerciale-telefono-whatsapp]] (`Projects/HACCP Digitale/specs/`) — giornata a blocchi orari, regola di canale per fase, script chiamata/messaggio, regole chiamate a freddo e no-show
+  - Aggiornati: `appuntamenti-log.md` (nuova colonna "Ultimo Canale"), README progetto, profilo [[Antonio Smaldini]]
+  - Origine: richiesta diretta in chat, non un ingest da fonte esterna
