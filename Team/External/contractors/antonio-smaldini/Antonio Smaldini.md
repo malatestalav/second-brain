@@ -53,6 +53,7 @@ Commerciale esterno che si occupa di outreach diretto verso ristoranti e attivit
 - [SOP processo di vendita](../../../../Projects/HACCP%20Digitale/specs/sop-processo-vendita.md) . procedura operativa fase per fase da seguire sul campo, con cosa registrare in quale tracker
 - [Workflow telefonate e WhatsApp](../../../../Projects/HACCP%20Digitale/specs/workflow-commerciale-telefono-whatsapp.md) . giornata tipo a blocchi orari, quale canale usare in ogni fase, script di chiamata e messaggio
 - [Workflow contatti caldi](../../../../Projects/HACCP%20Digitale/specs/workflow-contatti-caldi.md) . percorso diretto per i conoscenti personali nel settore, senza le formalità del contatto a freddo
+- [Gestione obiezioni](../../../../Projects/HACCP%20Digitale/drafts/gestione-obiezioni.md) . riferimento rapido obiezione/risposta da consultare al volo durante demo e chiamate
 - [Log appuntamenti e prospect](../../../../Projects/HACCP%20Digitale/tracking/appuntamenti-log.md) . da aggiornare in tempo reale ad ogni touch/incontro
 - [Log obiezioni](../../../../Projects/HACCP%20Digitale/tracking/obiezioni-log.md) . da compilare subito dopo ogni demo o rifiuto
 

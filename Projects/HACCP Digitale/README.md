@@ -27,6 +27,7 @@ Lanciato da 20 giorni, 4 licenze vendute. Focus attuale: costruire il funnel di 
 - [Log obiezioni](tracking/obiezioni-log.md) . tracker delle obiezioni incontrate in demo, con risposta usata ed esito
 - [Metriche settimanali funnel](tracking/metriche-settimanali.md) . rollup settimanale contatti → risposte → appuntamenti → demo → chiusure, verso l'obiettivo Q3
 - [Simulazioni di vendita](drafts/script-simulazioni-vendita.md) . 6 dialoghi completi dal saluto all'arrivederci, uno per ogni tipo di obiezione
+- [Gestione obiezioni](drafts/gestione-obiezioni.md) . riferimento rapido obiezione/risposta per le obiezioni più comuni (prezzo, tempo/setup, scetticismo, non decide da solo, timing), da consultare al volo durante demo e chiamate
 - [Nuovi script video social](drafts/script-video-idee-social.md) . nuova serie sulle 3 strutture del content bank esistente, basata su fatti del vault non ancora usati
 - [Script oltre bar e ristoranti](drafts/script-video-altre-attivita.md) . 5 script per macellerie, pescherie, latterie/caseifici, hook-problema-soluzione-CTA
 - [Riunione con il commerciale, 20 agosto 2026](notes/riunione-commerciale-2026-08-20.md) . punti chiave, argomentazioni dal playbook di vendita, strategia concreta di commercializzazione ([versione PDF](notes/riunione-commerciale-2026-08-20.pdf))

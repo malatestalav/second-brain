@@ -51,6 +51,11 @@ Cronologia di tutte le fonti aggiunte al vault via `/ingest`.
   - Aggiornati: `appuntamenti-log.md` (nuova colonna "Ultimo Canale"), README progetto, profilo [[Antonio Smaldini]]
   - Origine: richiesta diretta in chat, non un ingest da fonte esterna
 
+- **build** | gestione obiezioni per il commerciale | 3 file creati/aggiornati
+  - Draft: [[gestione-obiezioni]] (`Projects/HACCP Digitale/drafts/`) — struttura obiezione/risposta per prezzo, tempo/setup, scetticismo prodotto, non decide da solo, timing; collegato al playbook completo e al tracker obiezioni
+  - Aggiornati: README progetto, profilo [[Antonio Smaldini]]
+  - Origine: richiesta diretta in chat, non un ingest da fonte esterna
+
 - **build** | workflow contatti caldi per il commerciale | 3 file creati/aggiornati
   - Spec: [[workflow-contatti-caldi]] (`Projects/HACCP Digitale/specs/`) — percorso più corto per conoscenti personali di [[Antonio Smaldini]]: niente permission-to-sell formale, demo anche in videochiamata, referral chiesto subito alla chiusura, nessun retry aggressivo sul rifiuto
   - Aggiornati: `appuntamenti-log.md` (nuova colonna "Tipo Contatto": Caldo/Freddo), README progetto, profilo [[Antonio Smaldini]]
