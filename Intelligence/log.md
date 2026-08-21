@@ -36,3 +36,12 @@ Cronologia di tutte le fonti aggiunte al vault via `/ingest`.
   - Stub creati: [[haccp-digitale]] (prodotto software), [[nexvision]] (azienda produttrice)
 
 **Totale ingestato:** 1 documento | 3 pagine wiki create | ~89k caratteri estratti
+
+## 2026-08-21
+
+- **build** | processo di vendita HACCP Digitale | 6 file creati/aggiornati, 0 pagine wiki (contenuto OS-layer, non da Library/)
+  - Nota: [[riunione-commerciale-2026-08-20]] (`Projects/HACCP Digitale/notes/`) — punti chiave, argomentazioni dal playbook, strategia di commercializzazione, esportata anche in PDF
+  - Spec: [[sop-processo-vendita]] (`Projects/HACCP Digitale/specs/`) — procedura in 9 fasi, trigger/responsabile/output per ciascuna
+  - Tracking: `appuntamenti-log.md`, `obiezioni-log.md`, `metriche-settimanali.md` (`Projects/HACCP Digitale/tracking/`) — tabelle da compilare in tempo reale da [[Antonio Smaldini]]
+  - Aggiornati: README del progetto HACCP Digitale, profilo di [[Antonio Smaldini]], task-list di [[Antonio Malatesta]]
+  - Origine: sessione chat sulla preparazione della riunione commerciale del 20/08, non un ingest da fonte esterna
