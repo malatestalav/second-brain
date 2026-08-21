@@ -60,3 +60,7 @@ Cronologia di tutte le fonti aggiunte al vault via `/ingest`.
   - Spec: [[workflow-contatti-caldi]] (`Projects/HACCP Digitale/specs/`) — percorso più corto per conoscenti personali di [[Antonio Smaldini]]: niente permission-to-sell formale, demo anche in videochiamata, referral chiesto subito alla chiusura, nessun retry aggressivo sul rifiuto
   - Aggiornati: `appuntamenti-log.md` (nuova colonna "Tipo Contatto": Caldo/Freddo), README progetto, profilo [[Antonio Smaldini]]
   - Origine: richiesta diretta in chat, non un ingest da fonte esterna
+
+- **build** | export PDF dei documenti commerciali | 4 PDF creati
+  - [[sop-processo-vendita]], [[workflow-commerciale-telefono-whatsapp]], [[workflow-contatti-caldi]], [[gestione-obiezioni]] esportati in PDF nelle rispettive cartelle, con link aggiunti nel README del progetto
+  - Origine: richiesta diretta in chat, non un ingest da fonte esterna
