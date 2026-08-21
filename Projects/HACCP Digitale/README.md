@@ -22,6 +22,7 @@ Lanciato da 20 giorni, 4 licenze vendute. Focus attuale: costruire il funnel di 
 - [Script di vendita commerciale](drafts/script-vendita-commerciale.md) . playbook per chi vende HACCP Digitale sul campo (oggi [[Antonio Smaldini]]): apertura, demo, prezzo, chiusura, follow-up, ogni tecnica verificata sul testo originale dei libri
 - [SOP processo di vendita](specs/sop-processo-vendita.md) . procedura dettagliata fase per fase (lista prospect, 3 touch, demo, chiusura, retry, revisione settimanale, espansione geografica), con trigger, responsabile e cosa registrare nei tracker
 - [Workflow telefonate e WhatsApp](specs/workflow-commerciale-telefono-whatsapp.md) . giornata tipo del commerciale a blocchi orari, quale canale usare in ogni fase, script di chiamata e messaggio, regole per le chiamate a freddo e gestione no-show
+- [Workflow contatti caldi](specs/workflow-contatti-caldi.md) . percorso più corto e diretto per i conoscenti personali di Antonio Smaldini nel settore, senza le formalità del contatto a freddo, con richiesta di referral immediata
 - [Log appuntamenti e prospect](tracking/appuntamenti-log.md) . tracker in tempo reale di ogni prospect nel funnel
 - [Log obiezioni](tracking/obiezioni-log.md) . tracker delle obiezioni incontrate in demo, con risposta usata ed esito
 - [Metriche settimanali funnel](tracking/metriche-settimanali.md) . rollup settimanale contatti → risposte → appuntamenti → demo → chiusure, verso l'obiettivo Q3

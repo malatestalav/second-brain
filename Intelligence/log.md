@@ -50,3 +50,8 @@ Cronologia di tutte le fonti aggiunte al vault via `/ingest`.
   - Spec: [[workflow-commerciale-telefono-whatsapp]] (`Projects/HACCP Digitale/specs/`) — giornata a blocchi orari, regola di canale per fase, script chiamata/messaggio, regole chiamate a freddo e no-show
   - Aggiornati: `appuntamenti-log.md` (nuova colonna "Ultimo Canale"), README progetto, profilo [[Antonio Smaldini]]
   - Origine: richiesta diretta in chat, non un ingest da fonte esterna
+
+- **build** | workflow contatti caldi per il commerciale | 3 file creati/aggiornati
+  - Spec: [[workflow-contatti-caldi]] (`Projects/HACCP Digitale/specs/`) — percorso più corto per conoscenti personali di [[Antonio Smaldini]]: niente permission-to-sell formale, demo anche in videochiamata, referral chiesto subito alla chiusura, nessun retry aggressivo sul rifiuto
+  - Aggiornati: `appuntamenti-log.md` (nuova colonna "Tipo Contatto": Caldo/Freddo), README progetto, profilo [[Antonio Smaldini]]
+  - Origine: richiesta diretta in chat, non un ingest da fonte esterna
