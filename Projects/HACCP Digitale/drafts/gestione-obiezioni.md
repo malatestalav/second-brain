@@ -15,7 +15,7 @@ Riferimento rapido per [[Antonio Smaldini]] durante demo e chiamate: le obiezion
 
 **Obiezione:** "Costa troppo, 300 euro l'anno sono tanti."
 
-**Risposta:** "Guardi che 300 euro l'anno sono meno di una multa ASL, e molto meno delle ore che perde ogni settimana sui registri cartacei. Non lo paragoni ad altri software, lo paragoni al costo di non averlo."
+**Risposta:** "Guardi che 300 euro l'anno sono meno di una multa dei NAS, e molto meno delle ore che perde ogni settimana sui registri cartacei. Non lo paragoni ad altri software, lo paragoni al costo di non averlo."
 
 ---
 

@@ -48,13 +48,13 @@ Costruite sui pain point e i trigger d'acquisto mappati in [[icp]].
 - Più di 10
 
 **4. Cosa ti spinge di più a cercarci proprio adesso?**
-- Ho un controllo ASL in arrivo
+- Ho un controllo NAS in arrivo
 - Ho avuto un problema o rischiato una multa di recente
 - Voglio semplicemente riprendermi il tempo che perdo ogni giorno
 - Curiosità, voglio vedere come funziona
 
 > [!tip] Perché queste domande
-> La 2 e la 4 sono le più importanti per priorizzare le chiamate: chi risponde "controllo ASL in arrivo" o "rischiato una multa" va richiamato per primo. La 3 aiuta a capire se serve la gestione multi-utente (vedi [[services]]). Chi risponde "ho già un sistema digitale" alla 2 va comunque contattato ma con approccio diverso (comparativo, non educativo).
+> La 2 e la 4 sono le più importanti per priorizzare le chiamate: chi risponde "controllo NAS in arrivo" o "rischiato una multa" va richiamato per primo. La 3 aiuta a capire se serve la gestione multi-utente (vedi [[services]]). Chi risponde "ho già un sistema digitale" alla 2 va comunque contattato ma con approccio diverso (comparativo, non educativo).
 
 ## Campi di Contatto
 

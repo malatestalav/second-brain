@@ -51,7 +51,7 @@ Non parlano di "dematerializzazione" o "cloud". Parlano di:
 
 ## Situazione Prima dell'Acquisto
 
-**Trigger #1:** Controllo ASL imminente. Titolare realizza che la documentazione è un disastro.
+**Trigger #1:** Controllo NAS imminente. Titolare realizza che la documentazione è un disastro.
 
 **Trigger #2:** Dipendente nuovo. Titolare deve insegnare come compilare registri cartacei. Impiega ore, il dipendente odia il task.
 
@@ -76,7 +76,7 @@ Non parlano di "dematerializzazione" o "cloud". Parlano di:
 
 ## Tendenze di Mercato che Li Riguardano
 
-- Controlli ASL sempre più frequenti
+- Controlli NAS sempre più frequenti
 - Pressione normativa europea per dematerializzazione
 - Competitori che iniziano a scalare (es. se un concorrente nel quartiere usa HACCP digitale, altri si incuriosiscono)
 - Crescente sensibilità su tracciabilità e qualità

@@ -17,7 +17,7 @@ Nuova serie sulle stesse 3 strutture già in uso (vedi `Desktop/HACCP DIGITALE/M
 ## STRUTTURA 1: Problema → Verità Scomoda → Soluzione
 
 **31. La sera prima del controllo**
-Ricevi la notizia di un'ispezione ASL imminente e ti prende il panico. La verità è che a quel punto ricostruisci a memoria settimane di registri, sperando di non sbagliare le date. Un dato compilato al ritroso è il primo segnale che un ispettore nota, prima ancora di leggerlo. Con la compilazione in tempo reale non c'è niente da ricostruire, perché è già tutto fatto giorno per giorno. Scrivici: ti mandiamo il link per prenotare la tua consulenza gratuita, prima del prossimo controllo.
+Ricevi la notizia di un'ispezione dei NAS imminente e ti prende il panico. La verità è che a quel punto ricostruisci a memoria settimane di registri, sperando di non sbagliare le date. Un dato compilato al ritroso è il primo segnale che un ispettore nota, prima ancora di leggerlo. Con la compilazione in tempo reale non c'è niente da ricostruire, perché è già tutto fatto giorno per giorno. Scrivici: ti mandiamo il link per prenotare la tua consulenza gratuita, prima del prossimo controllo.
 
 **32. Il locale dell'amico**
 Sei entrato nel locale di un collega e l'hai visto compilare l'HACCP dal telefono in trenta secondi. La verità è che tu stavi ancora pensando che quella roba esistesse solo per le grandi catene. Nel frattempo lui ha già smesso di perdere tempo, e tu no. Non serve una struttura grande per usarlo, serve solo iniziare. Scrivici: ti mandiamo il link per prenotare la tua consulenza gratuita e vedere come funziona anche per te.

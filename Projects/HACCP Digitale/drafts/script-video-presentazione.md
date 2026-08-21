@@ -28,7 +28,7 @@ Video in prima persona di [[Antonio Malatesta]]. Campagna organica, targeting Po
 
 Ti alzi la mattina, apri il locale, e prima ancora di pensare alla cucina o alla sala devi pensare ai registri. Temperature dei frigo, schede di ricevimento merce, pulizie. Roba che ti ruba 45 minuti al giorno, tutti i giorni, quando quel tempo dovresti darlo ai clienti, non alla burocrazia.
 
-E se hai dipendenti lo sai meglio di me: il cuoco compila le schede con le mani sporche d'olio, il cameriere si dimentica la temperatura del frigo, e tu scopri il disastro il giorno prima del controllo dell'ASL. A quel punto compili tutto al ritroso, di corsa, sperando di non sbagliare niente.
+E se hai dipendenti lo sai meglio di me: il cuoco compila le schede con le mani sporche d'olio, il cameriere si dimentica la temperatura del frigo, e tu scopri il disastro il giorno prima del controllo dei NAS. A quel punto compili tutto al ritroso, di corsa, sperando di non sbagliare niente.
 
 Poi magari arriva un cliente e ti chiede se un piatto contiene allergeni. Tu lo sai che la scheda tecnica esiste, il problema è trovarla in mezzo a un faldone di carta.
 

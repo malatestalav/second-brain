@@ -18,7 +18,7 @@ tags: [profile, founder, team]
 
 ## Background
 
-Imprenditore con 10 anni di esperienza diretta nella gestione di ristoranti e discoteche. Ha vissuto sulla propria pelle il problema della gestione HACCP cartacea . ore spese in compilazione manuale, registri sporchi, disorganizzazione nei controlli ASL. Da questa frustrazione personale è nata l'idea di HACCP Digitale.
+Imprenditore con 10 anni di esperienza diretta nella gestione di ristoranti e discoteche. Ha vissuto sulla propria pelle il problema della gestione HACCP cartacea . ore spese in compilazione manuale, registri sporchi, disorganizzazione nei controlli NAS. Da questa frustrazione personale è nata l'idea di HACCP Digitale.
 
 ## Responsabilità Attuale
 

@@ -19,7 +19,7 @@ Scaletta end-to-end della campagna legata a [drafts/script-video-presentazione.m
 Struttura single-page, mobile-first, un solo obiettivo: far compilare il form.
 
 - **Hero**: headline = la promessa del video ("HACCP in pochi minuti, non in ore"), sottotitolo, bottone che scrolla al form
-- **Problema**: 3-4 bullet con i pain point da [[icp]] (carta, dipendenti, controllo ASL), con icone, niente muro di testo
+- **Problema**: 3-4 bullet con i pain point da [[icp]] (carta, dipendenti, controllo NAS), con icone, niente muro di testo
 - **Come funziona**: 3 step illustrati (compili da telefono, notifiche automatiche, sempre in regola)
 - **Prova sociale**: "già scelto da locali a Potenza" + eventuale citazione di un cliente reale
 - **Form questionario**: le 4 domande + contatti (vedi [[funnel-questionario-ghl]]), meglio a step singoli (una domanda per schermata) per aumentare il completamento
@@ -32,7 +32,7 @@ Costruzione: opzione A) pagina GHL nativa collegata al dominio via CNAME (zero c
 
 - Submission → Contact GHL con custom field, entra in pipeline "Nuovo Lead da Video"
 - Notifica immediata (email/SMS)
-- Priorità di richiamo: chi risponde "controllo ASL in arrivo" o "rischiato una multa" (domanda 4) va chiamato per primo
+- Priorità di richiamo: chi risponde "controllo NAS in arrivo" o "rischiato una multa" (domanda 4) va chiamato per primo
 
 ## Fase 4 . Contatto e Appuntamento
 

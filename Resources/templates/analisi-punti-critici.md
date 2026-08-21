@@ -48,7 +48,7 @@ Template per il primo appuntamento con il cliente: consulenza di analisi dei pun
 
 ## Storico e conformità
 
-16. Avete già subito un'ispezione ASL? ☐ Sì ☐ No
+16. Avete già subito un'ispezione dei NAS? ☐ Sì ☐ No
 17. Se sì, siete riusciti a mostrare la documentazione completa senza difficoltà? ☐ Sì ☐ No, ci sono state difficoltà ☐ Non applicabile
 18. Avete mai avuto una non conformità o sanzione legata all'HACCP? ☐ Sì ☐ No
 

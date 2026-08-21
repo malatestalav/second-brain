@@ -9,7 +9,7 @@ status: active
 
 ## I 3 Problemi Principali che Risolviamo
 
-### 1. Sicurezza 100% ai Controlli ASL
+### 1. Sicurezza 100% ai Controlli NAS
 **Il problema:** Quando arriva un'ispezione, il ristoratore è in ansia. Deve cercare i registri giusti, le schede, i manuali nei faldoni. Se non trova un documento in 30 secondi, l'ispettore inizia a scavare più a fondo e a dubitare di tutta l'operazione. Disordine trasmette insicurezza immediata.
 
 **Consapevolezza cliente:** Già consapevole. L'obbligo legale HACCP esiste: il cliente lo sa. Non sa che può essere digitale.

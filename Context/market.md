@@ -41,7 +41,7 @@ Attività di piccole-medie dimensioni:
 - Mantenere manuali in ordine in faldoni polverosi
 - Delegare task ai dipendenti (camerieri, cuochi) che li considerano una "tortura" e li evitano
 - Compilare tutto al ritroso dopo giorni/settimane per rispettare i termini
-- Rischiare di trovarsi impreparato a un controllo ASL
+- Rischiare di trovarsi impreparato a un controllo NAS
 
 **Tempo perso:** Un ristorante medio perde 3-4 ore/settimana in compilazione manuale. Un bar singolo socio perde 45+ minuti al giorno.
 
@@ -62,7 +62,7 @@ Attività di piccole-medie dimensioni:
 ## Tendenze Normative
 
 - UE spinge per dematerializzazione documenti
-- Controlli ASL sempre più frequenti e rigorosi
+- Controlli NAS sempre più frequenti e rigorosi
 - Responsabilità penale e civile del titolare (non delegabile) per non-conformità
 
 <span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator . ultima modifica: 2026-08-17T21:29:31Z</span>

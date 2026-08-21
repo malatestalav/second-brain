@@ -53,7 +53,7 @@ Ammetti solo limiti veri. Non è una tecnica per inventare falsa umiltà, è per
 **Tecnica verificata:** [[no-b-s-sales-success-the-ultimate-no]], Parte 3, "Step Four: Emotional Logic". Il libro (citando il termine coniato da Zig Ziglar) dice che le persone comprano per motivi emotivi ma hanno bisogno di ragioni logiche per giustificare a se stesse la decisione. Elenca cinque fattori emotivi che spingono all'azione: **amore, orgoglio, paura, senso di colpa, avidità/interesse personale**. Il consiglio esplicito è combinare sempre emozione e logica insieme, mai una senza l'altra.
 
 **Adattamento pratico per HACCP Digitale** (quale fattore emotivo usare, con la giustificazione logica a supporto):
-- **Paura:** rischio di una sanzione al controllo ASL → giustificazione logica: costo di una multa vs. 300 euro/anno
+- **Paura:** rischio di una sanzione al controllo NAS → giustificazione logica: costo di una multa vs. 300 euro/anno
 - **Orgoglio:** essere il locale più organizzato della zona, non quello che l'ispettore guarda con sospetto → giustificazione logica: dashboard sempre in ordine, tracciamento audit
 - **Interesse personale (tempo/denaro):** 3-4 ore a settimana recuperate → giustificazione logica: 45 minuti al giorno che diventano 10-15
 
@@ -62,7 +62,7 @@ Ammetti solo limiti veri. Non è una tecnica per inventare falsa umiltà, è per
 ## Fase 5 — Gestire il Prezzo
 
 **Tecnica verificata 1 — Beat the Price Bugaboo:** [[the-ultimate-sales-letter-attract-new]], Step 7. Tre strategie concrete dal testo:
-- **Confronto mele con pere:** non confrontare il prezzo con quello di un concorrente diretto, confrontalo con un costo di categoria diversa e più alto. *Adattamento:* non paragonare 300€/anno ad "altri software", paragonalo al costo di una sanzione ASL o alle ore di lavoro perse in un anno.
+- **Confronto mele con pere:** non confrontare il prezzo con quello di un concorrente diretto, confrontalo con un costo di categoria diversa e più alto. *Adattamento:* non paragonare 300€/anno ad "altri software", paragonalo al costo di una sanzione dei NAS o alle ore di lavoro perse in un anno.
 - **Vendere il "bulk":** elencare tutto ciò che è incluso per far percepire la mole di valore, non solo il prezzo. *Adattamento:* "300 euro l'anno ti danno registri illimitati, notifiche automatiche, dashboard multi-utente, firma digitale, tracciamento audit completo" — elenca, non riassumere.
 - **Parlare del costo per sviluppare l'offerta:** il libro mostra che spiegare l'impegno dietro un prodotto ne aumenta il valore percepito. *Adattamento:* i tre anni di sviluppo, testati su locali veri, non su un foglio Excel teorico.
 
@@ -101,7 +101,7 @@ Ammetti solo limiti veri. Non è una tecnica per inventare falsa umiltà, è per
 
 **Adattamento pratico per la demo dal vivo:**
 1. **Attention:** apri con la domanda di permission-to-sell (Fase 1)
-2. **Establish the Need:** fai emergere il problema reale del suo locale (tempo perso, rischio ASL)
+2. **Establish the Need:** fai emergere il problema reale del suo locale (tempo perso, rischio NAS)
 3. **Satisfying the Need:** mostra il software che risolve esattamente quel problema
 4. **Visualization:** fagli immaginare la prossima settimana senza quel problema ("niente più sera prima del controllo a compilare tutto di corsa")
 5. **Call to Action:** chiudi attivando la licenza lì, non "ti mando il link dopo"

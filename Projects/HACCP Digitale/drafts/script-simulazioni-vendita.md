@@ -29,7 +29,7 @@ V: Trecento euro l'anno.
 
 C: Mi sembra tanto per un'app.
 
-V: Capisco. Facciamo un conto veloce: trecento euro l'anno sono venticinque al mese, meno di una cena per due persone. In cambio non pensa più al rischio di una sanzione ASL, che parte da qualche centinaio di euro e sale, e si riprende tre-quattro ore a settimana.
+V: Capisco. Facciamo un conto veloce: trecento euro l'anno sono venticinque al mese, meno di una cena per due persone. In cambio non pensa più al rischio di una sanzione dei NAS, che parte da qualche centinaio di euro e sale, e si riprende tre-quattro ore a settimana.
 
 C: Sì, ma comunque è un costo in più.
 
@@ -229,9 +229,9 @@ V: Grazie a lei, a presto.
 
 ## Simulazione 6 — Lead dal Video, Non Sicuro di Volerlo Fare
 
-*Il cliente ha già compilato il questionario online e scritto di avere un controllo ASL in arrivo.*
+*Il cliente ha già compilato il questionario online e scritto di avere un controllo NAS in arrivo.*
 
-V: Buongiorno, sono Antonio, ho visto che ha compilato il questionario su HACCP Digitale. Ha scritto che ha un controllo ASL in arrivo, giusto?
+V: Buongiorno, sono Antonio, ho visto che ha compilato il questionario su HACCP Digitale. Ha scritto che ha un controllo NAS in arrivo, giusto?
 
 C: Sì, esatto, tra un paio di settimane.
 

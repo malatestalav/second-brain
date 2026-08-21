@@ -19,7 +19,7 @@ Banca di 30 script brevi per contenuti video verticali (Reels/TikTok) su [[HACCP
 **1. Lo spreco di tempo**
 Ristoratore! E basta! Passi più tempo a compilare registri di temperature e ricette che a gestire la tua brigata. La verità è che molti di quei fogli li riempi a memoria a fine giornata, rischiando sanzioni pesanti se un dato non quadra. Con un sistema digitale automatizzi le scadenze e riduci i tempi di inserimento del settanta per cento. Seguimi per ottimizzare i tuoi tempi.
 
-**2. L'ansia da controllo ASL**
+**2. L'ansia da controllo NAS**
 Hai paura che un'ispezione rovini mesi di lavoro. Il disordine nei faldoni trasmette insicurezza immediata agli ispettori. Se non trovi un documento in trenta secondi, inizieranno a scavare più a fondo nel tuo lavoro. Con l'HACCP digitale hai tutto organizzato e pronto da mostrare su tablet. Salva il video per non dimenticarlo.
 
 **3. La delega fallimentare**
