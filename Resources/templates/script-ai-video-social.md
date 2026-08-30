@@ -5,7 +5,7 @@ status: active
 tags: [template, script, video, social, content-bank]
 ---
 
-# Script AI — Content Bank Video Social
+# Script AI: Content Bank Video Social
 
 Banca di 30 script brevi per contenuti video verticali (Reels/TikTok) su [[HACCP Digitale]], organizzati su 3 strutture ricorrenti. Fonte originale: `Desktop/HACCP DIGITALE/MARKETING AI/SCRIPT AI.docx`, portato nel vault come template curato (non raw da sintetizzare: è materiale già scritto dal team, non una fonte esterna). Le frasi caratteristiche di questo content bank sono già indicizzate in [[brand]] ("Ristoratore! E basta!", "La verità è che...", CTA di engagement "Seguimi/Salva/Commenta").
 

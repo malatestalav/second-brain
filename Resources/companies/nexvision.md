@@ -10,4 +10,4 @@ Azienda che ha curato la stesura del manuale "Procedure AUTOCONTROLLO" e produce
 
 ## Sources
 
-- [[procedure-haccp-digitale]] — manuale a marchio NeXvision, copyright sulla distribuzione del documento
+- [[procedure-haccp-digitale]]: manuale a marchio NeXvision, copyright sulla distribuzione del documento

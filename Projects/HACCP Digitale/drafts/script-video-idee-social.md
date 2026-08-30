@@ -5,7 +5,7 @@ status: draft
 tags: [script, video, social, content-bank]
 ---
 
-# Nuovi Script Video — Idee Social
+# Nuovi Script Video: Idee Social
 
 Nuova serie sulle stesse 3 strutture già in uso (vedi `Desktop/HACCP DIGITALE/MARKETING AI/SCRIPT AI.docx`, items 1-30), numerata a seguire. Ogni script è basato su fatti verificati in [[icp]], [[pain-points]] e [[services]], non ancora usati nei 30 esistenti. Nessuna cifra o claim inventati: dove il vault non specifica un numero preciso (es. importo sanzioni), resto sul range già documentato.
 
@@ -47,7 +47,7 @@ Pensi che un software serva solo a chi è già abituato alla tecnologia. La real
 
 ---
 
-## Versione Corretta — Item 7 "Consulenza Fantasma"
+## Versione Corretta: Item 7 "Consulenza Fantasma"
 
 **7bis. Chi è responsabile, davvero**
 Hai un piano di autocontrollo fatto una volta l'anno e pensi che basti per essere coperto. La verità è che la responsabilità della compilazione quotidiana resta sempre tua, non di chi ti ha scritto il piano. Un piano perfetto su carta non serve a nulla se poi i registri di tutti i giorni sono in ritardo o incompleti. Con la compilazione digitale il piano annuale resta valido, ma la parte quotidiana è sempre in ordine, senza doverci pensare tu da solo. Scrivici: ti mandiamo il link per prenotare la tua consulenza gratuita e capire cosa manca nella tua gestione quotidiana.

@@ -5,7 +5,7 @@ status: active
 tags: [obiezioni, vendita, commerciale]
 ---
 
-# Gestione Obiezioni — Struttura Obiezione/Risposta
+# Gestione Obiezioni: Struttura Obiezione/Risposta
 
 Riferimento rapido per [[Antonio Smaldini]] durante demo e chiamate: le obiezioni più comuni nel linguaggio reale del titolare (vedi [[icp]] e [[pain-points]]) con la risposta pronta all'uso. Le tecniche complete con le fonti verificate restano nel [playbook di vendita](script-vendita-commerciale.md); qui c'è solo l'essenziale, da consultare al volo. Ogni obiezione incontrata sul campo va comunque registrata in [obiezioni-log.md](../tracking/obiezioni-log.md), anche se già coperta qui: le ricorrenze fanno data per la revisione settimanale.
 

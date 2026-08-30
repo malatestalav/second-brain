@@ -18,4 +18,4 @@ Software di [[NeXvision]] per l'autocontrollo igienico HACCP delle attività ali
 
 ## Sources
 
-- [[procedure-haccp-digitale]] — manuale operativo completo (13 procedure GMP)
+- [[procedure-haccp-digitale]]: manuale operativo completo (13 procedure GMP)
