@@ -15,6 +15,7 @@ tags: [task-list, antonio-malatesta]
 - [ ] Perfezionare script telefonico post-demo ("Perfetto, allora ci vediamo... le mando il video su WhatsApp")
 - [ ] Condividere con [[Antonio Smaldini]] la [SOP processo di vendita](../../../../Projects/HACCP%20Digitale/specs/sop-processo-vendita.md) e i tracker collegati, avviare la compilazione in tempo reale
 - [ ] Fissare la prima revisione settimanale di 15 minuti (Fase 8 della SOP) e compilare la prima riga in [metriche-settimanali.md](../../../../Projects/HACCP%20Digitale/tracking/metriche-settimanali.md)
+- [ ] Completare e pubblicare l'[annuncio lavoro per un secondo consulente commerciale](../../../../Projects/HACCP%20Digitale/drafts/annuncio-lavoro-consulente-commerciale.md) (zona Potenza): definire contatto, percentuale di provvigione e canali di pubblicazione
 
 ## 📊 Metriche da Tracciare
 

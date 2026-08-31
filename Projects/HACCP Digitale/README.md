@@ -35,6 +35,7 @@ Lanciato da 20 giorni, 4 licenze vendute. Focus attuale: costruire il funnel di 
 - [Nuovi script video social](drafts/script-video-idee-social.md) . nuova serie sulle 3 strutture del content bank esistente, basata su fatti del vault non ancora usati
 - [Script oltre bar e ristoranti](drafts/script-video-altre-attivita.md) . 5 script per macellerie, pescherie, latterie/caseifici, hook-problema-soluzione-CTA
 - [Riunione con il commerciale, 20 agosto 2026](notes/riunione-commerciale-2026-08-20.md) . punti chiave, argomentazioni dal playbook di vendita, strategia concreta di commercializzazione ([versione PDF](notes/riunione-commerciale-2026-08-20.pdf))
+- [Annuncio lavoro: Consulente Commerciale](drafts/annuncio-lavoro-consulente-commerciale.md) . bozza annuncio per un secondo commerciale sul territorio di Potenza, in Partita IVA a provvigione, da completare con contatti e percentuale prima della pubblicazione
 
 ## Riferimenti
 
