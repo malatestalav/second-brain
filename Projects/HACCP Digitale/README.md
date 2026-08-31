@@ -14,6 +14,9 @@ Prodotto consumer di [[Nexvision]]: web app per digitalizzare registri e manuali
 
 Lanciato da 20 giorni, 4 licenze vendute. Focus attuale: costruire il funnel di acquisizione organico, partendo da video in prima persona di [[Antonio Malatesta]].
 
+> [!todo] Prossimo step
+> [[Antonio Malatesta]] sta procedendo con iscrizione e abbonamento a [[GHL]]. Una volta attivo l'account, configurazione guidata di survey, landing page, custom field, pipeline e automation secondo [[funnel-questionario-ghl]].
+
 ## Contenuti
 
 - [Script video presentazione (promessa-problema-CTA)](drafts/script-video-presentazione.md) . primo video organico, target Potenza e provincia
