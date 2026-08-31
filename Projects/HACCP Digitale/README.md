@@ -21,6 +21,7 @@ Lanciato da 20 giorni, 4 licenze vendute. Focus attuale: costruire il funnel di 
 
 - [Script video presentazione (promessa-problema-CTA)](drafts/script-video-presentazione.md) . primo video organico, target Potenza e provincia
 - [Spec funnel questionario + GHL](specs/funnel-questionario-ghl.md) . pagina di qualificazione lead collegata alla CTA del video, da configurare manualmente in GHL
+- [Strategia lead gen organica Instagram](specs/lead-gen-instagram-organico.md) . profile funnel, pilastri di contenuto e gestione DM basati sul framework di [[chiara-dosio]], collegata allo stesso funnel GHL
 - [Workflow completo campagna](specs/workflow-campagna-completo.md) . scaletta end-to-end dal video organico alla delivery finale del cliente
 - [Script di vendita commerciale](drafts/script-vendita-commerciale.md) . playbook per chi vende HACCP Digitale sul campo (oggi [[Antonio Smaldini]]): apertura, demo, prezzo, chiusura, follow-up, ogni tecnica verificata sul testo originale dei libri
 - [SOP processo di vendita](specs/sop-processo-vendita.md) . procedura dettagliata fase per fase (lista prospect, 3 touch, demo, chiusura, retry, revisione settimanale, espansione geografica), con trigger, responsabile e cosa registrare nei tracker ([versione PDF](specs/sop-processo-vendita.pdf))
