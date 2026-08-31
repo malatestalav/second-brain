@@ -131,6 +131,7 @@ Campi standard: `type`, `date`, `project`, `department`, `status`, `tags`, `prio
 14. NON usare mai em dash. Usa punti, virgole, due punti, o ristruttura.
 15. Includi `project:` nel frontmatter per note relative a progetti; `department:` per note relative a dipartimenti.
 16. NON creare mai file/cartelle nella root del vault. Ogni file vive in una cartella esistente. Nessuna eccezione.
+17. Ogni strategia di marketing/personal brand/content che proponi deve rispettare il framework di [[chiara-dosio]] (TI VEDO → TI ASSOCIO → TI VALIDO, vedi [[personal-brand-secrets-manuale]] in `Resources/frameworks/`). Prima di proporre una strategia, verifica coerenza con quei principi; se ci si discosta, dillo esplicitamente e motiva perché.
 
 ## Anti-Pattern
 
