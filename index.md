@@ -46,6 +46,7 @@ Documenti grezzi in `Library/`, raggruppati per tipo. Una voce per source ingest
 - [The Ultimate Sales Letter](Library/pdfs/the-ultimate-sales-letter-attract-new.md): Sistema in 28 step per scrivere lettere di vendita che vengono lette e agite
 - [The Ultimate Success Secret](Library/pdfs/the-ultimate-success-secret-dan-kenn.md): Booklet: il successo si riduce a controllo = responsabilità, quindi azione immediata
 - [Zero Resistance Selling](Library/pdfs/zero-resistance-selling-etc.md): Psico-cibernetica applicata alla vendita: riprogrammare il self-image
+- [Personal Brand Secrets — Manuale preparatorio](Library/pdfs/chiara-dosio-personal-brand-secrets-manuale.md): Framework TI VEDO → TI ASSOCIO → TI VALIDO per acquisizione clienti in organico su Instagram (Chiara Dosio)
 
 ### Articoli
 <!-- L'AI aggiunge qui una riga per ogni articolo ingestato -->
@@ -68,8 +69,11 @@ Pagine che rappresentano entità (aziende, persone, prodotti, framework). Aggreg
 
 ### Aziende
 - [[nexvision]]: Produttore del software HACCP Digitale (stub)
+- [[unconventional]]: Incubatore di Chiara Dosio per crescita via personal brand (stub)
 
 ### Framework
+- [[chiara-dosio]]: Hub: framework TI VEDO → TI ASSOCIO → TI VALIDO per personal brand e acquisizione organica
+- [[personal-brand-secrets-manuale]]: Manuale preparatorio all'evento "Personal Brand Secrets" — contenuti, funnel e sistema di acquisizione via Instagram
 - [[management-series-vol-1]]: PR, Marketing, Admin Know-How (L. Ron Hubbard)
 - [[management-series-vol-2]]: Responsabile Organizzativo e stabilizzazione aziendale (L. Ron Hubbard)
 - [[dan-kennedy]]: Hub: direct response, No B.S., positioning (Dan Kennedy)

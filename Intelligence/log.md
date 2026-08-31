@@ -64,3 +64,7 @@ Cronologia di tutte le fonti aggiunte al vault via `/ingest`.
 - **build** | export PDF dei documenti commerciali | 4 PDF creati
   - [[sop-processo-vendita]], [[workflow-commerciale-telefono-whatsapp]], [[workflow-contatti-caldi]], [[gestione-obiezioni]] esportati in PDF nelle rispettive cartelle, con link aggiunti nel README del progetto
   - Origine: richiesta diretta in chat, non un ingest da fonte esterna
+
+- **[2026-08-31 14:20] ingest** | pdf | chiara-dosio-personal-brand-secrets-manuale | 3 pagine wiki toccate
+  - Creato [[personal-brand-secrets-manuale]] (framework), [[chiara-dosio]] (hub autrice), [[unconventional]] (stub azienda)
+  - Manuale preparatorio all'evento live "Personal Brand Secrets" (7-11 settembre 2026): framework TI VEDO → TI ASSOCIO → TI VALIDO, strategia contenuti, funnel di acquisizione organica su Instagram
