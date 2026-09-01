@@ -19,6 +19,7 @@ Lanciato da 20 giorni, 4 licenze vendute. Focus attuale: costruire il funnel di 
 
 ## Contenuti
 
+- [Spec gestionale commerciale](specs/gestionale-commerciale.md) . brief per una futura webapp che digitalizza il funnel oggi tracciato a mano in `tracking/`, sullo stesso pattern usato per [[Essenza Latina]] (Next.js + Supabase); solo specifica, nessun codice ancora
 - [Script video presentazione (promessa-problema-CTA)](drafts/script-video-presentazione.md) . primo video organico, target Potenza e provincia
 - [Spec funnel questionario + GHL](specs/funnel-questionario-ghl.md) . pagina di qualificazione lead collegata alla CTA del video, da configurare manualmente in GHL
 - [Strategia lead gen organica Instagram](specs/lead-gen-instagram-organico.md) . profile funnel, pilastri di contenuto e gestione DM basati sul framework di [[chiara-dosio]], collegata allo stesso funnel GHL ([versione PDF](specs/lead-gen-instagram-organico.pdf))
