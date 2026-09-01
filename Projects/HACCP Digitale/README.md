@@ -19,7 +19,7 @@ Lanciato da 20 giorni, 4 licenze vendute. Focus attuale: costruire il funnel di 
 
 ## Contenuti
 
-- [Spec gestionale commerciale](specs/gestionale-commerciale.md) . webapp che digitalizza il funnel commerciale (registro contatti, dashboard, guida obiezioni, script), sullo stesso pattern usato per [[Essenza Latina]]; MVP scaffoldato in `~/Desktop/haccp-digitale-crm`, dominio previsto www.haccpcommerciale.it
+- [Spec gestionale commerciale](specs/gestionale-commerciale.md) . webapp di gestione clienti/funnel commerciale, live su [haccpcommerciale.it](https://haccpcommerciale.it), sullo stesso pattern usato per [[Essenza Latina]]; codice in `~/Desktop/haccp-digitale-crm`
 - [Script video presentazione (promessa-problema-CTA)](drafts/script-video-presentazione.md) . primo video organico, target Potenza e provincia
 - [Spec funnel questionario + GHL](specs/funnel-questionario-ghl.md) . pagina di qualificazione lead collegata alla CTA del video, da configurare manualmente in GHL
 - [Strategia lead gen organica Instagram](specs/lead-gen-instagram-organico.md) . profile funnel, pilastri di contenuto e gestione DM basati sul framework di [[chiara-dosio]], collegata allo stesso funnel GHL ([versione PDF](specs/lead-gen-instagram-organico.pdf))
