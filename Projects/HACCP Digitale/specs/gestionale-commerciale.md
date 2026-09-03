@@ -11,6 +11,8 @@ Webapp che digitalizza il funnel di vendita, prima tracciato nel file `ATTIVITÀ
 
 > [!info] Stato
 > **Live in produzione**: [haccpcommerciale.it](https://haccpcommerciale.it) (anche `www.`), dominio registrato su Aruba e collegato via DNS a Vercel (record A `@` → `76.76.21.21`, CNAME `www` → `cname.vercel-dns.com`). Deploy su Vercel (progetto `essenza-latina/haccp-digitale-crm`). Codice in repo separato, fuori dal vault: `~/Desktop/haccp-digitale-crm`. Stack: Next.js (App Router, TypeScript, Tailwind) + Supabase (Postgres, Auth, RLS), stesso pattern di [[Essenza Latina]]. Logo e palette bianco/verde (`#169149`) del brand HACCP Digitale. Responsive con menu mobile. Ruoli attivi: [[Antonio Malatesta]] e [[Vito Romano]] master, [[Antonio Smaldini]] commerciale.
+>
+> **Supabase resta su piano Free** (scelta esplicita di [[Antonio Malatesta]], 2026-09-03): l'org "essenza-latina" ospita già 2 progetti (Essenza Latina + questo), al limite del piano gratuito. Rischio noto: pausa automatica del progetto dopo 7 giorni di inattività, da riattivare a mano dal dashboard Supabase. Se il gestionale mostra errori di connessione dopo un periodo di inattività, controllare prima questo.
 
 ## Moduli della webapp
 
