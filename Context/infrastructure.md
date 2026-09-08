@@ -1,7 +1,7 @@
 ---
 type: context
 tags: [stack, tools, infrastructure]
-updated: 2026-08-18
+updated: 2026-09-04
 status: active
 ---
 
@@ -18,8 +18,9 @@ status: active
 
 ## Gestione Progetti e CRM
 
-- **CRM:** Non esiste ancora uno strutturato, ma [[Antonio Malatesta]] ha un account [[GHL]] (GoHighLevel) scelto come piattaforma per il primo funnel di acquisizione (form di qualificazione + pipeline lead + notifiche), vedi [[funnel-questionario-ghl]]. Non ancora collegato come connettore MCP in sessione: configurazione manuale nell'account.
-- **CRM precedente:** Lista clienti manuale (spreadsheet Excel probabilmente)
+- **CRM:** Il [[gestionale-commerciale|gestionale commerciale]] di [[HACCP Digitale]] è live su [haccpcommerciale.it](https://haccpcommerciale.it) (Next.js + Supabase, ruoli master/commerciale via RLS), usato da [[Antonio Malatesta]], [[Vito Romano]] e [[Antonio Smaldini]]. Sostituisce il tracker Excel manuale. Nota operativa: Supabase resta su piano Free, il progetto si mette in pausa dopo 7 giorni di inattività (da riattivare a mano dal dashboard).
+- **GHL:** [[Antonio Malatesta]] ha un account [[GHL]] (GoHighLevel), piattaforma separata per il funnel di acquisizione lead (form di qualificazione + pipeline + notifiche), vedi [[funnel-questionario-ghl]]. Non collegato come connettore MCP in sessione: configurazione manuale nell'account.
+- **CRM precedente:** Lista clienti manuale (spreadsheet Excel), ora sostituita dal gestionale sopra.
 - **Progetti:** Non strutturato. Todo list mentale o note sparse
 - **Task management:** Niente
 
@@ -46,7 +47,7 @@ Non so l'architettura interna di HACCP Digitale (web app). Da chiedere a Antonio
 
 | Flusso | Fonte di Verità | Problema |
 |-------|---|---|
-| **Clienti attivi** | Foglio Excel manuale | Niente versioning, rischio perdita dati |
+| **Clienti attivi** | [[gestionale-commerciale|Gestionale commerciale]] (haccpcommerciale.it) | Nessuno noto; attenzione a pausa automatica Supabase Free dopo 7gg inattività |
 | **Script/contenuti** | Cartelle Desktop locale | Niente backup centralizzato |
 | **Comunicazione team** | WhatsApp | Niente storico, facile perdere context |
 | **Metriche commerciali** | Excel o note WhatsApp | Non centralizzato, difficile reporting |
@@ -100,10 +101,10 @@ Non so l'architettura interna di HACCP Digitale (web app). Da chiedere a Antonio
 
 ## Cosa Costruire Insieme (Priorità)
 
-1. **CRM minimale**: Tracciare prospect → demo → chiusura
+1. ~~**CRM minimale**: Tracciare prospect → demo → chiusura~~ Fatto: [[gestionale-commerciale|gestionale commerciale]] live
 2. **Marketing automation**: Sequenza WhatsApp per Touch 1-2-3
 3. **Dashboard metriche**: Visualizzazione real-time flusso acquisizione
 4. **Knowledge base**: FAQ clienti, onboarding self-serve
 5. **Calendario booking**: Appuntamenti centralizzati e reminders
 
-<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator . ultima modifica: 2026-08-18T00:30:00Z</span>
+<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator, ultima modifica: 2026-09-04T07:02:42Z</span>

@@ -1,7 +1,7 @@
 ---
 type: task-list
 person: Vito Romano
-updated: 2026-08-15
+updated: 2026-09-02
 status: active
 tags: [task-list, vito-romano]
 ---
@@ -10,7 +10,7 @@ tags: [task-list, vito-romano]
 
 ## 📌 Alta Priorità (Questa Settimana)
 
-- [ ] Setup CRM minimale per tracciare prospect → demo → chiusura
+- [x] ✅ 2026-09-02 Setup CRM minimale per tracciare prospect → demo → chiusura (risolto dal [[gestionale-commerciale|gestionale commerciale]] live su haccpcommerciale.it)
 - [ ] Creare onboarding automatizzato per nuovi clienti (checklist step-by-step)
 - [ ] Contattare clienti attuali (4 licenze) per raccogliere feedback e identificare pain point
 

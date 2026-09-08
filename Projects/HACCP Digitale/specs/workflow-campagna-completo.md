@@ -14,24 +14,21 @@ Scaletta end-to-end della campagna legata a [drafts/script-video-presentazione.m
 1. Pubblicazione video organico (script pronto) su Reels/TikTok, geo-targeting Potenza e provincia via hashtag/caption locali
 2. Gestione commenti/DM: chi scrive "scrivici" riceve il link alla landing page (manuale all'inizio, poi automatizzabile con risposta automatica GHL/Meta)
 
-## Fase 2 . Landing Page (Interest . Qualificazione)
+## Fase 2 . Landing Funnel a 4 Step (Interest . Qualificazione)
 
-Struttura single-page, mobile-first, un solo obiettivo: far compilare il form.
+Non una single-page, ma un Funnel GHL a 4 pagine in sequenza, mobile-first, un impegno alla volta (dettaglio completo in [[funnel-questionario-ghl]]):
 
-- **Hero**: headline = la promessa del video ("HACCP in pochi minuti, non in ore"), sottotitolo, bottone che scrolla al form
-- **Problema**: 3-4 bullet con i pain point da [[icp]] (carta, dipendenti, controllo NAS), con icone, niente muro di testo
-- **Come funziona**: 3 step illustrati (compili da telefono, notifiche automatiche, sempre in regola)
-- **Prova sociale**: "già scelto da locali a Potenza" + eventuale citazione di un cliente reale
-- **Form questionario**: le 4 domande + contatti (vedi [[funnel-questionario-ghl]]), meglio a step singoli (una domanda per schermata) per aumentare il completamento
-- **Rassicurazione**: "consulenza gratuita, zero impegno" subito sopra il bottone finale
-- **Footer**: nome attività/P.IVA, contatti diretti
+1. **Opt-in di vendita**: headline = la promessa del video ("HACCP in pochi minuti, non in ore"), pain point da [[icp]] (carta, dipendenti, controllo NAS) a bullet, come funziona in 3 step, bottone CTA che avanza
+2. **Questionario**: le 4 domande di qualificazione, una per schermata (vedi [[funnel-questionario-ghl]])
+3. **Video demo prodotto**: 60-90 secondi dell'interfaccia HACCP Digitale in azione, bottone CTA che avanza (asset ancora da girare, vedi warning in [[funnel-questionario-ghl]])
+4. **Form contatti**: nome, comune, email, telefono, con rassicurazione "analisi gratuita dei punti critici, zero impegno" sopra il bottone finale
 
-Costruzione: opzione A) pagina GHL nativa collegata al dominio via CNAME (zero codice extra, resta unita a pipeline/notifiche già speccate); opzione B) pagina custom fuori GHL, richiede hosting e servizio esterno per salvare risposte e notifiche. Decisione ancora aperta con [[Antonio Malatesta]].
+Costruzione: opzione A) Funnel GHL nativo collegato al dominio via CNAME (zero codice extra, resta unito a pipeline/notifiche già speccate); opzione B) pagina custom fuori GHL, richiede hosting e servizio esterno per salvare risposte e notifiche. Decisione ancora aperta con [[Antonio Malatesta]].
 
 ## Fase 3 . Lead Capture & Notifica
 
-- Submission → Contact GHL con custom field, entra in pipeline "Nuovo Lead da Video"
-- Notifica immediata (email/SMS)
+- Submission Pagina 4 → Contact GHL con custom field, entra in pipeline "Nuovo Lead da Video"
+- Notifica immediata (email/SMS) ad [[Antonio Smaldini]] (commerciale, richiama per fissare l'analisi), copia a [[Antonio Malatesta]]
 - Priorità di richiamo: chi risponde "controllo NAS in arrivo" o "rischiato una multa" (domanda 4) va chiamato per primo
 
 ## Fase 4 . Contatto e Appuntamento
