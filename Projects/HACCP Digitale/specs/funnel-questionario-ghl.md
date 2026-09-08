@@ -71,16 +71,19 @@ Costruite sui pain point e i trigger d'acquisto mappati in [[icp]].
 Dopo il questionario, prima della richiesta contatti: il prospect ha già investito 2 minuti rispondendo, ora vede la prova che il prodotto funziona davvero.
 
 - **Contenuto:** demo dell'interfaccia di [[HACCP Digitale]] (registro temperature, scheda ricevimento, notifica push, dashboard master), 6 minuti, stesso registro diretto/caldo/tecnico di [[brand]]
-- **Sopra il video:** micro-headline che lega la risposta appena data alla demo, es. "Ecco esattamente come funziona" (non ripetere la promessa dello Step 1, mostrarla)
-- **Sotto il video:** bottone CTA che avanza allo Step 4, es. "Voglio l'analisi gratuita dei punti critici del mio locale"
+- **Sopra il video:** micro-headline che lega la risposta appena data alla demo, es. "Ecco esattamente come funziona", e **subito accanto/sotto la headline un primo bottone CTA** verso lo Step 4 (es. "Voglio l'analisi gratuita dei punti critici del mio locale") — visibile appena la pagina si apre, prima ancora di premere play
+- **Sotto il video:** un secondo bottone CTA identico, per chi lo guarda fino in fondo
 
 > [!info] Asset già pronto (6 minuti)
 > Il video demo è già disponibile ([[Antonio Malatesta]] lo tiene già registrato), durata 6 minuti. Da caricare nel Media Storage di GHL (o via embed YouTube/Vimeo non listato) nella Pagina 3 del Funnel Builder.
 
-> [!tip] Un demo di 6 minuti in questo punto del funnel regge
-> A questo punto il prospect ha già scritto in DM e compilato il questionario: è più investito di un follower qualunque, quindi una demo lunga non è fuori posto come lo sarebbe in un Reel o all'inizio della pagina. Due accorgimenti per non perdere chi non arriva alla fine:
-> - **Timestamp/capitoli nel player** (se l'host video li supporta) così chi ha meno tempo salta al punto che gli interessa (es. "1:20 registro temperature", "3:40 notifiche automatiche")
-> - **Bottone CTA verso lo Step 4 visibile fin da subito sotto il player**, non solo a video finito: chi si convince dopo 2 minuti non deve aspettare la fine per prenotare l'analisi
+> [!tip] Bottoni multipli, non un solo CTA a fine video
+> Guardare 6 minuti non deve essere un requisito per avanzare: chi è già convinto dal questionario e dall'opt-in non va bloccato dietro un video lungo. Struttura minima della pagina:
+> - **CTA #1, sopra il player, visibile al caricamento della pagina:** stesso testo e stesso link dello Step 4, per chi vuole saltare direttamente
+> - Player video, non in autoplay
+> - **CTA #2, sotto il player:** stesso bottone, per chi ha guardato la demo ed è pronto dopo
+> - **Timestamp/capitoli nel player** (se l'host video li supporta), così chi guarda comunque può saltare al punto che gli interessa (es. "1:20 registro temperature", "3:40 notifiche automatiche")
+> Tutti i bottoni portano allo stesso posto (Step 4): nessuna logica condizionale da costruire in GHL, solo più punti di uscita sulla stessa pagina.
 
 ## Step 4 . Contatti per l'Analisi Gratuita dei Punti Critici
 

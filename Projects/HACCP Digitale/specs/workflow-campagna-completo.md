@@ -20,7 +20,7 @@ Non una single-page, ma un Funnel GHL a 4 pagine in sequenza, mobile-first, un i
 
 1. **Opt-in di vendita**: headline = la promessa del video ("HACCP in pochi minuti, non in ore"), pain point da [[icp]] (carta, dipendenti, controllo NAS) a bullet, come funziona in 3 step, bottone CTA che avanza
 2. **Questionario**: le 4 domande di qualificazione, una per schermata (vedi [[funnel-questionario-ghl]])
-3. **Video demo prodotto**: 6 minuti dell'interfaccia HACCP Digitale in azione, bottone CTA visibile già durante la riproduzione (asset già pronto, vedi [[funnel-questionario-ghl]])
+3. **Video demo prodotto**: 6 minuti dell'interfaccia HACCP Digitale in azione, bottone CTA visibile subito all'apertura della pagina (non solo a fine video, vedi [[funnel-questionario-ghl]]) e ripetuto sotto il player (asset già pronto)
 4. **Form contatti**: nome, comune, email, telefono, con rassicurazione "analisi gratuita dei punti critici, zero impegno" sopra il bottone finale
 
 Costruzione: opzione A) Funnel GHL nativo collegato al dominio via CNAME (zero codice extra, resta unito a pipeline/notifiche già speccate); opzione B) pagina custom fuori GHL, richiede hosting e servizio esterno per salvare risposte e notifiche. Decisione ancora aperta con [[Antonio Malatesta]].
