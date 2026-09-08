@@ -26,7 +26,10 @@ Sempre visibile durante lo scroll, senza countdown/urgenza finta (fuori tono per
 
 **Testo grande:** "Prenota l'analisi dei punti critici gratuita"
 
-**Bottone:** "Prenota" → scrolla/salta direttamente alla sezione Form Contatti in fondo alla pagina
+**Bottone:** "Prenota l'analisi gratuita" → scrolla/salta direttamente alla sezione Form Contatti in fondo alla pagina
+
+> [!warning] Un solo testo di bottone in tutta la pagina
+> Regola fissata dall'utente il 2026-09-08: **l'unico testo di bottone su tutta la pagina è "Prenota l'analisi gratuita"**, ripetuto in più punti (barra fissa, fine Sezione 1, sopra e sotto il video in Sezione 3) ma sempre identico e sempre puntato alla Sezione 4. Niente varianti di copy tipo "Scopri i tuoi punti critici" — quella versione precedente è scartata. Le uniche altre superfici cliccabili della pagina sono le opzioni di risposta del questionario (Sezione 2), che sono input del modulo, non CTA di navigazione.
 
 ## Sezione 1 . Opt-in di Vendita
 
@@ -40,9 +43,12 @@ Copy orientato ai pain point mappati in [[icp]] e [[pain-points]], coerente con 
 - **Il problema, nominato in modo vivido:** faldoni, registri compilati al ritroso, ansia al controllo NAS (linguaggio diretto dal cliente, vedi [[icp]] "Linguaggio e Parole che Usano")
 - **La promessa:** da 45 minuti a 10 minuti al giorno di compilazione (caso reale in [[services]])
 - **Come funziona in 3 step:** rispondi alle domande → guardi la demo → prenoti l'analisi gratuita
-- **Bottone CTA:** "Scopri i tuoi punti critici" → scrolla alla Sezione 2 (Questionario)
+- **Bottone:** "Prenota l'analisi gratuita" (vedi regola unico-testo-bottone sopra) → scrolla alla Sezione 2 (Questionario)
 
 **Regola vault:** scansionare il copy per le parole bandite "rubare" e "disturbo" prima della pubblicazione ([[feedback_no_parola_rubare]]), verificare ogni cifra citata contro [[pain-points]]/[[services]] prima di pubblicarla ([[feedback_verify_facts_before_drafting]]).
+
+> [!warning] Testi bullet ancora da rivedere
+> I 5 bullet attualmente scritti nella Sezione 1 (nel builder GHL, riquadro con i pallini blu) sono un primo abbozzo e **non sono ancora approvati** dall'utente. Da rivedere insieme a colori/layout nella revisione finale, non prima.
 
 ## Sezione 2 . Questionario (Modulo 1, submission separata)
 
@@ -80,8 +86,8 @@ Costruite sui pain point e i trigger d'acquisto mappati in [[icp]]. **Approvate 
 ## Sezione 3 . Video Demo del Prodotto
 
 - **Contenuto:** demo dell'interfaccia di [[HACCP Digitale]] (registro temperature, scheda ricevimento, notifica push, dashboard master), 6 minuti, stesso registro diretto/caldo/tecnico di [[brand]]
-- **Sopra il video:** micro-headline "Ecco esattamente come funziona" + bottone CTA verso la Sezione 4 (Form Contatti), visibile subito, prima ancora di premere play
-- **Sotto il video:** un secondo bottone CTA identico, per chi guarda la demo fino in fondo
+- **Sopra il video:** micro-headline "Ecco esattamente come funziona" + bottone "Prenota l'analisi gratuita" verso la Sezione 4 (Form Contatti), visibile subito, prima ancora di premere play
+- **Sotto il video:** un secondo bottone "Prenota l'analisi gratuita" identico, per chi guarda la demo fino in fondo
 
 > [!info] Asset già pronto (6 minuti)
 > Il video demo è già disponibile ([[Antonio Malatesta]] lo tiene già registrato), durata 6 minuti. Da caricare nel Media Storage di GHL (o via embed YouTube/Vimeo non listato).
