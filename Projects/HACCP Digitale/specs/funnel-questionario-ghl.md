@@ -86,14 +86,14 @@ Costruite sui pain point e i trigger d'acquisto mappati in [[icp]]. **Approvate 
 ## Sezione 3 . Video Demo del Prodotto
 
 - **Contenuto:** demo dell'interfaccia di [[HACCP Digitale]] (registro temperature, scheda ricevimento, notifica push, dashboard master), 6 minuti, stesso registro diretto/caldo/tecnico di [[brand]]
-- **Sopra il video:** micro-headline "Ecco esattamente come funziona" + bottone "Prenota l'analisi gratuita" verso la Sezione 4 (Form Contatti), visibile subito, prima ancora di premere play
-- **Sotto il video:** un secondo bottone "Prenota l'analisi gratuita" identico, per chi guarda la demo fino in fondo
+- **Sopra il video:** micro-headline "Ecco esattamente come funziona"
+- **Sotto il video:** un bottone "Prenota l'analisi gratuita" verso la Sezione 4 (Form Contatti)
+
+> [!warning] Un solo bottone, dopo il video (non prima)
+> Decisione dell'utente il 2026-09-08, che sostituisce la versione precedente (due bottoni, uno sopra e uno sotto): **niente bottone prima del video**. L'unico CTA di questa sezione sta sotto il player, dopo la demo.
 
 > [!info] Asset già pronto (6 minuti)
-> Il video demo è già disponibile ([[Antonio Malatesta]] lo tiene già registrato), durata 6 minuti. Da caricare nel Media Storage di GHL (o via embed YouTube/Vimeo non listato).
-
-> [!tip] Bottoni multipli, non un solo CTA a fine video
-> Guardare 6 minuti non deve essere un requisito per arrivare al form. Timestamp/capitoli nel player se l'host lo supporta (es. "1:20 registro temperature", "3:40 notifiche automatiche"). Tutti i bottoni della pagina (barra fissa, opt-in, sopra/sotto il video) portano allo stesso punto: la Sezione 4.
+> Il video demo è già disponibile ([[Antonio Malatesta]] lo tiene già registrato), durata 6 minuti, caricato nel Media Storage di GHL come "VIDEO DEMO.mp4". Al momento della build (2026-09-08) la piattaforma stava ancora elaborando/transcodificando il file: il player mostrava un thumbnail placeholder generico. Verificare a inizio prossima sessione che il video reale sia comparso al posto del placeholder.
 
 ## Sezione 4 . Form Contatti per l'Analisi Gratuita (Modulo 2, submission separata)
 
@@ -109,6 +109,22 @@ Costruite sui pain point e i trigger d'acquisto mappati in [[icp]]. **Approvate 
 
 > [!warning] Niente comune/provincia
 > Il campo comune/provincia è stato scartato esplicitamente dall'utente. Il targeting geografico (Potenza e provincia) resta gestito a monte, nella campagna Instagram/DM, non nel form.
+
+## Copy di Transizione Tra le Sezioni
+
+Frasi ponte da inserire come piccolo blocco di testo (sottotitolo/paragrafo breve) tra una sezione e l'altra, per non far sembrare la pagina una sequenza di blocchi scollegati. Coerenti con [[brand]] (diretto, caldo, tecnico, niente hype). Da inserire quando si riprende la build.
+
+**Tra Sezione 1 (opt-in) e Sezione 2 (questionario):**
+> "Bastano due minuti. Rispondi a queste 4 domande così, quando ti richiamiamo, sappiamo già di cosa parlare — niente domande generiche, andiamo dritti ai tuoi punti critici."
+
+**Tra Sezione 2 (questionario) e Sezione 3 (video demo):**
+> "Fatto. Ora guarda con i tuoi occhi come funziona davvero, prima ancora di parlare con nessuno."
+
+**Tra Sezione 3 (video) e Sezione 4 (form contatti):**
+> "Hai visto come funziona. Ora lasciaci i tuoi contatti: guardiamo le tue risposte e ti diciamo esattamente dove rischi e quanto tempo puoi liberare ogni giorno."
+
+> [!tip] Perché queste frasi e non altre
+> Ognuna fa da "cerniera": chiude il beneficio della sezione appena vista e apre l'aspettativa di quella successiva, sempre restando sul concreto (tempo, rischio, risposte) invece che su frasi motivazionali generiche. Da verificare comunque nella revisione finale insieme a bullet e resto del copy (vedi warning in Sezione 1).
 
 ## Custom Field Creati in GHL (già pronti, 2026-09-08)
 
@@ -142,12 +158,25 @@ Tutti creati come "Selezione con radio button" sull'oggetto Contact, cartella "A
 > [!warning] Notifica su WhatsApp
 > Il commerciale e [[operator|Antonio]] lavorano principalmente su WhatsApp, ma una notifica push su WhatsApp personale richiede l'integrazione WhatsApp Business API dentro GHL (setup separato). Per partire subito: email o SMS, nativi in GHL.
 
-## Blocco Tecnico in Corso (2026-09-08)
+## Stato Build (fine sessione 2026-09-08)
 
-L'editor pagina di GHL (`link.mxaccelerator.com`, builder drag&drop) ha smesso di rispondere ai click durante il lavoro di consolidamento in pagina unica. La console del browser mostra errori ripetuti **429 (Too Many Requests)** su chiamate interne della piattaforma, oltre a 403/404 sparsi. Non si è risolto dopo ~60 secondi di pausa, quindi non sembra un rate-limit che si resetta in fretta: possibile limite di piano dell'account white-label "MX Accelerator" o problema lato server.
+**Fatto, nell'editor GHL (build eseguita da [[Vito Romano]] su `app.gohighlevel.com`, guidato passo passo in chat):**
+- Sezione 1 (opt-in): headline, sottotitolo, 5 bullet (bozza, non approvati), bottone "Prenota l'analisi gratuita" ✅
+- Sezione 2 (questionario): modulo "Questionario HACCP" con le 4 domande e opzioni corrette, submission separata ✅
+- Sezione 3 (video): sottotitolo "Ecco esattamente come funziona", video "VIDEO DEMO.mp4" caricato (in elaborazione), un bottone "Prenota l'analisi gratuita" sotto il video ✅
+- Sezione 4 (form contatti): headline e sottotitolo da aggiungere ancora nel builder (testo pronto sopra), modulo "Form Contatti" con Nome, Nome attività commerciale, Telefono, Email ✅ — checkbox di consenso ancora quelle di default (SMS/marketing), da sostituire con una singola checkbox privacy/termini dopo aver verificato la normativa italiana (vedi decisione aperta sotto)
 
-**Prossimo passo:** riprovare più tardi (sessione fresca, magari da un altro dispositivo/browser) a incollare i contenuti di questa pagina secondo la struttura sopra. Tutti i testi, le domande, i campi e l'ordine delle sezioni sono già pronti in questo documento: il lavoro rimanente è puramente di building nell'editor, non di contenuto.
+**Non ancora fatto:**
+1. **Barra fissa in alto (sticky bar)**: non ancora iniziata. Prossimo passo appena si riprende.
+2. **Copy di transizione tra le sezioni**: scritto sopra, non ancora inserito nel builder.
+3. **Collegamenti dei bottoni**: nessuno dei bottoni "Prenota l'analisi gratuita" è ancora collegato alla Sezione 4 (serve impostare l'azione "Vai alla sezione"/anchor invece di "Apri il popup", il default con cui vengono creati).
+4. **Verifica video**: controllare che il player mostri il video reale e non più il placeholder.
+5. **Revisione finale copy/colori/layout**: bullet Sezione 1, frasi di transizione, e tutto lo stile visivo (colori, font) — deliberatamente rimandata a quando la struttura è stabile.
+
+## Decisione Aperta: Checkbox Privacy/Termini
+
+L'utente vuole sostituire le due checkbox di consenso SMS/marketing di default con **una sola checkbox** per l'accettazione di Privacy Policy e Termini di Servizio, ma prima vuole verificare cosa richiede la normativa italiana (consenso esplicito per contatto telefonico/marketing, GDPR). Non toccare questa parte finché l'utente non conferma la formulazione legale corretta.
 
 ## Perché non l'ho costruito interamente io
 
-Ho lavorato direttamente nell'account GHL con accesso guidato dall'utente (login fatto da [[Vito Romano]], poi controllo passato a me via browser). Ho creato il funnel, i custom field, e parte del contenuto della Pagina 1 prima che l'editor smettesse di rispondere per il blocco tecnico sopra descritto. Il contenuto testuale completo è pronto qui per il completamento manuale o per un mio nuovo tentativo in una sessione successiva.
+Ho un accesso browser instabile all'account GHL in questa sessione (vedi cronologia: errori 429 persistenti sul mio browser automatizzato, mentre sul browser dell'utente la piattaforma funziona normalmente). La build è quindi stata fatta da [[Vito Romano]] in prima persona, guidato da me passo passo in chat. Il contenuto testuale completo e lo stato preciso di avanzamento sono qui per riprendere senza perdere il filo nella prossima sessione.
