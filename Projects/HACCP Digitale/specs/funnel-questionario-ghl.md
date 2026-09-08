@@ -5,23 +5,32 @@ status: draft
 tags: [funnel, ghl, lead-gen, questionario, demo-video]
 ---
 
-# Funnel Opt-in + Questionario + Demo + Prenotazione Analisi (GHL)
+# Funnel Pagina Unica: Opt-in + Questionario + Demo + Contatti (GHL)
 
-Infrastruttura collegata al video di [drafts/script-video-presentazione.md](../drafts/script-video-presentazione.md). Chi scrive in DM per ricevere il link riceve questa pagina. Da configurare dentro l'account [[GHL]], amministrato da [[Vito Romano]] (nessun accesso diretto disponibile in questa sessione: setup manuale guidato).
+Infrastruttura collegata al video di [drafts/script-video-presentazione.md](../drafts/script-video-presentazione.md). Chi scrive in DM per ricevere il link riceve questa pagina. Da configurare dentro l'account [[GHL]], amministrato da [[Vito Romano]] (nessun accesso diretto stabile disponibile in questa sessione: vedi blocco tecnico in fondo).
 
-> [!info] Flusso completo (pagina a 4 step)
+> [!info] Flusso completo (pagina unica, scroll continuo)
 > 1. Prospect vede il video su Instagram, scrive in DM per ricevere il link
-> 2. Riceve il link alla pagina GHL: **Step 1 opt-in di vendita** → **Step 2 questionario breve** → **Step 3 video demo prodotto** → **Step 4 form contatti**
-> 3. Il dato si salva come Contact in GHL (fonte di verità sempre aggiornata, sostituisce l'Excel manuale) con i custom field del questionario
-> 4. [[Antonio Smaldini]] (commerciale) riceve una notifica immediata (email o SMS) a ogni invio completo, con copia a [[Antonio Malatesta]]
-> 5. Il commerciale richiama il lead per fissare l'analisi gratuita dei punti critici dal vivo
+> 2. Riceve il link a **un'unica pagina** GHL che scorre in sequenza: **opt-in di vendita** → **questionario breve** → **video demo prodotto** → **form contatti**, con una **barra fissa in alto** sempre visibile (headline + bottone "Prenota") che porta al form contatti da qualunque punto della pagina
+> 3. Il questionario e il form contatti sono **due moduli distinti** con due submission separate (non un unico form combinato)
+> 4. Ogni submission si salva come Contact in GHL con i relativi custom field
+> 5. [[Antonio Smaldini]] (commerciale) riceve una notifica immediata (email o SMS) a ogni invio del form contatti, con copia a [[Antonio Malatesta]]
+> 6. Il commerciale richiama il lead per fissare l'analisi gratuita dei punti critici
 
-> [!tip] Perché 4 step e non una pagina unica
-> Un multi-step funnel (nativo in GHL: "Funnel" con più pagine in sequenza, non un long-scroll) fa vedere solo un impegno alla volta: prima la promessa di vendita, poi 4 domande veloci, poi la prova concreta (demo), infine la richiesta di contatti. Ogni step passato aumenta l'impegno psicologico a completare (sunk cost) e il tasso di completamento è più alto che con un form lungo tutto insieme.
+> [!warning] Cambio di struttura rispetto alla versione precedente
+> Questa sostituisce la versione precedente a 4 pagine separate (funnel multi-step). L'utente ha chiarito che il riferimento è una pagina unica in stile long-scroll (es. le landing page di [[chiara-dosio]]), non un funnel a step. Nessuna pagina separata: tutto scorre in una singola pagina pubblica.
 
-## Step 1 . Opt-in di Vendita (Landing Page)
+## Barra Fissa Superiore (Sticky Bar)
 
-Non è più solo un invito a compilare un form: è la pagina che deve vendere la richiesta di analisi gratuita. Copy orientato ai pain point mappati in [[icp]] e [[pain-points]], coerente con [[brand]] (diretto, caldo, tecnico).
+Sempre visibile durante lo scroll, senza countdown/urgenza finta (fuori tono per [[brand]]).
+
+**Testo grande:** "Prenota l'analisi dei punti critici gratuita"
+
+**Bottone:** "Prenota" → scrolla/salta direttamente alla sezione Form Contatti in fondo alla pagina
+
+## Sezione 1 . Opt-in di Vendita
+
+Copy orientato ai pain point mappati in [[icp]] e [[pain-points]], coerente con [[brand]] (diretto, caldo, tecnico).
 
 **Headline:** "Il tuo HACCP in pochi secondi, non in ore. Scopri i punti critici del tuo locale, gratis."
 
@@ -30,92 +39,109 @@ Non è più solo un invito a compilare un form: è la pagina che deve vendere la
 **Corpo pagina (blocchi, non muro di testo):**
 - **Il problema, nominato in modo vivido:** faldoni, registri compilati al ritroso, ansia al controllo NAS (linguaggio diretto dal cliente, vedi [[icp]] "Linguaggio e Parole che Usano")
 - **La promessa:** da 45 minuti a 10 minuti al giorno di compilazione (caso reale in [[services]])
-- **Come funziona in 3 step:** rispondi alle domande → guardi la demo di 90 secondi → prenoti l'analisi gratuita
-- **Bottone CTA:** "Scopri i tuoi punti critici" (scrolla/avanza allo Step 2)
+- **Come funziona in 3 step:** rispondi alle domande → guardi la demo → prenoti l'analisi gratuita
+- **Bottone CTA:** "Scopri i tuoi punti critici" → scrolla alla Sezione 2 (Questionario)
 
 **Regola vault:** scansionare il copy per le parole bandite "rubare" e "disturbo" prima della pubblicazione ([[feedback_no_parola_rubare]]), verificare ogni cifra citata contro [[pain-points]]/[[services]] prima di pubblicarla ([[feedback_verify_facts_before_drafting]]).
 
-## Step 2 . Le 4 Domande del Questionario
+## Sezione 2 . Questionario (Modulo 1, submission separata)
 
-Costruite sui pain point e i trigger d'acquisto mappati in [[icp]].
+Costruite sui pain point e i trigger d'acquisto mappati in [[icp]]. **Approvate dall'utente il 2026-09-08.**
 
 **1. Che tipo di attività gestisci?**
 - Bar
 - Ristorante / Pizzeria
-- Entrambi (bar e cucina)
+- Alimentari (macelleria, pescheria, forno)
 - Altra attività di somministrazione
 
 **2. Oggi come gestisci l'HACCP?**
 - Tutto su carta
-- Un mix di carta e file sparsi (Excel, Word, foto sul telefono)
+- Mix di carta e file sparsi (Excel, Word, foto)
 - Sinceramente non lo gestisco come dovrei
 - Ho già un sistema digitale
 
-**3. Quante persone lavorano nel locale, te compreso?**
-- Solo io
-- 2-5
-- 6-10
-- Più di 10
+**3. Chi gestisce l'HACCP nel tuo locale?**
+- Io
+- Il personale
+- Nessuno
+- Un consulente esterno
 
 **4. Cosa ti spinge di più a cercarci proprio adesso?**
 - Ho un controllo NAS in arrivo
-- Ho avuto un problema o rischiato una multa di recente
-- Voglio semplicemente riprendermi il tempo che perdo ogni giorno
+- Ho avuto un problema o rischiato una multa
+- Voglio riprendermi il tempo che perdo ogni giorno
 - Curiosità, voglio vedere come funziona
 
 > [!tip] Perché queste domande
-> La 2 e la 4 sono le più importanti per priorizzare le chiamate: chi risponde "controllo NAS in arrivo" o "rischiato una multa" va richiamato per primo. La 3 aiuta a capire se serve la gestione multi-utente (vedi [[services]]). Chi risponde "ho già un sistema digitale" alla 2 va comunque contattato ma con approccio diverso (comparativo, non educativo).
+> La 2 e la 4 sono le più importanti per priorizzare le chiamate: chi risponde "controllo NAS in arrivo" o "rischiato una multa" va richiamato per primo. La 3 aiuta a capire il decisore reale (se "Un consulente esterno", approccio comparativo in chiamata). Chi risponde "ho già un sistema digitale" alla 2 va contattato con approccio comparativo, non educativo.
 
-## Step 3 . Video Demo del Prodotto
+**Modulo:** un Form/Survey GHL dedicato, solo le 4 domande (nessun campo contatto qui), submission propria che salva i 4 custom field sul Contact. Nessun bottone CTA aggiuntivo necessario: il modulo stesso avanza allo scroll successivo dopo l'invio, oppure resta in pagina e il prospect continua a scorrere.
 
-Dopo il questionario, prima della richiesta contatti: il prospect ha già investito 2 minuti rispondendo, ora vede la prova che il prodotto funziona davvero.
+## Sezione 3 . Video Demo del Prodotto
 
 - **Contenuto:** demo dell'interfaccia di [[HACCP Digitale]] (registro temperature, scheda ricevimento, notifica push, dashboard master), 6 minuti, stesso registro diretto/caldo/tecnico di [[brand]]
-- **Sopra il video:** micro-headline che lega la risposta appena data alla demo, es. "Ecco esattamente come funziona", e **subito accanto/sotto la headline un primo bottone CTA** verso lo Step 4 (es. "Voglio l'analisi gratuita dei punti critici del mio locale") — visibile appena la pagina si apre, prima ancora di premere play
-- **Sotto il video:** un secondo bottone CTA identico, per chi lo guarda fino in fondo
+- **Sopra il video:** micro-headline "Ecco esattamente come funziona" + bottone CTA verso la Sezione 4 (Form Contatti), visibile subito, prima ancora di premere play
+- **Sotto il video:** un secondo bottone CTA identico, per chi guarda la demo fino in fondo
 
 > [!info] Asset già pronto (6 minuti)
-> Il video demo è già disponibile ([[Antonio Malatesta]] lo tiene già registrato), durata 6 minuti. Da caricare nel Media Storage di GHL (o via embed YouTube/Vimeo non listato) nella Pagina 3 del Funnel Builder.
+> Il video demo è già disponibile ([[Antonio Malatesta]] lo tiene già registrato), durata 6 minuti. Da caricare nel Media Storage di GHL (o via embed YouTube/Vimeo non listato).
 
 > [!tip] Bottoni multipli, non un solo CTA a fine video
-> Guardare 6 minuti non deve essere un requisito per avanzare: chi è già convinto dal questionario e dall'opt-in non va bloccato dietro un video lungo. Struttura minima della pagina:
-> - **CTA #1, sopra il player, visibile al caricamento della pagina:** stesso testo e stesso link dello Step 4, per chi vuole saltare direttamente
-> - Player video, non in autoplay
-> - **CTA #2, sotto il player:** stesso bottone, per chi ha guardato la demo ed è pronto dopo
-> - **Timestamp/capitoli nel player** (se l'host video li supporta), così chi guarda comunque può saltare al punto che gli interessa (es. "1:20 registro temperature", "3:40 notifiche automatiche")
-> Tutti i bottoni portano allo stesso posto (Step 4): nessuna logica condizionale da costruire in GHL, solo più punti di uscita sulla stessa pagina.
+> Guardare 6 minuti non deve essere un requisito per arrivare al form. Timestamp/capitoli nel player se l'host lo supporta (es. "1:20 registro temperature", "3:40 notifiche automatiche"). Tutti i bottoni della pagina (barra fissa, opt-in, sopra/sotto il video) portano allo stesso punto: la Sezione 4.
 
-## Step 4 . Contatti per l'Analisi Gratuita dei Punti Critici
+## Sezione 4 . Form Contatti per l'Analisi Gratuita (Modulo 2, submission separata)
 
-Rinominato rispetto alla "consulenza gratuita" generica: l'offerta finale è specificamente un'**analisi dei punti critici del locale**, coerente con il pain point #1 in [[pain-points]] (sicurezza ai controlli NAS). Mantiene il framing come diagnosi concreta, non come chiamata commerciale generica.
-
-**Headline dello step:** "Prenota la tua analisi gratuita dei punti critici"
+**Headline:** "Prenota la tua analisi gratuita dei punti critici"
 
 **Sottotitolo:** "Un commerciale ti richiama, guarda le tue risposte, e ti dice esattamente dove rischi e quanto tempo puoi liberare. Zero impegno."
 
-**Campi:**
-- Nome e cognome
-- Comune (per verificare che sia Potenza città o provincia, coerente col targeting geografico della campagna)
+**Campi (confermati dall'utente, nessun altro dato da raccogliere):**
+- Nome
+- Nome attività commerciale
 - Email
 - Telefono (obbligatorio, è il canale su cui poi si richiama)
 
-## Setup in GHL (da fare manualmente nell'account)
+> [!warning] Niente comune/provincia
+> Il campo comune/provincia è stato scartato esplicitamente dall'utente. Il targeting geografico (Potenza e provincia) resta gestito a monte, nella campagna Instagram/DM, non nel form.
 
-1. **Funnel Builder** → crea un nuovo Funnel a 4 pagine (non un Survey singolo): Pagina 1 opt-in di vendita (copy Step 1) → Pagina 2 Survey con le 4 domande (tipo "scelta singola", salvate come Custom Field sul Contact: `tipo_attivita`, `gestione_haccp_attuale`, `num_persone`, `motivazione`) → Pagina 3 con embed video (carica il file mp4 nel Media Storage di GHL o incolla un embed YouTube/Vimeo non listato) → Pagina 4 form contatti (nome, comune, email, telefono). Ogni pagina avanza alla successiva col bottone CTA, nessun redirect esterno.
-2. **Pubblicazione** → il Funnel genera un unico link pubblico (dominio GHL o CNAME personalizzato) da mandare in chat dopo il primo scambio di messaggi in DM.
-3. **Pipeline** → crea (o riusa) una pipeline "HACCP Digitale . Lead" con stage "Nuovo Lead da Video" come destinazione automatica di ogni submission completa (Pagina 4).
-4. **Automation/Workflow** → trigger "Form Submitted" sulla Pagina 4 →
-   - Azione 1: crea/aggiorna Contact con i custom field raccolti in Pagina 2 e 4
+## Custom Field Creati in GHL (già pronti, 2026-09-08)
+
+Tutti creati come "Selezione con radio button" sull'oggetto Contact, cartella "Additional Info", tranne l'ultimo:
+
+| Campo | Chiave | Opzioni |
+|---|---|---|
+| Tipo di attività | `contact.tipo_di_attivit` | Bar / Ristorante-Pizzeria / Alimentari (macelleria, pescheria, forno) / Altra attività di somministrazione |
+| Gestione HACCP attuale | `contact.gestione_haccp_attuale` | Tutto su carta / Mix di carta e file sparsi / Sinceramente non lo gestisco come dovrei / Ho già un sistema digitale |
+| Chi gestisce l'HACCP | `contact.numero_persone_nel_locale` (chiave storica, non rinominata) | Io / Il personale / Nessuno / Un consulente esterno |
+| Motivazione richiesta | `contact.motivazione_richiesta` | Ho un controllo NAS in arrivo / Ho avuto un problema o rischiato una multa / Voglio riprendermi il tempo che perdo ogni giorno / Curiosità, voglio vedere come funziona |
+| Nome attività commerciale | `contact.nome_attivit_commerciale` | Linea singola (testo libero) |
+
+> [!tip] Chiave del campo "Chi gestisce l'HACCP"
+> La chiave interna è rimasta `numero_persone_nel_locale` perché il campo è stato rinominato da un uso precedente (la domanda sul numero di persone nel locale, poi scartata dal set finale di 4 domande) invece di crearne uno nuovo. Non cambia nulla in pratica: la Automation e le viste GHL usano l'etichetta "Chi gestisce l'HACCP", la chiave tecnica resta questa.
+
+## Setup in GHL (da fare quando l'editor torna operativo)
+
+1. **Sito/Funnel → Pagina singola**: nella Pagina 1 esistente ("1 - Opt-in di Vendita", già con headline/sottotitolo/bullet/bottone pronti), aggiungere sotto la sezione esistente, in ordine: Sezione 2 (Questionario, nuovo modulo/survey con le 4 domande sopra), Sezione 3 (Video Demo con i 2 bottoni CTA), Sezione 4 (Form Contatti, riusando/adattando "Form 0" già creato: rimuovere il campo Last Name, aggiungere "Nome attività commerciale", mantenere Email e Telefono).
+2. **Barra fissa**: aggiungere un header/sezione impostata come "sticky" (fissa durante lo scroll) con il testo e bottone descritti sopra; il bottone punta a un anchor link sulla Sezione 4.
+3. **Eliminare le pagine 2 ("Questionario") e 3 ("Video Demo")** create in precedenza come pagine separate del funnel multi-step: non servono più, il contenuto va dentro la Pagina 1 unica.
+4. **Pipeline** → crea (o riusa) una pipeline "HACCP Digitale . Lead" con stage "Nuovo Lead da Video" come destinazione automatica di ogni submission del Form Contatti.
+5. **Automation/Workflow** → trigger "Form Submitted" sul Form Contatti (Sezione 4) →
+   - Azione 1: crea/aggiorna Contact con i custom field raccolti (sia dal Questionario che dal Form Contatti, stesso Contact se stesso browser/sessione, altrimenti collegare via email/telefono)
    - Azione 2: sposta il Contact nello stage "Nuovo Lead da Video"
-   - Azione 3: **notifica interna** ad [[Antonio Smaldini]] (commerciale, è lui che richiama per fissare l'analisi), con copia a [[Antonio Malatesta]]:
-     - Email immediata (nessun setup aggiuntivo, disponibile su ogni account GHL)
-     - SMS al numero del commerciale (richiede numero GHL/Twilio già attivo sull'account)
-   - Testo notifica suggerito: `Nuovo lead HACCP Digitale: {{contact.first_name}} {{contact.last_name}} - {{contact.phone}}. Attività: {{contact.tipo_attivita}}. Gestione HACCP oggi: {{contact.gestione_haccp_attuale}}. Motivazione: {{contact.motivazione}}. Comune: {{contact.comune}}. Richiamare per fissare l'analisi gratuita dei punti critici.`
-5. **Tracciamento abbandono step:** GHL registra i Contact parziali che completano lo Step 2 ma abbandonano prima dello Step 4 (visibile come submission Survey senza submission Form). Utile per capire se il collo di bottiglia è la demo o la richiesta contatti finale.
+   - Azione 3: **notifica interna** ad [[Antonio Smaldini]] (commerciale, è lui che richiama), con copia a [[Antonio Malatesta]]:
+     - Email immediata (nessun setup aggiuntivo)
+     - SMS al numero del commerciale (richiede numero GHL/Twilio già attivo)
+   - Testo notifica suggerito: `Nuovo lead HACCP Digitale: {{contact.first_name}} - {{contact.phone}}. Attività: {{contact.nome_attivit_commerciale}} ({{contact.tipo_di_attivit}}). Gestione HACCP oggi: {{contact.gestione_haccp_attuale}}. Chi la gestisce: {{contact.numero_persone_nel_locale}}. Motivazione: {{contact.motivazione_richiesta}}. Richiamare per fissare l'analisi gratuita dei punti critici.`
 
 > [!warning] Notifica su WhatsApp
-> Il commerciale e [[operator|Antonio]] lavorano principalmente su WhatsApp, ma una notifica push su WhatsApp personale richiede l'integrazione WhatsApp Business API dentro GHL (setup separato, non immediato). Per partire subito: email o SMS, che GHL supporta nativamente senza configurazione aggiuntiva. Da valutare come step successivo se il volume di lead cresce.
+> Il commerciale e [[operator|Antonio]] lavorano principalmente su WhatsApp, ma una notifica push su WhatsApp personale richiede l'integrazione WhatsApp Business API dentro GHL (setup separato). Per partire subito: email o SMS, nativi in GHL.
 
-## Perché non l'ho costruito direttamente io
+## Blocco Tecnico in Corso (2026-09-08)
 
-Non ho un connettore GHL attivo in questa sessione, quindi non posso creare funnel/automation dentro il tuo account. Ho preparato qui tutto il contenuto pronto da incollare (copy di vendita, domande, testo demo, copy contatti, testo notifica, struttura funnel a 4 step) per rendere il setup manuale il più veloce possibile.
+L'editor pagina di GHL (`link.mxaccelerator.com`, builder drag&drop) ha smesso di rispondere ai click durante il lavoro di consolidamento in pagina unica. La console del browser mostra errori ripetuti **429 (Too Many Requests)** su chiamate interne della piattaforma, oltre a 403/404 sparsi. Non si è risolto dopo ~60 secondi di pausa, quindi non sembra un rate-limit che si resetta in fretta: possibile limite di piano dell'account white-label "MX Accelerator" o problema lato server.
+
+**Prossimo passo:** riprovare più tardi (sessione fresca, magari da un altro dispositivo/browser) a incollare i contenuti di questa pagina secondo la struttura sopra. Tutti i testi, le domande, i campi e l'ordine delle sezioni sono già pronti in questo documento: il lavoro rimanente è puramente di building nell'editor, non di contenuto.
+
+## Perché non l'ho costruito interamente io
+
+Ho lavorato direttamente nell'account GHL con accesso guidato dall'utente (login fatto da [[Vito Romano]], poi controllo passato a me via browser). Ho creato il funnel, i custom field, e parte del contenuto della Pagina 1 prima che l'editor smettesse di rispondere per il blocco tecnico sopra descritto. Il contenuto testuale completo è pronto qui per il completamento manuale o per un mio nuovo tentativo in una sessione successiva.

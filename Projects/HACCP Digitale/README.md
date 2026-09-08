@@ -21,7 +21,7 @@ Lanciato da 20 giorni, 4 licenze vendute. Focus attuale: costruire il funnel di 
 
 - [Spec gestionale commerciale](specs/gestionale-commerciale.md) . webapp di gestione clienti/funnel commerciale, live su [haccpcommerciale.it](https://haccpcommerciale.it), sullo stesso pattern usato per [[Essenza Latina]]; codice in `~/Desktop/haccp-digitale-crm`
 - [Script video presentazione (promessa-problema-CTA)](drafts/script-video-presentazione.md) . primo video organico, target Potenza e provincia
-- [Spec funnel questionario + GHL](specs/funnel-questionario-ghl.md) . funnel a 4 step (opt-in di vendita → questionario → video demo → contatti per analisi gratuita dei punti critici) collegato alla CTA del video, da configurare manualmente in GHL
+- [Spec funnel questionario + GHL](specs/funnel-questionario-ghl.md) . pagina unica a scroll continuo con barra fissa (opt-in di vendita → questionario → video demo → contatti per analisi gratuita dei punti critici) collegata alla CTA del video; custom field e struttura pronti, building in GHL bloccato da un problema tecnico dell'editor (errori 429)
 - [Strategia lead gen organica Instagram](specs/lead-gen-instagram-organico.md) . profile funnel, pilastri di contenuto e gestione DM basati sul framework di [[chiara-dosio]], collegata allo stesso funnel GHL ([versione PDF](specs/lead-gen-instagram-organico.pdf))
 - [Workflow completo campagna](specs/workflow-campagna-completo.md) . scaletta end-to-end dal video organico alla delivery finale del cliente
 - [Script di vendita commerciale](drafts/script-vendita-commerciale.md) . playbook per chi vende HACCP Digitale sul campo (oggi [[Antonio Smaldini]]): apertura, demo, prezzo, chiusura, follow-up, ogni tecnica verificata sul testo originale dei libri
