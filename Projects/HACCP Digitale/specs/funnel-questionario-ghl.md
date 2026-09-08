@@ -70,12 +70,17 @@ Costruite sui pain point e i trigger d'acquisto mappati in [[icp]].
 
 Dopo il questionario, prima della richiesta contatti: il prospect ha già investito 2 minuti rispondendo, ora vede la prova che il prodotto funziona davvero.
 
-- **Contenuto:** demo dell'interfaccia di [[HACCP Digitale]] (registro temperature, scheda ricevimento, notifica push, dashboard master), 60-90 secondi, stesso registro diretto/caldo/tecnico di [[brand]]
+- **Contenuto:** demo dell'interfaccia di [[HACCP Digitale]] (registro temperature, scheda ricevimento, notifica push, dashboard master), 6 minuti, stesso registro diretto/caldo/tecnico di [[brand]]
 - **Sopra il video:** micro-headline che lega la risposta appena data alla demo, es. "Ecco esattamente come funziona" (non ripetere la promessa dello Step 1, mostrarla)
 - **Sotto il video:** bottone CTA che avanza allo Step 4, es. "Voglio l'analisi gratuita dei punti critici del mio locale"
 
-> [!info] Asset già pronto
-> Il video demo è già disponibile ([[Antonio Malatesta]] lo tiene già registrato). Da caricare nel Media Storage di GHL (o via embed YouTube/Vimeo non listato) nella Pagina 3 del Funnel Builder. Nessun blocco residuo su questo step: verificare solo che durata e contenuto restino coerenti con le indicazioni sopra (60-90 secondi, interfaccia in azione) prima di pubblicarlo.
+> [!info] Asset già pronto (6 minuti)
+> Il video demo è già disponibile ([[Antonio Malatesta]] lo tiene già registrato), durata 6 minuti. Da caricare nel Media Storage di GHL (o via embed YouTube/Vimeo non listato) nella Pagina 3 del Funnel Builder.
+
+> [!tip] Un demo di 6 minuti in questo punto del funnel regge
+> A questo punto il prospect ha già scritto in DM e compilato il questionario: è più investito di un follower qualunque, quindi una demo lunga non è fuori posto come lo sarebbe in un Reel o all'inizio della pagina. Due accorgimenti per non perdere chi non arriva alla fine:
+> - **Timestamp/capitoli nel player** (se l'host video li supporta) così chi ha meno tempo salta al punto che gli interessa (es. "1:20 registro temperature", "3:40 notifiche automatiche")
+> - **Bottone CTA verso lo Step 4 visibile fin da subito sotto il player**, non solo a video finito: chi si convince dopo 2 minuti non deve aspettare la fine per prenotare l'analisi
 
 ## Step 4 . Contatti per l'Analisi Gratuita dei Punti Critici
 
