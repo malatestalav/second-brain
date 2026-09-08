@@ -74,8 +74,8 @@ Dopo il questionario, prima della richiesta contatti: il prospect ha già invest
 - **Sopra il video:** micro-headline che lega la risposta appena data alla demo, es. "Ecco esattamente come funziona" (non ripetere la promessa dello Step 1, mostrarla)
 - **Sotto il video:** bottone CTA che avanza allo Step 4, es. "Voglio l'analisi gratuita dei punti critici del mio locale"
 
-> [!warning] Asset da produrre
-> Non esiste ancora un video demo registrato (vedi [[pain-points]] "Come Abbiamo Risolto in Pratica": nessun case study video prodotto finora). Va girato uno screen recording dell'app [[gestionale-commerciale|haccpcommerciale.it]] o del prodotto HACCP Digitale stesso prima di poter pubblicare questo step. Finché non è pronto, la pagina può restare a 3 step (opt-in → questionario → contatti) e aggiungere lo Step 3 appena il video è girato.
+> [!info] Asset già pronto
+> Il video demo è già disponibile ([[Antonio Malatesta]] lo tiene già registrato). Da caricare nel Media Storage di GHL (o via embed YouTube/Vimeo non listato) nella Pagina 3 del Funnel Builder. Nessun blocco residuo su questo step: verificare solo che durata e contenuto restino coerenti con le indicazioni sopra (60-90 secondi, interfaccia in azione) prima di pubblicarlo.
 
 ## Step 4 . Contatti per l'Analisi Gratuita dei Punti Critici
 
