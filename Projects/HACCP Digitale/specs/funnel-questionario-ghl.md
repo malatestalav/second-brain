@@ -7,7 +7,7 @@ tags: [funnel, ghl, lead-gen, questionario, demo-video]
 
 # Funnel Opt-in + Questionario + Demo + Prenotazione Analisi (GHL)
 
-Infrastruttura collegata al video di [drafts/script-video-presentazione.md](../drafts/script-video-presentazione.md). Chi scrive in DM per ricevere il link riceve questa pagina. Da configurare dentro l'account [[GHL]] di [[Antonio Malatesta]] (nessun accesso diretto disponibile in questa sessione: setup manuale guidato).
+Infrastruttura collegata al video di [drafts/script-video-presentazione.md](../drafts/script-video-presentazione.md). Chi scrive in DM per ricevere il link riceve questa pagina. Da configurare dentro l'account [[GHL]], amministrato da [[Vito Romano]] (nessun accesso diretto disponibile in questa sessione: setup manuale guidato).
 
 > [!info] Flusso completo (pagina a 4 step)
 > 1. Prospect vede il video su Instagram, scrive in DM per ricevere il link

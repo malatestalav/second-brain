@@ -19,7 +19,7 @@ status: active
 ## Gestione Progetti e CRM
 
 - **CRM:** Il [[gestionale-commerciale|gestionale commerciale]] di [[HACCP Digitale]] è live su [haccpcommerciale.it](https://haccpcommerciale.it) (Next.js + Supabase, ruoli master/commerciale via RLS), usato da [[Antonio Malatesta]], [[Vito Romano]] e [[Antonio Smaldini]]. Sostituisce il tracker Excel manuale. Nota operativa: Supabase resta su piano Free, il progetto si mette in pausa dopo 7 giorni di inattività (da riattivare a mano dal dashboard).
-- **GHL:** [[Antonio Malatesta]] ha un account [[GHL]] (GoHighLevel), piattaforma separata per il funnel di acquisizione lead (form di qualificazione + pipeline + notifiche), vedi [[funnel-questionario-ghl]]. Non collegato come connettore MCP in sessione: configurazione manuale nell'account.
+- **GHL:** Account [[GHL]] (GoHighLevel, white-label "MX Accelerator", sub-account "MX Consulting LLC" su core.mxaccelerator.com), piattaforma separata per il funnel di acquisizione lead (form di qualificazione + pipeline + notifiche), vedi [[funnel-questionario-ghl]]. **Amministratore dell'account: [[Vito Romano]]**, non Antonio. Non collegato come connettore MCP in sessione: configurazione manuale nell'account.
 - **CRM precedente:** Lista clienti manuale (spreadsheet Excel), ora sostituita dal gestionale sopra.
 - **Progetti:** Non strutturato. Todo list mentale o note sparse
 - **Task management:** Niente
