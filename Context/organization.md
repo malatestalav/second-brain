@@ -51,9 +51,9 @@ Nessun dipartimento formale ancora. Team piccolo e agile.
 ## Metriche Chiave
 
 - **Clienti attuali:** 8 licenze (aggiornato 2026-09-09; dato interno, non pubblicare come numero di prova sociale — vedi [[services]])
-- **Fatturato attuale:** €1.200 (4 × €300/anno)
+- **Fatturato attuale:** €2.376 da vendite chiuse (dato live da [haccpcommerciale.it](https://haccpcommerciale.it), aggiornato 2026-09-09; vedi snapshot completo in [tracking/metriche-settimanali.md](../Projects/HACCP%20Digitale/tracking/metriche-settimanali.md))
 - **Fatturato target 2026:** 500 licenze = €150.000
-- **Tasso di chiusura:** 4-5 ore per appuntamento
+- **Tasso di chiusura contatto→vendita:** 50% (dato live 2026-09-09)
 
 ## Posizionamento Competitivo
 
