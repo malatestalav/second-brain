@@ -97,9 +97,9 @@ Costruite sui pain point e i trigger d'acquisto mappati in [[icp]]. **Approvate 
 
 ## Sezione 4 . Form Contatti per l'Analisi Gratuita (Modulo 2, submission separata)
 
-**Headline:** "Prenota la tua analisi gratuita dei punti critici"
+**Headline (aggiornata dall'utente in build, 2026-09-09):** "Prenota la tua analisi gratuita dei punti critici"
 
-**Sottotitolo:** "Un commerciale ti richiama, guarda le tue risposte, e ti dice esattamente dove rischi e quanto tempo puoi liberare. Zero impegno."
+**Sottotitolo (aggiornato dall'utente in build, 2026-09-09):** "Un consulente ti chiama, viene nella tua attività e insieme a te capisce esattamente dove rischi e le tue esigenze. Zero impegno."
 
 **Campi (confermati dall'utente, nessun altro dato da raccogliere):**
 - Nome
@@ -109,6 +109,15 @@ Costruite sui pain point e i trigger d'acquisto mappati in [[icp]]. **Approvate 
 
 > [!warning] Niente comune/provincia
 > Il campo comune/provincia è stato scartato esplicitamente dall'utente. Il targeting geografico (Potenza e provincia) resta gestito a monte, nella campagna Instagram/DM, non nel form.
+
+> [!info] Flusso post-submission confermato dall'utente (2026-09-09)
+> 1. Prospect guarda il video su Instagram → scrive in DM → riceve il link della pagina
+> 2. Nella pagina: guarda la demo, lascia i contatti (questo form)
+> 3. Il commerciale **chiama** il lead per fissare un appuntamento **in sede** (di persona, non da remoto)
+> 4. Il commerciale **va fisicamente nell'attività** e fa l'analisi gratuita dei punti critici
+> 5. Chiude la vendita in loco
+>
+> Questo è specifico alla **campagna organica Instagram, solo Potenza e provincia** — attività raggiungibili fisicamente dal commerciale. Per campagne a livello nazionale (attività non raggiungibili di persona) serve un progetto/funnel separato con un flusso diverso (probabilmente demo/vendita da remoto), non ancora pianificato.
 
 ## Copy di Transizione Tra le Sezioni
 
