@@ -237,12 +237,26 @@ Tutti creati come "Selezione con radio button" sull'oggetto Contact, cartella "A
 - **Checkbox consenso:** sostituita con una sola checkbox, testo "Dichiaro di aver letto e accetto la Privacy Policy di NexVision SRL" ✅ — link cliccabile non ancora aggiunto (vedi decisione aperta sotto)
 - **Footer aggiunto:** Nexvision S.r.l., indirizzo (Via L. Braille 4, 85100 Potenza PZ), P.IVA IT02233130760, Iscr. Reg. Imprese PZ-0223363, copyright ✅ — più completo di quanto proposto, include dati legali reali dell'azienda
 
+## Pagina di Ringraziamento . "2 - Grazie" (costruita 2026-09-09)
+
+Riusata la vecchia pagina "2 - Questionario" (rinominata "2 - Grazie"), che conteneva già un form generico residuo del primo giorno di build — sostituito con il modulo reale **"QUESTIONARIO HACCP"** (le 4 domande corrette, creato l'8/9).
+
+**Contenuto:**
+- Titolo: "GRAZIE!"
+- Sottotitolo: "TI CONTATTEREMO IL PRIMA POSSIBILE!"
+- Testo: "Nel frattempo rispondi a queste quattro domande — ci permettono di conoscere meglio la tua attività e arrivare preparati alla tua analisi gratuita dei punti critici."
+- Modulo "QUESTIONARIO HACCP" (le 4 domande)
+
+**Collegamento dal Form Contatti (Pagina 1):** Builder Modulo del Form Contatti → Impostazioni → "All'invio" → **"Reindirizza all'URL"** → URL della pagina "2 - Grazie" (preview link `link.mxaccelerator.com/preview/...`, da aggiornare se/quando si collega un dominio personalizzato).
+
+**Pagina "3 - Video Demo"**: eliminata, non più necessaria (contenuto già consolidato nella Pagina 1).
+
 **Non ancora fatto:**
 1. **Link Privacy Policy cliccabile:** la privacy policy di haccpdigitale.it è gestita via popup Iubenda senza URL diretto copiabile dal sito; serve recuperare il link pubblico permanente dal pannello Iubenda (formato tipico `https://www.iubenda.com/privacy-policy/xxxxxxxx`). Fino ad allora la checkbox resta solo testuale, senza link
-2. **Pagina di ringraziamento**: da costruire, con il questionario spostato lì (vedi warning in Sezione 2)
-3. **Copy di transizione tra le sezioni**: da riscrivere per il nuovo ordine (vedi warning sopra), non ancora fatto
-4. **Automation/Workflow di notifica** al commerciale sulla submission del Form Contatti (vedi sezione "Setup in GHL" sotto, ancora da fare)
-5. **Rifinitura stile:** allineamento verticale barra fissa, dimensioni font globali del form (non ancora trovato dove impostarle), eventuale foto aggiuntive in stile Mario Olivelli (l'utente ha detto di averle pronte da caricare, non ancora fatto)
+2. **Copy di transizione tra le sezioni**: da riscrivere per il nuovo ordine (vedi warning sopra), non ancora fatto
+3. **Automation/Workflow di notifica** al commerciale sulla submission del Form Contatti (vedi sezione "Setup in GHL" sotto, ancora da fare) — ora ancora più importante perché il questionario è su una pagina diversa dal form contatti, quindi la notifica dovrebbe idealmente aspettare/unire entrambe le submission per lo stesso lead
+4. **Rifinitura stile:** allineamento verticale barra fissa, dimensioni font globali del form (non ancora trovato dove impostarle), eventuale foto aggiuntive in stile Mario Olivelli (l'utente ha detto di averle pronte da caricare, non ancora fatto)
+5. **URL definitivo del redirect**: aggiornare il link di reindirizzamento nel Form Contatti quando si collega un dominio personalizzato al posto del preview link mxaccelerator
 
 ## Decisione Aperta: Link Privacy Policy
 
