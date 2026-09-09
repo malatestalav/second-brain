@@ -50,13 +50,15 @@ Nessun dipartimento formale ancora. Team piccolo e agile.
 
 ## Metriche Chiave
 
-- **Clienti attuali:** 4 licenze
+- **Clienti attuali:** 8 licenze (aggiornato 2026-09-09; dato interno, non pubblicare come numero di prova sociale — vedi [[services]])
 - **Fatturato attuale:** €1.200 (4 × €300/anno)
 - **Fatturato target 2026:** 500 licenze = €150.000
 - **Tasso di chiusura:** 4-5 ore per appuntamento
 
 ## Posizionamento Competitivo
 
-- **Mercato:** Completamente privo di competitor digitali. Solo soluzioni cartacee e consulenti HACCP tradizionali.
+- **Mercato:** Esistono alcuni competitor digitali sul mercato italiano (correzione del 2026-09-09: non è vero che HACCP Digitale sia l'unico provider digitale, come si credeva in precedenza). Non usare più la frase "primo e unico provider digitale in Italia" in nessun contenuto pubblico.
 - **Target:** Piccoli-medi ristoranti, bar, hotel, attività di somministrazione alimentare (macellerie, pescherie, latterie, case di riposo)
-- **Differenziatore:** Unico provider digitale di HACCP in Italia (al momento del lancio)
+- **Differenziatore:** Da ridefinire senza il claim di esclusività digitale — puntare su esperienza diretta del founder e risultati concreti dei clienti, non su "essere gli unici"
+
+<span style="background-color:#F5D7A1; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">⚠️ Corretto da Antonio Malatesta il 2026-09-09: rimosso il claim "primo e unico provider" perché fattualmente sbagliato.</span>

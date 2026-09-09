@@ -21,7 +21,7 @@ status: active
 
 **Consapevolezza cliente:** Molto consapevole. È il dolore quotidiano che provano.
 
-**Come lo risolviamo:** Compilation in pochi secondi. Modelli pre-impostati, notifiche automatiche che ricordano al team di fare il task esattamente quando serve, non dipende da memoria umana. Un singolo bar compila tutto in 10-15 minuti vs. 45+ minuti cartacei.
+**Come lo risolviamo:** Compilazione in pochi secondi. Modelli pre-impostati, accesso multi-utente con ruoli separati così ogni persona vede solo i suoi compiti, non dipende da memoria umana. Un singolo bar compila tutto in pochi secondi al giorno vs. 45+ minuti cartacei.
 
 ### 3. Libertà di Innovare
 **Il problema:** Tra compilazione HACCP e gestione operativa, il ristoratore non ha tempo di ricercare nuovi prodotti, testare ricette diverse, scalare l'attività, migliorare il menu. È bloccato dalla burocrazia.
@@ -63,8 +63,8 @@ I ristoratori descrivono il problema come:
 ## Come Abbiamo Risolto in Pratica
 
 Con HACCP Digitale:
-- **Accesso multi-utente:** Cameriere riceve notifica push "È ora di compilare la scheda pulizie", fa un click, fatto. Cuoco riceve "Registro ricevimenti prodotto", riempie i dati rilevanti dal suo ruolo, firma digitale, archiviato.
-- **Master dashboard:** Titolare vede tutto in tempo reale. Zero ricerca nei faldoni. Zero compilazioni ritardate. Zero stress.
-- **Real-time compliance:** La conformità non è un evento ogni 3 mesi, è un costante dello stato operativo.
+- **Accesso multi-utente:** Cameriere accede solo alla sua sezione (es. "scheda pulizie"), fa un click, fatto. Cuoco accede al suo "Registro ricevimenti prodotto", riempie i dati rilevanti dal suo ruolo, firma digitale, archiviato. Ruoli riorganizzati, non notifiche push automatiche.
+- **Master dashboard:** Titolare vede tutto quando accede all'app. Zero ricerca nei faldoni. Compilazioni sotto controllo. Meno stress.
+- **Conformità sotto controllo:** La conformità non è un evento ogni 3 mesi, è uno stato che il titolare può verificare quando vuole dalla dashboard.
 
-<span style="background-color:#D2ECD0; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Nexvision Vault Operator . ultima modifica: 2026-08-17T21:29:31Z</span>
+<span style="background-color:#F5D7A1; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">⚠️ Corretto da Antonio Malatesta il 2026-09-09: rimossi i claim di notifiche push e visibilità "in tempo reale", non veritieri. Il prodotto organizza i ruoli e la dashboard è consultabile su richiesta, non push automatico.</span>

@@ -33,7 +33,7 @@ Licenza annuale
 
 **Prezzo attuale:** €300/anno per attività singola
 
-**Stato commerciale:** Attiva, 4 licenze vendute in 20 giorni
+**Stato commerciale:** Attiva, 8 licenze vendute (aggiornato 2026-09-09, dato interno — non pubblicare questo numero su contenuti pubblici/pagine di vendita su richiesta esplicita di Antonio, ritenuto ancora troppo basso per essere usato come prova sociale)
 
 **Target di fatturato 2026:** 500 licenze = €150.000
 
@@ -41,13 +41,15 @@ Licenza annuale
 
 **Caso 1: Bar con gestione singola**
 - Prima: Titolare si presentava al lavoro 45 minuti prima dell'apertura per compilare registri cartacei
-- Dopo: Accede all'app da casa il giorno prima o al mattino presto (10-15 minuti)
+- Dopo: Compila da app in pochi secondi al giorno
 - Beneficio: 45+ minuti liberati al giorno, flessibilità oraria
 
 **Caso 2: Ristorante con staff**
 - Prima: Camerieri e cuochi odiavano compilare HACCP (considerato "tortura" amministrativa), titolare compilava tutto al ritroso dopo settimane
-- Dopo: Notifiche push ricordano al team cosa fare (pulizie, registri) esattamente quando serve. Titolare ha visibilità real-time e non spende più ore in compilazione arretrata
-- Beneficio: Liberazione del personale dalla burocrazia, conformità real-time, meno stress titolare
+- Dopo: Riorganizzazione dei ruoli del personale (ogni persona vede solo i suoi compiti), tutto sotto controllo del titolare
+- Beneficio: Liberazione del personale dalla burocrazia, conformità sotto controllo, meno stress titolare
+
+<span style="background-color:#F5D7A1; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">⚠️ Corretto da Antonio Malatesta il 2026-09-09: il prodotto non manda notifiche push in tempo reale (claim rimosso); tempo di compilazione corretto in "pochi secondi", non 10-15 minuti.</span>
 
 ---
 
