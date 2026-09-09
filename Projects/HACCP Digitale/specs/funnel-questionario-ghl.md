@@ -174,6 +174,9 @@ Costruite sui pain point e i trigger d'acquisto mappati in [[icp]]. **Approvate 
 
 ## Copy di Transizione Tra le Sezioni
 
+> [!warning] Superato dal nuovo ordine della pagina (2026-09-09)
+> Queste frasi erano pensate per l'ordine vecchio (opt-in → questionario → video → contatti). Con il nuovo ordine (vedi warning "Ordine reale della pagina" più sopra) non sono più applicabili così come scritte. Da riscrivere per i nuovi punti di passaggio (dopo il video, tra "in questo video scoprirai" e "chi siamo", tra "chi siamo" e i bullet vecchi) nella prossima sessione — non ancora fatto.
+
 Frasi ponte da inserire come piccolo blocco di testo (sottotitolo/paragrafo breve) tra una sezione e l'altra, per non far sembrare la pagina una sequenza di blocchi scollegati. Coerenti con [[brand]] (diretto, caldo, tecnico, niente hype). Da inserire quando si riprende la build.
 
 **Tra Sezione 1 (opt-in) e Sezione 2 (questionario):**
@@ -220,20 +223,28 @@ Tutti creati come "Selezione con radio button" sull'oggetto Contact, cartella "A
 > [!warning] Notifica su WhatsApp
 > Il commerciale e [[operator|Antonio]] lavorano principalmente su WhatsApp, ma una notifica push su WhatsApp personale richiede l'integrazione WhatsApp Business API dentro GHL (setup separato). Per partire subito: email o SMS, nativi in GHL.
 
-## Stato Build (fine sessione 2026-09-08)
+## Stato Build (fine sessione 2026-09-09)
 
 **Fatto, nell'editor GHL (build eseguita da [[Vito Romano]] su `app.gohighlevel.com`, guidato passo passo in chat):**
-- Sezione 1 (opt-in): headline, sottotitolo, 5 bullet (bozza, non approvati), bottone "Prenota l'analisi gratuita" ✅
-- Sezione 2 (questionario): modulo "Questionario HACCP" con le 4 domande e opzioni corrette, submission separata ✅
-- Sezione 3 (video): sottotitolo "Ecco esattamente come funziona", video "VIDEO DEMO.mp4" caricato (in elaborazione), un bottone "Prenota l'analisi gratuita" sotto il video ✅
-- Sezione 4 (form contatti): headline e sottotitolo da aggiungere ancora nel builder (testo pronto sopra), modulo "Form Contatti" con Nome, Nome attività commerciale, Telefono, Email ✅ — checkbox di consenso ancora quelle di default (SMS/marketing), da sostituire con una singola checkbox privacy/termini dopo aver verificato la normativa italiana (vedi decisione aperta sotto)
+- **Barra fissa in alto:** riga a 3 colonne (logo Nexvision, logo HACCP Digitale, bottone "Prenota l'analisi gratuita") con proprietà Section → Fisso → "Fissa in alto allo scorrimento" ✅
+- **Headline + sottotitolo:** presenti, sottotitolo ancora da aggiornare in stile Codex10 (bozza proposta: "Il sistema che ti fa eliminare i faldoni, compilare l'HACCP in pochi secondi e presentarti sempre pronto ai controlli NAS." — non ancora confermata/inserita)
+- **Video demo:** spostato subito dopo l'headline, ridimensionato e centrato, miniatura corretta (fermo immagine reale invece del placeholder cascata), play/pausa abilitato ✅
+- **Bottone dopo il video:** "Prenota l'analisi gratuita", collegato via "Scorri fino all'elemento" → Form ✅
+- **"In questo video scoprirai":** 6 bullet, inseriti dopo il primo bottone ✅
+- **"Chi c'è dietro HACCP Digitale":** titolo + 3 bullet bio/credibilità + sottotitolo "Risultati reali, non promesse" + 3 bullet casi cliente (bar, ristorante, forno) ✅
+- **Bullet vecchi della Sezione 1:** presenti sotto "Chi siamo", copy già riscritta dall'utente in build (non più la bozza originale) ✅
+- **Secondo bottone** (dopo i bullet vecchi, prima del form): collegato via "Scorri fino all'elemento" → Form ✅
+- **Sezione 4 (form contatti):** headline "Prenota la tua analisi gratuita dei punti critici", sottotitolo "Un consulente ti chiama, viene nella tua attività...", modulo "Form Contatti" con Nome, Nome attività commerciale, Telefono, Email ✅ — checkbox di consenso ancora quelle di default (SMS/marketing), decisione ancora aperta (vedi sotto)
+- **Questionario:** rimosso dalla pagina opt-in, il modulo "QUESTIONARIO HACCP" esiste già in GHL pronto per essere spostato sulla pagina di ringraziamento (non ancora costruita)
+- **Pipeline "HACCP Digitale - Lead"**: creata via API (3 stage: Nuovo Lead da Video, Consulenza Fissata, Cliente) ✅
 
 **Non ancora fatto:**
-1. **Barra fissa in alto (sticky bar)**: non ancora iniziata. Prossimo passo appena si riprende.
-2. **Copy di transizione tra le sezioni**: scritto sopra, non ancora inserito nel builder.
-3. **Collegamenti dei bottoni**: nessuno dei bottoni "Prenota l'analisi gratuita" è ancora collegato alla Sezione 4 (serve impostare l'azione "Vai alla sezione"/anchor invece di "Apri il popup", il default con cui vengono creati).
-4. **Verifica video**: controllare che il player mostri il video reale e non più il placeholder.
-5. **Revisione finale copy/colori/layout**: bullet Sezione 1, frasi di transizione, e tutto lo stile visivo (colori, font) — deliberatamente rimandata a quando la struttura è stabile.
+1. **Sottotitolo headline stile Codex10**: bozza pronta sopra, non ancora inserita/confermata nel builder
+2. **Pagina di ringraziamento**: da costruire, con il questionario spostato lì (vedi warning in Sezione 2)
+3. **Copy di transizione tra le sezioni**: da riscrivere per il nuovo ordine (vedi warning sopra), non ancora fatto
+4. **Checkbox privacy/termini**: sostituire le 2 checkbox SMS/marketing di default con una sola, dopo verifica normativa italiana (decisione aperta sotto)
+5. **Automation/Workflow di notifica** al commerciale sulla submission del Form Contatti (vedi sezione "Setup in GHL" sotto, ancora da fare)
+6. **Revisione finale copy/colori/layout**: tutto lo stile visivo (colori, font, bordi) — l'utente vuole uno stile scuro/bordi luminosi ispirato a Codex10 di [[Mario Olivelli]], deliberatamente rimandato a quando la struttura è stabile
 
 ## Decisione Aperta: Checkbox Privacy/Termini
 
