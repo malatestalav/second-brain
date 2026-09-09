@@ -58,6 +58,12 @@ Sezione di autorità/credibilità, posizionata dopo il blocco "In questo video s
 2. Ha vissuto in prima persona la burocrazia HACCP cartacea: registri sporchi, ore perse ogni giorno, ansia ai controlli NAS
 3. Le procedure sono state validate da un tecnologo alimentare con oltre 30 anni di esperienza nel settore (vedi [[stakeholders]])
 
+**Sottotitolo:** "Risultati reali, non promesse"
+
+1. Un bar di Potenza: da 45 minuti a pochi secondi al giorno di compilazione
+2. Un ristorante con staff: da registri compilati in ritardo e sotto stress a riorganizzazione dei ruoli del personale e tutto sotto controllo
+3. Un forno con tante preparazioni: da gestione manuale caotica a tutto organizzato in automatico (vedi Caso 3 in [[services]])
+
 > [!warning] Correzioni fattuali del 2026-09-09 (Antonio Malatesta)
 > - **Rimosso** il claim "primo e unico provider digitale di HACCP in Italia": esistono competitor digitali, era un'informazione sbagliata (corretto anche in [[organization]])
 > - **Rimosso** ogni riferimento a "notifiche push in tempo reale": il prodotto non le manda (corretto anche in [[services]] e [[pain-points]])

@@ -49,7 +49,12 @@ Licenza annuale
 - Dopo: Riorganizzazione dei ruoli del personale (ogni persona vede solo i suoi compiti), tutto sotto controllo del titolare
 - Beneficio: Liberazione del personale dalla burocrazia, conformità sotto controllo, meno stress titolare
 
-<span style="background-color:#F5D7A1; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">⚠️ Corretto da Antonio Malatesta il 2026-09-09: il prodotto non manda notifiche push in tempo reale (claim rimosso); tempo di compilazione corretto in "pochi secondi", non 10-15 minuti.</span>
+**Caso 3: Forno con tante preparazioni**
+- Prima: Gestione manuale caotica delle numerose preparazioni giornaliere
+- Dopo: Tutto organizzato in automatico dentro l'app
+- Beneficio: Fine del caos tra le preparazioni, processo ripetibile ogni giorno
+
+<span style="background-color:#F5D7A1; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">⚠️ Corretto da Antonio Malatesta il 2026-09-09: il prodotto non manda notifiche push in tempo reale (claim rimosso); tempo di compilazione corretto in "pochi secondi", non 10-15 minuti. Aggiunto Caso 3 (forno).</span>
 
 ---
 
