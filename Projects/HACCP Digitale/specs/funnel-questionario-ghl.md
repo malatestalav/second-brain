@@ -223,32 +223,30 @@ Tutti creati come "Selezione con radio button" sull'oggetto Contact, cartella "A
 > [!warning] Notifica su WhatsApp
 > Il commerciale e [[operator|Antonio]] lavorano principalmente su WhatsApp, ma una notifica push su WhatsApp personale richiede l'integrazione WhatsApp Business API dentro GHL (setup separato). Per partire subito: email o SMS, nativi in GHL.
 
-## Stato Build (fine sessione 2026-09-09)
+## Stato Build (fine sessione 2026-09-09, seconda parte: revisione stile)
 
-**Fatto, nell'editor GHL (build eseguita da [[Vito Romano]] su `app.gohighlevel.com`, guidato passo passo in chat):**
-- **Barra fissa in alto:** riga a 3 colonne (logo Nexvision, logo HACCP Digitale, bottone "Prenota l'analisi gratuita") con proprietà Section → Fisso → "Fissa in alto allo scorrimento" ✅
-- **Headline + sottotitolo:** presenti, sottotitolo ancora da aggiornare in stile Codex10 (bozza proposta: "Il sistema che ti fa eliminare i faldoni, compilare l'HACCP in pochi secondi e presentarti sempre pronto ai controlli NAS." — non ancora confermata/inserita)
-- **Video demo:** spostato subito dopo l'headline, ridimensionato e centrato, miniatura corretta (fermo immagine reale invece del placeholder cascata), play/pausa abilitato ✅
-- **Bottone dopo il video:** "Prenota l'analisi gratuita", collegato via "Scorri fino all'elemento" → Form ✅
-- **"In questo video scoprirai":** 6 bullet, inseriti dopo il primo bottone ✅
-- **"Chi c'è dietro HACCP Digitale":** titolo + 3 bullet bio/credibilità + sottotitolo "Risultati reali, non promesse" + 3 bullet casi cliente (bar, ristorante, forno) ✅
-- **Bullet vecchi della Sezione 1:** presenti sotto "Chi siamo", copy già riscritta dall'utente in build (non più la bozza originale) ✅
-- **Secondo bottone** (dopo i bullet vecchi, prima del form): collegato via "Scorri fino all'elemento" → Form ✅
-- **Sezione 4 (form contatti):** headline "Prenota la tua analisi gratuita dei punti critici", sottotitolo "Un consulente ti chiama, viene nella tua attività...", modulo "Form Contatti" con Nome, Nome attività commerciale, Telefono, Email ✅ — checkbox di consenso ancora quelle di default (SMS/marketing), decisione ancora aperta (vedi sotto)
-- **Questionario:** rimosso dalla pagina opt-in, il modulo "QUESTIONARIO HACCP" esiste già in GHL pronto per essere spostato sulla pagina di ringraziamento (non ancora costruita)
-- **Pipeline "HACCP Digitale - Lead"**: creata via API (3 stage: Nuovo Lead da Video, Consulenza Fissata, Cliente) ✅
+**Struttura e contenuto (prima parte della sessione):** vedi cronologia sopra — barra fissa, video riposizionato, "in questo video scoprirai", "chi siamo", bullet, form contatti, pipeline via API. Tutto ✅.
+
+**Revisione stile (seconda parte, dopo consultazione con [[Mario Olivelli]]):**
+- **Tema scuro stile Codex10** scelto esplicitamente dall'utente (non il verde/bianco originale del brand) ✅
+- **Sfondo:** gradiente scuro (nero/verde scurissimo) sulle sezioni principali, gradiente verde-bianco-verde sulla barra fissa (voluto, non un errore) ✅
+- **Testo:** headline e bullet in bianco, parole chiave (es. "GRATIS", "ZERO IMPEGNO") evidenziate in verde acceso, in stile Codex10 ✅
+- **Sottotitolo headline aggiornato:** "Il sistema che ti fa compilare l'HACCP in pochi secondi e presentarti sempre pronto ai controlli NAS" ✅ (l'utente ha adattato la bozza proposta)
+- **Icone bullet:** cambiate da spunta blu a asterisco blu ("✳") — "più simpatico" come richiesto ✅
+- **Form contatti:** riorganizzato a 2 colonne (Nome/Nome attività, Telefono/Email), sfondo bianco su sfondo verde/scuro ✅
+- **Checkbox consenso:** sostituita con una sola checkbox, testo "Dichiaro di aver letto e accetto la Privacy Policy di NexVision SRL" ✅ — link cliccabile non ancora aggiunto (vedi decisione aperta sotto)
+- **Footer aggiunto:** Nexvision S.r.l., indirizzo (Via L. Braille 4, 85100 Potenza PZ), P.IVA IT02233130760, Iscr. Reg. Imprese PZ-0223363, copyright ✅ — più completo di quanto proposto, include dati legali reali dell'azienda
 
 **Non ancora fatto:**
-1. **Sottotitolo headline stile Codex10**: bozza pronta sopra, non ancora inserita/confermata nel builder
+1. **Link Privacy Policy cliccabile:** la privacy policy di haccpdigitale.it è gestita via popup Iubenda senza URL diretto copiabile dal sito; serve recuperare il link pubblico permanente dal pannello Iubenda (formato tipico `https://www.iubenda.com/privacy-policy/xxxxxxxx`). Fino ad allora la checkbox resta solo testuale, senza link
 2. **Pagina di ringraziamento**: da costruire, con il questionario spostato lì (vedi warning in Sezione 2)
 3. **Copy di transizione tra le sezioni**: da riscrivere per il nuovo ordine (vedi warning sopra), non ancora fatto
-4. **Checkbox privacy/termini**: sostituire le 2 checkbox SMS/marketing di default con una sola, dopo verifica normativa italiana (decisione aperta sotto)
-5. **Automation/Workflow di notifica** al commerciale sulla submission del Form Contatti (vedi sezione "Setup in GHL" sotto, ancora da fare)
-6. **Revisione finale copy/colori/layout**: tutto lo stile visivo (colori, font, bordi) — l'utente vuole uno stile scuro/bordi luminosi ispirato a Codex10 di [[Mario Olivelli]], deliberatamente rimandato a quando la struttura è stabile
+4. **Automation/Workflow di notifica** al commerciale sulla submission del Form Contatti (vedi sezione "Setup in GHL" sotto, ancora da fare)
+5. **Rifinitura stile:** allineamento verticale barra fissa, dimensioni font globali del form (non ancora trovato dove impostarle), eventuale foto aggiuntive in stile Mario Olivelli (l'utente ha detto di averle pronte da caricare, non ancora fatto)
 
-## Decisione Aperta: Checkbox Privacy/Termini
+## Decisione Aperta: Link Privacy Policy
 
-L'utente vuole sostituire le due checkbox di consenso SMS/marketing di default con **una sola checkbox** per l'accettazione di Privacy Policy e Termini di Servizio, ma prima vuole verificare cosa richiede la normativa italiana (consenso esplicito per contatto telefonico/marketing, GDPR). Non toccare questa parte finché l'utente non conferma la formulazione legale corretta.
+La checkbox di consenso nel form contatti dichiara l'accettazione della Privacy Policy di NexVision SRL ma **non ha ancora un link cliccabile** verso il documento reale (ospitato come popup Iubenda su haccpdigitale.it, senza URL diretto). Recuperare il link pubblico da Iubenda e aggiungerlo come testo/link separato vicino alla checkbox (i campi "etichetta" dei singoli campi modulo in GHL non supportano link inline; serve un elemento di testo della pagina, che invece li supporta).
 
 ## Perché non l'ho costruito interamente io
 
