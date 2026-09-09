@@ -20,6 +20,50 @@ Infrastruttura collegata al video di [drafts/script-video-presentazione.md](../d
 > [!warning] Cambio di struttura rispetto alla versione precedente
 > Questa sostituisce la versione precedente a 4 pagine separate (funnel multi-step). L'utente ha chiarito che il riferimento è una pagina unica in stile long-scroll (es. le landing page di [[chiara-dosio]]), non un funnel a step. Nessuna pagina separata: tutto scorre in una singola pagina pubblica.
 
+> [!warning] Ordine reale della pagina, aggiornato in build il 2026-09-09 (sostituisce l'ordine descritto nelle sezioni sotto)
+> Dopo una consulenza con [[Mario Olivelli]] (vedi [[stakeholders]]), che ha condiviso la struttura della sua opt-in page Codex10 come riferimento, l'ordine reale costruito nell'editor è cambiato rispetto a quanto descritto sezione per sezione più sotto in questo documento:
+> 1. Headline + sottotitolo (Sezione 1, invariati)
+> 2. "Ecco esattamente come funziona" + **Video demo** (spostato qui, subito dopo il sottotitolo — non più dopo il questionario)
+> 3. Bottone "Prenota l'analisi gratuita"
+> 4. **Nuovo blocco "In questo video scoprirai"** (6 bullet, vedi sotto)
+> 5. **Nuova sezione "Chi c'è dietro HACCP Digitale"** (autorità/credibilità, vedi sotto)
+> 6. I 5 bullet originali della Sezione 1 (Basta faldoni di carta, Da 30 minuti a pochi secondi, ecc. — copy già riscritta dall'utente direttamente in build, non più quella abbozzata sotto)
+> 7. Bottone "Prenota l'analisi gratuita"
+> 8. Headline/sottotitolo/form della Sezione 4 (contatti)
+>
+> **Il questionario (Sezione 2 sotto) non è più su questa pagina**: si sposta sulla pagina di ringraziamento dopo la submission del form contatti (vedi warning dedicato più sotto). Le sezioni numerate restano nel documento come riferimento per i contenuti (copy, custom field, campi), non per l'ordine fisico sulla pagina.
+
+## Nuovo Blocco . "In Questo Video Scoprirai" (aggiunto 2026-09-09)
+
+Ispirato alla struttura Codex10 di [[Mario Olivelli]] (vedi [[stakeholders]]), adattato a fatti reali del prodotto — niente claim non veritieri (vedi correzioni sotto).
+
+**Titolo:** "In questo video scoprirai:"
+
+1. Come si compilano i registri di sanificazione e temperature in pochi secondi, direttamente da telefono
+2. Come funziona la scheda di ricevimento merci, senza più fogli sporchi da riscrivere
+3. Come gestire al meglio le tue ricette per avere tracciabilità completa di tutti gli ingredienti
+4. Come il titolare vede da un'unica dashboard la conformità di tutta l'attività
+5. Cosa mostrare all'ispettore NAS per chiudere il controllo in pochi secondi, non in 30 minuti di ricerca nei faldoni
+6. Perché non serve nessuna formazione tecnica per iniziare a usarlo da subito
+
+Posizione: subito dopo il primo bottone "Prenota l'analisi gratuita" (sotto il video), prima della sezione "Chi siamo".
+
+## Nuova Sezione . "Chi c'è Dietro HACCP Digitale" (aggiunta 2026-09-09)
+
+Sezione di autorità/credibilità, posizionata dopo il blocco "In questo video scoprirai" e prima dei bullet originali della Sezione 1. Costruita solo su fatti verificati (vedi correzioni sotto) — niente numeri o claim di esclusività non veri, a differenza del riferimento Codex10.
+
+**Titolo:** "Chi c'è dietro HACCP Digitale"
+
+1. Fondatore di HACCP Digitale dopo 10 anni di gestione diretta di ristoranti e bar
+2. Ha vissuto in prima persona la burocrazia HACCP cartacea: registri sporchi, ore perse ogni giorno, ansia ai controlli NAS
+3. Le procedure sono state validate da un tecnologo alimentare con oltre 30 anni di esperienza nel settore (vedi [[stakeholders]])
+
+> [!warning] Correzioni fattuali del 2026-09-09 (Antonio Malatesta)
+> - **Rimosso** il claim "primo e unico provider digitale di HACCP in Italia": esistono competitor digitali, era un'informazione sbagliata (corretto anche in [[organization]])
+> - **Rimosso** ogni riferimento a "notifiche push in tempo reale": il prodotto non le manda (corretto anche in [[services]] e [[pain-points]])
+> - **Tempo di compilazione corretto:** da "45 minuti a 10-15 minuti" a "45 minuti a pochi secondi" (corretto anche in [[services]] e [[pain-points]])
+> - **Niente numero di licenze pubblicato:** l'azienda ha 8 licenze attive (aggiornato da 4), ma il numero resta troppo basso per essere usato come prova sociale pubblica — non inserirlo nella pagina
+
 ## Barra Fissa Superiore (Sticky Bar)
 
 Sempre visibile durante lo scroll, senza countdown/urgenza finta (fuori tono per [[brand]]).
@@ -51,6 +95,9 @@ Copy orientato ai pain point mappati in [[icp]] e [[pain-points]], coerente con 
 > I 5 bullet attualmente scritti nella Sezione 1 (nel builder GHL, riquadro con i pallini blu) sono un primo abbozzo e **non sono ancora approvati** dall'utente. Da rivedere insieme a colori/layout nella revisione finale, non prima.
 
 ## Sezione 2 . Questionario (Modulo 1, submission separata)
+
+> [!warning] Spostato sulla pagina di ringraziamento (decisione del 2026-09-09)
+> Il questionario **non è più su questa pagina**. Su consiglio di [[Mario Olivelli]] (vedi [[stakeholders]]), le 4 domande si spostano sulla **pagina di ringraziamento** mostrata dopo la submission del Form Contatti (Sezione 4): prima si chiede il contatto (form breve, meno frizione), poi — a impegno già preso — si qualifica con le domande. Il modulo "QUESTIONARIO HACCP" resta lo stesso (già creato in GHL, vedi elenco moduli sotto), va solo spostato di posizione: dalla pagina opt-in alla pagina di ringraziamento del funnel. Pagina di ringraziamento ancora da costruire.
 
 Costruite sui pain point e i trigger d'acquisto mappati in [[icp]]. **Approvate dall'utente il 2026-09-08.**
 
