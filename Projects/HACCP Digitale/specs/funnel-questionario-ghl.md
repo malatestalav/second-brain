@@ -251,12 +251,29 @@ Riusata la vecchia pagina "2 - Questionario" (rinominata "2 - Grazie"), che cont
 
 **Pagina "3 - Video Demo"**: eliminata, non più necessaria (contenuto già consolidato nella Pagina 1).
 
+## Automation di Notifica . "Notifica Nuovo Lead HACCP" (costruita 2026-09-10)
+
+Workflow GHL creato e **pubblicato/attivo**, sotto Automazione → Flussi di lavoro (era nato con nome di default "HACCP ORG1", rinominato).
+
+- **Trigger:** "Modulo Inviato" → filtro "Il modulo è" → **Form 3** (il Form Contatti della Pagina 1; il rename in "Form Contatti" fatto nel builder pagina non si riflette nel nome tecnico mostrato qui, resta "Form 3")
+- **Azione:** "Invia notifica interna" (Internal Notification), tipo Email
+- **Destinatario:** "Email personalizzata" → `malatesta.lav@gmail.com` (notifica ad [[Antonio Malatesta]], non al commerciale — decisione esplicita del 2026-09-10, diversa da quanto pianificato inizialmente per Antonio Smaldini)
+- **Oggetto:** "Nuovo lead HACCP Digitale"
+- **Corpo:** Nome, Attività, Telefono, Email del contatto (merge field inseriti tramite il picker "tag", categoria "Contact") + invito a richiamare per fissare l'analisi gratuita
+
+> [!warning] Solo dati del Form Contatti, non del Questionario
+> Questo workflow si attiva sulla submission del **Form Contatti** (Pagina 1). Le risposte del **Questionario** (Pagina 2 "Grazie") arrivano separatamente sullo stesso Contact ma non sono incluse nel corpo dell'email di notifica attuale. Se si vuole includerle, va aggiunto un secondo trigger "Modulo Inviato" su "QUESTIONARIO HACCP" (nello stesso workflow o in uno separato), oppure aggiungere i merge field delle risposte al corpo email esistente (funzionano comunque perché sono sullo stesso Contact).
+
+> [!tip] Lezione tecnica: come inserire correttamente i merge field
+> Le variabili `{{...}}` vanno SEMPRE inserite tramite l'icona "tag/etichetta" nella barra di editing del testo (mai digitate a mano, anche se sintatticamente identiche) — altrimenti GHL le tratta come testo semplice non valido e blocca il salvataggio con l'errore "Ci sono problemi nelle tue variabili personalizzate". I campi standard (Nome, Telefono, Email) si trovano cercando in inglese sotto la categoria "Contact" nel picker (ce ne sono di duplicati sotto "User"/"Account"/"Appointment": va scelto sempre quello sotto "Contact"). I campi custom (es. "Nome attività commerciale") si trovano cercando il nome in italiano nello stesso picker.
+
 **Non ancora fatto:**
 1. **Link Privacy Policy cliccabile:** la privacy policy di haccpdigitale.it è gestita via popup Iubenda senza URL diretto copiabile dal sito; serve recuperare il link pubblico permanente dal pannello Iubenda (formato tipico `https://www.iubenda.com/privacy-policy/xxxxxxxx`). Fino ad allora la checkbox resta solo testuale, senza link
 2. **Copy di transizione tra le sezioni**: da riscrivere per il nuovo ordine (vedi warning sopra), non ancora fatto
-3. **Automation/Workflow di notifica** al commerciale sulla submission del Form Contatti (vedi sezione "Setup in GHL" sotto, ancora da fare) — ora ancora più importante perché il questionario è su una pagina diversa dal form contatti, quindi la notifica dovrebbe idealmente aspettare/unire entrambe le submission per lo stesso lead
-4. **Rifinitura stile:** allineamento verticale barra fissa, dimensioni font globali del form (non ancora trovato dove impostarle), eventuale foto aggiuntive in stile Mario Olivelli (l'utente ha detto di averle pronte da caricare, non ancora fatto)
+3. **Includere le risposte del Questionario nella notifica** (vedi warning sopra) — opzionale, da valutare
+4. **Rifinitura stile:** allineamento verticale barra fissa, dimensioni font globali del form (non ancora trovato dove impostarle) — foto aggiunta con successo il 2026-09-10 (screenshot app: dashboard/registri categorie, in colonna affiancata ai bullet "Risultati reali, non promesse")
 5. **URL definitivo del redirect**: aggiornare il link di reindirizzamento nel Form Contatti quando si collega un dominio personalizzato al posto del preview link mxaccelerator
+6. **WhatsApp Business**: valutato ma non attivato — richiede un abbonamento/integrazione a pagamento separato su GHL/MX Accelerator (costo non noto, da verificare cliccando "Integrate WhatsApp now!" nell'account solo se si decide di procedere)
 
 ## Decisione Aperta: Link Privacy Policy
 
