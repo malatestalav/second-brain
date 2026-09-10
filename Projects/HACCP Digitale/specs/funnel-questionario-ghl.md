@@ -9,13 +9,15 @@ tags: [funnel, ghl, lead-gen, questionario, demo-video]
 
 Infrastruttura collegata al video di [drafts/script-video-presentazione.md](../drafts/script-video-presentazione.md). Chi scrive in DM per ricevere il link riceve questa pagina. Da configurare dentro l'account [[GHL]], amministrato da [[Vito Romano]] (nessun accesso diretto stabile disponibile in questa sessione: vedi blocco tecnico in fondo).
 
-> [!info] Flusso completo (pagina unica, scroll continuo)
+> [!info] Flusso completo, versione finale (2026-09-10)
 > 1. Prospect vede il video su Instagram, scrive in DM per ricevere il link
-> 2. Riceve il link a **un'unica pagina** GHL che scorre in sequenza: **opt-in di vendita** → **questionario breve** → **video demo prodotto** → **form contatti**, con una **barra fissa in alto** sempre visibile (headline + bottone "Prenota") che porta al form contatti da qualunque punto della pagina
-> 3. Il questionario e il form contatti sono **due moduli distinti** con due submission separate (non un unico form combinato)
-> 4. Ogni submission si salva come Contact in GHL con i relativi custom field
-> 5. [[Antonio Smaldini]] (commerciale) riceve una notifica immediata (email o SMS) a ogni invio del form contatti, con copia a [[Antonio Malatesta]]
-> 6. Il commerciale richiama il lead per fissare l'analisi gratuita dei punti critici
+> 2. Riceve il link a **un'unica pagina** GHL (`offerta.haccpdigitale.it`) che scorre in sequenza: **opt-in di vendita** → **video demo prodotto** → **form contatti**, con una **barra fissa in alto** sempre visibile (headline + bottone "Prenota") che porta al form contatti da qualunque punto della pagina
+> 3. All'invio del form contatti, la pagina mostra un **messaggio di ringraziamento inline** (niente redirect a una pagina 2)
+> 4. La submission si salva come Contact in GHL con i relativi custom field, crea un'Opportunità nella pipeline "HACCP Digitale - Lead" (fase "Nuovo Lead da Video")
+> 5. [[Antonio Malatesta]] riceve una notifica email immediata a ogni invio del form contatti
+> 6. Il commerciale ([[Antonio Smaldini]]) richiama il lead per fissare l'analisi gratuita dei punti critici
+>
+> **Il questionario è stato rimosso** (era previsto su una pagina 2 "Grazie" separata): vedi warning dedicato più sotto per il perché.
 
 > [!warning] Cambio di struttura rispetto alla versione precedente
 > Questa sostituisce la versione precedente a 4 pagine separate (funnel multi-step). L'utente ha chiarito che il riferimento è una pagina unica in stile long-scroll (es. le landing page di [[chiara-dosio]]), non un funnel a step. Nessuna pagina separata: tutto scorre in una singola pagina pubblica.
@@ -275,8 +277,8 @@ Workflow GHL creato e **pubblicato/attivo**, sotto Automazione → Flussi di lav
 > - Il redirect del Form Contatti porta ancora alla pagina "2 - Grazie" sul vecchio dominio `link.mxaccelerator.com` invece che su `offerta.haccpdigitale.it` — va aggiornato l'URL in Builder Modulo Form Contatti → Impostazioni → "All'invio"
 > - Il messaggio dopo l'invio del Questionario è ancora quello di default di GHL in inglese ("We appreciate your feedback!") — va personalizzato in italiano in Builder → modulo Questionario HACCP → Impostazioni → azione post-submit
 
-> [!bug] Bug trovato e corretto: risposte del Questionario non si salvavano sul Contact (2026-09-10)
-> Dal test end-to-end, il Contact "prova2" aveva la sezione "Additional Info" completamente vuota nonostante il Questionario fosse stato compilato e inviato. Causa: nel builder del modulo "QUESTIONARIO HACCP", la **Chiave della query** (field key) della prima domanda era `tipo_di_attività` (con l'accento), diversa dalla chiave reale del custom field già creato in GHL, `tipo_di_attivit` (GHL taglia gli accenti quando genera le chiavi) — la domanda scriveva quindi su un campo diverso da quello collegato alla pipeline/notifiche. Corretta la chiave su tutte e 4 le domande, verificate contro la tabella dei custom field sopra (nota la domanda 3 "Chi compila i registri HACCP" che usa correttamente la chiave storica `numero_persone_nel_locale`, non un errore). Da riconfermare con un nuovo test che i campi si popolino ora.
+> [!bug] Questionario rimosso dal funnel: creava contatti duplicati scollegati (deciso 2026-09-10)
+> Diagnosi completa: il mapping dei campi era corretto (fix della **Chiave della query**, es. `tipo_di_attivit` invece di `tipo_di_attività` con accento, applicato a tutte le 4 domande e verificato funzionante — i dati venivano catturati bene). Il problema reale era a monte: la pagina "2 - Grazie" con il Questionario creava un **Contact anonimo separato** (fonte "QUESTIONARIO HACCP", nessun nome/email/telefono) invece di aggiornare il Contact già creato dal Form Contatti sulla Pagina 1. Causa probabile: il collegamento "stessa sessione" tra i due moduli si basa su cookie che browser/webview restrittivi (Safari, e soprattutto il **browser interno di Instagram** — il canale reale di questa campagna) bloccano di default. Soluzione robusta esisteva (passare email/telefono via parametri URL + campi nascosti nel Questionario, bypassando i cookie) ma **scartata per priorità time-to-market**: l'utente ha deciso di rimuovere del tutto il Questionario e la pagina "2 - Grazie" dal funnel. **Il funnel ora si ferma alla Pagina 1**: opt-in → Form Contatti → messaggio di ringraziamento inline sulla stessa pagina (invece del redirect a una pagina 2). Se in futuro si vuole reintrodurre una fase di qualificazione post-form, va riprogettata con l'approccio via URL/campi nascosti per non ripetere questo problema.
 
 **Non ancora fatto:**
 1. **Link Privacy Policy cliccabile:** la privacy policy di haccpdigitale.it è gestita via popup Iubenda senza URL diretto copiabile dal sito; serve recuperare il link pubblico permanente dal pannello Iubenda (formato tipico `https://www.iubenda.com/privacy-policy/xxxxxxxx`). Fino ad allora la checkbox resta solo testuale, senza link
