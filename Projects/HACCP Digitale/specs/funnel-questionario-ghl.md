@@ -172,24 +172,21 @@ Costruite sui pain point e i trigger d'acquisto mappati in [[icp]]. **Approvate 
 >
 > Questo è specifico alla **campagna organica Instagram, solo Potenza e provincia** — attività raggiungibili fisicamente dal commerciale. Per campagne a livello nazionale (attività non raggiungibili di persona) serve un progetto/funnel separato con un flusso diverso (probabilmente demo/vendita da remoto), non ancora pianificato.
 
-## Copy di Transizione Tra le Sezioni
+## Copy di Transizione Tra le Sezioni (riscritte 2026-09-10 per l'ordine reale)
 
-> [!warning] Superato dal nuovo ordine della pagina (2026-09-09)
-> Queste frasi erano pensate per l'ordine vecchio (opt-in → questionario → video → contatti). Con il nuovo ordine (vedi warning "Ordine reale della pagina" più sopra) non sono più applicabili così come scritte. Da riscrivere per i nuovi punti di passaggio (dopo il video, tra "in questo video scoprirai" e "chi siamo", tra "chi siamo" e i bullet vecchi) nella prossima sessione — non ancora fatto.
+Frasi ponte da inserire come piccolo blocco di testo (Sottotitolo o Paragrafo breve, corsivo/centrato come "Ecco esattamente come funziona") nei punti di passaggio reali della pagina costruita. Coerenti con [[brand]] (diretto, caldo, tecnico, niente hype). **Non ancora inserite nel builder** — pronte per essere aggiunte.
 
-Frasi ponte da inserire come piccolo blocco di testo (sottotitolo/paragrafo breve) tra una sezione e l'altra, per non far sembrare la pagina una sequenza di blocchi scollegati. Coerenti con [[brand]] (diretto, caldo, tecnico, niente hype). Da inserire quando si riprende la build.
+**1. Tra il sottotitolo iniziale ("Il sistema che ti fa compilare l'HACCP...") e "Ecco esattamente come funziona" + video:**
+> "Non fidarti della parola: guarda il prodotto in azione."
 
-**Tra Sezione 1 (opt-in) e Sezione 2 (questionario):**
-> "Bastano due minuti. Rispondi a queste 4 domande così, quando ti richiamiamo, sappiamo già di cosa parlare — niente domande generiche, andiamo dritti ai tuoi punti critici."
+**2. Tra "In questo video scoprirai" (+ bottone) e "Chi c'è dietro HACCP Digitale":**
+> "Prima di prenotare, ecco chi ti risponderà al telefono e chi ha validato queste procedure."
 
-**Tra Sezione 2 (questionario) e Sezione 3 (video demo):**
-> "Fatto. Ora guarda con i tuoi occhi come funziona davvero, prima ancora di parlare con nessuno."
-
-**Tra Sezione 3 (video) e Sezione 4 (form contatti):**
-> "Hai visto come funziona. Ora lasciaci i tuoi contatti: guardiamo le tue risposte e ti diciamo esattamente dove rischi e quanto tempo puoi liberare ogni giorno."
+**3. Tra "Risultati reali, non promesse" (+ bottone) e la sezione finale "Prenota la tua analisi gratuita dei punti critici":**
+> "Hai visto chi siamo e cosa abbiamo già risolto per altri locali. Ora tocca al tuo."
 
 > [!tip] Perché queste frasi e non altre
-> Ognuna fa da "cerniera": chiude il beneficio della sezione appena vista e apre l'aspettativa di quella successiva, sempre restando sul concreto (tempo, rischio, risposte) invece che su frasi motivazionali generiche. Da verificare comunque nella revisione finale insieme a bullet e resto del copy (vedi warning in Sezione 1).
+> Ognuna fa da "cerniera": chiude il beneficio della sezione appena vista (prova, autorità, risultati) e apre l'aspettativa di quella successiva, restando concreta invece che motivazionale generica. Ancora da verificare nella revisione finale insieme a bullet e resto del copy.
 
 ## Custom Field Creati in GHL (già pronti, 2026-09-08)
 
