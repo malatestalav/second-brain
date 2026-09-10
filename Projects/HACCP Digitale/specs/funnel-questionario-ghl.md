@@ -275,6 +275,9 @@ Workflow GHL creato e **pubblicato/attivo**, sotto Automazione → Flussi di lav
 > - Il redirect del Form Contatti porta ancora alla pagina "2 - Grazie" sul vecchio dominio `link.mxaccelerator.com` invece che su `offerta.haccpdigitale.it` — va aggiornato l'URL in Builder Modulo Form Contatti → Impostazioni → "All'invio"
 > - Il messaggio dopo l'invio del Questionario è ancora quello di default di GHL in inglese ("We appreciate your feedback!") — va personalizzato in italiano in Builder → modulo Questionario HACCP → Impostazioni → azione post-submit
 
+> [!bug] Bug trovato e corretto: risposte del Questionario non si salvavano sul Contact (2026-09-10)
+> Dal test end-to-end, il Contact "prova2" aveva la sezione "Additional Info" completamente vuota nonostante il Questionario fosse stato compilato e inviato. Causa: nel builder del modulo "QUESTIONARIO HACCP", la **Chiave della query** (field key) della prima domanda era `tipo_di_attività` (con l'accento), diversa dalla chiave reale del custom field già creato in GHL, `tipo_di_attivit` (GHL taglia gli accenti quando genera le chiavi) — la domanda scriveva quindi su un campo diverso da quello collegato alla pipeline/notifiche. Corretta la chiave su tutte e 4 le domande, verificate contro la tabella dei custom field sopra (nota la domanda 3 "Chi compila i registri HACCP" che usa correttamente la chiave storica `numero_persone_nel_locale`, non un errore). Da riconfermare con un nuovo test che i campi si popolino ora.
+
 **Non ancora fatto:**
 1. **Link Privacy Policy cliccabile:** la privacy policy di haccpdigitale.it è gestita via popup Iubenda senza URL diretto copiabile dal sito; serve recuperare il link pubblico permanente dal pannello Iubenda (formato tipico `https://www.iubenda.com/privacy-policy/xxxxxxxx`). Fino ad allora la checkbox resta solo testuale, senza link
 2. **Copy di transizione tra le sezioni**: da riscrivere per il nuovo ordine (vedi warning sopra), non ancora fatto
