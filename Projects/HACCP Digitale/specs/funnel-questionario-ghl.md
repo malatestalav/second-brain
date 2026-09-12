@@ -263,6 +263,9 @@ Workflow GHL creato e **pubblicato/attivo**, sotto Automazione → Flussi di lav
 > [!warning] Solo dati del Form Contatti, non del Questionario
 > Questo workflow si attiva sulla submission del **Form Contatti** (Pagina 1). Le risposte del **Questionario** (Pagina 2 "Grazie") arrivano separatamente sullo stesso Contact ma non sono incluse nel corpo dell'email di notifica attuale. Se si vuole includerle, va aggiunto un secondo trigger "Modulo Inviato" su "QUESTIONARIO HACCP" (nello stesso workflow o in uno separato), oppure aggiungere i merge field delle risposte al corpo email esistente (funzionano comunque perché sono sullo stesso Contact).
 
+> [!success] Fasi pipeline ampliate a 9 (2026-09-12)
+> Struttura iniziale a 3 fasi sostituita con un'unica sequenza più granulare per tracciare lo stato reale di ogni trattativa, tutta dentro la pipeline (nessun campo custom separato per l'esito): **Nuovo Lead da Video → Consulenza Fissata → Non Risponde → Da Richiamare → Non Interessato → Consulenza Fatta → Acquistato → Rifiutato → Ci Deve Pensare**. Il commerciale sposta manualmente l'Opportunità nella fase giusta dopo ogni contatto/chiamata con il lead.
+
 > [!success] Collegamento a Pipeline aggiunto (2026-09-10)
 > La pipeline **"HACCP Digitale - Lead"** esisteva già (3 fasi: Nuovo Lead da Video, Consulenza Fissata, Cliente — 0 lead prima di andare live). Aggiunta al workflow l'azione **"Crea O Aggiorna Opportunità"** (posizionata prima della Internal Notification, ordine non critico): sequenza "HACCP Digitale - Lead", fase "Nuovo Lead da Video", nome opportunità = merge field Nome attività commerciale, fonte "Instagram Organico" (testo libero, per distinguere questa fonte in futuro), valore vuoto, stato "open", nessun toggle attivato. Workflow salvato e confermato su **Pubblica**. Ogni submission del Form Contatti ora crea sia la notifica email sia l'opportunità in pipeline.
 
