@@ -62,12 +62,12 @@ tags: [script, video, social, macellerie, pescherie, latterie]
 
 ---
 
-## Script 5, L'Etichetta che Non Puoi Sbagliare
+## Script 5, La Preparazione che Nessuno Scrive Davvero
 
-**Hook:** Che tu venda carne, pesce o formaggio, un'etichetta sbagliata può costarti più di una multa: costa la fiducia del cliente.
+**Hook:** Che tu lavori carne, pesce o formaggio, ogni preparazione fatta in laboratorio dovrebbe avere una scheda. Quante ne scrivi davvero, a mano, ogni giorno?
 
-**Problema:** Origine, lotto, data di produzione, allergeni: sono informazioni obbligatorie, e scriverle a mano su ogni prodotto fresco espone a errori, dimenticanze e incoerenze tra un'etichetta e l'altra. Un cliente allergico che si fida della tua etichetta scritta a penna corre un rischio reale se quel dato è sbagliato.
+**Problema:** Disosso, affettatura, porzionatura, stagionatura: ogni fase di lavorazione andrebbe tracciata con i suoi dati (chi l'ha fatta, quando, su quale lotto). A mano, con il ritmo di un laboratorio, quasi nessuno lo fa in modo sistematico: si scrive quello che si ricorda a fine giornata, non quello che è successo davvero.
 
-**Soluzione:** Con l'etichettatura digitale i dati vengono calcolati e riportati in automatico a partire dalla scheda del prodotto, sempre uguali, sempre corretti, senza doverli riscrivere ogni volta a mano.
+**Soluzione:** Con la scheda di preparazione digitale, ogni fase di lavorazione si registra dal telefono nel momento in cui succede, collegata al lotto di origine, senza doverci pensare a fine giornata.
 
-**CTA:** Link in bio: prenota la tua analisi gratuita dei punti critici e scopri come funziona per i tuoi prodotti.
+**CTA:** Link in bio: prenota la tua analisi gratuita dei punti critici e scopri come funziona per le tue lavorazioni.

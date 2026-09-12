@@ -60,8 +60,8 @@ Basati su fatti non ancora usati nei 37 script precedenti, verificati in [[pain-
 
 ## STRUTTURA 1: Problema → Verità Scomoda → Soluzione
 
-**38. Il cliente che chiede gli allergeni**
-Un cliente ti chiede se un piatto contiene allergeni, e tu sai che la scheda tecnica esiste da qualche parte. La verità è che "da qualche parte" in mezzo a un faldone di carta, davanti al cliente che aspetta una risposta, diventa un problema serio in trenta secondi. Con la scheda digitale collegata al piatto, la risposta è a un tap di distanza, prima ancora che il cliente finisca di chiedere. Link in bio: prenota la tua analisi gratuita dei punti critici e trova ogni scheda in un secondo.
+**38. L'abbattimento fatto a occhio**
+Prepari un alimento da raffreddare in fretta e segni l'abbattimento a fine giornata, andando a memoria su quanto tempo ci ha messo davvero. La verità è che tra i punti critici HACCP l'abbattimento è tra i più controllati, perché è lì che si gioca la sicurezza del prodotto, non un dettaglio da annotare più tardi. Con la scheda di abbattimento digitale, tempo e temperatura restano registrati nel momento esatto in cui succede, non ricostruiti dopo. Link in bio: prenota la tua analisi gratuita dei punti critici e metti in ordine anche questo.
 
 **39. Il menu che non aggiorni mai**
 Non cambi il menu da mesi, non perché ti mancano le idee, ma perché tra registri e schede non ti resta tempo per pensarci. La verità è che le ore che l'HACCP cartaceo ti toglie ogni settimana sono le stesse che servirebbero per testare un piatto nuovo o curare il locale. Liberando quel tempo con la compilazione digitale, torna a te e al menu, non al faldone. Link in bio: prenota la tua analisi gratuita dei punti critici e riprenditi le tue ore.

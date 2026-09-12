@@ -62,8 +62,8 @@ Usare un foglio Excel come se fosse un software gestionale. Excel non è un sist
 **13. Delega all'ultimo arrivato**
 Delegare l'HACCP all'ultimo arrivato in cucina. Chi ha meno esperienza è proprio chi commetterà più errori nella compilazione dei registri. La responsabilità penale e civile resta sempre e comunque in capo al titolare. Crea checklist guidate sul software che non permettono di saltare passaggi fondamentali. Commenta la tua opinione.
 
-**14. Allergeni nascosti**
-Conservare le schede tecniche dei fornitori nel retrobottega. Se un cliente chiede degli allergeni, non puoi perdere dieci minuti a cercare un foglio sporco tra i faldoni. Metti a rischio la salute del cliente e la reputazione del locale. Digitalizza le schede tecniche per averle a portata di click sul tablet. Seguimi.
+**14. La scheda che non trovi mai**
+Conservare schede di sanificazione, preparazione e abbattimento nel retrobottega, sparse tra un faldone e l'altro. Se serve dimostrarne una in un controllo, non puoi perdere dieci minuti a cercarla tra i fogli. Metti a rischio la tua tranquillità e la conformità del locale. Digitalizza le schede per averle a portata di click sul tablet. Seguimi.
 
 **15. Menu vecchi**
 Non aggiornare il piano di autocontrollo dopo aver cambiato il menu. Nuovi ingredienti o processi richiedono sempre una revisione dei rischi. Il tuo piano attuale non rispecchia più la realtà operativa del locale e questo è un grave errore. Usa un sistema modulare digitale per aggiornare i flussi di lavoro in pochi minuti. Salva questo video.

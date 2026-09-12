@@ -15,7 +15,7 @@ Prodotto consumer di [[Nexvision]]: web app per digitalizzare registri e manuali
 Lanciato da 20 giorni, 4 licenze vendute (poi 8, vedi correzioni in [[funnel-questionario-ghl]]). Funnel di acquisizione organico Instagram **pronto per il lancio** (2026-09-12): landing page live, pipeline commerciale strutturata, automation di notifica attive.
 
 > [!todo] Prossimo step
-> Pubblicare i video organici su Instagram (vedi [[script-video-presentazione]] e [[script-video-idee-social]]), CTA diretta a link in bio per prenotare l'analisi gratuita dei punti critici (non più scrivere in DM per ricevere il link, vedi [[lead-gen-instagram-organico]]). Il commerciale [[Antonio Smaldini]] gestisce le trattative direttamente nella pipeline "HACCP Digitale - Lead" su [[GHL]].
+> Pubblicare i video organici su Instagram (vedi [[script-video-presentazione]] e [[script-video-idee-social]]), CTA diretta a link in bio per prenotare l'analisi gratuita dei punti critici (non più scrivere in DM per ricevere il link, vedi [[lead-gen-instagram-organico]]). Il commerciale [[Antonio Smaldini]] gestisce le trattative direttamente nella pipeline "HACCP Digitale - Lead" su [[GHL]]. Questa è la Fase 1 di un piano in 3 fasi (contenuti organici → lead magnet → advertising a pagamento), vedi [[piano-marketing-fasi]].
 
 ## Contenuti
 
@@ -23,6 +23,7 @@ Lanciato da 20 giorni, 4 licenze vendute (poi 8, vedi correzioni in [[funnel-que
 - [Script video presentazione (promessa-problema-CTA)](drafts/script-video-presentazione.md) . primo video organico, target Potenza e provincia
 - [Script video idee social](drafts/script-video-idee-social.md) . content bank, items 31-41, CTA link in bio
 - [Script caso studio forno](drafts/script-caso-studio-forno.md) . primo caso studio reale, in attesa di consenso del cliente prima della pubblicazione
+- [Piano marketing, le tre fasi](specs/piano-marketing-fasi.md) . contenuti organici (Fase 1, in corso) → lead magnet (Fase 2) → advertising a pagamento (Fase 3), CTA diverse per ogni fase
 - [Spec funnel questionario + GHL](specs/funnel-questionario-ghl.md) . pagina unica a scroll continuo con barra fissa (opt-in di vendita → video demo → contatti per analisi gratuita dei punti critici) collegata alla CTA del video; **pronto per il lancio** (2026-09-12), verificato: pagina live su `offerta.haccpdigitale.it` con link Privacy/Cookie Policy, form contatti, pipeline "HACCP Digitale - Lead" a 9 fasi (Nuovo Lead da Video → Consulenza Fissata → Non Risponde → Da Richiamare → Non Interessato → Consulenza Fatta → Acquistato → Rifiutato → Ci Deve Pensare), notifica email, tutto testato end-to-end e pubblicato. Il questionario post-form è stato rimosso (creava contatti duplicati per limiti di cookie cross-browser, vedi dettaglio nel documento)
 - [Strategia lead gen organica Instagram](specs/lead-gen-instagram-organico.md) . profile funnel, pilastri di contenuto e gestione DM basati sul framework di [[chiara-dosio]], collegata allo stesso funnel GHL ([versione PDF](specs/lead-gen-instagram-organico.pdf))
 - [Workflow completo campagna](specs/workflow-campagna-completo.md) . scaletta end-to-end dal video organico alla delivery finale del cliente
@@ -35,7 +36,6 @@ Lanciato da 20 giorni, 4 licenze vendute (poi 8, vedi correzioni in [[funnel-que
 - [Metriche settimanali funnel](tracking/metriche-settimanali.md) . rollup settimanale contatti → risposte → appuntamenti → demo → chiusure, verso l'obiettivo Q3
 - [Simulazioni di vendita](drafts/script-simulazioni-vendita.md) . 6 dialoghi completi dal saluto all'arrivederci, uno per ogni tipo di obiezione
 - [Gestione obiezioni](drafts/gestione-obiezioni.md) . riferimento rapido obiezione/risposta per le obiezioni più comuni (prezzo, tempo/setup, scetticismo, non decide da solo, timing), da consultare al volo durante demo e chiamate ([versione PDF](drafts/gestione-obiezioni.pdf))
-- [Nuovi script video social](drafts/script-video-idee-social.md) . nuova serie sulle 3 strutture del content bank esistente, basata su fatti del vault non ancora usati
 - [Script oltre bar e ristoranti](drafts/script-video-altre-attivita.md) . 5 script per macellerie, pescherie, latterie/caseifici, hook-problema-soluzione-CTA
 - [Riunione con il commerciale, 20 agosto 2026](notes/riunione-commerciale-2026-08-20.md) . punti chiave, argomentazioni dal playbook di vendita, strategia concreta di commercializzazione ([versione PDF](notes/riunione-commerciale-2026-08-20.pdf))
 - [Annuncio lavoro: Consulente Commerciale](drafts/annuncio-lavoro-consulente-commerciale.md) . bozza annuncio per un secondo commerciale sul territorio di Potenza, in Partita IVA a provvigione, da completare con contatti e percentuale prima della pubblicazione

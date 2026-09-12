@@ -26,11 +26,11 @@ Video in prima persona di [[Antonio Malatesta]]. Campagna organica, targeting Po
 
 "Perché te lo dico con questa sicurezza? Perché l'ho vissuto sulla mia pelle, in quasi dieci anni tra ristoranti e discoteche gestite da me, e lo vivi tu adesso.
 
-Ti alzi la mattina, apri il locale, e prima ancora di pensare alla cucina o alla sala devi pensare ai registri. Temperature dei frigo, schede di ricevimento merce, pulizie. Roba che ti ruba 45 minuti al giorno, tutti i giorni, quando quel tempo dovresti darlo ai clienti, non alla burocrazia.
+Ti alzi la mattina, apri il locale, e prima ancora di pensare alla cucina o alla sala devi pensare ai registri. Temperature dei frigo, schede di ricevimento merce, pulizie. Roba che ti porta via 45 minuti al giorno, tutti i giorni, quando quel tempo dovresti darlo ai clienti, non alla burocrazia.
 
 E se hai dipendenti lo sai meglio di me: il cuoco compila le schede con le mani sporche d'olio, il cameriere si dimentica la temperatura del frigo, e tu scopri il disastro il giorno prima del controllo dei NAS. A quel punto compili tutto al ritroso, di corsa, sperando di non sbagliare niente.
 
-Poi magari arriva un cliente e ti chiede se un piatto contiene allergeni. Tu lo sai che la scheda tecnica esiste, il problema è trovarla in mezzo a un faldone di carta.
+E la scheda di sanificazione? Quella che dimostra che pulizie e disinfezioni sono state fatte davvero, e non solo segnate a penna a fine turno per abitudine.
 
 Io questa cosa l'ho vissuta per quasi dieci anni gestendo le mie attività. E la verità è che i registri cartacei non sono solo una perdita di tempo: sono un rischio. Un rischio per la tua tranquillità, e un rischio legale, perché la responsabilità è tua, non del cuoco o del cameriere.
 

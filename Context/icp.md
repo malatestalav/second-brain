@@ -55,7 +55,7 @@ Non parlano di "dematerializzazione" o "cloud". Parlano di:
 
 **Trigger #2:** Dipendente nuovo. Titolare deve insegnare come compilare registri cartacei. Impiega ore, il dipendente odia il task.
 
-**Trigger #3:** Ospite chiede informazioni su allergeni. Titolare non ritrova la scheda tecnica nei faldoni. Situazione imbarazzante.
+**Trigger #3:** Arriva un controllo o serve dimostrare una preparazione/sanificazione specifica. Titolare non ritrova la scheda nei faldoni. Situazione imbarazzante.
 
 **Trigger #4:** Titolare va in un ristorante amico e scopre che gestisce tutto digitalmente. "Wait, esiste?"
 
