@@ -51,3 +51,27 @@ Pensi che un software serva solo a chi è già abituato alla tecnologia. La real
 
 **7bis. Chi è responsabile, davvero**
 Hai un piano di autocontrollo fatto una volta l'anno e pensi che basti per essere coperto. La verità è che la responsabilità della compilazione quotidiana resta sempre tua, non di chi ti ha scritto il piano. Un piano perfetto su carta non serve a nulla se poi i registri di tutti i giorni sono in ritardo o incompleti. Con la compilazione digitale il piano annuale resta valido, ma la parte quotidiana è sempre in ordine, senza doverci pensare tu da solo. Link in bio: prenota la tua analisi gratuita dei punti critici e capisci cosa manca nella tua gestione quotidiana.
+
+---
+
+## Nuovi script (batch 2026-09-12), CTA link in bio
+
+Basati su fatti non ancora usati nei 37 script precedenti, verificati in [[pain-points]], [[icp]] e [[services]]. Nessuna cifra o claim inventati.
+
+## STRUTTURA 1: Problema → Verità Scomoda → Soluzione
+
+**38. Il cliente che chiede gli allergeni**
+Un cliente ti chiede se un piatto contiene allergeni, e tu sai che la scheda tecnica esiste da qualche parte. La verità è che "da qualche parte" in mezzo a un faldone di carta, davanti al cliente che aspetta una risposta, diventa un problema serio in trenta secondi. Con la scheda digitale collegata al piatto, la risposta è a un tap di distanza, prima ancora che il cliente finisca di chiedere. Link in bio: prenota la tua analisi gratuita dei punti critici e trova ogni scheda in un secondo.
+
+**39. Il menu che non aggiorni mai**
+Non cambi il menu da mesi, non perché ti mancano le idee, ma perché tra registri e schede non ti resta tempo per pensarci. La verità è che le ore che l'HACCP cartaceo ti toglie ogni settimana sono le stesse che servirebbero per testare un piatto nuovo o curare il locale. Liberando quel tempo con la compilazione digitale, torna a te e al menu, non al faldone. Link in bio: prenota la tua analisi gratuita dei punti critici e riprenditi le tue ore.
+
+## STRUTTURA 2: Errore Comune → Perché È Sbagliato → Come Farlo Meglio
+
+**40. Compilare tutto a fine giornata**
+Lasciare la compilazione dei registri a fine servizio, quando sei stanco e vuoi solo chiudere. Il problema è che a quel punto ricostruisci temperature e orari a memoria, e un dato ricostruito vale meno di un dato reale, sia per te che per un ispettore. Compilare nel momento in cui succede, dal telefono, in pochi secondi, toglie il rischio di dover ricostruire qualcosa che non hai visto con i tuoi occhi. Link in bio: prenota la tua analisi gratuita dei punti critici e smetti di ricostruire a memoria.
+
+## STRUTTURA 3: Mito da Sfatare → Cosa Funziona Davvero → Esempio Pratico
+
+**41. Il mito "mi serve solo se ho tanto staff"**
+Pensi che l'HACCP digitale abbia senso solo se gestisci un team grande, con turni e ruoli da coordinare. La realtà è che il primo beneficio lo senti anche da solo dietro al bancone: chi gestisce un bar in solitaria libera comunque i 45 minuti al giorno che oggi dà ai registri cartacei. Un bar a socio singolo qui a Potenza compila oggi tutto dal telefono in pochi secondi, senza nessun team da coordinare. Link in bio: prenota la tua analisi gratuita dei punti critici, anche se lavori da solo.
