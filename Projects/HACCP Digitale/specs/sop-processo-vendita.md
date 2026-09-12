@@ -36,7 +36,7 @@ Procedura operativa dettagliata per l'esecuzione della strategia di commercializ
 
 **Azione:**
 1. Inviare messaggio WhatsApp che nomina il problema, non il prodotto (linguaggio da [[pain-points]]: "tortura", "perdita di tempo", mai "dematerializzazione" o "cloud").
-2. Usare l'apertura di permission-to-sell dal playbook: *"Se ti facessi vedere come far compilare l'HACCP al tuo staff in pochi minuti invece che perderci 45 minuti al giorno, ti interesserebbe saperne di più?"*
+2. Usare l'apertura di permission-to-sell dal playbook: *"Se ti facessi vedere come far compilare l'HACCP al tuo staff in pochi minuti invece che perderci 30 minuti al giorno, ti interesserebbe saperne di più?"*
 3. Attendere risposta fino a 48 ore prima di considerare "nessuna risposta".
 
 **Output:** aggiornare la riga nel tracker: stato → `Touch 1 inviato`, data invio, se c'è stata risposta (Sì/No/Parziale).

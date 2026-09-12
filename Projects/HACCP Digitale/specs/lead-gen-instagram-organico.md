@@ -32,7 +32,7 @@ Link in bio: **un solo link**, quello del funnel di qualificazione già definito
 
 **Post pinnati (3, secondo lo schema del manuale):**
 1. **Autorevolezza:** il video di presentazione già scritto in [drafts/script-video-presentazione.md](../drafts/script-video-presentazione.md), o un caso reale di uno dei 4 clienti beta.
-2. **Certezza di risultato:** un caso studio con numero concreto (es. "da 45 minuti a 10 minuti al giorno", vedi [[pain-points]]).
+2. **Certezza di risultato:** un caso studio con numero concreto (es. "da 30 minuti a 10 minuti al giorno", vedi [[pain-points]]).
 3. **Storia personale:** perché Antonio ha creato HACCP Digitale, partendo dai suoi 10 anni di gestione di ristoranti e discoteche (vedi [[operator]]).
 
 ## 3. Contenitore vs Contenuto

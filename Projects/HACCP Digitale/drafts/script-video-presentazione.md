@@ -26,7 +26,7 @@ Video in prima persona di [[Antonio Malatesta]]. Campagna organica, targeting Po
 
 "Perché te lo dico con questa sicurezza? Perché l'ho vissuto sulla mia pelle, in quasi dieci anni tra ristoranti e discoteche gestite da me, e lo vivi tu adesso.
 
-Ti alzi la mattina, apri il locale, e prima ancora di pensare alla cucina o alla sala devi pensare ai registri. Temperature dei frigo, schede di ricevimento merce, pulizie. Roba che ti porta via 45 minuti al giorno, tutti i giorni, quando quel tempo dovresti darlo ai clienti, non alla burocrazia.
+Ti alzi la mattina, apri il locale, e prima ancora di pensare alla cucina o alla sala devi pensare ai registri. Temperature dei frigo, schede di ricevimento merce, pulizie. Roba che ti porta via 30 minuti al giorno, tutti i giorni, quando quel tempo dovresti darlo ai clienti, non alla burocrazia.
 
 E se hai dipendenti lo sai meglio di me: il cuoco compila le schede con le mani sporche d'olio, il cameriere si dimentica la temperatura del frigo, e tu scopri il disastro il giorno prima del controllo dei NAS. A quel punto compili tutto al ritroso, di corsa, sperando di non sbagliare niente.
 

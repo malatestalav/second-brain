@@ -16,7 +16,7 @@ status: active
 **Descrizione sintetica:** Diretta, calda, tecnica.
 
 **Cosa significa:**
-- **Diretta:** Senza giri di parole. Il ristoratore non ha tempo per prosa. "Risparmi 45 minuti al giorno" è meglio di "ottimizza i flussi di lavoro".
+- **Diretta:** Senza giri di parole. Il ristoratore non ha tempo per prosa. "Risparmi 30 minuti al giorno" è meglio di "ottimizza i flussi di lavoro".
 - **Calda:** Empatica al dolore che il ristoratore vive. Non fredda o distaccata. Capisce la frustrazione della compilazione cartacea.
 - **Tecnica:** Accenni al "come funziona" . firme digitali, cloud, integrità dei dati, conformità normativa . perché il ristoratore vuole sapere che è serio e legale.
 

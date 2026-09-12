@@ -17,11 +17,11 @@ status: active
 **Come lo risolviamo:** Con HACCP Digitale, tutto è organizzato e pronto su tablet. Un click e trovi qualsiasi documento. Ispettore vede chiarezza, integrità dei dati, tracciamento audit completo.
 
 ### 2. Tempo Liberato
-**Il problema:** Compilare registri di temperatura, schede di ricevimento, manuali a mano è una "tortura" che un ristoratore non sopporta. Un singolo gestisce bar: perde 45+ minuti al giorno solo su HACCP. Un ristorante: titolare e staff spendono ore/settimana in burocrazia invece che su quello che sanno fare bene.
+**Il problema:** Compilare registri di temperatura, schede di ricevimento, manuali a mano è una "tortura" che un ristoratore non sopporta. Un singolo gestisce bar: perde 30+ minuti al giorno solo su HACCP. Un ristorante: titolare e staff spendono ore/settimana in burocrazia invece che su quello che sanno fare bene.
 
 **Consapevolezza cliente:** Molto consapevole. È il dolore quotidiano che provano.
 
-**Come lo risolviamo:** Compilazione in pochi secondi. Modelli pre-impostati, accesso multi-utente con ruoli separati così ogni persona vede solo i suoi compiti, non dipende da memoria umana. Un singolo bar compila tutto in pochi secondi al giorno vs. 45+ minuti cartacei.
+**Come lo risolviamo:** Compilazione in pochi secondi. Modelli pre-impostati, accesso multi-utente con ruoli separati così ogni persona vede solo i suoi compiti, non dipende da memoria umana. Un singolo bar compila tutto in pochi secondi al giorno vs. 30+ minuti cartacei.
 
 ### 3. Libertà di Innovare
 **Il problema:** Tra compilazione HACCP e gestione operativa, il ristoratore non ha tempo di ricercare nuovi prodotti, testare ricette diverse, scalare l'attività, migliorare il menu. È bloccato dalla burocrazia.

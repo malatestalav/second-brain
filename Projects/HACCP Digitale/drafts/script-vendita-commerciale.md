@@ -22,7 +22,7 @@ Playbook operativo per chi vende HACCP Digitale sul campo (oggi [[Antonio Smaldi
 
 **Adattamento pratico:**
 
-> "Se ti facessi vedere come far compilare l'HACCP al tuo staff in pochi minuti invece che perderci 45 minuti al giorno, ti interesserebbe saperne di più?"
+> "Se ti facessi vedere come far compilare l'HACCP al tuo staff in pochi minuti invece che perderci 30 minuti al giorno, ti interesserebbe saperne di più?"
 
 Chi risponde sì ha dato il permesso di vendere: da lì in poi la conversazione prosegue con il suo consenso, non contro la sua resistenza.
 
@@ -55,7 +55,7 @@ Ammetti solo limiti veri. Non è una tecnica per inventare falsa umiltà, è per
 **Adattamento pratico per HACCP Digitale** (quale fattore emotivo usare, con la giustificazione logica a supporto):
 - **Paura:** rischio di una sanzione al controllo NAS → giustificazione logica: costo di una multa vs. 300 euro/anno
 - **Orgoglio:** essere il locale più organizzato della zona, non quello che l'ispettore guarda con sospetto → giustificazione logica: dashboard sempre in ordine, tracciamento audit
-- **Interesse personale (tempo/denaro):** 3-4 ore a settimana recuperate → giustificazione logica: 45 minuti al giorno che diventano 10-15
+- **Interesse personale (tempo/denaro):** 3-4 ore a settimana recuperate → giustificazione logica: 30 minuti al giorno che diventano 10-15
 
 ---
 

@@ -43,7 +43,7 @@ Attività di piccole-medie dimensioni:
 - Compilare tutto al ritroso dopo giorni/settimane per rispettare i termini
 - Rischiare di trovarsi impreparato a un controllo NAS
 
-**Tempo perso:** Un ristorante medio perde 3-4 ore/settimana in compilazione manuale. Un bar singolo socio perde 45+ minuti al giorno.
+**Tempo perso:** Un ristorante medio perde 3-4 ore/settimana in compilazione manuale. Un bar singolo socio perde 30+ minuti al giorno.
 
 **Rischio:** Sanzioni pesanti se la documentazione è carente, illeggibile o incompleta durante un'ispezione.
 

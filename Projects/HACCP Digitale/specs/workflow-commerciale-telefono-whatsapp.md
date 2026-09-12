@@ -52,7 +52,7 @@ Le due finestre telefoniche (09:30-11:30 e 14:30-18:00) sono il cuore della gior
 
 Il primo contatto resta scritto: un titolare che riceve una chiamata da un numero sconosciuto durante il servizio tende a rifiutare senza ascoltare. Il messaggio scritto puo essere letto quando ha un minuto.
 
-> "Buongiorno, sono [Nome] di Nexvision. Se le facessi vedere come far compilare l'HACCP al suo staff in pochi minuti invece che perderci 45 minuti al giorno, le interesserebbe saperne di più?"
+> "Buongiorno, sono [Nome] di Nexvision. Se le facessi vedere come far compilare l'HACCP al suo staff in pochi minuti invece che perderci 30 minuti al giorno, le interesserebbe saperne di più?"
 
 Attendere risposta fino a 48 ore.
 

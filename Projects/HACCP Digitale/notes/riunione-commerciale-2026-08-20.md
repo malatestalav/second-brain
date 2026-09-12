@@ -39,7 +39,7 @@ Playbook completo con le fonti verificate: [script-vendita-commerciale.md](../dr
 > Da acquisizione manuale 1:1 (4-5 ore/cliente) a un funnel semi-automatizzato che filtra prima di far perdere tempo commerciale su chi non è pronto.
 
 1. **Costruire la lista prima di contattare.** Antonio Smaldini mappa 200+ prospect nel territorio (bar e ristoranti che aprono sia a pranzo che a cena hanno priorità, più necessità di HACCP). Questo va fatto una volta, non ad hoc ogni settimana.
-2. **Primo touch scritto, non a voce.** Messaggio WhatsApp che nomina il problema vissuto ("perdi 45 minuti al giorno su registri cartacei"), non il prodotto. Il linguaggio del cliente (vedi [[pain-points]]) è "tortura", "perdita di tempo", mai "dematerializzazione" o "cloud".
+2. **Primo touch scritto, non a voce.** Messaggio WhatsApp che nomina il problema vissuto ("perdi 30 minuti al giorno su registri cartacei"), non il prodotto. Il linguaggio del cliente (vedi [[pain-points]]) è "tortura", "perdita di tempo", mai "dematerializzazione" o "cloud".
 3. **Secondo touch: video, non chiamata.** 60-90 secondi che mostra il gestionale in azione più un testimonial reale di uno dei 4 clienti attuali. Filtra chi non è interessato prima di investire tempo in appuntamento.
 4. **Terzo touch: appuntamento con data e ora precisi**, confermato il giorno prima. Mai "passiamo quando capita": il titolare è quasi sempre assente al primo passaggio non pianificato.
 5. **Demo sempre personalizzata** sull'attività specifica (tipo di locale, numero di staff), mai generica.

@@ -40,9 +40,9 @@ Licenza annuale
 ## Risultati Reali Ottenuti dai Clienti Attuali
 
 **Caso 1: Bar con gestione singola**
-- Prima: Titolare si presentava al lavoro 45 minuti prima dell'apertura per compilare registri cartacei
+- Prima: Titolare si presentava al lavoro 30 minuti prima dell'apertura per compilare registri cartacei
 - Dopo: Compila da app in pochi secondi al giorno
-- Beneficio: 45+ minuti liberati al giorno, flessibilità oraria
+- Beneficio: 30+ minuti liberati al giorno, flessibilità oraria
 
 **Caso 2: Ristorante con staff**
 - Prima: Camerieri e cuochi odiavano compilare HACCP (considerato "tortura" amministrativa), titolare compilava tutto al ritroso dopo settimane

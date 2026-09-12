@@ -17,7 +17,7 @@ Batch di copy strategico pensato specificamente per far cliccare sul link in bio
 **42. "Se un ispettore dei NAS entrasse ora nel tuo locale, quanto ci metteresti a trovare il registro di ieri?"**
 Fermati un secondo e rispondi davvero, non per abitudine. Se la risposta è "più di trenta secondi", è lì che un controllo comincia a diventare un problema, prima ancora che trovi qualcosa che non va. Con la compilazione digitale il registro di ieri è a un tap, sempre. Link in bio: prenota la tua analisi gratuita dei punti critici e scoprilo prima che te lo chieda un ispettore.
 
-**43. Il conto che non hai mai fatto: 45 minuti al giorno, moltiplicati per un anno**
+**43. Il conto che non hai mai fatto: 30 minuti al giorno, moltiplicati per un anno**
 Quarantacinque minuti al giorno sembrano niente. Moltiplicali per trecento giorni e sono più di duecento ore, un mese intero di lavoro, buttate su un registro. Nessuno fa questo conto perché fa male vederlo scritto. Con la compilazione digitale quelle ore tornano al locale, non al faldone. Link in bio: prenota la tua analisi gratuita dei punti critici e fatti restituire il tuo mese.
 
 **44. "Tortura": è la parola che usano davvero i titolari quando parlano di HACCP cartaceo**

@@ -62,14 +62,14 @@ Sezione di autorità/credibilità, posizionata dopo il blocco "In questo video s
 
 **Sottotitolo:** "Risultati reali, non promesse"
 
-1. Un bar di Potenza: da 45 minuti a pochi secondi al giorno di compilazione
+1. Un bar di Potenza: da 30 minuti a pochi secondi al giorno di compilazione
 2. Un ristorante con staff: da registri compilati in ritardo e sotto stress a riorganizzazione dei ruoli del personale e tutto sotto controllo
 3. Un forno con tante preparazioni: da gestione manuale caotica a tutto organizzato in automatico (vedi Caso 3 in [[services]])
 
 > [!warning] Correzioni fattuali del 2026-09-09 (Antonio Malatesta)
 > - **Rimosso** il claim "primo e unico provider digitale di HACCP in Italia": esistono competitor digitali, era un'informazione sbagliata (corretto anche in [[organization]])
 > - **Rimosso** ogni riferimento a "notifiche push in tempo reale": il prodotto non le manda (corretto anche in [[services]] e [[pain-points]])
-> - **Tempo di compilazione corretto:** da "45 minuti a 10-15 minuti" a "45 minuti a pochi secondi" (corretto anche in [[services]] e [[pain-points]])
+> - **Tempo di compilazione corretto:** da "30 minuti a 10-15 minuti" a "30 minuti a pochi secondi" (corretto anche in [[services]] e [[pain-points]])
 > - **Niente numero di licenze pubblicato:** l'azienda ha 8 licenze attive (aggiornato da 4), ma il numero resta troppo basso per essere usato come prova sociale pubblica, non inserirlo nella pagina
 
 ## Barra Fissa Superiore (Sticky Bar)
@@ -102,7 +102,7 @@ Copy orientato ai pain point mappati in [[icp]] e [[pain-points]], coerente con 
 
 **Corpo pagina (blocchi, non muro di testo):**
 - **Il problema, nominato in modo vivido:** faldoni, registri compilati al ritroso, ansia al controllo NAS (linguaggio diretto dal cliente, vedi [[icp]] "Linguaggio e Parole che Usano")
-- **La promessa:** da 45 minuti a 10 minuti al giorno di compilazione (caso reale in [[services]])
+- **La promessa:** da 30 minuti a 10 minuti al giorno di compilazione (caso reale in [[services]])
 - **Come funziona in 3 step:** rispondi alle domande → guardi la demo → prenoti l'analisi gratuita
 - **Bottone:** "Prenota l'analisi gratuita" (vedi regola unico-testo-bottone sopra) → scrolla alla Sezione 2 (Questionario)
 
