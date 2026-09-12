@@ -12,16 +12,16 @@ Prodotto consumer di [[Nexvision]]: web app per digitalizzare registri e manuali
 
 ## Stato
 
-Lanciato da 20 giorni, 4 licenze vendute. Focus attuale: costruire il funnel di acquisizione organico, partendo da video in prima persona di [[Antonio Malatesta]].
+Lanciato da 20 giorni, 4 licenze vendute (poi 8, vedi correzioni in [[funnel-questionario-ghl]]). Funnel di acquisizione organico Instagram **pronto per il lancio** (2026-09-12): landing page live, pipeline commerciale strutturata, automation di notifica attive.
 
 > [!todo] Prossimo step
-> [[Antonio Malatesta]] sta procedendo con iscrizione e abbonamento a [[GHL]]. Una volta attivo l'account, configurazione guidata di survey, landing page, custom field, pipeline e automation secondo [[funnel-questionario-ghl]].
+> Pubblicare i video organici su Instagram (vedi [[script-video-presentazione]] e [[script-video-idee-social]]) e iniziare a mandare il link in DM ai prospect. Il commerciale [[Antonio Smaldini]] gestisce le trattative direttamente nella pipeline "HACCP Digitale - Lead" su [[GHL]].
 
 ## Contenuti
 
 - [Spec gestionale commerciale](specs/gestionale-commerciale.md) . webapp di gestione clienti/funnel commerciale, live su [haccpcommerciale.it](https://haccpcommerciale.it), sullo stesso pattern usato per [[Essenza Latina]]; codice in `~/Desktop/haccp-digitale-crm`
 - [Script video presentazione (promessa-problema-CTA)](drafts/script-video-presentazione.md) . primo video organico, target Potenza e provincia
-- [Spec funnel questionario + GHL](specs/funnel-questionario-ghl.md) . pagina unica a scroll continuo con barra fissa (opt-in di vendita → video demo → contatti per analisi gratuita dei punti critici) collegata alla CTA del video; **funnel completo e live** (2026-09-10) su `offerta.haccpdigitale.it`: opt-in page, form contatti, pipeline "HACCP Digitale - Lead", notifica email, testato end-to-end. Il questionario post-form è stato rimosso (creava contatti duplicati per limiti di cookie cross-browser, vedi dettaglio nel documento)
+- [Spec funnel questionario + GHL](specs/funnel-questionario-ghl.md) . pagina unica a scroll continuo con barra fissa (opt-in di vendita → video demo → contatti per analisi gratuita dei punti critici) collegata alla CTA del video; **pronto per il lancio** (2026-09-12), verificato: pagina live su `offerta.haccpdigitale.it` con link Privacy/Cookie Policy, form contatti, pipeline "HACCP Digitale - Lead" a 9 fasi (Nuovo Lead da Video → Consulenza Fissata → Non Risponde → Da Richiamare → Non Interessato → Consulenza Fatta → Acquistato → Rifiutato → Ci Deve Pensare), notifica email, tutto testato end-to-end e pubblicato. Il questionario post-form è stato rimosso (creava contatti duplicati per limiti di cookie cross-browser, vedi dettaglio nel documento)
 - [Strategia lead gen organica Instagram](specs/lead-gen-instagram-organico.md) . profile funnel, pilastri di contenuto e gestione DM basati sul framework di [[chiara-dosio]], collegata allo stesso funnel GHL ([versione PDF](specs/lead-gen-instagram-organico.pdf))
 - [Workflow completo campagna](specs/workflow-campagna-completo.md) . scaletta end-to-end dal video organico alla delivery finale del cliente
 - [Script di vendita commerciale](drafts/script-vendita-commerciale.md) . playbook per chi vende HACCP Digitale sul campo (oggi [[Antonio Smaldini]]): apertura, demo, prezzo, chiusura, follow-up, ogni tecnica verificata sul testo originale dei libri
