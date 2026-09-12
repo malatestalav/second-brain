@@ -19,3 +19,7 @@ Consulente/stratega di marketing consultato da [[Antonio Malatesta]] per la stra
 
 > [!note] Contesto d'uso
 > HACCP Digitale non ha adottato lo stile "hype" di Mario Olivelli (countdown finti, cifre aggregate multi-milionarie, elenco di brand clienti) perché non sono fatti veritieri per una startup lanciata da poche settimane. Si è preso solo l'impianto strutturale della pagina (autorità, prova sociale onesta, curiosity-gap nei bullet), riempito con fatti reali verificati.
+
+Trascrizione integrale della consulenza ora disponibile: vedi [[2026-09-08-consulenza-mario-olivelli-funnel-lead-gen]] (raw in `Library/articles/consulenza-mario-olivelli-funnel-lead-gen.txt`). Copre anche il pivot da call diretta a lead magnet a bassa frizione e la regola above-the-fold sul bottone CTA.
+
+Gestisce anche un percorso a pagamento per infobusiness/consulenti, **Info Business Arena** (90 giorni, 4 pilastri: corso registrato, classi live, Insight School, community). Framework didattico di vendita (offerta irresistibile, fonti di traffico, catena di convinzioni, vendita consulenziale) presentato nel webinar di lancio, guardato da [[Antonio Malatesta]] per apprendimento: sintesi in [[offerta-irresistibile-mario-olivelli]]. Le tattiche commerciali di quel percorso (scarcity, prezzo a 4-5 cifre) restano fuori posizionamento per [[HACCP Digitale]], vedi warning nella pagina framework.

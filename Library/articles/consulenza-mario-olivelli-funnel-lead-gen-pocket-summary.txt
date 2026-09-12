@@ -1,0 +1,34 @@
+Ottimizzazione funnel e lead generation
+
+Questa sessione definisce il pivot strategico per la lead generation di HACCP Digitale, passando da una richiesta di consulenza diretta (ad alta frizione) a un modello basato su un lead magnet a bassa pressione per massimizzare le conversioni in assenza di grandi budget pubblicitari.
+
+Sintesi Strategica
+Il nucleo della discussione riguarda l'ottimizzazione del funnel di vendita. L'obiettivo è intercettare i ristoratori non attraverso una "call strategica" — percepita come troppo impegnativa — ma tramite un report gratuito focalizzato sui punti critici e il rischio sanzionatorio. Questo approccio permette di popolare il CRM (GHL) con contatti qualificati che possono poi essere lavorati commercialmente con una barriera all'ingresso molto più bassa.
+
+Direttive Operative per la Landing Page
+La struttura della pagina deve essere semplificata per massimizzare il CTR, seguendo lo schema Above the Fold (tutto visibile senza scrollare da mobile):
+
+• Headline & Sub-headline: Promessa chiara e immediata.
+• Video Demo: Posizionato in alto, possibilmente registrato da smartphone per trasmettere semplicità d'uso (mobile-first).
+• Call to Action (CTA): Bottone visibile immediatamente.
+• Bullet Points: Benefici chiave della consulenza/report.
+• Spostamento Frizione: Il form con domande di qualificazione approfondite deve essere rimosso dalla landing principale e spostato nella Thank You Page. Chiedere troppi dati inizialmente riduce drasticamente il volume dei lead.
+
+Flusso di Acquisizione Lead
+
+• Instagram (Contenuto/Ads) -> Automazione GHL (Commento Parola Chiave)
+• Automazione GHL -> Landing Page (Bassa Frizione) (DM con Link)
+• Landing Page -> Thank You Page (Domande Qualifica) (Download Report)
+• Thank You Page -> Gestione Commerciale Diretta (Lead Caldo)
+
+Approccio Commerciale e Gestione
+È emersa una chiara insoddisfazione verso la delega commerciale esterna, descritta come poco collaborativa nella gestione dei dati (file Excel non compilati).
+
+• Gestione Diretta: Vincenzo gestirà personalmente le chiamate e gli appuntamenti iniziali (circa 15-20 minuti per demo) per garantire la qualità e raccogliere statistiche affidabili.
+• Lead Magnet: Creazione del report "I sette segreti per non prendere le multe", facendo leva sulla paura del rischio (punto di dolore principale dei ristoratori).
+• Tracciamento: Utilizzo di sottodomini specifici (es. hccpdigitale.it/risorsa-gratuita) per migliorare il retargeting e la pulizia dei dati nelle campagne Ads.
+
+Note Tecniche & Automazione
+• GHL (GoHighLevel): Utilizzato per CRM, automazioni DM su Instagram e gestione delle pipeline.
+• Vercel/Astro: Prospettiva futura per pagine più performanti e customizzate, integrando i form di GHL tramite codice per mantenere il tracciamento senza sacrificare l'estetica e la velocità.
+• Mobile-First: La registrazione dello schermo per la demo deve rimanere verticale (smartphone) poiché il 90% del traffico target proviene da dispositivi mobili.

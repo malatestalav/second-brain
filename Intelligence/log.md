@@ -85,3 +85,17 @@ Cronologia di tutte le fonti aggiunte al vault via `/ingest`.
   - Riprende solo le parti non coperte da regole esistenti: pattern strutturali da AI (bold-colon-bullet, staccato a tre frasi, negazione forzata, fiocchetto finale, preamboli da assistant) e riempitivi vuoti generici (davvero, concreto, utile, magico, potente...)
   - Esplicitamente non duplica: la regola 14 del `CLAUDE.md` root sull'em dash (già più rigida) e l'elenco parole bandite in [[brand]] (specifico HACCP Digitale), citati in cross-reference
   - Origine: richiesta diretta in chat, decisione utente di tenerla come sola pagina di riferimento, senza promuoverla a regola permanente in `CLAUDE.md`
+
+- **[2026-09-12] ingest** | meeting-transcript | consulenza-mario-olivelli-funnel-lead-gen | 2 pagine wiki toccate
+  - Raw: `Library/articles/consulenza-mario-olivelli-funnel-lead-gen.txt` (trascrizione Pocket AI) + `-pocket-summary.txt`, `.meta.yml` con data stimata 2026-09-08 (non presente nel file, confermata dall'utente come antecedente al build del 9/9)
+  - Wiki creato: [[2026-09-08-consulenza-mario-olivelli-funnel-lead-gen]] (`Intelligence/meetings/general/`) — pivot da call diretta a lead magnet a bassa frizione, regola above-the-fold sul bottone CTA, automazione DM Instagram via GHL
+  - Wiki aggiornato: [[stakeholders]] (sezione Mario Olivelli, link alla trascrizione)
+  - Nota: contenuto della call (lead magnet a report scaricabile) diverso dal funnel poi effettivamente costruito in [[funnel-questionario-ghl]] (questionario rimosso per bug di contatti duplicati) — segnalato esplicitamente nella pagina meeting, nessuna riscrittura dello spec esistente
+  - `index.md` aggiornato: 1 riga in sezione Articoli
+
+- **[2026-09-12] ingest** | video (webinar) | mario-olivelli-info-business-arena-webinar | 2 pagine wiki toccate
+  - Raw: `Library/videos/mario-olivelli-info-business-arena-webinar.txt` (trascrizione Pocket AI) + `-pocket-summary.txt` + `-mind-map.pdf` (mappa mentale allegata), `.meta.yml`
+  - Wiki creato: [[offerta-irresistibile-mario-olivelli]] (`Resources/frameworks/`) — 4 leve dell'offerta irresistibile, 4 fonti di traffico governabili, catena di convinzioni pre-vendita, vendita consulenziale vs push; cross-reference a [[livelli-di-consapevolezza]] (framework analogo di [[chiara-dosio]])
+  - Wiki aggiornato: [[stakeholders]] (sezione Mario Olivelli, aggiunto il percorso a pagamento "Info Business Arena")
+  - Contenuto scartato: il pitch commerciale del webinar (prezzo, bonus, scarcity, garanzia 90+90) non riprodotto come framework riusabile, solo menzionato come contesto — esplicitamente incompatibile con il posizionamento no-hype di [[brand]] di HACCP Digitale
+  - `index.md` aggiornato: 1 riga in sezione Video, 1 riga in sezione Framework

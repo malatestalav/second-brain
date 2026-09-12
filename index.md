@@ -50,9 +50,11 @@ Documenti grezzi in `Library/`, raggruppati per tipo. Una voce per source ingest
 
 ### Articoli
 <!-- L'AI aggiunge qui una riga per ogni articolo ingestato -->
+- [Consulenza funnel e lead gen con Mario Olivelli](Library/articles/consulenza-mario-olivelli-funnel-lead-gen.txt): trascrizione Pocket AI, pivot da call diretta a lead magnet a bassa frizione, regola above-the-fold sul bottone CTA
 
 ### Video
 <!-- L'AI aggiunge qui una riga per ogni video ingestato -->
+- [Webinar Info Business Arena — Mario Olivelli](Library/videos/mario-olivelli-info-business-arena-webinar.txt): offerta irresistibile, 4 fonti di traffico, catena di convinzioni, vendita consulenziale (+ pitch del percorso a pagamento)
 - [PBS Serata 1 — Il loop e la nuova distribuzione](Library/videos/chiara-dosio-pbs-serata-1-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
 - [PBS Serata 2 — Profile funnel e story funnel](Library/videos/chiara-dosio-pbs-serata-2-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
 - [PBS Serata 3 — Dall'attenzione alla fiducia](Library/videos/chiara-dosio-pbs-serata-3-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
@@ -78,6 +80,7 @@ Pagine che rappresentano entità (aziende, persone, prodotti, framework). Aggreg
 
 ### Framework
 - [[chiara-dosio]]: Hub: framework TI VEDO → TI ASSOCIO → TI VALIDO per personal brand e acquisizione organica
+- [[offerta-irresistibile-mario-olivelli]]: Offerta irresistibile (4 leve), 4 fonti di traffico, catena di convinzioni, vendita consulenziale (Mario Olivelli)
 - [[personal-brand-secrets-manuale]]: Manuale preparatorio all'evento "Personal Brand Secrets" — contenuti, funnel e sistema di acquisizione via Instagram
 - [[il-loop-di-distribuzione]]: Come Instagram distribuisce per interessi nel 2026 e i due obiettivi strategici che ne derivano
 - [[profile-funnel]]: Il flusso traffico → profilo → touchpoint → contatto e i tre errori più comuni del profilo
