@@ -108,3 +108,9 @@ Cronologia di tutte le fonti aggiunte al vault via `/ingest`.
   - Non applicato: split di [[funnel-questionario-ghl]] (31KB, sopra budget F5) e riduzione di root `CLAUDE.md` (10.3KB, leggermente sopra soglia), segnalati come ottimizzazioni future non urgenti
   - Fuori scope per regola vault: gli em dash in `Library/pdfs/*` (raw layer, immutabile) non sono stati toccati
   - Report completo: `Intelligence/decisions/2026-09-12-vault-audit.html`
+
+- **[2026-09-12] build** | lead-magnet-funnel, quiz-funnel, vendita-diretta-dai-contenuti | 3 pagine wiki create, 2 aggiornate
+  - Creato [[lead-magnet-funnel]], [[quiz-funnel]], [[vendita-diretta-dai-contenuti]] (`Resources/frameworks/`): i tre flussi "strutturati" del manuale di [[chiara-dosio]] (sezione "05 · Il Lead Magnet Funnel") rimasti fuori dall'ingest del corso live perché non coperti dalle 5 trascrizioni serata per serata, trovati facendo grep diretto sul raw dopo una richiesta dell'utente sull'elenco completo dei funnel
+  - Aggiornato [[chiara-dosio]] (hub, sezione "il corso live completo" ora cita 14 pagine framework invece di 11) e [[casi-studio-chiara-dosio]] (aggiunto il caso quiz funnel della serata 5: 1.700€ spesi, ritorno 12x, CAC 587€)
+  - Origine: richiesta diretta in chat ("fammi un elenco dei funnel di cui ha parlato" + conferma di crearne le pagine), non un ingest da fonte nuova, la source (manuale) era già in `Library/pdfs/` dal 2026-08-31
+  - `index.md` aggiornato: 3 righe in sezione Framework

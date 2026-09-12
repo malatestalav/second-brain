@@ -34,6 +34,10 @@ Tre citazioni senza nome del cliente, usate come prova generica dell'efficacia d
 
 Mostrati da Ivan, direttore marketing di Unconventional, come prova che i risultati vengono dalle procedure applicate e non dal solo nome di Chiara Dosio: gli stessi risultati sono ottenibili anche da business più piccoli. Beatrice, brand di gioielli B2B, è passata da zero clienti chiusi dalle ads (screenshot del 30 luglio) a 60.000 euro di fatturato allo screenshot del 2 settembre. Un cliente nel settore management non nominato ha investito 4.000 euro in un lancio ottenendo 40.000 euro incassati, un ritorno di 10 volte il budget. Sebastiano, settore musica, ha investito 1.000 euro in un lancio ottenendo 24.000 euro incassati. Sono tutti lanci puntuali, non funnel evergreen, e la registrazione mostra solo gli screenshot dei numeri, non il dettaglio operativo completo.
 
+## Il caso quiz funnel della serata 5
+
+Ivan, direttore marketing di [[Unconventional]], mostra un [[quiz-funnel]] lanciato pochi mesi prima con dati reali di dashboard: 1.700€ investiti in ads, ritorno di 12 volte la spesa (~21.000€ di fatturato generato), CAC di 587€. Usato per illustrare cosa vale la pena tracciare quando si lancia budget a pagamento: non i lead o il costo per click, ma call prenotate, cancellate, avvenute, chiuse e il tasso di conversione lungo tutta la catena.
+
 ## Correlazioni
 
 Questi casi sono l'evidenza empirica dietro le [[le-cinque-fasi-dell-acquisizione]] (in particolare le tre regole trasversali e il costo invisibile) e dietro il [[profile-funnel]], dove il caso Federica introduce il concetto di semafori verdi come precondizione per vendere.

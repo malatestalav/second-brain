@@ -81,6 +81,9 @@ Pagine che rappresentano entità (aziende, persone, prodotti, framework). Aggreg
 ### Framework
 - [[chiara-dosio]]: Hub: framework TI VEDO → TI ASSOCIO → TI VALIDO per personal brand e acquisizione organica
 - [[offerta-irresistibile-mario-olivelli]]: Offerta irresistibile (4 leve), 4 fonti di traffico, catena di convinzioni, vendita consulenziale (Mario Olivelli)
+- [[lead-magnet-funnel]]: Keyword → ManyChat → risorsa → riattivazione, doppia conferma, due varianti (movimento/vendita)
+- [[quiz-funnel]]: Keyword → Typeform → WhatsApp/mail, qualifica il lead nello stesso passaggio in cui lo cattura, caso reale con ads
+- [[vendita-diretta-dai-contenuti]]: Il contenuto porta direttamente a richiesta/conversazione/chiamata, nessun passaggio intermedio
 - [[personal-brand-secrets-manuale]]: Manuale preparatorio all'evento "Personal Brand Secrets", contenuti, funnel e sistema di acquisizione via Instagram
 - [[il-loop-di-distribuzione]]: Come Instagram distribuisce per interessi nel 2026 e i due obiettivi strategici che ne derivano
 - [[profile-funnel]]: Il flusso traffico → profilo → touchpoint → contatto e i tre errori più comuni del profilo
