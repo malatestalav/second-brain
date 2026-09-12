@@ -5,8 +5,6 @@ tags: [marketing, personal-brand, chiara-dosio, instagram, fiducia]
 date: 2026-09-12
 ---
 
-# Il framework della fiducia
-
 Il framework della terza serata del corso live "Personal Brand Secrets" di [[chiara-dosio]], quello che risponde a una domanda precisa: perché una persona dovrebbe scegliere te rispetto alla concorrenza. Tre elementi (Comunicazione, Memorabilità, Gap percepito) e tre nemici che li sabotano. Va usato come griglia di controllo su ogni contenuto e ogni set di storie: dovrebbe lavorare su almeno uno dei tre elementi.
 
 > [!note] Fonte

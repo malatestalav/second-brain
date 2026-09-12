@@ -5,8 +5,6 @@ tags: [marketing, personal-brand, chiara-dosio, instagram, checklist]
 date: 2026-09-12
 ---
 
-# Checklist ottimizzazione profilo Instagram
-
 La checklist bonus di [[chiara-dosio]] per sistemare il profilo Instagram voce per voce: la parte operativa del [[profile-funnel]] presentato nella seconda serata del corso live "Personal Brand Secrets". Copre nome utente, nome SEO, immagine, bio, call to action, storie in evidenza e contenuti pinnati, con le strutture da cui partire e gli esempi per ciascuna voce. Il metodo d'uso è procedere una voce alla volta: si lavora sulla prima finché non è a posto, poi si passa alla seconda, senza cercare di sistemare tutto insieme.
 
 > [!note] Fonte

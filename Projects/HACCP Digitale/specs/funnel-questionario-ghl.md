@@ -25,11 +25,11 @@ Infrastruttura collegata al video di [drafts/script-video-presentazione.md](../d
 > [!warning] Ordine reale della pagina, aggiornato in build il 2026-09-09 (sostituisce l'ordine descritto nelle sezioni sotto)
 > Dopo una consulenza con [[Mario Olivelli]] (vedi [[stakeholders]]), che ha condiviso la struttura della sua opt-in page Codex10 come riferimento, l'ordine reale costruito nell'editor è cambiato rispetto a quanto descritto sezione per sezione più sotto in questo documento:
 > 1. Headline + sottotitolo (Sezione 1, invariati)
-> 2. "Ecco esattamente come funziona" + **Video demo** (spostato qui, subito dopo il sottotitolo — non più dopo il questionario)
+> 2. "Ecco esattamente come funziona" + **Video demo** (spostato qui, subito dopo il sottotitolo, non più dopo il questionario)
 > 3. Bottone "Prenota l'analisi gratuita"
 > 4. **Nuovo blocco "In questo video scoprirai"** (6 bullet, vedi sotto)
 > 5. **Nuova sezione "Chi c'è dietro HACCP Digitale"** (autorità/credibilità, vedi sotto)
-> 6. I 5 bullet originali della Sezione 1 (Basta faldoni di carta, Da 30 minuti a pochi secondi, ecc. — copy già riscritta dall'utente direttamente in build, non più quella abbozzata sotto)
+> 6. I 5 bullet originali della Sezione 1 (Basta faldoni di carta, Da 30 minuti a pochi secondi, ecc., copy già riscritta dall'utente direttamente in build, non più quella abbozzata sotto)
 > 7. Bottone "Prenota l'analisi gratuita"
 > 8. Headline/sottotitolo/form della Sezione 4 (contatti)
 >
@@ -37,7 +37,7 @@ Infrastruttura collegata al video di [drafts/script-video-presentazione.md](../d
 
 ## Nuovo Blocco . "In Questo Video Scoprirai" (aggiunto 2026-09-09)
 
-Ispirato alla struttura Codex10 di [[Mario Olivelli]] (vedi [[stakeholders]]), adattato a fatti reali del prodotto — niente claim non veritieri (vedi correzioni sotto).
+Ispirato alla struttura Codex10 di [[Mario Olivelli]] (vedi [[stakeholders]]), adattato a fatti reali del prodotto, niente claim non veritieri (vedi correzioni sotto).
 
 **Titolo:** "In questo video scoprirai:"
 
@@ -52,7 +52,7 @@ Posizione: subito dopo il primo bottone "Prenota l'analisi gratuita" (sotto il v
 
 ## Nuova Sezione . "Chi c'è Dietro HACCP Digitale" (aggiunta 2026-09-09)
 
-Sezione di autorità/credibilità, posizionata dopo il blocco "In questo video scoprirai" e prima dei bullet originali della Sezione 1. Costruita solo su fatti verificati (vedi correzioni sotto) — niente numeri o claim di esclusività non veri, a differenza del riferimento Codex10.
+Sezione di autorità/credibilità, posizionata dopo il blocco "In questo video scoprirai" e prima dei bullet originali della Sezione 1. Costruita solo su fatti verificati (vedi correzioni sotto), niente numeri o claim di esclusività non veri, a differenza del riferimento Codex10.
 
 **Titolo:** "Chi c'è dietro HACCP Digitale"
 
@@ -70,7 +70,7 @@ Sezione di autorità/credibilità, posizionata dopo il blocco "In questo video s
 > - **Rimosso** il claim "primo e unico provider digitale di HACCP in Italia": esistono competitor digitali, era un'informazione sbagliata (corretto anche in [[organization]])
 > - **Rimosso** ogni riferimento a "notifiche push in tempo reale": il prodotto non le manda (corretto anche in [[services]] e [[pain-points]])
 > - **Tempo di compilazione corretto:** da "45 minuti a 10-15 minuti" a "45 minuti a pochi secondi" (corretto anche in [[services]] e [[pain-points]])
-> - **Niente numero di licenze pubblicato:** l'azienda ha 8 licenze attive (aggiornato da 4), ma il numero resta troppo basso per essere usato come prova sociale pubblica — non inserirlo nella pagina
+> - **Niente numero di licenze pubblicato:** l'azienda ha 8 licenze attive (aggiornato da 4), ma il numero resta troppo basso per essere usato come prova sociale pubblica, non inserirlo nella pagina
 
 ## Barra Fissa Superiore (Sticky Bar)
 
@@ -81,7 +81,7 @@ Sempre visibile durante lo scroll, senza countdown/urgenza finta (fuori tono per
 **Bottone:** "Prenota l'analisi gratuita" → scrolla/salta direttamente alla sezione Form Contatti in fondo alla pagina
 
 > [!warning] Un solo testo di bottone in tutta la pagina
-> Regola fissata dall'utente il 2026-09-08: **l'unico testo di bottone su tutta la pagina è "Prenota l'analisi gratuita"**, ripetuto in più punti (barra fissa, fine Sezione 1, sopra e sotto il video in Sezione 3) ma sempre identico e sempre puntato alla Sezione 4. Niente varianti di copy tipo "Scopri i tuoi punti critici" — quella versione precedente è scartata. Le uniche altre superfici cliccabili della pagina sono le opzioni di risposta del questionario (Sezione 2), che sono input del modulo, non CTA di navigazione.
+> Regola fissata dall'utente il 2026-09-08: **l'unico testo di bottone su tutta la pagina è "Prenota l'analisi gratuita"**, ripetuto in più punti (barra fissa, fine Sezione 1, sopra e sotto il video in Sezione 3) ma sempre identico e sempre puntato alla Sezione 4. Niente varianti di copy tipo "Scopri i tuoi punti critici", quella versione precedente è scartata. Le uniche altre superfici cliccabili della pagina sono le opzioni di risposta del questionario (Sezione 2), che sono input del modulo, non CTA di navigazione.
 
 ## Sezione 1 . Opt-in di Vendita
 
@@ -97,7 +97,7 @@ Copy orientato ai pain point mappati in [[icp]] e [[pain-points]], coerente con 
 - **Come funziona in 3 step:** rispondi alle domande → guardi la demo → prenoti l'analisi gratuita
 - **Bottone:** "Prenota l'analisi gratuita" (vedi regola unico-testo-bottone sopra) → scrolla alla Sezione 2 (Questionario)
 
-**Regola vault:** scansionare il copy per le parole bandite "rubare" e "disturbo" prima della pubblicazione ([[feedback_no_parola_rubare]]), verificare ogni cifra citata contro [[pain-points]]/[[services]] prima di pubblicarla ([[feedback_verify_facts_before_drafting]]).
+**Regola vault:** scansionare il copy per le parole bandite "rubare" e "disturbo" prima della pubblicazione (regola di memoria `feedback_no_parola_rubare`), verificare ogni cifra citata contro [[pain-points]]/[[services]] prima di pubblicarla (regola di memoria `feedback_verify_facts_before_drafting`).
 
 > [!warning] Testi bullet ancora da rivedere
 > I 5 bullet attualmente scritti nella Sezione 1 (nel builder GHL, riquadro con i pallini blu) sono un primo abbozzo e **non sono ancora approvati** dall'utente. Da rivedere insieme a colori/layout nella revisione finale, non prima.
@@ -105,7 +105,7 @@ Copy orientato ai pain point mappati in [[icp]] e [[pain-points]], coerente con 
 ## Sezione 2 . Questionario (Modulo 1, submission separata)
 
 > [!warning] Spostato sulla pagina di ringraziamento (decisione del 2026-09-09)
-> Il questionario **non è più su questa pagina**. Su consiglio di [[Mario Olivelli]] (vedi [[stakeholders]]), le 4 domande si spostano sulla **pagina di ringraziamento** mostrata dopo la submission del Form Contatti (Sezione 4): prima si chiede il contatto (form breve, meno frizione), poi — a impegno già preso — si qualifica con le domande. Il modulo "QUESTIONARIO HACCP" resta lo stesso (già creato in GHL, vedi elenco moduli sotto), va solo spostato di posizione: dalla pagina opt-in alla pagina di ringraziamento del funnel. Pagina di ringraziamento ancora da costruire.
+> Il questionario **non è più su questa pagina**. Su consiglio di [[Mario Olivelli]] (vedi [[stakeholders]]), le 4 domande si spostano sulla **pagina di ringraziamento** mostrata dopo la submission del Form Contatti (Sezione 4): prima si chiede il contatto (form breve, meno frizione), poi, a impegno già preso, si qualifica con le domande. Il modulo "QUESTIONARIO HACCP" resta lo stesso (già creato in GHL, vedi elenco moduli sotto), va solo spostato di posizione: dalla pagina opt-in alla pagina di ringraziamento del funnel. Pagina di ringraziamento ancora da costruire.
 
 Costruite sui pain point e i trigger d'acquisto mappati in [[icp]]. **Approvate dall'utente il 2026-09-08.**
 
@@ -172,11 +172,11 @@ Costruite sui pain point e i trigger d'acquisto mappati in [[icp]]. **Approvate 
 > 4. Il commerciale **va fisicamente nell'attività** e fa l'analisi gratuita dei punti critici
 > 5. Chiude la vendita in loco
 >
-> Questo è specifico alla **campagna organica Instagram, solo Potenza e provincia** — attività raggiungibili fisicamente dal commerciale. Per campagne a livello nazionale (attività non raggiungibili di persona) serve un progetto/funnel separato con un flusso diverso (probabilmente demo/vendita da remoto), non ancora pianificato.
+> Questo è specifico alla **campagna organica Instagram, solo Potenza e provincia**, attività raggiungibili fisicamente dal commerciale. Per campagne a livello nazionale (attività non raggiungibili di persona) serve un progetto/funnel separato con un flusso diverso (probabilmente demo/vendita da remoto), non ancora pianificato.
 
 ## Copy di Transizione Tra le Sezioni (riscritte 2026-09-10 per l'ordine reale)
 
-Frasi ponte da inserire come piccolo blocco di testo (Sottotitolo o Paragrafo breve, corsivo/centrato come "Ecco esattamente come funziona") nei punti di passaggio reali della pagina costruita. Coerenti con [[brand]] (diretto, caldo, tecnico, niente hype). **Non ancora inserite nel builder** — pronte per essere aggiunte.
+Frasi ponte da inserire come piccolo blocco di testo (Sottotitolo o Paragrafo breve, corsivo/centrato come "Ecco esattamente come funziona") nei punti di passaggio reali della pagina costruita. Coerenti con [[brand]] (diretto, caldo, tecnico, niente hype). **Non ancora inserite nel builder**, pronte per essere aggiunte.
 
 **1. Tra il sottotitolo iniziale ("Il sistema che ti fa compilare l'HACCP...") e "Ecco esattamente come funziona" + video:**
 > "Non fidarti della parola: guarda il prodotto in azione."
@@ -224,26 +224,26 @@ Tutti creati come "Selezione con radio button" sull'oggetto Contact, cartella "A
 
 ## Stato Build (fine sessione 2026-09-09, seconda parte: revisione stile)
 
-**Struttura e contenuto (prima parte della sessione):** vedi cronologia sopra — barra fissa, video riposizionato, "in questo video scoprirai", "chi siamo", bullet, form contatti, pipeline via API. Tutto ✅.
+**Struttura e contenuto (prima parte della sessione):** vedi cronologia sopra, barra fissa, video riposizionato, "in questo video scoprirai", "chi siamo", bullet, form contatti, pipeline via API. Tutto ✅.
 
 **Revisione stile (seconda parte, dopo consultazione con [[Mario Olivelli]]):**
 - **Tema scuro stile Codex10** scelto esplicitamente dall'utente (non il verde/bianco originale del brand) ✅
 - **Sfondo:** gradiente scuro (nero/verde scurissimo) sulle sezioni principali, gradiente verde-bianco-verde sulla barra fissa (voluto, non un errore) ✅
 - **Testo:** headline e bullet in bianco, parole chiave (es. "GRATIS", "ZERO IMPEGNO") evidenziate in verde acceso, in stile Codex10 ✅
 - **Sottotitolo headline aggiornato:** "Il sistema che ti fa compilare l'HACCP in pochi secondi e presentarti sempre pronto ai controlli NAS" ✅ (l'utente ha adattato la bozza proposta)
-- **Icone bullet:** cambiate da spunta blu a asterisco blu ("✳") — "più simpatico" come richiesto ✅
+- **Icone bullet:** cambiate da spunta blu a asterisco blu ("✳"), "più simpatico" come richiesto ✅
 - **Form contatti:** riorganizzato a 2 colonne (Nome/Nome attività, Telefono/Email), sfondo bianco su sfondo verde/scuro ✅
-- **Checkbox consenso:** sostituita con una sola checkbox, testo "Dichiaro di aver letto e accetto la Privacy Policy di NexVision SRL" ✅ — link cliccabile non ancora aggiunto (vedi decisione aperta sotto)
-- **Footer aggiunto:** Nexvision S.r.l., indirizzo (Via L. Braille 4, 85100 Potenza PZ), P.IVA IT02233130760, Iscr. Reg. Imprese PZ-0223363, copyright ✅ — più completo di quanto proposto, include dati legali reali dell'azienda
+- **Checkbox consenso:** sostituita con una sola checkbox, testo "Dichiaro di aver letto e accetto la Privacy Policy di NexVision SRL" ✅, link cliccabile non ancora aggiunto (vedi decisione aperta sotto)
+- **Footer aggiunto:** Nexvision S.r.l., indirizzo (Via L. Braille 4, 85100 Potenza PZ), P.IVA IT02233130760, Iscr. Reg. Imprese PZ-0223363, copyright ✅, più completo di quanto proposto, include dati legali reali dell'azienda
 
 ## Pagina di Ringraziamento . "2 - Grazie" (costruita 2026-09-09)
 
-Riusata la vecchia pagina "2 - Questionario" (rinominata "2 - Grazie"), che conteneva già un form generico residuo del primo giorno di build — sostituito con il modulo reale **"QUESTIONARIO HACCP"** (le 4 domande corrette, creato l'8/9).
+Riusata la vecchia pagina "2 - Questionario" (rinominata "2 - Grazie"), che conteneva già un form generico residuo del primo giorno di build, sostituito con il modulo reale **"QUESTIONARIO HACCP"** (le 4 domande corrette, creato l'8/9).
 
 **Contenuto:**
 - Titolo: "GRAZIE!"
 - Sottotitolo: "TI CONTATTEREMO IL PRIMA POSSIBILE!"
-- Testo: "Nel frattempo rispondi a queste quattro domande — ci permettono di conoscere meglio la tua attività e arrivare preparati alla tua analisi gratuita dei punti critici."
+- Testo: "Nel frattempo rispondi a queste quattro domande, ci permettono di conoscere meglio la tua attività e arrivare preparati alla tua analisi gratuita dei punti critici."
 - Modulo "QUESTIONARIO HACCP" (le 4 domande)
 
 **Collegamento dal Form Contatti (Pagina 1):** Builder Modulo del Form Contatti → Impostazioni → "All'invio" → **"Reindirizza all'URL"** → URL della pagina "2 - Grazie" (preview link `link.mxaccelerator.com/preview/...`, da aggiornare se/quando si collega un dominio personalizzato).
@@ -256,7 +256,7 @@ Workflow GHL creato e **pubblicato/attivo**, sotto Automazione → Flussi di lav
 
 - **Trigger:** "Modulo Inviato" → filtro "Il modulo è" → **Form 3** (il Form Contatti della Pagina 1; il rename in "Form Contatti" fatto nel builder pagina non si riflette nel nome tecnico mostrato qui, resta "Form 3")
 - **Azione:** "Invia notifica interna" (Internal Notification), tipo Email
-- **Destinatario:** "Email personalizzata" → `malatesta.lav@gmail.com` (notifica ad [[Antonio Malatesta]], non al commerciale — decisione esplicita del 2026-09-10, diversa da quanto pianificato inizialmente per Antonio Smaldini)
+- **Destinatario:** "Email personalizzata" → `malatesta.lav@gmail.com` (notifica ad [[Antonio Malatesta]], non al commerciale, decisione esplicita del 2026-09-10, diversa da quanto pianificato inizialmente per Antonio Smaldini)
 - **Oggetto:** "Nuovo lead HACCP Digitale"
 - **Corpo:** Nome, Attività, Telefono, Email del contatto (merge field inseriti tramite il picker "tag", categoria "Contact") + invito a richiamare per fissare l'analisi gratuita
 
@@ -267,31 +267,31 @@ Workflow GHL creato e **pubblicato/attivo**, sotto Automazione → Flussi di lav
 > Struttura iniziale a 3 fasi sostituita con un'unica sequenza più granulare per tracciare lo stato reale di ogni trattativa, tutta dentro la pipeline (nessun campo custom separato per l'esito): **Nuovo Lead da Video → Consulenza Fissata → Non Risponde → Da Richiamare → Non Interessato → Consulenza Fatta → Acquistato → Rifiutato → Ci Deve Pensare**. Il commerciale sposta manualmente l'Opportunità nella fase giusta dopo ogni contatto/chiamata con il lead.
 
 > [!success] Collegamento a Pipeline aggiunto (2026-09-10)
-> La pipeline **"HACCP Digitale - Lead"** esisteva già (3 fasi: Nuovo Lead da Video, Consulenza Fissata, Cliente — 0 lead prima di andare live). Aggiunta al workflow l'azione **"Crea O Aggiorna Opportunità"** (posizionata prima della Internal Notification, ordine non critico): sequenza "HACCP Digitale - Lead", fase "Nuovo Lead da Video", nome opportunità = merge field Nome attività commerciale, fonte "Instagram Organico" (testo libero, per distinguere questa fonte in futuro), valore vuoto, stato "open", nessun toggle attivato. Workflow salvato e confermato su **Pubblica**. Ogni submission del Form Contatti ora crea sia la notifica email sia l'opportunità in pipeline.
+> La pipeline **"HACCP Digitale - Lead"** esisteva già (3 fasi: Nuovo Lead da Video, Consulenza Fissata, Cliente, 0 lead prima di andare live). Aggiunta al workflow l'azione **"Crea O Aggiorna Opportunità"** (posizionata prima della Internal Notification, ordine non critico): sequenza "HACCP Digitale - Lead", fase "Nuovo Lead da Video", nome opportunità = merge field Nome attività commerciale, fonte "Instagram Organico" (testo libero, per distinguere questa fonte in futuro), valore vuoto, stato "open", nessun toggle attivato. Workflow salvato e confermato su **Pubblica**. Ogni submission del Form Contatti ora crea sia la notifica email sia l'opportunità in pipeline.
 
 > [!tip] Lezione tecnica: come inserire correttamente i merge field
-> Le variabili `{{...}}` vanno SEMPRE inserite tramite l'icona "tag/etichetta" nella barra di editing del testo (mai digitate a mano, anche se sintatticamente identiche) — altrimenti GHL le tratta come testo semplice non valido e blocca il salvataggio con l'errore "Ci sono problemi nelle tue variabili personalizzate". I campi standard (Nome, Telefono, Email) si trovano cercando in inglese sotto la categoria "Contact" nel picker (ce ne sono di duplicati sotto "User"/"Account"/"Appointment": va scelto sempre quello sotto "Contact"). I campi custom (es. "Nome attività commerciale") si trovano cercando il nome in italiano nello stesso picker.
+> Le variabili `{{...}}` vanno SEMPRE inserite tramite l'icona "tag/etichetta" nella barra di editing del testo (mai digitate a mano, anche se sintatticamente identiche), altrimenti GHL le tratta come testo semplice non valido e blocca il salvataggio con l'errore "Ci sono problemi nelle tue variabili personalizzate". I campi standard (Nome, Telefono, Email) si trovano cercando in inglese sotto la categoria "Contact" nel picker (ce ne sono di duplicati sotto "User"/"Account"/"Appointment": va scelto sempre quello sotto "Contact"). I campi custom (es. "Nome attività commerciale") si trovano cercando il nome in italiano nello stesso picker.
 
 > [!warning] Bug/comportamento: font-size Desktop che sovrascrive Mobile (in indagine dal 2026-09-10)
 > Nell'editor pagine GHL i valori di stile (dimensione carattere, altezza riga) sono collegati a cascata tra i breakpoint per default: se un dispositivo non ha un override esplicito, eredita dal breakpoint superiore (Desktop → Tablet → Mobile). Modificando il font in vista Desktop, il valore "scende" anche su Mobile anche se lì sembrava già corretto. Soluzione da verificare: in vista Mobile, usare l'icona di override accanto al campo "Dimensione del carattere" per fissare un valore specifico a quel breakpoint prima di toccare Desktop. Da confermare sul campo con [[Vito Romano]] nella prossima sessione di build.
 
 > [!success] Test end-to-end completato (2026-09-10)
-> Compilazione reale da smartphone di [[Vito Romano]] (dati fittizi, "prova2"): Form Contatti → pagina Grazie → Questionario, tutto funzionante. Verificato: opportunità creata in pipeline "HACCP Digitale - Lead" fase "Nuovo Lead da Video" con fonte "Instagram Organico" ✅, email di notifica ricevuta su malatesta.lav@gmail.com (finita in spam, non bloccante ma da monitorare — eventualmente sistemare con autenticazione SPF/DKIM in GHL se capita anche ad altri destinatari in futuro) ✅. Due dettagli minori ancora da sistemare, non bloccanti per il funzionamento ma da fare prima del lancio reale:
-> - Il redirect del Form Contatti porta ancora alla pagina "2 - Grazie" sul vecchio dominio `link.mxaccelerator.com` invece che su `offerta.haccpdigitale.it` — va aggiornato l'URL in Builder Modulo Form Contatti → Impostazioni → "All'invio"
-> - Il messaggio dopo l'invio del Questionario è ancora quello di default di GHL in inglese ("We appreciate your feedback!") — va personalizzato in italiano in Builder → modulo Questionario HACCP → Impostazioni → azione post-submit
+> Compilazione reale da smartphone di [[Vito Romano]] (dati fittizi, "prova2"): Form Contatti → pagina Grazie → Questionario, tutto funzionante. Verificato: opportunità creata in pipeline "HACCP Digitale - Lead" fase "Nuovo Lead da Video" con fonte "Instagram Organico" ✅, email di notifica ricevuta su malatesta.lav@gmail.com (finita in spam, non bloccante ma da monitorare, eventualmente sistemare con autenticazione SPF/DKIM in GHL se capita anche ad altri destinatari in futuro) ✅. Due dettagli minori ancora da sistemare, non bloccanti per il funzionamento ma da fare prima del lancio reale:
+> - Il redirect del Form Contatti porta ancora alla pagina "2 - Grazie" sul vecchio dominio `link.mxaccelerator.com` invece che su `offerta.haccpdigitale.it`, va aggiornato l'URL in Builder Modulo Form Contatti → Impostazioni → "All'invio"
+> - Il messaggio dopo l'invio del Questionario è ancora quello di default di GHL in inglese ("We appreciate your feedback!"), va personalizzato in italiano in Builder → modulo Questionario HACCP → Impostazioni → azione post-submit
 
 > [!bug] Questionario rimosso dal funnel: creava contatti duplicati scollegati (deciso 2026-09-10)
-> Diagnosi completa: il mapping dei campi era corretto (fix della **Chiave della query**, es. `tipo_di_attivit` invece di `tipo_di_attività` con accento, applicato a tutte le 4 domande e verificato funzionante — i dati venivano catturati bene). Il problema reale era a monte: la pagina "2 - Grazie" con il Questionario creava un **Contact anonimo separato** (fonte "QUESTIONARIO HACCP", nessun nome/email/telefono) invece di aggiornare il Contact già creato dal Form Contatti sulla Pagina 1. Causa probabile: il collegamento "stessa sessione" tra i due moduli si basa su cookie che browser/webview restrittivi (Safari, e soprattutto il **browser interno di Instagram** — il canale reale di questa campagna) bloccano di default. Soluzione robusta esisteva (passare email/telefono via parametri URL + campi nascosti nel Questionario, bypassando i cookie) ma **scartata per priorità time-to-market**: l'utente ha deciso di rimuovere del tutto il Questionario e la pagina "2 - Grazie" dal funnel. **Il funnel ora si ferma alla Pagina 1**: opt-in → Form Contatti → messaggio di ringraziamento inline sulla stessa pagina (invece del redirect a una pagina 2). Se in futuro si vuole reintrodurre una fase di qualificazione post-form, va riprogettata con l'approccio via URL/campi nascosti per non ripetere questo problema.
+> Diagnosi completa: il mapping dei campi era corretto (fix della **Chiave della query**, es. `tipo_di_attivit` invece di `tipo_di_attività` con accento, applicato a tutte le 4 domande e verificato funzionante, i dati venivano catturati bene). Il problema reale era a monte: la pagina "2 - Grazie" con il Questionario creava un **Contact anonimo separato** (fonte "QUESTIONARIO HACCP", nessun nome/email/telefono) invece di aggiornare il Contact già creato dal Form Contatti sulla Pagina 1. Causa probabile: il collegamento "stessa sessione" tra i due moduli si basa su cookie che browser/webview restrittivi (Safari, e soprattutto il **browser interno di Instagram**, il canale reale di questa campagna) bloccano di default. Soluzione robusta esisteva (passare email/telefono via parametri URL + campi nascosti nel Questionario, bypassando i cookie) ma **scartata per priorità time-to-market**: l'utente ha deciso di rimuovere del tutto il Questionario e la pagina "2 - Grazie" dal funnel. **Il funnel ora si ferma alla Pagina 1**: opt-in → Form Contatti → messaggio di ringraziamento inline sulla stessa pagina (invece del redirect a una pagina 2). Se in futuro si vuole reintrodurre una fase di qualificazione post-form, va riprogettata con l'approccio via URL/campi nascosti per non ripetere questo problema.
 >
 > **Fatto (2026-09-10)**: pagina "2 - Grazie" eliminata dal funnel; Form Contatti riconfigurato (Modifica Modulo → Impostazioni → "All'invio") da "Reindirizza all'URL" a "Mostra messaggio" inline sulla Pagina 1.
 
 **Non ancora fatto:**
 1. **Link Privacy Policy cliccabile:** la privacy policy di haccpdigitale.it è gestita via popup Iubenda senza URL diretto copiabile dal sito; serve recuperare il link pubblico permanente dal pannello Iubenda (formato tipico `https://www.iubenda.com/privacy-policy/xxxxxxxx`). Fino ad allora la checkbox resta solo testuale, senza link
 2. **Copy di transizione tra le sezioni**: da riscrivere per il nuovo ordine (vedi warning sopra), non ancora fatto
-3. **Includere le risposte del Questionario nella notifica** (vedi warning sopra) — opzionale, da valutare
-4. **Rifinitura stile:** allineamento verticale barra fissa, dimensioni font globali del form (non ancora trovato dove impostarle) — foto aggiunta con successo il 2026-09-10 (screenshot app: dashboard/registri categorie, in colonna affiancata ai bullet "Risultati reali, non promesse")
+3. **Includere le risposte del Questionario nella notifica** (vedi warning sopra), opzionale, da valutare
+4. **Rifinitura stile:** allineamento verticale barra fissa, dimensioni font globali del form (non ancora trovato dove impostarle), foto aggiunta con successo il 2026-09-10 (screenshot app: dashboard/registri categorie, in colonna affiancata ai bullet "Risultati reali, non promesse")
 5. ~~**URL definitivo del redirect**: aggiornare il link di reindirizzamento nel Form Contatti quando si collega un dominio personalizzato al posto del preview link mxaccelerator~~ **Fatto (2026-09-10)**: dominio collegato, pagina live su `https://offerta.haccpdigitale.it/1---opt-in-di-vendita-page`. Sottodominio `offerta` scelto per non toccare i record DNS esistenti (`@`, `gestionale`, `mail`) usati dalla web app su `www.haccpdigitale.it`, record CNAME aggiunto via Aruba (Gestione DNS di haccpdigitale.it) puntando a `sites.ludicrous.cloud`. Da verificare: il redirect del Form Contatti verso la pagina "2 - Grazie" punta ancora al vecchio preview link mxaccelerator, da aggiornare al nuovo dominio se necessario.
-6. **WhatsApp Business**: valutato ma non attivato — richiede un abbonamento/integrazione a pagamento separato su GHL/MX Accelerator (costo non noto, da verificare cliccando "Integrate WhatsApp now!" nell'account solo se si decide di procedere)
+6. **WhatsApp Business**: valutato ma non attivato, richiede un abbonamento/integrazione a pagamento separato su GHL/MX Accelerator (costo non noto, da verificare cliccando "Integrate WhatsApp now!" nell'account solo se si decide di procedere)
 
 ## Decisione Aperta: Link Privacy Policy
 

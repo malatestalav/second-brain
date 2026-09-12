@@ -46,7 +46,7 @@ Documenti grezzi in `Library/`, raggruppati per tipo. Una voce per source ingest
 - [The Ultimate Sales Letter](Library/pdfs/the-ultimate-sales-letter-attract-new.md): Sistema in 28 step per scrivere lettere di vendita che vengono lette e agite
 - [The Ultimate Success Secret](Library/pdfs/the-ultimate-success-secret-dan-kenn.md): Booklet: il successo si riduce a controllo = responsabilità, quindi azione immediata
 - [Zero Resistance Selling](Library/pdfs/zero-resistance-selling-etc.md): Psico-cibernetica applicata alla vendita: riprogrammare il self-image
-- [Personal Brand Secrets — Manuale preparatorio](Library/pdfs/chiara-dosio-personal-brand-secrets-manuale.md): Framework TI VEDO → TI ASSOCIO → TI VALIDO per acquisizione clienti in organico su Instagram (Chiara Dosio)
+- [Personal Brand Secrets, Manuale preparatorio](Library/pdfs/chiara-dosio-personal-brand-secrets-manuale.md): Framework TI VEDO → TI ASSOCIO → TI VALIDO per acquisizione clienti in organico su Instagram (Chiara Dosio)
 
 ### Articoli
 <!-- L'AI aggiunge qui una riga per ogni articolo ingestato -->
@@ -54,12 +54,12 @@ Documenti grezzi in `Library/`, raggruppati per tipo. Una voce per source ingest
 
 ### Video
 <!-- L'AI aggiunge qui una riga per ogni video ingestato -->
-- [Webinar Info Business Arena — Mario Olivelli](Library/videos/mario-olivelli-info-business-arena-webinar.txt): offerta irresistibile, 4 fonti di traffico, catena di convinzioni, vendita consulenziale (+ pitch del percorso a pagamento)
-- [PBS Serata 1 — Il loop e la nuova distribuzione](Library/videos/chiara-dosio-pbs-serata-1-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
-- [PBS Serata 2 — Profile funnel e story funnel](Library/videos/chiara-dosio-pbs-serata-2-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
-- [PBS Serata 3 — Dall'attenzione alla fiducia](Library/videos/chiara-dosio-pbs-serata-3-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
-- [PBS Serata 4 — Il sistema di acquisizione](Library/videos/chiara-dosio-pbs-serata-4-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
-- [PBS Serata 5 — Funnel e processi AI](Library/videos/chiara-dosio-pbs-serata-5-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
+- [Webinar Info Business Arena, Mario Olivelli](Library/videos/mario-olivelli-info-business-arena-webinar.txt): offerta irresistibile, 4 fonti di traffico, catena di convinzioni, vendita consulenziale (+ pitch del percorso a pagamento)
+- [PBS Serata 1, Il loop e la nuova distribuzione](Library/videos/chiara-dosio-pbs-serata-1-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
+- [PBS Serata 2, Profile funnel e story funnel](Library/videos/chiara-dosio-pbs-serata-2-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
+- [PBS Serata 3, Dall'attenzione alla fiducia](Library/videos/chiara-dosio-pbs-serata-3-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
+- [PBS Serata 4, Il sistema di acquisizione](Library/videos/chiara-dosio-pbs-serata-4-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
+- [PBS Serata 5, Funnel e processi AI](Library/videos/chiara-dosio-pbs-serata-5-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
 
 ### Podcast
 <!-- L'AI aggiunge qui una riga per ogni podcast ingestato -->
@@ -81,7 +81,7 @@ Pagine che rappresentano entità (aziende, persone, prodotti, framework). Aggreg
 ### Framework
 - [[chiara-dosio]]: Hub: framework TI VEDO → TI ASSOCIO → TI VALIDO per personal brand e acquisizione organica
 - [[offerta-irresistibile-mario-olivelli]]: Offerta irresistibile (4 leve), 4 fonti di traffico, catena di convinzioni, vendita consulenziale (Mario Olivelli)
-- [[personal-brand-secrets-manuale]]: Manuale preparatorio all'evento "Personal Brand Secrets" — contenuti, funnel e sistema di acquisizione via Instagram
+- [[personal-brand-secrets-manuale]]: Manuale preparatorio all'evento "Personal Brand Secrets", contenuti, funnel e sistema di acquisizione via Instagram
 - [[il-loop-di-distribuzione]]: Come Instagram distribuisce per interessi nel 2026 e i due obiettivi strategici che ne derivano
 - [[profile-funnel]]: Il flusso traffico → profilo → touchpoint → contatto e i tre errori più comuni del profilo
 - [[story-funnel]]: Le storie come flusso di fiducia, i tre filoni delle indirette (social proof, dietro le quinte, situazioni clienti)

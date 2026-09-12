@@ -5,8 +5,6 @@ status: active
 tags: [workflow, commerciale, contatti-caldi, referral]
 ---
 
-# Workflow Contatti Caldi
-
 Workflow per i contatti che [[Antonio Smaldini]] conosce personalmente: amici, familiari, ex colleghi, conoscenti diretti nel settore bar/ristorazione, non trovati mappando il territorio. È un percorso separato e più corto rispetto al [workflow telefonate/WhatsApp](workflow-commerciale-telefono-whatsapp.md) e alla [SOP standard](sop-processo-vendita.md), pensato per l'unica cosa che i contatti caldi hanno già e i prospect freddi no: la fiducia.
 
 > [!important] Perché non è la stessa procedura dei contatti freddi
@@ -14,7 +12,7 @@ Workflow per i contatti che [[Antonio Smaldini]] conosce personalmente: amici, f
 
 ---
 
-## Fase 1 — Mappatura dei Contatti Caldi
+## Fase 1, Mappatura dei Contatti Caldi
 
 **Trigger:** una tantum all'inizio, poi ogni volta che emerge un nuovo nome (anche durante conversazioni non di lavoro).
 
@@ -26,7 +24,7 @@ Workflow per i contatti che [[Antonio Smaldini]] conosce personalmente: amici, f
 
 ---
 
-## Fase 2 — Primo Contatto Diretto
+## Fase 2, Primo Contatto Diretto
 
 **Trigger:** contatto caldo in lista con stato `Da contattare`.
 
@@ -44,7 +42,7 @@ Workflow per i contatti che [[Antonio Smaldini]] conosce personalmente: amici, f
 
 ---
 
-## Fase 3 — Demo Semplificata
+## Fase 3, Demo Semplificata
 
 **Trigger:** interesse confermato.
 
@@ -57,7 +55,7 @@ Workflow per i contatti che [[Antonio Smaldini]] conosce personalmente: amici, f
 
 ---
 
-## Fase 4 — Prezzo e Chiusura
+## Fase 4, Prezzo e Chiusura
 
 **Trigger:** dopo la demo.
 
@@ -70,7 +68,7 @@ Workflow per i contatti che [[Antonio Smaldini]] conosce personalmente: amici, f
 
 ---
 
-## Fase 5 — Richiesta Referral Immediata
+## Fase 5, Richiesta Referral Immediata
 
 **Trigger:** chiusura avvenuta.
 
@@ -84,7 +82,7 @@ Workflow per i contatti che [[Antonio Smaldini]] conosce personalmente: amici, f
 
 ---
 
-## Fase 6 — Gestione del Rifiuto
+## Fase 6, Gestione del Rifiuto
 
 **Trigger:** risposta negativa o disinteresse.
 

@@ -33,7 +33,7 @@ Licenza annuale
 
 **Prezzo attuale:** €300/anno per attività singola
 
-**Stato commerciale:** Attiva, 8 licenze vendute (aggiornato 2026-09-09, dato interno — non pubblicare questo numero su contenuti pubblici/pagine di vendita su richiesta esplicita di Antonio, ritenuto ancora troppo basso per essere usato come prova sociale)
+**Stato commerciale:** Attiva, 8 licenze vendute (aggiornato 2026-09-09, dato interno, non pubblicare questo numero su contenuti pubblici/pagine di vendita su richiesta esplicita di Antonio, ritenuto ancora troppo basso per essere usato come prova sociale)
 
 **Target di fatturato 2026:** 500 licenze = €150.000
 

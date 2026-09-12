@@ -5,8 +5,6 @@ tags: [marketing, business, dan-kennedy, hub]
 date: 2026-08-18
 ---
 
-# Dan Kennedy
-
 Copywriter e consulente di direct marketing, autore della serie "No B.S." e ideatore del framework Magnetic Marketing. Il filo conduttore di tutta la sua opera: marketing misurabile, risposta diretta, niente "brand building" senza vendite immediate a supportarlo.
 
 ## Temi Ricorrenti

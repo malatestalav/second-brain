@@ -50,7 +50,7 @@ Nessun dipartimento formale ancora. Team piccolo e agile.
 
 ## Metriche Chiave
 
-- **Clienti attuali:** 8 licenze (aggiornato 2026-09-09; dato interno, non pubblicare come numero di prova sociale — vedi [[services]])
+- **Clienti attuali:** 8 licenze (aggiornato 2026-09-09; dato interno, non pubblicare come numero di prova sociale, vedi [[services]])
 - **Fatturato attuale:** €2.376 da vendite chiuse (dato live da [haccpcommerciale.it](https://haccpcommerciale.it), aggiornato 2026-09-09; vedi snapshot completo in [tracking/metriche-settimanali.md](../Projects/HACCP%20Digitale/tracking/metriche-settimanali.md))
 - **Fatturato target 2026:** 500 licenze = €150.000
 - **Tasso di chiusura contatto→vendita:** 50% (dato live 2026-09-09)
@@ -59,6 +59,6 @@ Nessun dipartimento formale ancora. Team piccolo e agile.
 
 - **Mercato:** Esistono alcuni competitor digitali sul mercato italiano (correzione del 2026-09-09: non è vero che HACCP Digitale sia l'unico provider digitale, come si credeva in precedenza). Non usare più la frase "primo e unico provider digitale in Italia" in nessun contenuto pubblico.
 - **Target:** Piccoli-medi ristoranti, bar, hotel, attività di somministrazione alimentare (macellerie, pescherie, latterie, case di riposo)
-- **Differenziatore:** Da ridefinire senza il claim di esclusività digitale — puntare su esperienza diretta del founder e risultati concreti dei clienti, non su "essere gli unici"
+- **Differenziatore:** Da ridefinire senza il claim di esclusività digitale, puntare su esperienza diretta del founder e risultati concreti dei clienti, non su "essere gli unici"
 
 <span style="background-color:#F5D7A1; color:#020309; padding:2px 8px; border-radius:3px; font-size:0.85em;">⚠️ Corretto da Antonio Malatesta il 2026-09-09: rimosso il claim "primo e unico provider" perché fattualmente sbagliato.</span>

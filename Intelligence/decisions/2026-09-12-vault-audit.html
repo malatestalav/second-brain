@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>Vault Audit — Second Brain — 2026-09-12</title>
+<style>
+  :root { color-scheme: light; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #faf9f6; color: #1a1a1a; margin: 0; padding: 40px 24px; line-height: 1.55; }
+  .wrap { max-width: 920px; margin: 0 auto; }
+  h1 { font-size: 1.6rem; margin-bottom: 4px; }
+  .sub { color: #666; margin-bottom: 28px; font-size: 0.92rem; }
+  .score-box { display: flex; gap: 16px; align-items: baseline; background: #eef7ee; border: 1px solid #cfe8cf; border-radius: 10px; padding: 18px 22px; margin-bottom: 28px; }
+  .score-box .num { font-size: 2.1rem; font-weight: 700; color: #2f7a3d; }
+  .score-box .arrow { color: #999; font-size: 1.2rem; }
+  .read { background: #fff; border: 1px solid #e5e2da; border-radius: 10px; padding: 18px 22px; margin-bottom: 28px; }
+  .read h2 { font-size: 1rem; margin-top: 0; }
+  table { width: 100%; border-collapse: collapse; margin-bottom: 28px; font-size: 0.88rem; }
+  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #e9e6de; }
+  th { background: #f2f0e9; font-weight: 600; }
+  td.num, th.num { text-align: right; }
+  .delta-good { color: #2f7a3d; font-weight: 600; }
+  .delta-none { color: #999; }
+  section.framework { background: #fff; border: 1px solid #e5e2da; border-radius: 10px; padding: 16px 20px; margin-bottom: 18px; }
+  section.framework h3 { margin: 0 0 6px 0; font-size: 1rem; }
+  section.framework .why { color: #666; font-size: 0.85rem; margin-bottom: 10px; }
+  .finding { border-left: 3px solid #ddd; padding: 8px 12px; margin: 8px 0; font-size: 0.86rem; background: #fbfaf7; }
+  .finding.fixed { border-left-color: #2f7a3d; }
+  .finding.failed { border-left-color: #b3422f; }
+  .finding.info-only { border-left-color: #b8942f; }
+  .pill { display: inline-block; font-size: 0.7rem; font-weight: 700; padding: 2px 7px; border-radius: 4px; margin-left: 6px; vertical-align: middle; }
+  .pill.fixed { background: #d9f0da; color: #256b30; }
+  .pill.failed { background: #f6d9d3; color: #8f2e1a; }
+  .pill.noted { background: #f5edd3; color: #8a6d13; }
+  .path { font-family: ui-monospace, monospace; font-size: 0.8rem; color: #555; }
+  .clean { color: #2f7a3d; font-size: 0.88rem; }
+  .scope-note { background: #fdf6e3; border: 1px solid #ecdca0; border-radius: 8px; padding: 12px 16px; font-size: 0.85rem; margin-bottom: 28px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Vault Audit — Second Brain</h1>
+  <div class="sub">2026-09-12 · 176 file markdown · 12 cartelle di primo livello · modalità: applica tutto</div>
+
+  <div class="scope-note">
+    <strong>Nota sullo scope:</strong> dato il volume del vault (176 file, ~640MB includendo i PDF in <code>Library/</code>), i controlli meccanici (em dash, frontmatter, H1 duplicati, dimensione file, wikilink) sono stati eseguiti su <strong>tutti</strong> i 176 file. La lettura e il giudizio semantico (routing, coerenza architetturale, entità mancanti) si sono concentrati sul layer curato: <code>Context/</code>, i <code>CLAUDE.md</code>, <code>Resources/</code>, <code>Intelligence/</code>, <code>Projects/HACCP Digitale/</code>. Non è un audit riga-per-riga dei 9 framework su ogni singolo file di <code>Daily/</code> o <code>Team/</code>.
+  </div>
+
+  <div class="score-box">
+    <div><div class="num">46</div><div style="font-size:0.75rem;color:#666;">file corretti</div></div>
+    <div class="arrow">·</div>
+    <div><div class="num">167 → 0</div><div style="font-size:0.75rem;color:#666;">em dash fuori Library/</div></div>
+    <div class="arrow">·</div>
+    <div><div class="num">2</div><div style="font-size:0.75rem;color:#666;">pagine create</div></div>
+  </div>
+
+  <div class="read">
+    <h2>Lettura architetturale</h2>
+    <p>Il vault è costruito con una disciplina insolitamente alta per il pattern LLM Wiki (routing esplicito, frontmatter completo al 100% su tutti i 129 file non-CLAUDE.md controllati, tre layer chiaramente separati). Il problema principale trovato non è di igiene ma di <strong>coerenza tra regola dichiarata e contenuto prodotto</strong>: la regola 14 di <code>CLAUDE.md</code> ("mai em dash") non è mai stata applicata a se stessa, con 167 violazioni accumulate nel tempo, incluse due pagine scritte in questa stessa sessione prima dell'audit.</p>
+    <p>Il secondo pattern osservato: entità molto citate nel testo (<code>[[HACCP Digitale]]</code>, 17 usi; <code>[[Mario Olivelli]]</code>) non avevano una nota risolvibile, nonostante la tabella di routing del <code>CLAUDE.md</code> preveda esplicitamente una pagina per ogni collaboratore esterno. È il tipo di deriva silenziosa che il lint per-file non cattura da solo: ogni singola nota era corretta in isolamento, il problema emerge solo guardando i link in aggregato.</p>
+  </div>
+
+  <h2 style="font-size:1.05rem;">Cosa è stato controllato e corretto</h2>
+  <table>
+    <tr><th>Controllo</th><th class="num">File coinvolti</th><th>Esito</th></tr>
+    <tr><td>Em dash fuori da <code>Library/</code> (regola 14 CLAUDE.md)</td><td class="num">24</td><td class="delta-good">167 → 0, tutti sostituiti con virgola/punteggiatura</td></tr>
+    <tr><td>H1 che duplica il nome del file (anti-pattern)</td><td class="num">20</td><td class="delta-good">rimossi tutti</td></tr>
+    <tr><td>Frontmatter mancante (status/tags)</td><td class="num">129 controllati</td><td class="delta-none">0 problemi, già conforme al 100%</td></tr>
+    <tr><td>Wikilink orfani/non risolvibili</td><td class="num">2 entità</td><td class="delta-good">alias aggiunto a <code>haccp-digitale.md</code>, creata pagina <code>Mario Olivelli</code></td></tr>
+    <tr><td>Wikilink verso file esterni al vault (memoria Claude)</td><td class="num">1 file</td><td class="delta-good">convertito in riferimento testuale</td></tr>
+    <tr><td>Dimensione file oltre budget consigliato (10KB)</td><td class="num">2 (segnalati)</td><td>non applicato, vedi sotto</td></tr>
+  </table>
+
+  <section class="framework">
+    <h3>G7 · Hygiene — em dash</h3>
+    <div class="why">Regola di progetto: niente em dash in nessun contenuto del vault, usare punti/virgole/due punti o ristrutturare.</div>
+    <div class="finding fixed">167 occorrenze in 24 file (fuori da <code>Library/</code>, che è raw layer immutabile). File più coinvolti: <span class="path">Projects/HACCP Digitale/specs/funnel-questionario-ghl.md</span> (27), <span class="path">Resources/frameworks/personal-brand-secrets-manuale.md</span> (19), <span class="path">Resources/frameworks/offerta-irresistibile-mario-olivelli.md</span> (15, scritto in questa stessa sessione prima dell'audit). Sostituiti con virgola nel contesto di uso parentetico (" — " → ", "). <span class="pill fixed">CORRETTO</span></div>
+    <div class="clean">✅ Verifica finale: 0 em dash rimasti fuori da Library/.</div>
+  </section>
+
+  <section class="framework">
+    <h3>G7 · Hygiene — H1 duplicato</h3>
+    <div class="why">Anti-pattern esplicito del vault: "Non mettere un'intestazione # Titolo che duplica il nome del file".</div>
+    <div class="finding fixed">20 pagine con H1 identico al filename: <span class="path">Context/brand.md</span>, <span class="path">Context/team.md</span>, 15 pagine in <span class="path">Resources/frameworks/</span>, <span class="path">Resources/products/haccp-digitale.md</span>, <span class="path">Resources/companies/unconventional.md</span>, <span class="path">Projects/HACCP Digitale/specs/workflow-contatti-caldi.md</span>. Rimossa la riga H1 in tutti. <span class="pill fixed">CORRETTO</span></div>
+  </section>
+
+  <section class="framework">
+    <h3>F2 · Karpathy Wiki — wikilink non risolvibili</h3>
+    <div class="why">Ogni [[wikilink]] deve puntare a una nota esistente nel vault: un link morto è invisibile finché qualcuno non lo clicca.</div>
+    <div class="finding fixed"><strong>[[HACCP Digitale]]</strong>, 17 usi nel vault, nessuna nota si chiamava esattamente così (il file è <span class="path">Resources/products/haccp-digitale.md</span>, kebab-case). Aggiunto <code>aliases: [HACCP Digitale]</code> nel frontmatter: risolve tutti i 17 link senza toccarli. <span class="pill fixed">CORRETTO</span></div>
+    <div class="finding fixed"><strong>[[Mario Olivelli]]</strong>, nessuna pagina entità dedicata esisteva, solo una sezione dentro <span class="path">Context/stakeholders.md</span>, nonostante la tabella di routing del <code>CLAUDE.md</code> di root preveda esplicitamente "Profilo collaboratore esterno → Team/External/contractors/{nome}". Creata <span class="path">Team/External/contractors/mario-olivelli/Mario Olivelli.md</span> come profilo leggero che rimanda a <code>stakeholders.md</code> per il dettaglio completo (evita duplicazione di contenuto). <span class="pill fixed">CORRETTO</span></div>
+    <div class="finding fixed">Due wikilink in <span class="path">funnel-questionario-ghl.md</span> puntavano a file di memoria Claude (<code>feedback_no_parola_rubare</code>, <code>feedback_verify_facts_before_drafting</code>), che vivono fuori dal vault e non risolveranno mai in Obsidian. Convertiti in riferimento testuale semplice. <span class="pill fixed">CORRETTO</span></div>
+  </section>
+
+  <section class="framework">
+    <h3>F5 · Anthropic Memory — budget dimensione file</h3>
+    <div class="why">File singoli oltre ~10KB (consigliato) rendono più costoso il caricamento in contesto e più difficile la navigazione.</div>
+    <div class="finding info-only"><span class="path">Projects/HACCP Digitale/specs/funnel-questionario-ghl.md</span> — 31KB. È un log di build vivo con cronologia di decisioni progressive; uno split perderebbe la sequenza temporale. <strong>Non applicato</strong>, proposto come split futuro per sezioni cronologiche quando il progetto si stabilizza. <span class="pill noted">SOLO SEGNALATO</span></div>
+    <div class="finding info-only">Root <span class="path">CLAUDE.md</span> — 10.3KB, leggermente sopra soglia. Contenuto denso ma specifico (routing, regole permanenti), nessuna sezione ovviamente rimovibile identificata. <span class="pill noted">SOLO SEGNALATO</span></div>
+  </section>
+
+  <section class="framework">
+    <h3>G7 · Hygiene — frontmatter</h3>
+    <div class="why">Ogni nota deve avere <code>status:</code> e almeno 2 <code>tags:</code> per essere filtrabile e classificabile.</div>
+    <div class="clean">✅ 129/129 file controllati (esclusi CLAUDE.md, SKILL.md, Library/) sono conformi. Nessun finding.</div>
+  </section>
+
+  <h2 style="font-size:1.05rem;">Fuori scope, per regola del vault</h2>
+  <p style="font-size:0.88rem; color:#555;">Il layer raw (<code>Library/</code>) contiene 1.400+ occorrenze di em dash nei PDF estratti (soprattutto libri Dan Kennedy). Non sono stati toccati: la regola d'oro del vault è che <code>Library/</code> è immutabile, i <code>.md</code> estratti devono restare fedeli alla source.</p>
+
+  <p style="font-size:0.8rem; color:#999; margin-top:32px;">Generato da /os-optimizer · sessione 2026-09-12</p>
+</div>
+</body>
+</html>

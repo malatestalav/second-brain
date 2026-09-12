@@ -5,8 +5,6 @@ tags: [marketing, personal-brand, chiara-dosio, instagram, funnel]
 date: 2026-09-12
 ---
 
-# Profile funnel
-
 Il primo dei due flussi presentati da [[chiara-dosio]] nella seconda serata del corso live "Personal Brand Secrets": il percorso traffico → profilo → touchpoint → contatto. Il contenuto porta traffico in target, il profilo lo accoglie e lo qualifica, i touchpoint aprono la conversazione. Chiara lo descrive come un flusso che ogni profilo ha già sotto mano ma quasi mai sfrutta bene, e che può essere 100% organico o integrato con adv.
 
 > [!note] Fonte
@@ -24,7 +22,7 @@ Prima condizione perché il flusso funzioni: i "semafori" devono essere verdi. S
 
 **Il profilo come atterraggio.** Tre errori ricorrenti: bio non allineata al livello del mercato (frasi generiche come "aiuto le persone a raggiungere i loro obiettivi" invece di rispondere a cosa risolvi in concreto e perché scegliere te); link in bio che non porta da nessuna parte, quando invece ne servono tre distinti (un punto di contatto diretto tipo Calendly o WhatsApp, una risorsa gratuita che porta chi non è pronto in un flusso, e uno spazio per autorevolezza o priorità del momento); contenuti pinnati senza risorsa, mentre una risorsa scaricabile fissata in alto può da sola generare centinaia di richieste.
 
-**Touchpoint.** Il profilo ottimizzato da solo non basta. Quando una persona atterra sul profilo può succedere una di due cose: si apre una conversazione (la apre lei cliccando una storia o una risorsa, oppure la apri tu — più il mercato è consapevole più scrivono loro, meno lo è più tocca scrivere per primi), oppure la persona entra nel loop di distribuzione e da lì la si fa rivedere nei giorni successivi tramite le storie. Aprire per primi una conversazione non è invadente se fatto bene: parlare come esseri umani, proporre solo se la situazione lo permette.
+**Touchpoint.** Il profilo ottimizzato da solo non basta. Quando una persona atterra sul profilo può succedere una di due cose: si apre una conversazione (la apre lei cliccando una storia o una risorsa, oppure la apri tu, più il mercato è consapevole più scrivono loro, meno lo è più tocca scrivere per primi), oppure la persona entra nel loop di distribuzione e da lì la si fa rivedere nei giorni successivi tramite le storie. Aprire per primi una conversazione non è invadente se fatto bene: parlare come esseri umani, proporre solo se la situazione lo permette.
 
 **Diagnosi dei tre punti di rottura.** Poche views sempre sulle stesse persone indica un problema di traffico (contenuti non in attrazione o non direzionali). Views ma pochi click sul profilo indica che il contenuto non dà un motivo per approfondire (manca proof, comunicazione o utilità percepita). Visite al profilo ma nessun contatto indica un problema di bio, link, pinnati o DM non gestiti. Precondizione per diagnosticare: tracciare i dati, senza i quali non si sa quale anello sistemare.
 

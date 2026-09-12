@@ -5,7 +5,7 @@ status: draft
 tags: [script, vendita, commerciale, playbook]
 ---
 
-# Script di Vendita — Playbook Commerciale HACCP Digitale
+# Script di Vendita, Playbook Commerciale HACCP Digitale
 
 Playbook operativo per chi vende HACCP Digitale sul campo (oggi [[Antonio Smaldini]], ma pensato per chiunque ricopra questo ruolo in futuro). Ogni tecnica citata è stata verificata leggendo il testo originale in `Library/pdfs/`, non solo le sintesi in `Resources/frameworks/`: ogni sezione indica libro, capitolo/step esatto, e cosa dice davvero il testo. Dove aggiungo un adattamento pratico per HACCP Digitale, lo segnalo chiaramente come tale, non come citazione.
 
@@ -14,7 +14,7 @@ Playbook operativo per chi vende HACCP Digitale sul campo (oggi [[Antonio Smaldi
 
 ---
 
-## Fase 1 — Ottenere il Permesso di Vendere
+## Fase 1, Ottenere il Permesso di Vendere
 
 **Tecnica verificata:** [[no-b-s-sales-success-the-ultimate-no]], Parte 3, "Step One: Permission to Sell". Il libro dice esplicitamente che non si può vendere efficacemente a qualcuno che si sta mentalmente allontanando da te, e nemmeno costringerlo ad ascoltare. Serve prima ottenere un consenso esplicito ad ascoltare l'offerta. Il modello di domanda che il libro fornisce è preciso:
 
@@ -28,7 +28,7 @@ Chi risponde sì ha dato il permesso di vendere: da lì in poi la conversazione 
 
 ---
 
-## Fase 2 — Costruire Credibilità
+## Fase 2, Costruire Credibilità
 
 **Tecnica verificata:** [[making-them-believe-how-one-of-americ]] sostiene, come tesi centrale del libro, che l'autorità è precondizione della vendita: prima ancora dei risultati da mostrare, chi vende deve stabilire una posizione credibile (nel caso studio del libro, un titolo, una presentazione, una coerenza di fondo).
 
@@ -36,7 +36,7 @@ Chi risponde sì ha dato il permesso di vendere: da lì in poi la conversazione 
 
 ---
 
-## Fase 3 — Ammettere un Limite Reale (Damaging Admission)
+## Fase 3, Ammettere un Limite Reale (Damaging Admission)
 
 **Tecnica verificata:** [[the-ultimate-sales-letter-attract-new]], Step 3, "Create a Damaging Admission and Address Flaws Openly". Il testo è chiaro: ogni prodotto ha dei lati poco attraenti, e ammetterli apertamente fa salire la credibilità agli occhi di chi ascolta, molto più di qualsiasi affermazione a favore. L'esempio del libro è una lettera di un piccolo ristorante italiano che ammette di non avere camerieri in smoking né menu altisonanti, e trasforma lo svantaggio in un motivo di fiducia.
 
@@ -48,7 +48,7 @@ Ammetti solo limiti veri. Non è una tecnica per inventare falsa umiltà, è per
 
 ---
 
-## Fase 4 — Presentare Combinando Emozione e Logica
+## Fase 4, Presentare Combinando Emozione e Logica
 
 **Tecnica verificata:** [[no-b-s-sales-success-the-ultimate-no]], Parte 3, "Step Four: Emotional Logic". Il libro (citando il termine coniato da Zig Ziglar) dice che le persone comprano per motivi emotivi ma hanno bisogno di ragioni logiche per giustificare a se stesse la decisione. Elenca cinque fattori emotivi che spingono all'azione: **amore, orgoglio, paura, senso di colpa, avidità/interesse personale**. Il consiglio esplicito è combinare sempre emozione e logica insieme, mai una senza l'altra.
 
@@ -59,16 +59,16 @@ Ammetti solo limiti veri. Non è una tecnica per inventare falsa umiltà, è per
 
 ---
 
-## Fase 5 — Gestire il Prezzo
+## Fase 5, Gestire il Prezzo
 
-**Tecnica verificata 1 — Beat the Price Bugaboo:** [[the-ultimate-sales-letter-attract-new]], Step 7. Tre strategie concrete dal testo:
+**Tecnica verificata 1, Beat the Price Bugaboo:** [[the-ultimate-sales-letter-attract-new]], Step 7. Tre strategie concrete dal testo:
 - **Confronto mele con pere:** non confrontare il prezzo con quello di un concorrente diretto, confrontalo con un costo di categoria diversa e più alto. *Adattamento:* non paragonare 300€/anno ad "altri software", paragonalo al costo di una sanzione dei NAS o alle ore di lavoro perse in un anno.
-- **Vendere il "bulk":** elencare tutto ciò che è incluso per far percepire la mole di valore, non solo il prezzo. *Adattamento:* "300 euro l'anno ti danno registri illimitati, notifiche automatiche, dashboard multi-utente, firma digitale, tracciamento audit completo" — elenca, non riassumere.
+- **Vendere il "bulk":** elencare tutto ciò che è incluso per far percepire la mole di valore, non solo il prezzo. *Adattamento:* "300 euro l'anno ti danno registri illimitati, notifiche automatiche, dashboard multi-utente, firma digitale, tracciamento audit completo", elenca, non riassumere.
 - **Parlare del costo per sviluppare l'offerta:** il libro mostra che spiegare l'impegno dietro un prodotto ne aumenta il valore percepito. *Adattamento:* i tre anni di sviluppo, testati su locali veri, non su un foglio Excel teorico.
 
-**Tecnica verificata 2 — Triangle of Preeminence:** [[no-b-s-price-strategy-dan-kennedy]], Capitolo 8. Il testo definisce preeminenza come "surpassing all others in a distinguished way", costruita su tre lati: competenza/servizio eccellente, marketing ad alta visibilità, coinvolgimento nella comunità. Il principio: chi costruisce preeminenza rende il prezzo una preoccupazione secondaria per il cliente.
+**Tecnica verificata 2, Triangle of Preeminence:** [[no-b-s-price-strategy-dan-kennedy]], Capitolo 8. Il testo definisce preeminenza come "surpassing all others in a distinguished way", costruita su tre lati: competenza/servizio eccellente, marketing ad alta visibilità, coinvolgimento nella comunità. Il principio: chi costruisce preeminenza rende il prezzo una preoccupazione secondaria per il cliente.
 
-**Tecnica verificata 3 — Discounting Without Damage:** [[no-b-s-price-strategy-dan-kennedy]], Capitolo 2. Il testo è netto: scontare sposta l'attenzione dal valore al prezzo e danneggia la percezione di valore stessa. Cita studi (su farmaci, prodotti cosmetici, hotel) in cui lo stesso prodotto venduto scontato viene valutato peggio da chi l'ha comprato scontato rispetto a chi ha pagato il prezzo pieno. **Non è un'opinione, è un dato riportato nel libro.**
+**Tecnica verificata 3, Discounting Without Damage:** [[no-b-s-price-strategy-dan-kennedy]], Capitolo 2. Il testo è netto: scontare sposta l'attenzione dal valore al prezzo e danneggia la percezione di valore stessa. Cita studi (su farmaci, prodotti cosmetici, hotel) in cui lo stesso prodotto venduto scontato viene valutato peggio da chi l'ha comprato scontato rispetto a chi ha pagato il prezzo pieno. **Non è un'opinione, è un dato riportato nel libro.**
 
 **Adattamento pratico se il cliente chiede uno sconto:**
 
@@ -76,7 +76,7 @@ Ammetti solo limiti veri. Non è una tecnica per inventare falsa umiltà, è per
 
 ---
 
-## Fase 6 — Chiudere e il Giorno Dopo (Morning After)
+## Fase 6, Chiudere e il Giorno Dopo (Morning After)
 
 **Tecnica verificata:** [[no-b-s-sales-success-the-ultimate-no]], Parte 3, "Step Six: The Morning After". Il testo spiega che alcuni clienti soffrono di "rimorso da acquisto" nei giorni successivi alla firma, quando l'emozione del momento è passata. Il rimedio descritto: un messaggio o lettera di rassicurazione post-vendita che ringrazia, si congratula per la scelta e ribadisce le ragioni per cui era una buona decisione; eventualmente un piccolo omaggio non concordato durante la vendita. Il libro collega esplicitamente questo passaggio anche alla costruzione di un sistema di referral basato sulla relazione, non sulla singola transazione.
 
@@ -87,7 +87,7 @@ Ammetti solo limiti veri. Non è una tecnica per inventare falsa umiltà, è per
 
 ---
 
-## Fase 7 — Perché Non Rincorrere Troppo (Takeaway Selling)
+## Fase 7, Perché Non Rincorrere Troppo (Takeaway Selling)
 
 **Tecnica verificata:** [[no-b-s-sales-success-the-ultimate-no]], Parte 5, "The Awesome Power of Takeaway Selling". Attenzione: **non è una battuta da dire al cliente**. Il libro descrive un meccanismo di scarsità strutturale basato su domanda e offerta: rendersi meno accessibili aumenta il valore percepito. Gli esempi concreti nel testo sono un consulente che non risponde al telefono se non ai clienti VIP, e un venditore di un'opportunità di business che richiede al prospect di compilare un questionario di quattro pagine prima ancora di ricevere la brochure.
 
@@ -95,7 +95,7 @@ Ammetti solo limiti veri. Non è una tecnica per inventare falsa umiltà, è per
 
 ---
 
-## Fase 8 — Struttura della Presentazione
+## Fase 8, Struttura della Presentazione
 
 **Tecnica verificata:** [[no-b-s-guide-to-powerful-presentatio]], Capitolo 17, "The Organized Mind Buys: Sequencing Content for Persuasive Impact". Il libro elenca una sequenza precisa in cinque step: **Attention → Establish the Need → Satisfying the Need → Visualization → Call to Action**.
 
@@ -108,7 +108,7 @@ Ammetti solo limiti veri. Non è una tecnica per inventare falsa umiltà, è per
 
 ---
 
-## Nota per il Venditore — Gestire il "No"
+## Nota per il Venditore, Gestire il "No"
 
 **Tecnica verificata:** [[zero-resistance-selling-etc]] descrive la riluttanza a fare il prossimo contatto dopo un rifiuto ("call reluctance") come conseguenza diretta dell'immagine che una persona ha di sé (self-image), non come pigrizia. Il rimedio proposto dal libro è la pratica ripetuta di visualizzazione mentale (mental rehearsal) della situazione temuta con esito positivo, prima di affrontarla dal vivo.
 

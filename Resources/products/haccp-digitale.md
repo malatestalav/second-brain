@@ -2,9 +2,8 @@
 type: product
 status: stub
 tags: [haccp, food-safety, software]
+aliases: [HACCP Digitale]
 ---
-
-# HACCP Digitale
 
 Software di [[NeXvision]] per l'autocontrollo igienico HACCP delle attività alimentari: sostituisce le schede cartacee con registrazioni digitali (temperature, pulizia, ricevimento merce, tracciabilità, formazione) accessibili in ogni momento alle autorità di controllo.
 

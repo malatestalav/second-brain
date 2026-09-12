@@ -6,14 +6,14 @@ tags: [recruiting, commerciale, annuncio]
 updated: 2026-08-30
 ---
 
-# Annuncio Lavoro — Consulente Commerciale
+# Annuncio Lavoro, Consulente Commerciale
 
 > [!info] Uso
 > Bozza annuncio per la ricerca di un secondo [[Antonio Smaldini|consulente commerciale]] per [[HACCP Digitale]], territorio Potenza/Basilicata, collaborazione con Partita IVA a provvigione. Da pubblicare su bacheche annunci, gruppi Facebook/LinkedIn locali o passaparola.
 
 ---
 
-## Cerchiamo un Consulente Commerciale — Zona Potenza
+## Cerchiamo un Consulente Commerciale, Zona Potenza
 
 **[[NeXvision|Nexvision]]** è la startup dietro **[[HACCP Digitale]]**, il primo software italiano che digitalizza la gestione HACCP per bar, ristoranti e attività di somministrazione alimentare. Abbiamo lanciato da poche settimane e stiamo crescendo: cerchiamo una persona che porti il prodotto sul territorio e chiuda contratti.
 

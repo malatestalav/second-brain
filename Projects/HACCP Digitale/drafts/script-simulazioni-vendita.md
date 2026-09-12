@@ -5,13 +5,13 @@ status: draft
 tags: [script, vendita, simulazione, obiezioni]
 ---
 
-# Simulazioni di Vendita — Dialoghi Completi per Obiezione
+# Simulazioni di Vendita, Dialoghi Completi per Obiezione
 
 Sei dialoghi completi, dal saluto iniziale al saluto finale, per chi vende HACCP Digitale sul campo. V = Venditore, C = Cliente/Titolare.
 
 ---
 
-## Simulazione 1 — Obiezione Prezzo
+## Simulazione 1, Obiezione Prezzo
 
 V: Buongiorno, disturbo due minuti?
 
@@ -53,7 +53,7 @@ V: Grazie a lei, buona giornata.
 
 ---
 
-## Simulazione 2 — Obiezione "Devo Pensarci / Ne Parlo col Socio"
+## Simulazione 2, Obiezione "Devo Pensarci / Ne Parlo col Socio"
 
 V: Buongiorno, posso chiederle due minuti?
 
@@ -89,7 +89,7 @@ C: Grazie, arrivederci.
 
 ---
 
-## Simulazione 3 — Obiezione "Ho Già un Consulente HACCP"
+## Simulazione 3, Obiezione "Ho Già un Consulente HACCP"
 
 V: Buongiorno, due minuti?
 
@@ -135,7 +135,7 @@ V: Grazie a lei, buona giornata.
 
 ---
 
-## Simulazione 4 — Obiezione "Non Ho Tempo Adesso"
+## Simulazione 4, Obiezione "Non Ho Tempo Adesso"
 
 V: Buongiorno, disturbo un attimo?
 
@@ -189,7 +189,7 @@ V: Grazie a lei, buon proseguimento.
 
 ---
 
-## Simulazione 5 — Obiezione "Non Siamo Bravi con la Tecnologia"
+## Simulazione 5, Obiezione "Non Siamo Bravi con la Tecnologia"
 
 V: Buongiorno, ha due minuti?
 
@@ -227,7 +227,7 @@ V: Grazie a lei, a presto.
 
 ---
 
-## Simulazione 6 — Lead dal Video, Non Sicuro di Volerlo Fare
+## Simulazione 6, Lead dal Video, Non Sicuro di Volerlo Fare
 
 *Il cliente ha già compilato il questionario online e scritto di avere un controllo NAS in arrivo.*
 

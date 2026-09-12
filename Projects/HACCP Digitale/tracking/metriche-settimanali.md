@@ -35,7 +35,7 @@ Dati cumulativi (da lancio, non settimanali) letti direttamente da [haccpcommerc
 
 | Fase | Numero | % sulla fase precedente |
 |---|---|---|
-| 1. Contatti tentati (chiamate) | 16 | — |
+| 1. Contatti tentati (chiamate) | 16 |, |
 | 2. Risposte ottenute | 16 | 100% |
 | 3. Appuntamenti fissati | 14 | 88% |
 | 4. Visite effettuate (titolare presente) | 2 | 14% |

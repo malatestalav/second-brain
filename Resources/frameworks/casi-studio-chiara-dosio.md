@@ -5,8 +5,6 @@ tags: [marketing, personal-brand, chiara-dosio, case-study, acquisizione-clienti
 date: 2026-09-12
 ---
 
-# Casi studio Chiara Dosio
-
 Raccolta dei casi studio citati da [[chiara-dosio]] nelle serate 1, 2, 4 e 5 del corso live "Personal Brand Secrets", usati come prova concreta dei framework insegnati: [[il-loop-di-distribuzione]], [[profile-funnel]], [[story-funnel]] e le [[le-cinque-fasi-dell-acquisizione]]. I numeri sono riportati come compaiono nelle slide; diversi casi non hanno il dettaglio del processo che li ha prodotti, perché quel dossier separato non è incluso nel materiale del vault.
 
 > [!note] Fonte

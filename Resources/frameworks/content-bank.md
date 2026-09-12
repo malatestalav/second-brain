@@ -5,8 +5,6 @@ tags: [marketing, personal-brand, chiara-dosio, content-strategy]
 date: 2026-09-12
 ---
 
-# Content bank
-
 Il workbook operativo della terza serata del corso live "Personal Brand Secrets" di [[chiara-dosio]], presentato come il primo elemento pratico della Comunicazione nel [[il-framework-della-fiducia]]: costruire una banca di situazioni, problemi, domande, desideri, esperienze e punti di vista per ogni area di competenza, così da smettere di cercare idee da capo ogni volta. Ciò che si sceglie di mettere dentro la content bank è anche ciò che posiziona nel proprio mercato.
 
 > [!note] Fonte

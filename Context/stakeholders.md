@@ -9,9 +9,9 @@ status: active
 
 ## Tecnologo Alimentare (Validazione Procedure)
 
-Un tecnologo alimentare con oltre 30 anni di esperienza nel settore ha validato le procedure di [[HACCP Digitale]] usate all'interno del prodotto. Nome non ancora registrato in questa nota — da completare con [[Antonio Malatesta]] (nome, contatti, tipo di collaborazione: consulenza una tantum o continuativa).
+Un tecnologo alimentare con oltre 30 anni di esperienza nel settore ha validato le procedure di [[HACCP Digitale]] usate all'interno del prodotto. Nome non ancora registrato in questa nota, da completare con [[Antonio Malatesta]] (nome, contatti, tipo di collaborazione: consulenza una tantum o continuativa).
 
-**Perché conta:** è una prova di credibilità tecnica usata nel copy della pagina di vendita (sezione "Chi c'è dietro HACCP Digitale", vedi [[funnel-questionario-ghl]]) — il prodotto non si basa solo sull'esperienza operativa del founder ma è stato controllato da un professionista qualificato del settore alimentare.
+**Perché conta:** è una prova di credibilità tecnica usata nel copy della pagina di vendita (sezione "Chi c'è dietro HACCP Digitale", vedi [[funnel-questionario-ghl]]), il prodotto non si basa solo sull'esperienza operativa del founder ma è stato controllato da un professionista qualificato del settore alimentare.
 
 ## Mario Olivelli (Consulente Marketing)
 

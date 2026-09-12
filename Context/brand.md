@@ -5,8 +5,6 @@ updated: 2026-08-15
 status: active
 ---
 
-# Brand
-
 ## Tagline e Proposta di Valore (Linguaggio Semplice)
 
 **Tagline:** "Più tempo per i gestori di bar e ristoranti"
@@ -32,7 +30,7 @@ status: active
 
 ## Frasi Caratteristiche Utilizzate nei Contenuti
 
-Questi script vengono già usati (vedi [[script-ai-video-social|Script AI — Content Bank Video Social]]):
+Questi script vengono già usati (vedi [[script-ai-video-social|Script AI, Content Bank Video Social]]):
 - "Ristoratore! E basta!" (hook problem-based)
 - "La verità è che..." (pattern verità scomoda)
 - "Se non..." (consequence-based)

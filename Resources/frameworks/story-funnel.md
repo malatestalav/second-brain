@@ -5,8 +5,6 @@ tags: [marketing, personal-brand, chiara-dosio, instagram, storytelling]
 date: 2026-09-12
 ---
 
-# Story funnel
-
 Il secondo dei due flussi della seconda serata del corso live "Personal Brand Secrets" di [[chiara-dosio]], quello che lavora sulle persone già dentro il loop: chi segue, chi ha interagito, chi è atterrato sul profilo dal [[profile-funnel]]. Per Chiara le storie sono lo strumento di relazione per eccellenza, ma finiscono quasi sempre per ultime perché nessuno ha un metodo per farle. Il materiale disponibile copre un pezzo del sistema, non l'intero sistema: le parti mancanti sono segnalate esplicitamente più sotto.
 
 > [!note] Fonte

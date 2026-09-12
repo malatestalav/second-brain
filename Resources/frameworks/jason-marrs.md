@@ -5,8 +5,6 @@ tags: [marketing, pricing, co-author]
 date: 2026-08-18
 ---
 
-# Jason Marrs
-
 Co-autore con [[dan-kennedy|Dan Kennedy]] di [[no-b-s-price-strategy-dan-kennedy|No B.S. Price Strategy]]. Sostiene che la maggior parte delle aziende si sottoprezza per paura, non per necessità di mercato.
 
 > [!note] Pagina stub

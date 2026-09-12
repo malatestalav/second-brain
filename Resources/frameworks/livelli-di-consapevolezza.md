@@ -5,8 +5,6 @@ tags: [marketing, personal-brand, chiara-dosio, content-strategy, target]
 date: 2026-09-12
 ---
 
-# Livelli di consapevolezza
-
 Il workbook operativo della quarta serata del corso live "Personal Brand Secrets" di [[chiara-dosio]], intitolato "Allineare la comunicazione al mercato di riferimento". Parte dal punto in cui si rompe la strategia di contenuti di quasi tutti: se una persona non sa nemmeno di avere un problema e le si parla della soluzione, quella persona ignora il messaggio, anche se il messaggio è giusto, perché arriva a chi non è ancora a quel punto del percorso.
 
 > [!note] Fonte

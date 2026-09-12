@@ -31,13 +31,13 @@ Da cancellare o sostituire con "e", "poi", "quindi": inoltre, in aggiunta, perta
 - **Bold-colon-bullet**: "**Chiarezza:** il memo deve essere chiaro" suona da slide motivazionale. Frase normale, punto.
 - **Negazione forzata "non X, ma Y"**: di' Y e basta.
 - **Staccato "fai questo, non quello"**: una frase che dice cosa fare, senza la sequenza retorica.
-- **Avverbi gonfiabili**: "profondamente", "radicalmente", "fondamentalmente" — di' il fatto, lascia decidere al lettore se è profondo.
+- **Avverbi gonfiabili**: "profondamente", "radicalmente", "fondamentalmente", di' il fatto, lascia decidere al lettore se è profondo.
 - **Voce da corporate therapist**: se nessuno parla così a un aperitivo, non si scrive.
 - **Fiocchetto finale generico**: una conclusione che varrebbe per qualsiasi azienda si cancella, non si scrive.
-- **Auto-riferimento da assistant**: "Personalmente ritengo", "Io penso che" come schiarita di voce prima del contenuto — si cancella, si va dritti al punto.
+- **Auto-riferimento da assistant**: "Personalmente ritengo", "Io penso che" come schiarita di voce prima del contenuto, si cancella, si va dritti al punto.
 - **Tre frasi corte di fila come fendenti**: "Funziona. Lo abbiamo testato. I numeri lo dimostrano." è un tell da AI quando il punto fermo è usato come effetto drammatico. Si uniscono con "e", "perché", "quindi".
 - **Liste da 5+ bullet quando basta una frase.**
-- **Preamboli da assistant**: "Ottima domanda", "Spero questo aiuti" — si va al contenuto.
+- **Preamboli da assistant**: "Ottima domanda", "Spero questo aiuti", si va al contenuto.
 
 ## Come scrivere invece
 

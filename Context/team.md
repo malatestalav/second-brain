@@ -5,8 +5,6 @@ updated: 2026-08-15
 status: active
 ---
 
-# Team
-
 ## Struttura Organizzativa
 
 Attualmente flat. Nessun dipartimento formale. Creazione di profili per i 3 team member.

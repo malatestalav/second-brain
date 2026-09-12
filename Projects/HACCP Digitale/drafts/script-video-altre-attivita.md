@@ -5,7 +5,7 @@ status: draft
 tags: [script, video, social, macellerie, pescherie, latterie]
 ---
 
-# Script Video — Oltre Bar e Ristoranti
+# Script Video, Oltre Bar e Ristoranti
 
 5 script per comunicare che [[HACCP Digitale]] non è solo per bar e ristoranti, ma per qualunque attività di somministrazione e vendita alimentare: macellerie, pescherie, latterie/caseifici. Ogni script segue hook → problema → soluzione → CTA. CTA sempre sulla stessa procedura: scrivici, ricevi il link, prenoti la consulenza gratuita.
 
@@ -14,7 +14,7 @@ tags: [script, video, social, macellerie, pescherie, latterie]
 
 ---
 
-## Script 1 — Non Solo Bar e Ristoranti
+## Script 1, Non Solo Bar e Ristoranti
 
 **Hook:** Se pensi che HACCP Digitale sia fatto solo per bar e ristoranti, questo video è per te.
 
@@ -26,7 +26,7 @@ tags: [script, video, social, macellerie, pescherie, latterie]
 
 ---
 
-## Script 2 — Macelleria: Tracciabilità del Lotto
+## Script 2, Macelleria: Tracciabilità del Lotto
 
 **Hook:** Macellaio, un lotto di carne non tracciato correttamente non esiste per legge, anche se è nel tuo banco frigo.
 
@@ -38,7 +38,7 @@ tags: [script, video, social, macellerie, pescherie, latterie]
 
 ---
 
-## Script 3 — Pescheria: la Catena del Freddo che Non Perdona
+## Script 3, Pescheria: la Catena del Freddo che Non Perdona
 
 **Hook:** Pescivendolo, il pesce non aspetta: se la temperatura sale anche solo per un'ora, il danno è già fatto.
 
@@ -50,7 +50,7 @@ tags: [script, video, social, macellerie, pescherie, latterie]
 
 ---
 
-## Script 4 — Latteria e Caseificio: Prodotti che Non Aspettano
+## Script 4, Latteria e Caseificio: Prodotti che Non Aspettano
 
 **Hook:** Casaro, una mozzarella fresca ha ore di vita, non giorni: se sbagli la gestione, il rischio non è solo lo spreco.
 
@@ -62,7 +62,7 @@ tags: [script, video, social, macellerie, pescherie, latterie]
 
 ---
 
-## Script 5 — L'Etichetta che Non Puoi Sbagliare
+## Script 5, L'Etichetta che Non Puoi Sbagliare
 
 **Hook:** Che tu venda carne, pesce o formaggio, un'etichetta sbagliata può costarti più di una multa: costa la fiducia del cliente.
 

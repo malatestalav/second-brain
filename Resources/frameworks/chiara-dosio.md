@@ -5,8 +5,6 @@ tags: [marketing, personal-brand, chiara-dosio, hub]
 date: 2026-08-31
 ---
 
-# Chiara Dosio
-
 Fondatrice di [[Unconventional]], incubatore per progetti che crescono grazie a personal brand e contenuti organici. Ha portato l'azienda da zero (2023) a oltre 2,2 milioni di euro di fatturato cumulati (2024-2025), con l'84% generato in organico, senza budget advertising, con un profilo Instagram che nel 2025 contava circa 24 mila follower. Il suo filo conduttore: l'acquisizione organica non è un tema di "fare contenuti", ma di costruire un sistema (personal brand → contenuti → funnel → conversazione) in cui ogni pezzo esiste per una ragione precisa.
 
 ## Temi ricorrenti
@@ -20,9 +18,9 @@ Fondatrice di [[Unconventional]], incubatore per progetti che crescono grazie a 
 
 Sintetizzato in dettaglio in [[personal-brand-secrets-manuale]]. Tre elementi necessari e non sostituibili tra loro per far scattare fiducia e vendita in un personal brand:
 
-- **TI VEDO** — farsi ricordare tramite Ethos (carattere e valori), Ricorrenza (elementi visivi/verbali distintivi) e Storytelling personale (documentare il percorso, non inventare narrazioni)
-- **TI ASSOCIO** — chiarezza su target, offerta e differenziazione: la comunicazione fallisce se questi tre elementi sono confusi, indipendentemente dal fatturato già raggiunto
-- **TI VALIDO** — costruire fiducia tramite Esperienza (il proprio punto di vista vissuto), Autorevolezza (risultati, associazioni, sezioni in primo piano) e Social proof (testimonianze contestualizzate, reperibili in pochi click)
+- **TI VEDO**, farsi ricordare tramite Ethos (carattere e valori), Ricorrenza (elementi visivi/verbali distintivi) e Storytelling personale (documentare il percorso, non inventare narrazioni)
+- **TI ASSOCIO**, chiarezza su target, offerta e differenziazione: la comunicazione fallisce se questi tre elementi sono confusi, indipendentemente dal fatturato già raggiunto
+- **TI VALIDO**, costruire fiducia tramite Esperienza (il proprio punto di vista vissuto), Autorevolezza (risultati, associazioni, sezioni in primo piano) e Social proof (testimonianze contestualizzate, reperibili in pochi click)
 
 ## Il corso live completo
 
@@ -32,7 +30,7 @@ Il metodo a tre file per impostare il contesto di un'AI, mostrato nella serata 5
 
 ## Libri e materiali nel vault
 
-- [[personal-brand-secrets-manuale]] — manuale preparatorio all'evento live "Personal Brand Secrets" (7-11 settembre 2026), il documento sorgente di questo hub
+- [[personal-brand-secrets-manuale]], manuale preparatorio all'evento live "Personal Brand Secrets" (7-11 settembre 2026), il documento sorgente di questo hub
 - Corso live completo (5 serate, settembre 2026): trascrizioni in `Library/videos/chiara-dosio-pbs-serata-{1..5}-trascrizione.md`, slide e workbook in `Library/pdfs/chiara-dosio-pbs-*`, materiale bonus in `Library/articles/chiara-dosio-pbs-bonus-*`
 
 ## Correlazioni

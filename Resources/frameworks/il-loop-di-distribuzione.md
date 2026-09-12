@@ -5,8 +5,6 @@ tags: [marketing, personal-brand, chiara-dosio, instagram, algoritmo]
 date: 2026-09-12
 ---
 
-# Il loop di distribuzione
-
 Il modello con cui [[chiara-dosio]] spiega come Instagram distribuisce oggi i contenuti, cuore della prima serata del corso live "Personal Brand Secrets" e base su cui poggiano [[profile-funnel]], [[story-funnel]], [[il-framework-della-fiducia]] e [[le-cinque-fasi-dell-acquisizione]]. Chiara stessa lo definisce un modello, non una legge: nasce da test su centinaia di progetti dell'incubatore [[Unconventional]], serve a leggere i dati, non a prevederli al decimale.
 
 > [!note] Fonte

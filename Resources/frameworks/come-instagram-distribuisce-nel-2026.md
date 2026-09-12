@@ -5,8 +5,6 @@ tags: [marketing, personal-brand, chiara-dosio, instagram, algoritmo]
 date: 2026-09-12
 ---
 
-# Come Instagram distribuisce nel 2026
-
 Report bonus di [[chiara-dosio]] scritto a inizio 2026 col titolo "Cosa sta succedendo sui social", che spiega passaggio per passaggio come Instagram decide oggi a chi mostrare un contenuto: etichettatura, selezione dei candidati, ranking, il problema del contenuto appena pubblicato (cold start), il doppio metro fra chi segue e chi non segue. È la base tecnica di tutto il corso live "Personal Brand Secrets": la lettura strategica di questa meccanica è [[il-loop-di-distribuzione]], e l'intera prima serata ne discende.
 
 > [!note] Fonte

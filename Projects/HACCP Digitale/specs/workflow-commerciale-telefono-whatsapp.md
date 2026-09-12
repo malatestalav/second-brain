@@ -5,7 +5,7 @@ status: active
 tags: [workflow, commerciale, telefonate, whatsapp]
 ---
 
-# Workflow Commerciale — Telefonate e WhatsApp
+# Workflow Commerciale, Telefonate e WhatsApp
 
 Workflow operativo giorno per giorno per [[Antonio Smaldini]], che integra telefonate e WhatsApp nelle fasi già definite in [sop-processo-vendita.md](sop-processo-vendita.md). Quel documento dice *cosa* fare in ogni fase; questo dice *quando* e *con quale canale*, minuto per minuto. Le argomentazioni di vendita restano nel [playbook](../drafts/script-vendita-commerciale.md).
 
@@ -48,7 +48,7 @@ Le due finestre telefoniche (09:30-11:30 e 14:30-18:00) sono il cuore della gior
 
 ## Fase per Fase: Script e Canale
 
-### Touch 1 — Primo Contatto (WhatsApp, mai telefono)
+### Touch 1, Primo Contatto (WhatsApp, mai telefono)
 
 Il primo contatto resta scritto: un titolare che riceve una chiamata da un numero sconosciuto durante il servizio tende a rifiutare senza ascoltare. Il messaggio scritto puo essere letto quando ha un minuto.
 
@@ -56,7 +56,7 @@ Il primo contatto resta scritto: un titolare che riceve una chiamata da un numer
 
 Attendere risposta fino a 48 ore.
 
-### Chiamata di Recupero — Se Nessuna Risposta al Touch 1 dopo 48h
+### Chiamata di Recupero, Se Nessuna Risposta al Touch 1 dopo 48h
 
 **Trigger:** nessuna risposta al messaggio scritto dopo 48 ore.
 
@@ -70,13 +70,13 @@ Attendere risposta fino a 48 ore.
 - Se risponde che non ha tempo ora: chiedere la fascia oraria migliore per richiamare e fissarla, non riprovare a caso.
 - Se risponde staff/cameriere e non il titolare: chiedere nome e orario migliore per parlare col titolare, non insistere con chi ha risposto.
 
-### Touch 2 — Video (WhatsApp, mai telefono)
+### Touch 2, Video (WhatsApp, mai telefono)
 
 Il video va sempre inviato per iscritto, mai descritto a voce: deve poterlo guardare quando vuole.
 
 > "Le mando 90 secondi che mostrano esattamente come funziona, con la voce di un locale che lo usa già."
 
-### Touch 3 — Fissare l'Appuntamento (Telefono, non WhatsApp)
+### Touch 3, Fissare l'Appuntamento (Telefono, non WhatsApp)
 
 **Perché telefono:** fissare data e ora è una decisione, non un'informazione. Al telefono si chiude in 60 secondi; per scritto richiede più giri di messaggi e il rischio di perdere la finestra.
 
@@ -112,7 +112,7 @@ Una chiamata il giorno dopo la chiusura rischia di sembrare un'ulteriore propost
 
 > "Grazie ancora per la fiducia, [Nome]! Da oggi lo staff può iniziare a usarlo. Se qualcosa non è chiaro scriva pure qui."
 
-### Retry — Nessuna Risposta Prolungata
+### Retry, Nessuna Risposta Prolungata
 
 Cadenza già definita nella [Fase 7 della SOP](sop-processo-vendita.md#fase-7--gestione-del-no-e-retry): 3 tentativi in 5 giorni lavorativi (alternare canale: 1 WhatsApp + 2 chiamate, o viceversa in base a dove si era fermato il contatto), poi stop e ritentativo tra 30 giorni con un messaggio nuovo.
 

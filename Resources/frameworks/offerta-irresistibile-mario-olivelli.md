@@ -13,29 +13,29 @@ Framework di [[Mario Olivelli]] su come costruire un'offerta irresistibile, gove
 
 Il valore percepito di un'offerta non dipende dal prodotto ma da quattro leve:
 
-1. **Promessa** — quanto è grande il desiderio o l'urgenza del problema risolto
-2. **Probabilità di successo** — quanto il cliente crede che il risultato sia raggiungibile con quel metodo
-3. **Tempo** — quanto velocemente si ottiene il risultato
-4. **Sforzo e sacrificio** — quanta fatica deve mettere il cliente
+1. **Promessa**, quanto è grande il desiderio o l'urgenza del problema risolto
+2. **Probabilità di successo**, quanto il cliente crede che il risultato sia raggiungibile con quel metodo
+3. **Tempo**, quanto velocemente si ottiene il risultato
+4. **Sforzo e sacrificio**, quanta fatica deve mettere il cliente
 
 > [!tip] Stesso prodotto, prezzo diverso
 > Stessa consulenza o stesso coaching, rivolto a un pubblico specifico invece che generico, vale 3-10 volte di più. "Aiuto donne in menopausa a tornare in forma" vende a un prezzo molto più alto di "faccio sessioni di crescita personale", pur essendo lo stesso lavoro. Il mercato paga lo specialista, non il medico di base. Parallelo diretto con [[icp]]: più stretta la definizione del cliente ideale, più alto il valore percepito.
 
-**Dal pagamento a ore al mercato della trasformazione:** ristrutturare l'offerta per essere pagati sul risultato ottenuto (es. percentuale sul risparmio generato), non sul tempo impiegato — la stessa ora di lavoro vale ordini di grandezza in più se venduta come trasformazione invece che come tariffa oraria.
+**Dal pagamento a ore al mercato della trasformazione:** ristrutturare l'offerta per essere pagati sul risultato ottenuto (es. percentuale sul risparmio generato), non sul tempo impiegato, la stessa ora di lavoro vale ordini di grandezza in più se venduta come trasformazione invece che come tariffa oraria.
 
 ## Le Quattro Fonti di Traffico
 
 Esistono solo quattro fonti di traffico governabili, il resto sono combinazioni:
 
-1. **Passaparola e collaborazioni** — traffico caldo, il migliore in assoluto, ma non scalabile a comando
-2. **Contenuti organici** — educazione del pubblico nel tempo
-3. **Outbound / contatto diretto** — bussare proattivamente ai potenziali clienti
-4. **Traffico a pagamento (ads)** — l'acceleratore per immettere persone nel sistema
+1. **Passaparola e collaborazioni**, traffico caldo, il migliore in assoluto, ma non scalabile a comando
+2. **Contenuti organici**, educazione del pubblico nel tempo
+3. **Outbound / contatto diretto**, bussare proattivamente ai potenziali clienti
+4. **Traffico a pagamento (ads)**, l'acceleratore per immettere persone nel sistema
 
 > [!warning] Non dipendere da una sola fonte
-> Chi si affida a un solo canale (solo ads, solo contenuti) rischia di chiudere se quel canale si blocca — stesso principio di un negozio con un'unica strada d'accesso. Il traffico deve essere prevedibile: un pubblico "educato" da contenuti gratuiti senza un sistema che lo porta all'offerta non è una fonte di traffico governabile, è un'attesa.
+> Chi si affida a un solo canale (solo ads, solo contenuti) rischia di chiudere se quel canale si blocca, stesso principio di un negozio con un'unica strada d'accesso. Il traffico deve essere prevedibile: un pubblico "educato" da contenuti gratuiti senza un sistema che lo porta all'offerta non è una fonte di traffico governabile, è un'attesa.
 
-**Perché il volume alza i prezzi:** quando la domanda supera la capacità di erogazione (tempo limitato del consulente), il prezzo sale naturalmente — è lo specialista con la fila che può permettersi di far aspettare, non chi ha pochi contatti da convertire a ogni costo.
+**Perché il volume alza i prezzi:** quando la domanda supera la capacità di erogazione (tempo limitato del consulente), il prezzo sale naturalmente, è lo specialista con la fila che può permettersi di far aspettare, non chi ha pochi contatti da convertire a ogni costo.
 
 ## Sistema Nervoso: la Catena di Convinzioni
 
@@ -47,21 +47,21 @@ Prima di portare traffico verso l'offerta, il prospect deve interiorizzare quatt
 4. Il tuo metodo è la via più efficiente per arrivarci
 
 > [!important] Non è il funnel, sono le idee
-> L'errore comune è confondere un sistema di convinzione con un funnel a step fissi. Le idee vivono ovunque nel materiale di marketing, non in una sequenza obbligata di pagine — quando lo strumento (piattaforma, formato) cambia, la catena di idee continua a funzionare. Sovrapponibile a [[livelli-di-consapevolezza]] (framework di [[chiara-dosio]]): stesso principio di costruire fiducia progressiva prima della vendita, formulato con leve diverse.
+> L'errore comune è confondere un sistema di convinzione con un funnel a step fissi. Le idee vivono ovunque nel materiale di marketing, non in una sequenza obbligata di pagine, quando lo strumento (piattaforma, formato) cambia, la catena di idee continua a funzionare. Sovrapponibile a [[livelli-di-consapevolezza]] (framework di [[chiara-dosio]]): stesso principio di costruire fiducia progressiva prima della vendita, formulato con leve diverse.
 
 ## Vendita Consulenziale vs Vendita a Spinta
 
 Due approcci alla vendita:
 
-- **Piazzista (push)** — spinge, forza la decisione, funziona solo quando manca tutto il resto (offerta debole, poco traffico, nessun sistema di convinzioni)
-- **Medico (prescrizione)** — diagnosi, poi soluzione: "hai questo problema, questa è la soluzione". Funziona solo se il paziente arriva già convinto che il problema esiste ed è grave (grazie a offerta + traffico + catena di convinzioni già costruiti a monte)
+- **Piazzista (push)**, spinge, forza la decisione, funziona solo quando manca tutto il resto (offerta debole, poco traffico, nessun sistema di convinzioni)
+- **Medico (prescrizione)**, diagnosi, poi soluzione: "hai questo problema, questa è la soluzione". Funziona solo se il paziente arriva già convinto che il problema esiste ed è grave (grazie a offerta + traffico + catena di convinzioni già costruiti a monte)
 
 > [!tip] Quando il prezzo non trema più
 > Con offerta, traffico e sistema di convinzioni a posto, la vendita diventa conferma più che persuasione: il prospect arriva già convinto e si tratta solo di confermare che il tuo metodo è la soluzione giusta per lui.
 
 ## Contesto: Info Business Arena (materiale promozionale)
 
-Il framework sopra è presentato all'interno di un webinar di vendita per il percorso a pagamento **Info Business Arena** di [[Mario Olivelli]] (via MarketX/MX Accelerator), rivolto a chi vende consulenza/formazione. Struttura commerciale, per riferimento e non per riuso diretto su [[HACCP Digitale]] (target e modello di business diversi — B2C locale vs infobusiness):
+Il framework sopra è presentato all'interno di un webinar di vendita per il percorso a pagamento **Info Business Arena** di [[Mario Olivelli]] (via MarketX/MX Accelerator), rivolto a chi vende consulenza/formazione. Struttura commerciale, per riferimento e non per riuso diretto su [[HACCP Digitale]] (target e modello di business diversi, B2C locale vs infobusiness):
 
 - 4 pilastri: corso registrato (skill), classi live (implementazione), Insight School (strategia), community H24 (supporto)
 - Percorso di 90 giorni, valore dichiarato 12.000€, prezzo scontato 5.000€ (o 4.000€ in soluzione unica entro scadenza)

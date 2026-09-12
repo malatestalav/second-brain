@@ -5,7 +5,7 @@ status: active
 tags: [sop, vendita, commerciale, processo]
 ---
 
-# SOP — Processo di Vendita HACCP Digitale
+# SOP, Processo di Vendita HACCP Digitale
 
 Procedura operativa dettagliata per l'esecuzione della strategia di commercializzazione definita in [riunione-commerciale-2026-08-20.md](../notes/riunione-commerciale-2026-08-20.md). Ogni fase indica trigger, azione esatta, tempistica, responsabile e cosa registrare nei file di tracking. Le argomentazioni di vendita (permission to sell, damaging admission, gestione prezzo, ecc.) restano nel [playbook di vendita](../drafts/script-vendita-commerciale.md): questo documento è il processo, quello è il contenuto della conversazione.
 
@@ -14,7 +14,7 @@ Procedura operativa dettagliata per l'esecuzione della strategia di commercializ
 
 ---
 
-## Fase 1 — Costruzione della Lista Prospect
+## Fase 1, Costruzione della Lista Prospect
 
 **Trigger:** Inizio settimana, o quando la lista attiva scende sotto 30 prospect non ancora contattati.
 
@@ -30,7 +30,7 @@ Procedura operativa dettagliata per l'esecuzione della strategia di commercializ
 
 ---
 
-## Fase 2 — Touch 1: Primo Contatto WhatsApp
+## Fase 2, Touch 1: Primo Contatto WhatsApp
 
 **Trigger:** Prospect con stato `Da contattare` nel tracker.
 
@@ -45,7 +45,7 @@ Procedura operativa dettagliata per l'esecuzione della strategia di commercializ
 
 ---
 
-## Fase 3 — Touch 2: Video
+## Fase 3, Touch 2: Video
 
 **Trigger:** Risposta positiva o interessata al Touch 1.
 
@@ -59,7 +59,7 @@ Procedura operativa dettagliata per l'esecuzione della strategia di commercializ
 
 ---
 
-## Fase 4 — Touch 3: Richiesta Appuntamento
+## Fase 4, Touch 3: Richiesta Appuntamento
 
 **Trigger:** Reazione positiva al video, o risposta diretta di interesse.
 
@@ -74,7 +74,7 @@ Procedura operativa dettagliata per l'esecuzione della strategia di commercializ
 
 ---
 
-## Fase 5 — Demo dal Vivo
+## Fase 5, Demo dal Vivo
 
 **Trigger:** Appuntamento confermato, giorno dell'incontro.
 
@@ -94,7 +94,7 @@ Procedura operativa dettagliata per l'esecuzione della strategia di commercializ
 
 ---
 
-## Fase 6 — Chiusura e Morning After
+## Fase 6, Chiusura e Morning After
 
 **Trigger:** Licenza attivata.
 
@@ -109,7 +109,7 @@ Procedura operativa dettagliata per l'esecuzione della strategia di commercializ
 
 ---
 
-## Fase 7 — Gestione del "No" e Retry
+## Fase 7, Gestione del "No" e Retry
 
 **Trigger:** Nessuna risposta dopo un touch, o rifiuto esplicito.
 
@@ -125,7 +125,7 @@ Procedura operativa dettagliata per l'esecuzione della strategia di commercializ
 
 ---
 
-## Fase 8 — Revisione Settimanale
+## Fase 8, Revisione Settimanale
 
 **Trigger:** Cadenza fissa, 15 minuti a settimana.
 
@@ -141,7 +141,7 @@ Procedura operativa dettagliata per l'esecuzione della strategia di commercializ
 
 ---
 
-## Fase 9 — Espansione Geografica
+## Fase 9, Espansione Geografica
 
 **Trigger:** Quando Potenza mostra saturazione (tasso di risposta Touch 1 in calo per 2 settimane consecutive) o quando la revisione settimanale lo indica come priorità.
 

@@ -14,7 +14,7 @@ Strategia per trasformare Instagram in un secondo canale di acquisizione per [[H
 
 ## 1. Chi parla nel profilo
 
-Il framework è esplicito: il profilo funziona come landing page solo se trasmette una persona, non un brand. [[Antonio Malatesta]] è già il volto scelto per il primo video organico (vedi [[README|README progetto]]) e la voce di [[brand]] è "diretta, calda, tecnica" — coerente con un founder che parla in prima persona, non con un account aziendale anonimo.
+Il framework è esplicito: il profilo funziona come landing page solo se trasmette una persona, non un brand. [[Antonio Malatesta]] è già il volto scelto per il primo video organico (vedi [[README|README progetto]]) e la voce di [[brand]] è "diretta, calda, tecnica", coerente con un founder che parla in prima persona, non con un account aziendale anonimo.
 
 **Decisione:** il profilo Instagram è quello di Antonio (o un profilo "Antonio di HACCP Digitale"), non un account prodotto faceless. Bio, storia, dietro le quinte sono suoi. HACCP Digitale resta il prodotto di cui parla, non il nome dell'account.
 
@@ -51,7 +51,7 @@ Mappati sui 3 problemi principali già mappati in [[pain-points]]:
 Per chi parte da zero, il manuale consiglia di lavorare dal livello "consapevole del problema" in su: i ristoratori sono già consapevoli dell'obbligo HACCP (vedi [[icp]] "già consapevole"), quindi si può saltare la fase di educazione pura sull'esistenza del problema e concentrarsi su consapevolezza della soluzione digitale.
 
 > [!warning] Prima di pubblicare
-> Verificare ogni cifra prima dell'uso (regola vault: [[feedback_verify_facts_before_drafting]]). L'item 22 del content bank cita "una multa da duemila euro" senza riscontro in [[pain-points]] — non riusarla così com'è. Scansionare ogni script per le parole bandite "rubare" e "disturbo" prima della pubblicazione ([[feedback_no_parola_rubare]]). L'item 7 del content bank critica esplicitamente i consulenti HACCP, in contrasto con [[brand]]: usare la versione corretta "7bis" già in [drafts/script-video-idee-social.md](../drafts/script-video-idee-social.md).
+> Verificare ogni cifra prima dell'uso (regola vault: [[feedback_verify_facts_before_drafting]]). L'item 22 del content bank cita "una multa da duemila euro" senza riscontro in [[pain-points]], non riusarla così com'è. Scansionare ogni script per le parole bandite "rubare" e "disturbo" prima della pubblicazione ([[feedback_no_parola_rubare]]). L'item 7 del content bank critica esplicitamente i consulenti HACCP, in contrasto con [[brand]]: usare la versione corretta "7bis" già in [drafts/script-video-idee-social.md](../drafts/script-video-idee-social.md).
 
 ## 5. Piano editoriale concreto (Q3 2026: resto agosto + settembre + ottobre)
 
@@ -60,7 +60,7 @@ Coerente con l'obiettivo trimestrale già fissato in [[strategy]] ("Creare 3-5 v
 - **Cadenza:** 3 Reels/settimana (Instagram in primis, riuso su TikTok/YouTube Shorts a costo zero), + 2-3 storie/giorno nei giorni di pubblicazione (dietro le quinte, non solo repost del feed: il manuale indica le storie come "avamposto principale" nel 2026).
 - **Mix settimanale:** 2 contenuti di consapevolezza (content bank esistente) + 1 contenuto di attrazione (mito da sfatare) o vendita (case study), a rotazione.
 - **Trial Reels:** pubblicare le prime varianti come test su non-follower prima di investire budget, con piccole variazioni di hook per lo stesso contenuto (non duplicati identici, per evitare il limite anti-duplicati del manuale).
-- **Boost mirato:** solo sui contenuti che già mostrano salvataggi/commenti sopra la media, budget 3-5€/giorno geolocalizzato su Potenza e provincia — mai su contenuti non testati.
+- **Boost mirato:** solo sui contenuti che già mostrano salvataggi/commenti sopra la media, budget 3-5€/giorno geolocalizzato su Potenza e provincia, mai su contenuti non testati.
 
 ## 6. Dalla conversazione al lead qualificato
 
@@ -71,7 +71,7 @@ Il manuale è chiaro: tutti i flussi convergono su **una conversazione, poi una 
 2. Storie indirette: dietro le quinte dei 4 clienti beta, difficoltà reali risolte (es. "un cliente aveva un frigo rotto scoperto troppo tardi, ora riceve SMS")
 3. CTA nei contenuti di consapevolezza → "scrivimi HACCP" in DM
 4. Gestione DM in 3 fasi dal manuale: apertura non push ("ciao, dimmi un po' del tuo locale") → far emergere il problema reale (carta, tempo, ansia controllo) → chiusura soft che lascia il controllo alla persona ("se vuoi ti mando 2 minuti di domande, così ti richiamo preparato")
-5. Chi conferma riceve il link al questionario già definito in [[funnel-questionario-ghl]] — **non inviare mai il link automaticamente al primo messaggio**, sempre doppia conferma prima, come da regola di ferro del manuale sul lead magnet.
+5. Chi conferma riceve il link al questionario già definito in [[funnel-questionario-ghl]], **non inviare mai il link automaticamente al primo messaggio**, sempre doppia conferma prima, come da regola di ferro del manuale sul lead magnet.
 6. Submission GHL → notifica ad Antonio → richiamo per consulenza gratuita, stesso flusso già in produzione.
 
 Questo rende Instagram un secondo ingresso nello stesso funnel già costruito per WhatsApp, non un sistema parallelo da gestire a parte.
