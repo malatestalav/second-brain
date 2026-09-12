@@ -53,6 +53,11 @@ Documenti grezzi in `Library/`, raggruppati per tipo. Una voce per source ingest
 
 ### Video
 <!-- L'AI aggiunge qui una riga per ogni video ingestato -->
+- [PBS Serata 1 — Il loop e la nuova distribuzione](Library/videos/chiara-dosio-pbs-serata-1-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
+- [PBS Serata 2 — Profile funnel e story funnel](Library/videos/chiara-dosio-pbs-serata-2-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
+- [PBS Serata 3 — Dall'attenzione alla fiducia](Library/videos/chiara-dosio-pbs-serata-3-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
+- [PBS Serata 4 — Il sistema di acquisizione](Library/videos/chiara-dosio-pbs-serata-4-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
+- [PBS Serata 5 — Funnel e processi AI](Library/videos/chiara-dosio-pbs-serata-5-trascrizione.md): trascrizione registrazione live, corso Personal Brand Secrets
 
 ### Podcast
 <!-- L'AI aggiunge qui una riga per ogni podcast ingestato -->
@@ -74,6 +79,17 @@ Pagine che rappresentano entità (aziende, persone, prodotti, framework). Aggreg
 ### Framework
 - [[chiara-dosio]]: Hub: framework TI VEDO → TI ASSOCIO → TI VALIDO per personal brand e acquisizione organica
 - [[personal-brand-secrets-manuale]]: Manuale preparatorio all'evento "Personal Brand Secrets" — contenuti, funnel e sistema di acquisizione via Instagram
+- [[il-loop-di-distribuzione]]: Come Instagram distribuisce per interessi nel 2026 e i due obiettivi strategici che ne derivano
+- [[profile-funnel]]: Il flusso traffico → profilo → touchpoint → contatto e i tre errori più comuni del profilo
+- [[story-funnel]]: Le storie come flusso di fiducia, i tre filoni delle indirette (social proof, dietro le quinte, situazioni clienti)
+- [[il-framework-della-fiducia]]: Comunicazione, memorabilità e gap percepito: perché una persona sceglie te e non un concorrente
+- [[le-cinque-fasi-dell-acquisizione]]: Diagnosi in 5 fasi (Lancio, Movimento, Richieste, Controllo, Scalata) del proprio sistema di acquisizione clienti
+- [[livelli-di-consapevolezza]]: I tre livelli di consapevolezza del target e come allineare la comunicazione a ciascuno
+- [[content-bank]]: Il metodo in 9 passaggi per costruire una banca di contenuti per ogni area di competenza
+- [[strutture-narrative-per-le-stories]]: Sei strutture narrative per costruire un set di storie efficace
+- [[come-instagram-distribuisce-nel-2026]]: Report tecnico su etichettatura, ranking, cold start e connected/unconnected reach
+- [[casi-studio-chiara-dosio]]: Casi studio con numeri citati nel corso live Personal Brand Secrets
+- [[checklist-ottimizzazione-profilo-instagram]]: Checklist voce per voce per bio, link, storie in evidenza e pinnati
 - [[management-series-vol-1]]: PR, Marketing, Admin Know-How (L. Ron Hubbard)
 - [[management-series-vol-2]]: Responsabile Organizzativo e stabilizzazione aziendale (L. Ron Hubbard)
 - [[dan-kennedy]]: Hub: direct response, No B.S., positioning (Dan Kennedy)
@@ -139,6 +155,7 @@ Pagine con molti backlink (entità/concetti centrali). L'AI le aggiorna man mano
 - [[Claude Code]]: 31 backlink, hub per il framework di enablement
 -->
 - [[dan-kennedy]]: 23 backlink, hub per i framework di marketing e vendita di Dan Kennedy
+- [[chiara-dosio]]: hub per i framework del corso live "Personal Brand Secrets" (11 pagine framework + manuale preparatorio)
 
 ---
 

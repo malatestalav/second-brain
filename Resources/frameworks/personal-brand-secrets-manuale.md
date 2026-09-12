@@ -57,6 +57,10 @@ Cinque fasi di costruzione riconoscibili per progetto: Creazione (fondamenta) �
 
 Su advertising: integrabile solo se esistono le fondamenta organiche. Due casi d'uso — sbloccare dati nelle fasi iniziali con budget minimo (3-5€/giorno su contenuti già performanti), oppure scalare ciò che già converte (prospecting e retargeting). Le ads amplificano un sistema esistente, non lo creano.
 
+## Dal manuale al corso live
+
+Questo documento resta la sintesi del solo manuale preparatorio, distribuito prima dell'evento. Il corso live vero e proprio, cinque serate registrate a settembre 2026, è coperto in dettaglio da undici pagine framework dedicate: [[il-loop-di-distribuzione]], [[profile-funnel]], [[story-funnel]], [[il-framework-della-fiducia]], [[le-cinque-fasi-dell-acquisizione]], [[livelli-di-consapevolezza]], [[content-bank]], [[strutture-narrative-per-le-stories]], [[come-instagram-distribuisce-nel-2026]], [[casi-studio-chiara-dosio]] e [[checklist-ottimizzazione-profilo-instagram]]. Il framework TI VEDO → TI ASSOCIO → TI VALIDO di questo manuale e il framework della fiducia della serata 3 condividono lo stesso impianto (fiducia come condizione per la vendita), ma il corso live lo sviluppa con casi, numeri e un metodo diagnostico che il manuale preparatorio non aveva ancora.
+
 ## Correlazioni
 
 Vedi [[chiara-dosio]] per il profilo dell'autrice e il contesto di [[Unconventional]].

@@ -24,9 +24,16 @@ Sintetizzato in dettaglio in [[personal-brand-secrets-manuale]]. Tre elementi ne
 - **TI ASSOCIO** — chiarezza su target, offerta e differenziazione: la comunicazione fallisce se questi tre elementi sono confusi, indipendentemente dal fatturato già raggiunto
 - **TI VALIDO** — costruire fiducia tramite Esperienza (il proprio punto di vista vissuto), Autorevolezza (risultati, associazioni, sezioni in primo piano) e Social proof (testimonianze contestualizzate, reperibili in pochi click)
 
+## Il corso live completo
+
+Oltre al manuale preparatorio, il vault copre ora anche il corso live "Personal Brand Secrets" nella sua interezza: cinque serate, trascrizioni integrali, workbook e materiale bonus. Undici pagine framework ne coprono i concetti trasversali: [[il-loop-di-distribuzione]] (serata 1, come Instagram distribuisce oggi e i due obiettivi strategici che ne derivano), [[profile-funnel]] e [[story-funnel]] (serata 2, i due flussi che trasformano traffico in contatto), [[il-framework-della-fiducia]] (serata 3, comunicazione, memorabilità e gap percepito), [[le-cinque-fasi-dell-acquisizione]] (serata 4, lo strumento diagnostico per capire dove si rompe il proprio sistema di acquisizione). A questi si aggiungono i workbook operativi [[livelli-di-consapevolezza]], [[content-bank]] e [[strutture-narrative-per-le-stories]], il report tecnico [[come-instagram-distribuisce-nel-2026]], la raccolta [[casi-studio-chiara-dosio]] e la [[checklist-ottimizzazione-profilo-instagram]].
+
+Il metodo a tre file per impostare il contesto di un'AI, mostrato nella serata 5 da Ivan (direttore marketing di [[Unconventional]]), non ha una pagina wiki dedicata: l'architettura `Context/` di questo vault lo supera già, con `Context/services.md` e `Context/organization.md` al posto del file Offerta, `Context/icp.md` e `Context/pain-points.md` al posto del file Cliente, `Context/brand.md` al posto del file Voce.
+
 ## Libri e materiali nel vault
 
 - [[personal-brand-secrets-manuale]] — manuale preparatorio all'evento live "Personal Brand Secrets" (7-11 settembre 2026), il documento sorgente di questo hub
+- Corso live completo (5 serate, settembre 2026): trascrizioni in `Library/videos/chiara-dosio-pbs-serata-{1..5}-trascrizione.md`, slide e workbook in `Library/pdfs/chiara-dosio-pbs-*`, materiale bonus in `Library/articles/chiara-dosio-pbs-bonus-*`
 
 ## Correlazioni
 

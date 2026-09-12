@@ -68,3 +68,14 @@ Cronologia di tutte le fonti aggiunte al vault via `/ingest`.
 - **[2026-08-31 14:20] ingest** | pdf | chiara-dosio-personal-brand-secrets-manuale | 3 pagine wiki toccate
   - Creato [[personal-brand-secrets-manuale]] (framework), [[chiara-dosio]] (hub autrice), [[unconventional]] (stub azienda)
   - Manuale preparatorio all'evento live "Personal Brand Secrets" (7-11 settembre 2026): framework TI VEDO → TI ASSOCIO → TI VALIDO, strategia contenuti, funnel di acquisizione organica su Instagram
+
+## 2026-09-12
+
+- **[2026-09-12] ingest bulk** | pdf + video + article | corso live completo "Personal Brand Secrets" (5 serate) | 11 pagine wiki create + 2 aggiornate
+  - Raw: `Library/pdfs/chiara-dosio-pbs-*` (10 PDF slide/workbook, estrazione testo saltata perché coperta da trascrizioni e schede tematiche, + 1 zip "cervello AI" archiviato integro), `Library/videos/chiara-dosio-pbs-serata-{1..5}-trascrizione.{md,srt}` (5 trascrizioni integrali, ~88.353 parole, 10h12m di registrazione), `Library/articles/chiara-dosio-pbs-bonus-*` (2 HTML + 1 txt di materiale bonus)
+  - Wiki creato: [[il-loop-di-distribuzione]], [[profile-funnel]], [[story-funnel]], [[il-framework-della-fiducia]], [[le-cinque-fasi-dell-acquisizione]], [[livelli-di-consapevolezza]], [[content-bank]], [[strutture-narrative-per-le-stories]], [[come-instagram-distribuisce-nel-2026]], [[casi-studio-chiara-dosio]], [[checklist-ottimizzazione-profilo-instagram]] (11 pagine framework, tutte in `Resources/frameworks/`)
+  - Wiki aggiornato: [[chiara-dosio]] (hub, ora con sezione "il corso live completo" e elenco backlink), [[personal-brand-secrets-manuale]] (sezione "dal manuale al corso live" con rimando alle 11 pagine, nessuna duplicazione di contenuto)
+  - Non creato per decisione esplicita: nessuna pagina dedicata al metodo "cervello AI" a 3 file della serata 5 (l'architettura `Context/` del vault lo supera già), citato solo di sfuggita nell'hub [[chiara-dosio]]
+  - Contenuto scartato: un paragrafo nella scheda tematica sorgente "Il cervello AI" citava un presunto confronto con un file `.claude/skills/no-ai-slop/SKILL.md` e una "regola 27" mai esistiti in questo vault (materiale di un altro partecipante al corso, finito per errore nel pacchetto condiviso). Non riprodotto in nessuna pagina.
+  - `index.md` aggiornato: 5 righe in sezione Video, 11 righe in sezione Framework, [[chiara-dosio]] aggiunto in sezione Hub
+  - Totale ingestato: 18 file raw (10 pdf, 5 video, 3 bonus) | 11 pagine wiki create + 2 aggiornate | ~88k parole di trascrizione ingestate
