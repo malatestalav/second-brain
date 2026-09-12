@@ -87,9 +87,18 @@ Sempre visibile durante lo scroll, senza countdown/urgenza finta (fuori tono per
 
 Copy orientato ai pain point mappati in [[icp]] e [[pain-points]], coerente con [[brand]] (diretto, caldo, tecnico).
 
-**Headline:** "Il tuo HACCP in pochi secondi, non in ore. Scopri i punti critici del tuo locale, gratis."
+> [!success] Headline riscritta secondo revisione Direct Response (2026-09-12)
+> Sostituita dopo revisione esterna (vedi [[revisione-opting-page-2026-09-12]]): la vecchia versione vendeva due offerte insieme (software + visita gratuita) e il lettore non capiva cosa stava chiedendo cliccando. Nuova versione, formula "Beneficio + Meccanismo" verificata contro il testo originale di [[dan-kennedy]] (*No B.S. Sales Success*, capitolo Lead Generation Advertising, grep diretto in `Library/pdfs/no-b-s-sales-success-the-ultimate-no.md`): offerta unica (l'analisi gratuita dei punti critici), "gratis" in evidenza, promessa concreta non genericaà. Questa è ora la regola vault permanente per ogni copy (vedi Regola 19 in root `CLAUDE.md`).
+>
+> **Headline:** "Libera la tua attività da procedure HACCP inutili. Scopri i punti critici del tuo locale, gratis."
+>
+> **Sottotitolo:** "Un consulente viene gratuitamente nel tuo locale e ti mostra come restare in regola in pochi secondi al giorno da telefono."
+>
+> Live sulla pagina dal 2026-09-12.
 
-**Sottotitolo:** "Due minuti di domande e ti mostriamo esattamente dove rischi la multa e quanto tempo puoi liberare ogni giorno."
+~~**Headline:** "Il tuo HACCP in pochi secondi, non in ore. Scopri i punti critici del tuo locale, gratis."~~
+
+~~**Sottotitolo:** "Due minuti di domande e ti mostriamo esattamente dove rischi la multa e quanto tempo puoi liberare ogni giorno."~~
 
 **Corpo pagina (blocchi, non muro di testo):**
 - **Il problema, nominato in modo vivido:** faldoni, registri compilati al ritroso, ansia al controllo NAS (linguaggio diretto dal cliente, vedi [[icp]] "Linguaggio e Parole che Usano")
