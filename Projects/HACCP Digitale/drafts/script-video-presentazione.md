@@ -10,7 +10,7 @@ tags: [script, video, funnel-organico]
 Video in prima persona di [[Antonio Malatesta]]. Campagna organica, targeting Potenza e provincia. Struttura: promessa, problema, call to action.
 
 > [!info] Obiettivo del video
-> Portare a iscrizione (follow/canale), poi in un secondo momento arriva il link con le azioni per prenotare una consulenza gratuita dal vivo.
+> Portare direttamente al link in bio, dove si prenota l'analisi gratuita dei punti critici.
 
 ---
 
@@ -38,7 +38,7 @@ Per questo HACCP Digitale fa tutto questo al posto tuo: registri compilati dal t
 
 ## CALL TO ACTION (70-90 sec)
 
-"Se gestisci un bar o un ristorante qui a Potenza o in provincia e questa cosa ti tocca da vicino, scrivici. Ti mandiamo subito il link in chat, così prenoti la tua consulenza gratuita e capiamo insieme, senza impegno, se questo software può aiutarti oppure no."
+"Se gestisci un bar o un ristorante qui a Potenza o in provincia e questa cosa ti tocca da vicino, vai nel link in bio e prenota la tua analisi gratuita dei punti critici, così capiamo insieme, senza impegno, se questo software può aiutarti oppure no."
 
 ---
 
@@ -48,13 +48,13 @@ Per questo HACCP Digitale fa tutto questo al posto tuo: registri compilati dal t
 - Tono: diretto, caldo, esperienza vissuta in prima persona. Coerente con [[brand]] (pratico, affidabile, empatico).
 - Linguaggio ICP: evitare "dematerializzazione", "cloud", "innovativo". Usare "tempo", "stress", "in regola", "tranquillo con l'ispettore" (vedi [[icp]]).
 - Geo-targeting esplicito nel copy: "Potenza e provincia", coerente con campagna organica locale.
-- CTA: "scrivici" in commento o DM, azione trackable (non follow/iscrizione). Chi scrive riceve il link per prenotare la consulenza gratuita direttamente in chat.
+- CTA: "link in bio", azione trackable via click sul link (non follow/iscrizione). Chi clicca prenota direttamente l'analisi gratuita dei punti critici, nessun passaggio in DM.
 
 ## Verifica framework (Library/Resources)
 
 Confrontato con [[the-ultimate-sales-letter-attract-new]], [[no-b-s-guide-to-powerful-presentatio]], [[speak-to-sell-persuade-influence-an]], [[no-b-s-guide-to-direct-response-soci]] (Dan Kennedy).
 
 - **Speakers' Formula** (attenzione, rapport, credibilità, problema, offerta, garanzia, urgenza, CTA): rispettata nella sequenza hook → promessa → problema → CTA. Credibilità costruita sull'esperienza diretta di [[Antonio Malatesta]] ("l'ho vissuta sulla mia pelle"), non su claim astratti.
-- **CTA misurabile, non vanity metric** ([[no-b-s-guide-to-direct-response-soci]]): "scrivici" genera un lead trackable (messaggio diretto), coerente col principio che like/follower non contano, solo l'azione che porta a un opt-in reale.
+- **CTA misurabile, non vanity metric** ([[no-b-s-guide-to-direct-response-soci]]): "link in bio" genera un click trackable, coerente col principio che like/follower non contano, solo l'azione che porta a un opt-in reale.
 - **Garanzia implicita**: "senza impegno" nella CTA copre la funzione di rassicurazione prevista dalla Irresistible Offer Architecture.
 - **Non applicato**: damaging admission (ammissione di un limite del prodotto, da [[the-ultimate-sales-letter-attract-new]]) e urgenza esplicita. Valutare se aggiungerli in una v2, ma il video resta breve (90 sec) e coerente col tono [[brand]] che evita hype.

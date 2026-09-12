@@ -15,7 +15,7 @@ Prodotto consumer di [[Nexvision]]: web app per digitalizzare registri e manuali
 Lanciato da 20 giorni, 4 licenze vendute (poi 8, vedi correzioni in [[funnel-questionario-ghl]]). Funnel di acquisizione organico Instagram **pronto per il lancio** (2026-09-12): landing page live, pipeline commerciale strutturata, automation di notifica attive.
 
 > [!todo] Prossimo step
-> Pubblicare i video organici su Instagram (vedi [[script-video-presentazione]] e [[script-video-idee-social]]) e iniziare a mandare il link in DM ai prospect. Il commerciale [[Antonio Smaldini]] gestisce le trattative direttamente nella pipeline "HACCP Digitale - Lead" su [[GHL]].
+> Pubblicare i video organici su Instagram (vedi [[script-video-presentazione]] e [[script-video-idee-social]]), CTA diretta a link in bio per prenotare l'analisi gratuita dei punti critici (non più scrivere in DM per ricevere il link, vedi [[lead-gen-instagram-organico]]). Il commerciale [[Antonio Smaldini]] gestisce le trattative direttamente nella pipeline "HACCP Digitale - Lead" su [[GHL]].
 
 ## Contenuti
 

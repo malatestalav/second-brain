@@ -23,9 +23,12 @@ Il framework è esplicito: il profilo funziona come landing page solo se trasmet
 **Bio (prima riga = valore, comprensibile "a un bambino delle elementari"):**
 > Aiuto bar e ristoranti a liberarsi dall'HACCP cartaceo 📋❌ → digitale in pochi secondi ✅
 > Fondatore di [[HACCP Digitale]] · Potenza e provincia
-> 👇 Scrivimi "HACCP" e ti mando 2 minuti di domande
+> 👇 Prenota la tua analisi gratuita dei punti critici
 
 Link in bio: **un solo link**, quello del funnel di qualificazione già definito in [[funnel-questionario-ghl]] (non un link generico al sito).
+
+> [!important] Aggiornamento CTA (2026-09-12)
+> La CTA nei contenuti non è più "scrivimi in chat, poi ti mando il link": è diretta, "link in bio → prenota l'analisi gratuita dei punti critici". Resta coerente col [[profile-funnel]] di [[chiara-dosio]], che indica esplicitamente tra i tre link necessari in bio "un punto di contatto diretto tipo Calendly o WhatsApp": qui il punto di contatto diretto è il link al [[funnel-questionario-ghl]] stesso, senza passaggio conversazionale prima. Questo riduce l'attrito ma sposta la qualificazione (oggi affidata alla conversazione in DM) tutta sul questionario: se il tasso di submission cala rispetto a quello ottenuto via DM, va rivalutato reintroducendo la CTA conversazionale per i contenuti di consapevolezza più "caldi" e riservando il link diretto ai contenuti di vendita/case study.
 
 **Post pinnati (3, secondo lo schema del manuale):**
 1. **Autorevolezza:** il video di presentazione già scritto in [drafts/script-video-presentazione.md](../drafts/script-video-presentazione.md), o un caso reale di uno dei 4 clienti beta.
@@ -66,13 +69,10 @@ Coerente con l'obiettivo trimestrale già fissato in [[strategy]] ("Creare 3-5 v
 
 Il manuale è chiaro: tutti i flussi convergono su **una conversazione, poi una chiamata**. Per HACCP Digitale la chiamata è già sostituita da un passo intermedio più leggero e già specificato: il questionario GHL.
 
-**Asse proattivo↔reattivo adattato:**
-1. Antonio risponde ai commenti/DM in prima persona (non messaggio automatico impersonale)
-2. Storie indirette: dietro le quinte dei 4 clienti beta, difficoltà reali risolte (es. "un cliente aveva un frigo rotto scoperto troppo tardi, ora riceve SMS")
-3. CTA nei contenuti di consapevolezza → "scrivimi HACCP" in DM
-4. Gestione DM in 3 fasi dal manuale: apertura non push ("ciao, dimmi un po' del tuo locale") → far emergere il problema reale (carta, tempo, ansia controllo) → chiusura soft che lascia il controllo alla persona ("se vuoi ti mando 2 minuti di domande, così ti richiamo preparato")
-5. Chi conferma riceve il link al questionario già definito in [[funnel-questionario-ghl]], **non inviare mai il link automaticamente al primo messaggio**, sempre doppia conferma prima, come da regola di ferro del manuale sul lead magnet.
-6. Submission GHL → notifica ad Antonio → richiamo per consulenza gratuita, stesso flusso già in produzione.
+**Due CTA che coesistono, non un'unica via:**
+1. **CTA diretta (contenuti feed/Reel):** "link in bio → prenota la tua analisi gratuita dei punti critici", porta dritto al [[funnel-questionario-ghl]], nessun passaggio in DM. È la CTA di default sui video pubblicati (vedi [[script-video-idee-social]], [[script-video-altre-attivita]], [[script-video-presentazione]]).
+2. **CTA conversazionale (storie, commenti spontanei):** resta attiva per chi interagisce di sua iniziativa. Antonio risponde ai commenti/DM in prima persona (non messaggio automatico impersonale). Storie indirette: dietro le quinte dei 4 clienti beta, difficoltà reali risolte (es. "un cliente aveva un frigo rotto scoperto troppo tardi, ora riceve SMS"). Gestione DM in 3 fasi dal manuale: apertura non push ("ciao, dimmi un po' del tuo locale") → far emergere il problema reale (carta, tempo, ansia controllo) → chiusura soft che lascia il controllo alla persona ("se vuoi ti mando 2 minuti di domande, così ti richiamo preparato"). Chi conferma riceve il link al questionario, **non inviare mai il link automaticamente al primo messaggio**, sempre doppia conferma prima, come da regola di ferro del manuale sul lead magnet.
+3. Submission GHL (da entrambe le vie) → notifica ad Antonio → richiamo per consulenza gratuita, stesso flusso già in produzione.
 
 Questo rende Instagram un secondo ingresso nello stesso funnel già costruito per WhatsApp, non un sistema parallelo da gestire a parte.
 
@@ -91,10 +91,10 @@ Revisione nella stessa cadenza settimanale già definita in [[strategy]] tra [[A
 
 ## 8. Cosa NON fare (per restare coerenti col framework)
 
-- Niente CTA di vendita diretta in ogni post ("i venditori di pentole" del manuale): la maggioranza dei contenuti resta consapevolezza, non vendita.
+- Niente CTA di vendita diretta in ogni post ("i venditori di pentole" del manuale): la maggioranza dei contenuti resta consapevolezza, non vendita. La CTA diretta a link in bio non cambia questo equilibrio: è comunque un'analisi gratuita a basso impegno, non un'offerta a pagamento.
 - Niente inseguimento di follower/views come KPI primario: il manuale è esplicito, non esistono soglie numeriche per iniziare a convertire.
-- Niente advertising prima che il sistema organico generi almeno i primi DM qualificati: le ads amplificano, non creano, un sistema che ancora non esiste.
-- Niente invio automatico del link questionario al primo contatto: sempre conversazione prima.
+- Niente advertising prima che il sistema organico generi almeno i primi lead qualificati: le ads amplificano, non creano, un sistema che ancora non esiste.
+- Per la via conversazionale (storie/commenti spontanei), niente invio automatico del link questionario al primo contatto: sempre conversazione prima. Questa regola non si applica alla CTA diretta nei contenuti pubblicati, che per design salta la conversazione.
 
 ## Prossimi passi
 

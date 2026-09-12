@@ -7,7 +7,7 @@ tags: [script, video, social, macellerie, pescherie, latterie]
 
 # Script Video, Oltre Bar e Ristoranti
 
-5 script per comunicare che [[HACCP Digitale]] non è solo per bar e ristoranti, ma per qualunque attività di somministrazione e vendita alimentare: macellerie, pescherie, latterie/caseifici. Ogni script segue hook → problema → soluzione → CTA. CTA sempre sulla stessa procedura: scrivici, ricevi il link, prenoti la consulenza gratuita.
+5 script per comunicare che [[HACCP Digitale]] non è solo per bar e ristoranti, ma per qualunque attività di somministrazione e vendita alimentare: macellerie, pescherie, latterie/caseifici. Ogni script segue hook → problema → soluzione → CTA. CTA sempre sulla stessa procedura: link in bio, prenoti l'analisi gratuita dei punti critici.
 
 > [!warning] Nota su [[icp]] e [[services]]
 > Questi tre segmenti (macellerie, pescherie, latterie) non sono ancora documentati in `Context/icp.md` o `Context/services.md`, che oggi parlano solo di bar/ristoranti. Gli script sotto sono costruiti su punti critici HACCP generalmente noti per questi settori, non su casi clienti reali già acquisiti in queste categorie (a differenza degli script su bar/ristoranti, che si appoggiano ai 4 clienti già attivi). Se lanci questa campagna, vale la pena aggiornare `icp.md` con il primo cliente reale in una di queste categorie, appena arriva.
@@ -22,7 +22,7 @@ tags: [script, video, social, macellerie, pescherie, latterie]
 
 **Soluzione:** HACCP Digitale nasce per la ristorazione ma i registri, le notifiche di temperatura e la tracciabilità funzionano allo stesso modo per qualunque attività che lavora alimenti freschi, si adatta al tuo tipo di prodotto e al tuo flusso di lavoro.
 
-**CTA:** Scrivici: ti mandiamo il link per prenotare la tua consulenza gratuita e vedere come si adatta alla tua attività.
+**CTA:** Link in bio: prenota la tua analisi gratuita dei punti critici e scopri come si adatta alla tua attività.
 
 ---
 
@@ -34,7 +34,7 @@ tags: [script, video, social, macellerie, pescherie, latterie]
 
 **Soluzione:** Con la scheda di ricevimento digitale ogni lotto resta associato al prodotto dal momento in cui entra in negozio, consultabile in un secondo se serve risalire a una consegna specifica.
 
-**CTA:** Scrivici: ti mandiamo il link per prenotare la tua consulenza gratuita e capire come tracciare ogni lotto senza sforzo.
+**CTA:** Link in bio: prenota la tua analisi gratuita dei punti critici e capisci come tracciare ogni lotto senza sforzo.
 
 ---
 
@@ -46,7 +46,7 @@ tags: [script, video, social, macellerie, pescherie, latterie]
 
 **Soluzione:** Con le notifiche automatiche il controllo temperatura diventa un'abitudine quotidiana per te e per chi lavora con te, non un'incombenza che rimandi a fine giornata, e resta tutto documentato in tempo reale.
 
-**CTA:** Scrivici: ti mandiamo il link per prenotare la tua consulenza gratuita e mettere la catena del freddo sotto controllo reale.
+**CTA:** Link in bio: prenota la tua analisi gratuita dei punti critici e metti la catena del freddo sotto controllo reale.
 
 ---
 
@@ -58,7 +58,7 @@ tags: [script, video, social, macellerie, pescherie, latterie]
 
 **Soluzione:** Il sistema digitale gestisce scadenze e lotti di produzione in automatico, con un alert prima che un prodotto superi la sua vita utile, così sai sempre cosa vendere prima e cosa è ancora sicuro.
 
-**CTA:** Scrivici: ti mandiamo il link per prenotare la tua consulenza gratuita e gestire scadenze e lotti senza pensarci ogni ora.
+**CTA:** Link in bio: prenota la tua analisi gratuita dei punti critici e gestisci scadenze e lotti senza pensarci ogni ora.
 
 ---
 
@@ -70,4 +70,4 @@ tags: [script, video, social, macellerie, pescherie, latterie]
 
 **Soluzione:** Con l'etichettatura digitale i dati vengono calcolati e riportati in automatico a partire dalla scheda del prodotto, sempre uguali, sempre corretti, senza doverli riscrivere ogni volta a mano.
 
-**CTA:** Scrivici: ti mandiamo il link per prenotare la tua consulenza gratuita e vedere come funziona per i tuoi prodotti.
+**CTA:** Link in bio: prenota la tua analisi gratuita dei punti critici e scopri come funziona per i tuoi prodotti.

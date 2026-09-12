@@ -12,7 +12,7 @@ Scaletta end-to-end della campagna legata a [drafts/script-video-presentazione.m
 ## Fase 1 . Contenuto (Awareness)
 
 1. Pubblicazione video organico (script pronto) su Reels/TikTok, geo-targeting Potenza e provincia via hashtag/caption locali
-2. Gestione commenti/DM: chi scrive "scrivici" riceve il link alla landing page (manuale all'inizio, poi automatizzabile con risposta automatica GHL/Meta)
+2. CTA diretta "link in bio" nel video/caption, verso la landing page: nessun passaggio in DM per ricevere il link (aggiornamento 2026-09-12, vedi [[lead-gen-instagram-organico]]). La gestione commenti/DM resta attiva solo per chi interagisce di sua iniziativa, non è più la via principale per ottenere il link
 
 ## Fase 2 . Landing Page Unica (Interest . Qualificazione)
 
