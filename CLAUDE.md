@@ -146,6 +146,8 @@ NON:
 - Scrivere nomi di progetti, persone, dipartimenti, o riferimenti a note come testo semplice . usa sempre `[[wikilink]]`
 - Usare `[link](markdown)` per le note del vault interno
 
+19. **Ogni testo di copy che scrivi (headline, hero, CTA, form, email, script) deve seguire la struttura Direct Response, sempre, senza eccezioni.** Regola fissata dall'utente il 2026-09-12 dopo aver rifiutato più bozze non strutturate: niente headline descrittive, informative o a forma di domanda vaga. Usa i formati DR classici (promessa esplicita in prima persona: "facciamo X per te", garanzia, urgenza reale non finta, specificità concreta invece di claim generici). Fonti da consultare per la struttura: [[dan-kennedy]] e gli altri framework già citati in Regola 18. Se produci un'opzione non-DR "per contesto/confronto", etichettala chiaramente come tale, non presentarla come alternativa alla pari.
+
 <!-- CORREZIONI UTENTE: Aggiungi nuove regole qui sotto man mano che l'utente ti insegna -->
 
 ## Auto-Push a Fine di OGNI Messaggio (Desktop Only)
