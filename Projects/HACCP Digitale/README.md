@@ -40,6 +40,7 @@ Lanciato da 20 giorni, 4 licenze vendute (poi 8, vedi correzioni in [[funnel-que
 - [Script oltre bar e ristoranti](drafts/script-video-altre-attivita.md) . 5 script per macellerie, pescherie, latterie/caseifici, hook-problema-soluzione-CTA
 - [Riunione con il commerciale, 20 agosto 2026](notes/riunione-commerciale-2026-08-20.md) . punti chiave, argomentazioni dal playbook di vendita, strategia concreta di commercializzazione ([versione PDF](notes/riunione-commerciale-2026-08-20.pdf))
 - [Annuncio lavoro: Consulente Commerciale](drafts/annuncio-lavoro-consulente-commerciale.md) . bozza annuncio per un secondo commerciale sul territorio di Potenza, in Partita IVA a provvigione, da completare con contatti e percentuale prima della pubblicazione
+- [Revisione opt-in page, 12 settembre 2026](feedback/revisione-opting-page-2026-09-12.md) . critica esterna su promessa doppia/non quantificata, prova sociale assente, form e visivo non allineati al target; correzione in corso, blocco su cifra reale sanzione NAS e asset reali (nomi, foto, numeri)
 
 ## Riferimenti
 
