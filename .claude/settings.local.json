@@ -5,7 +5,8 @@
       "Bash(gh api *)",
       "Bash(which gh *)",
       "Bash(bash \"/Users/antoniomalatesta/Desktop/Second Brain/.claude/hooks/auto-push.sh\")",
-      "Bash(xargs -n1 basename)"
+      "Bash(xargs -n1 basename)",
+      "Bash(python3 -)"
     ]
   }
 }
