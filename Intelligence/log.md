@@ -79,3 +79,9 @@ Cronologia di tutte le fonti aggiunte al vault via `/ingest`.
   - Contenuto scartato: un paragrafo nella scheda tematica sorgente "Il cervello AI" citava un presunto confronto con un file `.claude/skills/no-ai-slop/SKILL.md` e una "regola 27" mai esistiti in questo vault (materiale di un altro partecipante al corso, finito per errore nel pacchetto condiviso). Non riprodotto in nessuna pagina.
   - `index.md` aggiornato: 5 righe in sezione Video, 11 righe in sezione Framework, [[chiara-dosio]] aggiunto in sezione Hub
   - Totale ingestato: 18 file raw (10 pdf, 5 video, 3 bonus) | 11 pagine wiki create + 2 aggiornate | ~88k parole di trascrizione ingestate
+
+- **[2026-09-12] build** | anti-slop-checklist | 1 pagina wiki creata
+  - Creato [[anti-slop-checklist]] (`Resources/frameworks/`), a partire dalla skill anti-slop nello zip "cervello AI" (raw non estratto singolarmente, cfr. entry sopra)
+  - Riprende solo le parti non coperte da regole esistenti: pattern strutturali da AI (bold-colon-bullet, staccato a tre frasi, negazione forzata, fiocchetto finale, preamboli da assistant) e riempitivi vuoti generici (davvero, concreto, utile, magico, potente...)
+  - Esplicitamente non duplica: la regola 14 del `CLAUDE.md` root sull'em dash (già più rigida) e l'elenco parole bandite in [[brand]] (specifico HACCP Digitale), citati in cross-reference
+  - Origine: richiesta diretta in chat, decisione utente di tenerla come sola pagina di riferimento, senza promuoverla a regola permanente in `CLAUDE.md`

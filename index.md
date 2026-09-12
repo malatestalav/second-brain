@@ -90,6 +90,7 @@ Pagine che rappresentano entità (aziende, persone, prodotti, framework). Aggreg
 - [[come-instagram-distribuisce-nel-2026]]: Report tecnico su etichettatura, ranking, cold start e connected/unconnected reach
 - [[casi-studio-chiara-dosio]]: Casi studio con numeri citati nel corso live Personal Brand Secrets
 - [[checklist-ottimizzazione-profilo-instagram]]: Checklist voce per voce per bio, link, storie in evidenza e pinnati
+- [[anti-slop-checklist]]: Pattern strutturali e riempitivi da AI da togliere prima di consegnare un testo, complementare alle regole di voce già attive
 - [[management-series-vol-1]]: PR, Marketing, Admin Know-How (L. Ron Hubbard)
 - [[management-series-vol-2]]: Responsabile Organizzativo e stabilizzazione aziendale (L. Ron Hubbard)
 - [[dan-kennedy]]: Hub: direct response, No B.S., positioning (Dan Kennedy)
