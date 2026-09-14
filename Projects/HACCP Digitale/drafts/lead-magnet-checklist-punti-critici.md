@@ -49,10 +49,10 @@ Post pinnato numero 4 (nuovo, si aggiunge ai 3 già previsti in [[lead-gen-insta
 
 Caption del reel/post pinnato: *"Scrivi 'CHECKLIST' nei commenti, te la mando in DM."* Decisione di [[Antonio Malatesta]] il 2026-09-14: si usa [[ManyChat]], non GHL (vedi [[infrastructure]] per il confronto). ManyChat è Meta Business Partner ufficiale, il commento stesso apre la finestra DM senza bisogno di un'interazione precedente, quindi nessun rischio di mancata consegna come nel workflow GHL. Invio immediato senza doppia conferma (a differenza della CTA conversazionale del funnel medio, qui è un download gratuito a basso impegno, non una qualificazione). Il commento pubblico è anche un segnale utile per [[il-loop-di-distribuzione]].
 
-Backup: parola chiave libera in DM ("CHECKLIST" scritta in qualsiasi momento, non solo sotto un post specifico) e reazione a sticker nelle storie, stesso meccanismo via ManyChat.
+Backup: parola chiave libera in DM ("INFO" scritta in qualsiasi momento, non solo sotto un post specifico) e reazione a sticker nelle storie, stesso meccanismo via ManyChat.
 
 > [!warning] Da fare prima del lancio
-> Account ManyChat non ancora creato. Serve: collegare la pagina Instagram, configurare il workflow con parola chiave "CHECKLIST" sul post/reel di lancio, caricare il PDF della checklist come file da inviare. Nessun coinvolgimento di GHL o di [[Vito Romano]] per questo flusso specifico (resta amministratore di GHL per il [[funnel-questionario-ghl|funnel caldo]]).
+> Account ManyChat non ancora creato. Serve: collegare la pagina Instagram, configurare il workflow con parola chiave "INFO" sul post/reel di lancio, caricare il PDF della checklist come file da inviare. Nessun coinvolgimento di GHL o di [[Vito Romano]] per questo flusso specifico (resta amministratore di GHL per il [[funnel-questionario-ghl|funnel caldo]]).
 
 ## Correlazioni
 
