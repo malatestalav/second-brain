@@ -15,7 +15,7 @@ Nesebrienza ha aperto **Essenza Latina**, una scuola di danza. Obiettivo attuale
 
 ## Stato
 
-Brainstorming angoli completato, vedi [[brainstorm-ads]] in `ideas/`. Copy in bozza per 7 ad (uno per angolo/obiezione) in [[ads-copy]] in `drafts/`, con relativa versione script/caption in [[script-ads]], in attesa dei dati reali per chiudere i "Chi sono".
+Brainstorming angoli completato, vedi [[brainstorm-ads]] in `ideas/`. Copy in bozza per 7 ad (uno per angolo/obiezione) in [[ads-copy]] in `drafts/`, con versione script/caption breve in [[script-ads]] e versione estesa da 60 secondi a camera in [[script-ads-60sec]], in attesa dei dati reali per chiudere i "Chi sono".
 
 ## Tono di Voce
 
