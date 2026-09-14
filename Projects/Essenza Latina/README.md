@@ -17,6 +17,10 @@ Nesebrienza ha aperto **Essenza Latina**, una scuola di danza. Obiettivo attuale
 
 Brainstorming angoli completato, vedi [[brainstorm-ads]] in `ideas/`. Copy in bozza per 7 ad (uno per angolo/obiezione) pronto in [[ads-copy]] in `drafts/`, in attesa dei dati reali per chiudere i "Chi sono".
 
+## Tono di Voce
+
+Diverso da quello usato per [[HACCP Digitale]] (diretto, tagliente, verso ristoratori). Qui il tono è gentile, mai esplicito o aggressivo. Niente riferimenti diretti ad app di incontri o a "rimorchiare": l'angolo dell'amore/connessione va raccontato per storie, non dichiarato. Esempio guida dell'operatore: raccontare che molte persone, nella storia della scuola, hanno trovato l'anima gemella tra un ballo e l'altro, senza cercarla.
+
 ## Info Mancanti (da raccogliere prima di scrivere copy definitivo)
 
 - Città/quartiere e indirizzo della scuola

@@ -10,13 +10,13 @@ date: 2026-09-14
 
 Copy pronto in bozza, struttura fissa Hook → Problema → Soluzione → Chi sono (prova) → CTA, sviluppato da [[brainstorm-ads]]. Placeholder tra `[ ]` dove serve un fatto vero (verificato nel vault: nessuna nota contiene già credenziali/numeri su [[Nesebrienza]] o su Essenza Latina, solo riferimenti tecnici infra condivisi con [[HACCP Digitale]]). Non riempire i placeholder con numeri inventati, meglio lasciarli vuoti finché non arriva il dato reale.
 
-## 1. Rimorchio / conoscere gente
+## 1. Connessioni vere / anima gemella (tono gentile, per storie)
 
-- **Hook**: "Le app di incontri ti fanno scrivere a 50 persone per uscire con una."
-- **Problema**: swipe infinito, chat che muoiono dopo tre messaggi, zero energia reale, zero contatto vero.
-- **Soluzione**: un'ora a settimana in cui balli davvero con persone nuove, partner che ruota durante la lezione, niente schermo di mezzo.
-- **Chi sono**: "Sono Nesebrienza, insegno danze latine da [X anni]. A Essenza Latina ogni corso è misto e si cambia partner durante la lezione: [numero] allievi il primo giorno sono arrivati da soli."
-- **CTA**: "Prima lezione [gratis / a X euro], posti limitati nel gruppo di [orario]. Scrivimi al [contatto]."
+- **Hook**: "Ho perso il conto di quante coppie sono nate tra una lezione e l'altra, quasi sempre quando nessuno dei due se lo aspettava."
+- **Problema**: le occasioni per conoscere qualcuno con calma, senza fretta e senza uno schermo di mezzo, sono sempre più rare.
+- **Soluzione**: a lezione il contatto nasce da solo, si cambia partner passo dopo passo, si ride per uno sbaglio insieme, senza la pressione di doversi piacere per forza.
+- **Chi sono**: "Sono Nesebrienza, insegno danze latine da [X anni]. Ho visto nascere qui più di [numero/una] storia tra i miei allievi, [aneddoto reale se c'è]."
+- **CTA**: "Vieni a vedere una lezione, gratis, prima di decidere. Scrivimi al [contatto]."
 
 ## 2. Senza dama/compagno (obiezione diretta)
 
