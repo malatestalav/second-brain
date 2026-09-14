@@ -46,9 +46,9 @@ Struttura approvata da [[Antonio Malatesta]] il 2026-09-14: si riparte da zero r
 > [!warning] Buco strutturale segnalato, non ancora risolto
 > Il funnel caldo si appoggia su case study clienti come prova principale, ma [[pain-points]] conferma che nessun case study dei 4 clienti beta esiste ancora. Oggi regge solo sull'autorevolezza personale di [[Antonio Malatesta]]. Priorità da chiarire prima di produrre i contenuti di questo blocco.
 
-## Tracking cross-funnel
+## Tracking cross-funnel (in sospeso)
 
-Decisione di [[Antonio Malatesta]] il 2026-09-14: [[ManyChat]] non serve solo a consegnare la [[lead-magnet-checklist-punti-critici|checklist]] nel funnel freddo, ma anche da layer di monitoraggio su tutti e tre i funnel (quante persone commentano, quante checklist vengono inviate, tassi di risposta). Da integrare con le colonne già previste nella sezione "Tracking" di [[lead-gen-instagram-organico]] (chat DM aperte, provenienza, tipologia, leva usata) quando l'account viene creato.
+[[ManyChat]] dà solo analytics sulla propria automazione (volte in cui il trigger commento è scattato, tasso di apertura/click del DM), non una pipeline di lead come [[GHL]]: non collega da solo "chi ha ricevuto la checklist" a "chi poi ha prenotato l'analisi gratuita" nel funnel caldo. [[Antonio Malatesta]] ha messo in sospeso il tema il 2026-09-14, si farà consigliare da [[Mario Olivelli]] su come sfruttare al meglio i dati disponibili prima di decidere come collegarli al tracker in [[lead-gen-instagram-organico]] (colonne chat DM aperte, provenienza, tipologia, leva usata).
 
 ## Prossimi passi
 
