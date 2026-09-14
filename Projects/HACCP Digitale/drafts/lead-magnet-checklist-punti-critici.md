@@ -45,8 +45,14 @@ Se hai segnato tutti e 7, sei messo meglio della media dei locali che vediamo. S
 
 Post pinnato numero 4 (nuovo, si aggiunge ai 3 già previsti in [[lead-gen-instagram-organico]]) con caption che invita a scaricare/salvare la checklist in DM o tramite risorsa in bio (da configurare: pagina di download leggera, non il funnel GHL completo). Rilanciata nelle storie come "risorsa fissata in alto", secondo l'indicazione del [[profile-funnel]] ("una risorsa scaricabile fissata in alto può da sola generare centinaia di richieste").
 
-> [!warning] Dipendenza tecnica aperta
-> Serve un punto di consegna per il PDF (form leggero o invio automatico in DM) distinto dalla pagina [[funnel-questionario-ghl]], che è pensata per il funnel caldo. Da definire con [[Vito Romano]] prima della pubblicazione.
+## Meccanismo di consegna: commento → DM automatico
+
+Caption del reel/post pinnato: *"Scrivi 'CHECKLIST' nei commenti, te la mando in DM."* Piano A: automazione GHL (trigger "Instagram Comment(s) On A Post" → azione Instagram DM, vedi [[infrastructure]]), invio immediato senza doppia conferma (a differenza della CTA conversazionale del funnel medio, qui è un download gratuito a basso impegno, non una qualificazione). Il commento pubblico è anche un segnale utile per [[il-loop-di-distribuzione]].
+
+Backup: parola chiave libera in DM ("CHECKLIST" scritta in qualsiasi momento, non solo sotto un post specifico) e reazione a sticker nelle storie, stesso meccanismo.
+
+> [!warning] Dipendenza tecnica aperta, non ancora testata
+> GHL supporta questo trigger nativamente, ma HighLevel documenta un limite: l'azione Instagram DM richiede che il contatto abbia già scritto in DM alla pagina nelle 24 ore precedenti, altrimenti non si consegna (vincolo messaging window di Meta). Non è confermato se il commento apra automaticamente questa finestra. **Da testare con un post reale prima di lanciare il funnel su scala.** Amministratore account: [[Vito Romano]]. Dettagli in [[infrastructure]].
 
 ## Correlazioni
 
