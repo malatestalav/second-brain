@@ -12,9 +12,9 @@ Riscrittura completa del copy per `offerta.haccpdigitale.it`, in risposta a [[re
 > [!warning] Perché Sezioni 9, 10 e 11 sono adattate, non riscritte 1:1
 > Il template originale è pensato per un infoprodotto a pagamento (valori in $, sconto oggi, garanzia-rimborso). L'offerta reale qui è **una visita gratuita**, zero pagamento in questa pagina: non esiste un prezzo da scontare né un acquisto da rimborsare. Ho mantenuto la stessa struttura e la stessa logica persuasiva (stack di valore, rimozione del rischio, urgenza), applicata a un'offerta gratuita invece che inventare cifre in euro false. Dove serve un dato reale che non ho (prezzo di mercato di una consulenza simile, un bonus concreto), l'ho segnalato con `[DA CONFERMARE]` invece di inventarlo.
 
-> [!warning] 4 dati reali ancora da confermare
-> Cercali nel testo con il tag `[DA CONFERMARE]`:
-> 1. Cifra/range reale della sanzione NAS (per ora resto sulla formulazione già approvata: sequestro merce + multa, nessun numero secco)
+> [!success] Aggiornamento 2026-09-14: cifra sanzione NAS ora verificata via ricerca web
+> Punto 1 (sotto) è risolto con fonti verificabili, vedi sezione "Elementi di Prova Verificati" subito dopo. Restano 3 dati ancora da confermare, cercali nel testo con il tag `[DA CONFERMARE]`:
+> 1. ~~Cifra/range reale della sanzione NAS~~ risolto: €1.000-€6.000 per legge (D.Lgs 193/2007, art. 6), più casi reali di cronaca con importi fino a €7.000, vedi sotto
 > 2. Nome (ed eventuale foto) del tecnologo alimentare che valida le procedure
 > 3. Nome e città di 1-3 locali reali per i case study firmati (oggi restano anonimizzati)
 > 4. Se "8 locali attivi" è ora pubblicabile come prova sociale, o resta vietato
@@ -22,15 +22,42 @@ Riscrittura completa del copy per `offerta.haccpdigitale.it`, in risposta a [[re
 > [!info] Framework usati
 > Formula Promessa + Meccanismo per l'hero, verificata contro [[dan-kennedy]] (*No B.S. Sales Success*, Lead Generation Advertising). Le 4 leve dell'offerta (promessa, probabilità di successo, tempo, sforzo) da [[offerta-irresistibile-mario-olivelli]]. Nessuna urgenza finta: dove il template chiede scarcity, uso solo vincoli reali (capacità del consulente, tempistica dei controlli), coerente con [[brand]].
 
+> [!important] Regola permanente (fissata dall'utente il 2026-09-14): ogni promessa o agitazione ha bisogno di una prova verificabile
+> Ogni volta che il copy fa una promessa o agita un rischio (multa, sequestro, chiusura, tempo perso, risultato), deve poter appoggiarsi a un elemento di prova reale: una sentenza, una notizia di cronaca, un testo di legge, un dato verificato. **Se la ricerca non trova un elemento di prova reale, il claim non si scrive con un numero o un caso specifico: resta generico o va segnalato `[DA CONFERMARE]`.** Mai inventare una cifra, un caso, una data, un nome per rendere il copy più convincente. Vedi [[feedback_prove_verificabili_copy_haccp]] per la regola permanente salvata in memoria.
+
+---
+
+## Elementi di Prova Verificati (Ricerca Web, 2026-09-14)
+
+Fonti reali trovate per sostenere le promesse e le agitazioni della pagina. Ogni elemento sotto è verificabile al link indicato, nessuno è un cliente di [[HACCP Digitale]]: sono casi di cronaca usati come prova che il rischio agitato in pagina è reale, non retorica.
+
+**Base legale (l'ancora, non un caso singolo):**
+Il D.Lgs 193/2007, articolo 6, punisce l'omessa o inadeguata applicazione delle procedure di autocontrollo basate sui principi HACCP (piano di autocontrollo assente, registri non aggiornati, formazione del personale mancante) con una sanzione amministrativa **da 1.000 a 6.000 euro**, raddoppiabile in caso di recidiva entro 5 anni. Confermato su più fonti indipendenti: [tabella sanzioni D.Lgs 193/2007](https://www.simplehaccp.com/blog/sanzioni-haccp-multe), [analisi legale art. 6](https://www.rigaconsulting.it/2017/09/14/sanzioni-per-non-aver-elaborato-il-manuale-haccp-o-piano-di-autocontrollo/), [sintesi ILA](https://www.ilaonline.net/decreto-legislativo-6-novembre-2007-n-193-controlli-e-sanzioni-in-materia-di-sicurezza-alimentare/).
+
+**Caso reale 1, quasi identico al pain point centrale della pagina (registro non compilato):**
+4 marzo 2026, Civitanova Marche. I Carabinieri NAS di Ancona hanno chiuso immediatamente un ristorante di sushi perché il registro delle temperature delle celle frigorifere non veniva compilato da oltre due mesi, oltre a 55 kg di prodotti ittici senza tracciabilità. Multa totale: **6.500 euro** al titolare. Fonte: [Il Resto del Carlino](https://www.ilrestodelcarlino.it/macerata/cronaca/pesce-senza-tracciabilita-chiuso-ristorante-61234e36).
+
+**Caso reale 2, lo stesso giorno di questa ricerca:**
+14 settembre 2026, Sant'Anatolia di Narco (TR). Un ristorante con il piano di autocontrollo HACCP non aggiornato e oltre 20 kg di alimenti privi di tracciabilità: sequestro e distruzione della merce, multa di **2.000 euro**. Fonte: [Umbria24](https://www.umbria24.it/cronaca/santanatolia-di-narco-in-un-ristorante-sequestrati-20-kg-di-cibo-multe-per-2-mila-euro/).
+
+**Caso reale 3, carenze in cella frigo + tracciabilità:**
+8 settembre 2026, provincia di Modena. Ristorante con etichette di tracciabilità assenti, prodotti scaduti e cella frigorifera sporca: sequestro di 30 kg di alimenti, multa di **7.000 euro**. Fonte: [Modena2000](https://www.modena2000.it/2026/09/08/controlli-dei-nas-in-un-ristorante-sequestrati-30-kg-di-merce-e-oltre-7mila-euro-di-multa/).
+
+> [!warning] Come usarli in pagina, senza confondere il lettore
+> Questi sono casi di cronaca reali, non testimonianze di clienti [[HACCP Digitale]]: vanno presentati sempre come "è successo a un altro locale", mai lasciando intendere che siano nostri clienti. Servono a rendere concreta l'agitazione del problema (Sezione 4) e a dare peso reale alla cifra della multa nell'hero (Sezione 1), non come prova sociale del prodotto (quella resta la Sezione 8, bloccata sui nomi reali).
+
 ---
 
 ## SEZIONE 1: HEADER
 
 **Headline principale** (formula Promessa + Timeframe + Meccanismo + Demolitore obiezioni):
 
-"Scopri i punti critici che rischiano di costarti una multa al prossimo controllo dei NAS [PROMESSA], in una visita gratuita di un'ora dentro il tuo locale [TIMEFRAME], con il check ideato da chi ha gestito ristoranti per 10 anni e validato da un tecnologo alimentare con oltre 30 anni di esperienza [MECCANISMO]... anche se oggi gestisci tutto su carta e durante il servizio non hai un minuto libero [DEMOLITORE OBIEZIONI]."
+"Scopri i punti critici che per legge rischiano di costarti da 1.000 a 6.000 euro di multa al prossimo controllo dei NAS [PROMESSA], in una visita gratuita di un'ora dentro il tuo locale [TIMEFRAME], con il check ideato da chi ha gestito ristoranti per 10 anni e validato da un tecnologo alimentare con oltre 30 anni di esperienza [MECCANISMO]... anche se oggi gestisci tutto su carta e durante il servizio non hai un minuto libero [DEMOLITORE OBIEZIONI]."
 
 **Sottotitolo:** "Un consulente viene gratis nel tuo bar o ristorante, trova dove rischi davvero, e ti mostra come restare in regola in pochi secondi al giorno dal telefono."
+
+> [!tip] Da dove viene la cifra "1.000-6.000 euro"
+> Sanzione amministrativa prevista dall'articolo 6 del D.Lgs 193/2007 per l'omessa o inadeguata applicazione delle procedure di autocontrollo HACCP (piano assente, registri non aggiornati): il caso più comune tra i clienti target di questa pagina. Vedi fonti in "Elementi di Prova Verificati" sopra. Non è la cifra massima possibile in assoluto (con tracciabilità assente o ostruzione ai controlli si arriva più in alto, vedi i casi reali sopra), ma è la più rappresentativa per il pain point centrale della pagina.
 
 **Bottone:** "Prenota l'analisi gratuita"
 **Riga sotto il bottone:** "Gratis. Nessun contratto. Decidi solo tu, dopo."
@@ -74,6 +101,8 @@ Fammi indovinare...
 - Sei frustrato perché il tuo staff considera l'HACCP "una tortura" e lo evita o lo fa male
 
 Ogni giorno che continui così, perdi circa 30 minuti di tempo che dovresti dare ai clienti, non alla carta. E il rischio non è solo il tempo perso: è che l'ispettore trovi un buco nella tracciabilità e ti faccia buttare merce, oltre alla multa.
+
+Non è una minaccia teorica. Il 4 marzo 2026 i Carabinieri del NAS di Ancona hanno chiuso un ristorante a Civitanova Marche perché il registro delle temperature non veniva compilato da oltre due mesi: multa di 6.500 euro al titolare. Il 14 settembre 2026, a Sant'Anatolia di Narco, un altro ristorante con il piano di autocontrollo HACCP non aggiornato ha ricevuto una multa di 2.000 euro e il sequestro della merce (fonti in nota a fine pagina). Sono ristoranti come il tuo, non casi eccezionali.
 
 E la parte peggiore?
 
@@ -301,6 +330,9 @@ Per questo la visita si fissa nell'orario che dici tu, anche fuori dal picco di 
 **È davvero gratis, senza trucchi?**
 Sì. Non paghi niente per la visita, non firmi niente sul posto, non ti chiediamo la carta di credito.
 
+**È vero che le multe HACCP sono davvero così alte?**
+Sì. La legge (D.Lgs 193/2007, art. 6) prevede da 1.000 a 6.000 euro per il piano di autocontrollo assente o non aggiornato, e la cronaca lo confronta ogni settimana: nel 2026 ci sono stati casi reali fino a 6.500-7.000 euro per registri di temperatura non compilati o tracciabilità assente (fonti verificabili, non stime).
+
 **Devo avere già qualcosa in ordine prima della visita?**
 No, anzi. Se oggi gestisci tutto su carta o in modo confuso, è esattamente il momento giusto per farla.
 
@@ -335,6 +367,7 @@ P.S. Il momento peggiore per scoprire un punto critico è durante un controllo. 
 - Nessun claim di gestione allergeni (Sezioni 9 e 14, trasparenza esplicita), coerente con [[project_haccp_digitale_non_gestisce_allergeni]]
 - Nessun em dash
 - Un solo testo di bottone in tutta la pagina: "Prenota l'analisi gratuita"
-- Nessuna cifra di sanzione NAS, nome di persona o testimonianza inventata: tutti segnaposto `[DA CONFERMARE]`
+- Nessun nome di persona o testimonianza inventata: tutti segnaposto `[DA CONFERMARE]`. La cifra della sanzione NAS non è più un segnaposto: verificata via ricerca web (D.Lgs 193/2007 + 3 casi di cronaca 2026), fonti in "Elementi di Prova Verificati"
 - Sezioni 10 (Bonus) e 10 (Price Stack): adattate a un'offerta gratuita, nessun valore in euro fabbricato, solo quello confermato (300 euro/anno del software) o segnalato come da confermare
 - Sezioni 5 e 12 (Opportunity Window, Urgency): nessuna scarcity/urgenza finta, solo vincoli reali, coerente con [[brand]]
+- Ogni promessa/agitazione con un numero o un caso specifico è appoggiata a una fonte reale citata (legge o cronaca), mai inventata: regola permanente, vedi [[feedback_prove_verificabili_copy_haccp]]
