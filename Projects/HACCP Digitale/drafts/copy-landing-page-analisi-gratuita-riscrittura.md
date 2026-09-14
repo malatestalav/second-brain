@@ -60,7 +60,10 @@ Il D.Lgs 193/2007, articolo 6, punisce l'omessa o inadeguata applicazione delle 
 > Sanzione amministrativa prevista dall'articolo 6 del D.Lgs 193/2007 per l'omessa o inadeguata applicazione delle procedure di autocontrollo HACCP (piano assente, registri non aggiornati): il caso più comune tra i clienti target di questa pagina. Vedi fonti in "Elementi di Prova Verificati" sopra. Non è la cifra massima possibile in assoluto (con tracciabilità assente o ostruzione ai controlli si arriva più in alto, vedi i casi reali sopra), ma è la più rappresentativa per il pain point centrale della pagina.
 
 **Bottone:** "Prenota l'analisi gratuita"
-**Riga sotto il bottone:** "Gratis. Nessun contratto. Decidi solo tu, dopo."
+**Riga sotto il bottone:** "Valore reale della visita: ~~197€~~ Oggi: Gratis. Nessun contratto. Decidi solo tu, dopo."
+
+> [!tip] Perché il valore barrato, deciso dall'utente il 2026-09-14
+> "197€" è il valore che diamo alla visita per far percepire che il tempo del consulente vale qualcosa, non un dato che serve verificare esternamente (non è un claim su quanto costano "in media" i consulenti HACCP, è il prezzo che l'azienda stessa attribuisce alla propria consulenza). Va usato in modo coerente in tutta la pagina: stessa cifra ovunque compaia (hero, Sezione 9, Sezione 10, barra fissa), mai un numero diverso.
 
 **Formati Headline alternativi** (per test A/B):
 
@@ -222,9 +225,9 @@ Dopo: tutto organizzato in automatico dentro l'app, stesso processo ripetibile o
 
 **IL CHECK SUL POSTO**
 
-Componente 1: Il Check dei Punti Critici in Loco (valore: il tempo di un consulente dedicato dentro il tuo locale)
+Componente 1: Il Check dei Punti Critici in Loco (valore: ~~197€~~ Gratis)
 - Verifica reale: temperature, sanificazione, ricevimento merce, preparazione, abbattimento, uno per uno
-- Normalmente questo tipo di visita da un consulente HACCP si paga a parte: qui è incluso a costo zero
+- Normalmente questo tipo di visita da un consulente dedicato si paga: qui è incluso a costo zero
 - Ti lascia una fotografia chiara di dove sei oggi rispetto alla normativa, prima che sia l'ispettore a scoprirlo per te
 
 **LA DEMO PERSONALIZZATA**
@@ -262,9 +265,9 @@ Qui non c'è un prezzo da scontare: l'Analisi Gratuita dei Punti Critici è l'un
 - Una demo personalizzata sul tuo caso
 - Un report chiaro dei tuoi punti critici
 
-Normalmente, una visita di questo tipo da un consulente HACCP indipendente si paga a parte `[DA CONFERMARE: cifra reale se si vuole quantificarla]`.
+**Valore della visita: 197€**
 
-**Prezzo oggi: Gratis. Nessuna carta di credito richiesta.**
+**Prezzo oggi: ~~197€~~ Gratis. Nessuna carta di credito richiesta.**
 
 Se in seguito deciderai di attivare [[HACCP Digitale]] per il tuo locale, il prezzo è semplice e pubblico: 300 euro all'anno (vedi [[services]]). Ma questo si discute solo dopo la visita, se e quando vorrai, non è l'argomento di questa pagina.
 
@@ -300,7 +303,7 @@ Perché conviene prenotare ora:
 
 **Strada 1:** continuare a compilare l'HACCP su carta, con lo stesso rischio di oggi, e ritrovarti nella stessa ansia al prossimo controllo dei NAS tra 6 mesi.
 
-**Strada 2:** prenotare oggi l'Analisi Gratuita dei Punti Critici, e sapere entro questa settimana esattamente dove sei esposto.
+**Strada 2:** prenotare oggi l'Analisi Gratuita dei Punti Critici (valore 197€, oggi gratis), e sapere entro questa settimana esattamente dove sei esposto.
 
 La scelta è tua.
 
@@ -349,7 +352,7 @@ Igiene personale del team e allergeni restano gestiti come oggi, fuori dall'app:
 "Ancora indeciso? Ricorda solo questo:
 
 - Sei protetto dalla nostra promessa Zero Pressione: nessun obbligo dopo la visita
-- Ricevi un check completo dei tuoi punti critici, gratis
+- Ricevi un check completo dei tuoi punti critici del valore di 197€, oggi gratis
 - Il rischio del prossimo controllo dei NAS resta lo stesso solo se non fai niente
 - L'unico modo in cui puoi perderci qualcosa è non prenotare oggi
 
@@ -368,6 +371,6 @@ P.S. Il momento peggiore per scoprire un punto critico è durante un controllo. 
 - Nessun em dash
 - Un solo testo di bottone in tutta la pagina: "Prenota l'analisi gratuita"
 - Nessun nome di persona o testimonianza inventata: tutti segnaposto `[DA CONFERMARE]`. La cifra della sanzione NAS non è più un segnaposto: verificata via ricerca web (D.Lgs 193/2007 + 3 casi di cronaca 2026), fonti in "Elementi di Prova Verificati"
-- Sezioni 10 (Bonus) e 10 (Price Stack): adattate a un'offerta gratuita, nessun valore in euro fabbricato, solo quello confermato (300 euro/anno del software) o segnalato come da confermare
+- Sezioni 10 (Bonus) e 10 (Price Stack): adattate a un'offerta gratuita. Valore barrato "197€" per l'analisi gratuita deciso dall'utente il 2026-09-14 (stessa cifra ripetuta in Sezione 1, 9, 10, 13, 15, mai un numero diverso): è il prezzo che l'azienda attribuisce alla propria consulenza, non un dato di mercato esterno da verificare, quindi non soggetto al guardrail delle prove verificabili (quello vale per i fatti sul mondo esterno, non per un prezzo che l'azienda fissa da sé)
 - Sezioni 5 e 12 (Opportunity Window, Urgency): nessuna scarcity/urgenza finta, solo vincoli reali, coerente con [[brand]]
 - Ogni promessa/agitazione con un numero o un caso specifico è appoggiata a una fonte reale citata (legge o cronaca), mai inventata: regola permanente, vedi [[feedback_prove_verificabili_copy_haccp]]
