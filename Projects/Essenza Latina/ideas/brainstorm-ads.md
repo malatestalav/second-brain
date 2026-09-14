@@ -78,6 +78,6 @@ Obiezione che attraversa tutti i segmenti, va indirizzata separatamente perché 
 
 ## Note per la fase successiva
 
-- Ogni "Chi sono" sopra è ancora generico: va riempito con fatti verificabili (anni di esperienza di Nesebrienza, numero di allievi, eventuali riconoscimenti/campionati, recensioni reali). Senza questo la prova non regge, resta un claim.
+- Ogni "Chi sono" sopra è ancora generico: va riempito con fatti verificabili (anni di esperienza di Agnese Brienza, numero di allievi, eventuali riconoscimenti/campionati, recensioni reali). Senza questo la prova non regge, resta un claim.
 - La CTA finale in tutte le varianti deve avere un'urgenza reale (posti per gruppo/livello, data di inizio corso, non scarcity finta) secondo [[dan-kennedy]] e la nota su [[offerta-irresistibile-mario-olivelli]] contro le tattiche di urgenza finta.
 - Prima di girare il copy in ads pubblicati, testare gli angoli separatamente (uno per creatività) invece di mischiarli in un solo testo.

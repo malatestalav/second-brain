@@ -8,46 +8,49 @@ date: 2026-09-14
 
 # Script ads, per angolo
 
-Versione script (parlato/caption, prima persona di [[Nesebrienza]]) di [[ads-copy]], divisa in **Hook / Body / CTA** per lettura rapida (il Body accorpa problema, soluzione e chi sono). Placeholder tra `[ ]` invariati, vedi [[ads-copy]] per i dati mancanti.
+Versione script (parlato/caption, prima persona di [[Agnese Brienza]]) di [[ads-copy]], divisa in **Hook / Body / CTA** per lettura rapida (il Body accorpa problema, soluzione e chi sono). Placeholder tra `[ ]` invariati, vedi [[ads-copy]] per i dati mancanti.
+
+> [!important] Scuola in apertura
+> Essenza Latina apre ora, l'Open Day gratuito del 20 settembre è il primo evento della scuola. Nessun claim al passato sulla scuola (allievi attuali, serate già fatte): il "Chi sono" si appoggia all'esperienza personale di Agnese nel ballo, non a un track record della scuola che ancora non esiste. Tutte le CTA portano all'Open Day.
 
 ## 1. Connessioni vere / anima gemella
 
-- **Hook**: Ti va di sapere una cosa? Ho perso il conto di quante coppie sono nate qui, tra una lezione e l'altra, quasi sempre quando nessuno dei due se lo aspettava.
-- **Body**: Perché oggi le occasioni per conoscere qualcuno con calma, senza fretta, senza uno schermo in mezzo, sono sempre più rare. Qui il contatto nasce da solo, si cambia partner passo dopo passo, si ride per uno sbaglio insieme, e nessuno ti chiede di piacere per forza a qualcuno. Sono Nesebrienza, insegno danze latine da [X anni], e ho visto nascere qui più di una storia tra i miei allievi. [aneddoto reale se c'è].
-- **CTA**: Se ti va di scoprirlo di persona, vieni a vedere una lezione, gratis, prima di decidere. Scrivimi, trovi il contatto qui sotto.
+- **Hook**: Ho perso il conto delle persone che, ballando, sono diventate coppia.
+- **Body**: In tutti questi anni nel mondo del ballo ho visto nascere storie vere tra le persone più impensabili, quasi sempre quando nessuno dei due se lo aspettava. Perché le occasioni per conoscere qualcuno con calma, senza fretta, senza uno schermo in mezzo, sono sempre più rare. Quando balli è diverso: il contatto nasce da solo, si cambia partner passo dopo passo, si ride per uno sbaglio insieme.
+- **CTA**: Il 20 settembre apro le porte di Essenza Latina con un Open Day gratuito. Clicca qui sotto e partecipa gratis.
 
 ## 2. Senza dama/compagno
 
-- **Hook**: Non hai un partner per ballare? Non ti serve.
-- **Body**: Lo so, è la prima cosa che pensano in tanti, e per questo rimandano l'iscrizione mesi, a volte anni, aspettando la persona giusta con cui presentarsi. Ma a lezione si cambia partner in continuazione, si balla con tutti, fin dal primo giorno. Il [X]% di chi è arrivato qui è arrivato da solo, e oggi balla tranquillamente con chiunque sia in sala.
-- **CTA**: Se questo era l'unico motivo che ti tratteneva, ora lo sai: non serve aspettare nessuno. Vieni a vedere una lezione prima di decidere, scrivimi e ti aspetto.
+- **Hook**: Non hai un partner per ballare? Non ti serve, davvero.
+- **Body**: È l'obiezione che sento più spesso: c'è chi rimanda l'iscrizione per mesi, a volte per anni, aspettando di trovare prima la persona giusta con cui presentarsi. In tutti questi anni di ballo ho visto centinaia di persone arrivare da sole, ed è la normalità, non l'eccezione. A Essenza Latina le lezioni sono pensate con la rotazione dei partner: si cambia in continuazione, si balla con tutti, dal primo giorno.
+- **CTA**: Se questa era l'unica cosa che ti tratteneva, ora lo sai. Clicca qui sotto e partecipa gratis all'Open Day del 20 settembre.
 
 ## 3. Intrattenimento
 
 - **Hook**: Quante serate hai passato a guardare la terza puntata di fila invece di uscire?
-- **Body**: Lo dico senza giudicare, è successo a tutti. Ma un weekend può essere anche un'altra cosa: un'ora di musica vera, di movimento, di persone in carne e ossa invece che uno schermo. Insegno a Essenza Latina da [X anni], e ogni [giorno della settimana] la sala si riempie di gente che balla fino a tardi.
-- **CTA**: Vieni a provare la prima lezione, [gratis / a X euro], il gruppo di [giorno/orario] parte il [data]. Scrivimi e ti spiego come funziona.
+- **Body**: Lo dico senza giudicare, è successo praticamente a tutti, me compresa. Ma un weekend può essere anche un'altra cosa: un'ora di musica vera, di movimento, di persone in carne e ossa. Ballo e insegno danze latine da [X anni], e il 20 settembre apro Essenza Latina: voglio che quella sala si riempia di gente che si diverte sul serio.
+- **CTA**: Clicca qui sotto e partecipa gratis all'Open Day del 20 settembre.
 
 ## 4. Sono negato
 
-- **Hook**: Pensi di avere due piedi sinistri? Anche [nome allievo/a] lo pensava, prima di venire qui.
-- **Body**: La paura di non avere il senso del ritmo, di sentirsi ridicoli, di non essere portati, è la cosa che sento dire più spesso, ed è anche il motivo numero uno per cui la gente non si iscrive mai. Il mio metodo è pensato apposta per chi parte da zero, un passo alla volta, nessuna base richiesta. In [X anni] di esperienza ho fatto partire da zero [numero] allievi che oggi [risultato concreto].
-- **CTA**: Se anche tu pensi di essere negato, vieni a provare una lezione prima di deciderlo davvero. Scrivimi.
+- **Hook**: Pensi di avere due piedi sinistri?
+- **Body**: La paura di non avere il senso del ritmo, di sentirsi ridicoli, di non essere portati per il ballo, è la cosa che sento dire più spesso, ed è il motivo numero uno per cui tante persone non si iscrivono mai. Non lo sei. In [X anni] di esperienza nel ballo ho visto partire da zero assoluto centinaia di persone che oggi ballano senza pensarci due volte. Il mio metodo è pensato apposta per chi parte davvero da zero.
+- **CTA**: Clicca qui sotto e partecipa gratis all'Open Day del 20 settembre.
 
 ## 5. Evento in vista (matrimonio)
 
 - **Hook**: Tra [X mesi] c'è un matrimonio e non sai ballare nemmeno il lento?
-- **Body**: Capita più spesso di quanto pensi, e di solito ce ne si accorge quando ormai manca poco. La buona notizia è che con il metodo giusto, pensato per chi parte da zero, i risultati si vedono in poche settimane, non in un anno.
-- **CTA**: Il corso base parte il [data]: chi si iscrive dopo arriva già a metà programma. Se hai una data da rispettare, scrivimi ora, ne parliamo.
+- **Body**: Capita più spesso di quanto immagini, e ce ne si accorge proprio quando il tempo stringe. Con il metodo giusto, pensato per chi parte da zero, i risultati si vedono in poche settimane, non serve un anno di corso. In questi anni ho seguito tante persone con esattamente questo problema, portandole a ballare tranquille il giorno dell'evento.
+- **CTA**: Se hai una data da rispettare, vieni a parlarne di persona: clicca qui sotto e partecipa gratis all'Open Day del 20 settembre.
 
 ## 6. Socializzare
 
-- **Hook**: Dopo i 30 fare amicizie vere diventa quasi impossibile.
-- **Body**: Tra lavoro, famiglia e le solite quattro persone che già conosci, gli spazi per conoscere gente nuova si riducono. Qui è diverso: stesse facce ogni settimana, una community che si ritrova non solo a lezione ma anche alle serate che organizziamo. Negli ultimi [periodo] abbiamo fatto [numero] serate ed eventi, e siamo ormai [numero] allievi fissi.
-- **CTA**: Vieni alla prossima serata sociale del [data], oppure prova prima una lezione. Scrivimi e ti aspetto.
+- **Hook**: Dopo i 30 anni fare amicizie vere diventa quasi impossibile.
+- **Body**: Tra lavoro, famiglia e le solite quattro persone che già conosci, gli spazi per incontrare gente nuova si riducono all'osso. Con Essenza Latina voglio costruire il contrario: un gruppo che si ritrova ogni settimana, con lo stesso spirito delle community che ho visto nascere in anni di ballo.
+- **CTA**: Il 20 settembre apriamo con l'Open Day, il primo passo per essere tra i primi a farne parte. Clicca qui sotto e partecipa gratis.
 
 ## 7. Vergogna
 
-- **Hook**: Il primo giorno, in sala, nessuno ti guarda quanto pensi.
-- **Body**: Lo so perché ho visto [numero] allievi arrivare con la tua stessa paura, quella di sentirsi giudicati, di sbagliare un passo davanti a sconosciuti, e rimandare l'iscrizione a "quando sarò più sciolto". [Nome allievo/a] era uno di loro, oggi balla tranquillo come se lo avesse sempre fatto. Il gruppo base è pensato apposta per chi parte da zero, si impara insieme, nessuno è lì per giudicare.
-- **CTA**: Vieni a guardare una lezione dal vivo prima di iscriverti, scrivimi quando vuoi.
+- **Hook**: In sala, nessuno ti guarda quanto pensi.
+- **Body**: Lo so perché ci sono passata anche io, e in questi anni ho visto tantissime persone arrivare con la stessa identica paura: quella di sentirsi giudicati, di sbagliare un passo davanti a sconosciuti. Il gruppo base di Essenza Latina è pensato apposta per chi parte da zero e con quella paura addosso: si impara insieme, nessuno è lì per giudicare.
+- **CTA**: Se quella vergogna è l'unica cosa che ti trattiene: clicca qui sotto e partecipa gratis all'Open Day del 20 settembre.
