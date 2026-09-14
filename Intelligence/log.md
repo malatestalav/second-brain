@@ -114,3 +114,9 @@ Cronologia di tutte le fonti aggiunte al vault via `/ingest`.
   - Aggiornato [[chiara-dosio]] (hub, sezione "il corso live completo" ora cita 14 pagine framework invece di 11) e [[casi-studio-chiara-dosio]] (aggiunto il caso quiz funnel della serata 5: 1.700€ spesi, ritorno 12x, CAC 587€)
   - Origine: richiesta diretta in chat ("fammi un elenco dei funnel di cui ha parlato" + conferma di crearne le pagine), non un ingest da fonte nuova, la source (manuale) era già in `Library/pdfs/` dal 2026-08-31
   - `index.md` aggiornato: 3 righe in sezione Framework
+
+- **[2026-09-14] build** | script-confronto-gmp-pain-point | 1 pagina drafts creata, 1 README aggiornato
+  - Utente ha chiesto rilettura pagina per pagina di [[procedure-haccp-digitale]] (già ingestato il 2026-08-19, sintesi wiki verificata invariata) per costruire materiale di marketing che confronta i punti di forza del software con i pain point del gestore
+  - Creato `Projects/HACCP Digitale/drafts/script-confronto-gmp-pain-point.md`: 8 script formato Direct Response (Regola 19), uno per ogni GMP con sezione "Come operare con il Software" nel manuale (01, 02/03, 04, 06, 07, 09); item 8 è un pezzo di trasparenza deliberata su GMP 08 (igiene personale), che l'app non digitalizza
+  - GMP 05 (allergeni) volutamente escluso dai confronti "software fa X": manuale riporta solo l'elenco normativo, nessuna sezione operativa digitale, coerente con [[project_haccp_digitale_non_gestisce_allergeni]]
+  - README del progetto aggiornato con il link al nuovo draft
