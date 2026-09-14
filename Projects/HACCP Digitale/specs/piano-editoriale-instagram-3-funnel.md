@@ -46,11 +46,18 @@ Struttura approvata da [[Antonio Malatesta]] il 2026-09-14: si riparte da zero r
 > [!warning] Buco strutturale segnalato, non ancora risolto
 > Il funnel caldo si appoggia su case study clienti come prova principale, ma [[pain-points]] conferma che nessun case study dei 4 clienti beta esiste ancora. Oggi regge solo sull'autorevolezza personale di [[Antonio Malatesta]]. Priorità da chiarire prima di produrre i contenuti di questo blocco.
 
+## Tracking cross-funnel
+
+Decisione di [[Antonio Malatesta]] il 2026-09-14: [[ManyChat]] non serve solo a consegnare la [[lead-magnet-checklist-punti-critici|checklist]] nel funnel freddo, ma anche da layer di monitoraggio su tutti e tre i funnel (quante persone commentano, quante checklist vengono inviate, tassi di risposta). Da integrare con le colonne già previste nella sezione "Tracking" di [[lead-gen-instagram-organico]] (chat DM aperte, provenienza, tipologia, leva usata) quando l'account viene creato.
+
 ## Prossimi passi
 
-1. Rispondere alle domande aperte (vedi conversazione 2026-09-14) su lead magnet freddo, priorità funnel caldo senza case study, cadenza per funnel, conferma CTA medio.
-2. Produrre contenuti/script per ciascun funnel, in blocchi separati, non tutti insieme.
-3. Aggiornare [[lead-gen-instagram-organico]] o deprecarlo in favore di questo documento una volta stabilizzato.
+Sequenza confermata da [[Antonio Malatesta]] il 2026-09-14: prima contenuti e struttura, l'account [[ManyChat]] si crea per ultimo, subito prima del lancio.
+
+1. Produrre contenuti/script per ciascun funnel, in blocchi separati, non tutti insieme (in corso: lead magnet freddo fatto, resta script/caption di lancio, poi funnel medio, poi funnel caldo).
+2. Definire la struttura di tracking cross-funnel su ManyChat (sezione sopra).
+3. Creare l'account ManyChat, collegare la pagina Instagram, configurare i workflow (ultimo passo, non bloccante per il resto).
+4. Aggiornare [[lead-gen-instagram-organico]] o deprecarlo in favore di questo documento una volta stabilizzato.
 
 ## Correlazioni
 
