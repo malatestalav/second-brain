@@ -12,6 +12,9 @@ Video in prima persona di [[Antonio Malatesta]]. Campagna organica, targeting Po
 > [!info] Obiettivo del video
 > Portare direttamente al link in bio, dove si prenota l'analisi gratuita dei punti critici.
 
+> [!warning] Questo primo video usa DM, non link in bio (chiarito il 2026-09-14)
+> La versione originale dello script (18 agosto 2026) aveva CTA "scrivici in DM", poi aggiornata qui il 12 settembre a "link in bio" per un video successivo. Il **primo video già registrato e in pubblicazione** ha il CTA vocale "scrivimi in DM" (non modificabile, è già girato): la didascalia pubblicata va scritta di conseguenza, non secondo la versione "link in bio" di questo documento. "Link in bio" resta l'obiettivo per i prossimi video, non ancora girati.
+
 ---
 
 ## HOOK (0-5 sec)
