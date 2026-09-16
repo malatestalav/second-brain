@@ -120,3 +120,11 @@ Cronologia di tutte le fonti aggiunte al vault via `/ingest`.
   - Creato `Projects/HACCP Digitale/drafts/script-confronto-gmp-pain-point.md`: 8 script formato Direct Response (Regola 19), uno per ogni GMP con sezione "Come operare con il Software" nel manuale (01, 02/03, 04, 06, 07, 09); item 8 è un pezzo di trasparenza deliberata su GMP 08 (igiene personale), che l'app non digitalizza
   - GMP 05 (allergeni) volutamente escluso dai confronti "software fa X": manuale riporta solo l'elenco normativo, nessuna sezione operativa digitale, coerente con [[project_haccp_digitale_non_gestisce_allergeni]]
   - README del progetto aggiornato con il link al nuovo draft
+
+## 2026-09-16
+
+- **[2026-09-16] ricerca web** | normativa | legge-75-2026-tracciabilita-alimentare | 1 pagina wiki creata
+  - Utente ha chiesto ricerca sulla "normativa 75/26" sulla tracciabilità alimentare, nessuna fonte in `Library/` (ricerca web diretta, non `/ingest` da documento)
+  - Creato [[legge-75-2026-tracciabilita-alimentare]] (`Intelligence/market/`, prima nota di questa sottocartella): non è un Regolamento UE come ipotizzato dall'utente, ma Legge 21 aprile 2026, n. 75 (Italia), in vigore dal 29/05/2026. Sanzioni rintracciabilità inasprite: 6.000-48.000€ o 3% fatturato, tetto 150.000€
+  - Collegata a [[HACCP Digitale]] come possibile trigger di marketing/vendita aggiuntivo per [[icp]], coerente con la Regola 19 (Direct Response, specificità concreta)
+  - `index.md` aggiornato: 1 riga in sezione Intelligence/Market

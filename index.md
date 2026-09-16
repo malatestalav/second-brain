@@ -143,7 +143,7 @@ Pagine di sintesi, analisi, comparazioni, ricerca tematica. Spesso generate via 
 <!-- Resources/case-studies/ -->
 
 ### Mercato
-<!-- Intelligence/market/ -->
+- [[legge-75-2026-tracciabilita-alimentare]]: Legge italiana (non regolamento UE) che inasprisce le sanzioni per obblighi di rintracciabilità alimentare fino a 150.000€, trigger di marketing per [[HACCP Digitale]]
 
 ### Decisioni
 <!-- Intelligence/decisions/ -->
