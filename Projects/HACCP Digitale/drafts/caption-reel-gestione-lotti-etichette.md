@@ -25,6 +25,8 @@ Con [[HACCP Digitale]] colleghi ogni prodotto al suo lotto e alla sua etichetta 
 
 Scrivimi in chat: ti mando il link per prenotare la tua analisi gratuita dei punti critici. Nessun acquisto, nessun impegno, solo capire insieme dove sei scoperto oggi.
 
+#HACCPDigitale #HACCP #tracciabilitàlotto #etichettatura #sicurezzaalimentare #ristoratori #titolaridibar #gestioneristorante #horeca #ristorazione #Potenza #Basilicata #PotenzaEProvincia
+
 ---
 
 ## Note di produzione
@@ -33,6 +35,7 @@ Scrivimi in chat: ti mando il link per prenotare la tua analisi gratuita dei pun
 - Coerente con [[brand]]: diretta, calda, tecnica. Niente "innovativo", "rivoluzionario", "livello successivo". Nessuna parola bandita ("rubare", "disturbo").
 - Struttura Direct Response (Regola 19 del vault): promessa esplicita in prima persona ("colleghi ogni prodotto al suo lotto... dal telefono"), garanzia ("nessun acquisto, nessun impegno", coerente con la promessa "Zero Pressione" di [[copy-landing-page-analisi-gratuita-riscrittura]]), urgenza reale non finta (rischio concreto il giorno del controllo NAS, non scarsità artificiale), specificità concreta (etichetta che si stacca, foglio diverso dal prodotto) invece di claim generici.
 - Generale per design: riusabile su qualunque variante dello script già pronto sullo stesso argomento (lotti/etichette), non lega la didascalia a un hook specifico.
+- Hashtag: mix di brand (#HACCPDigitale), argomento specifico (#tracciabilitàlotto, #etichettatura), audience (#ristoratori, #titolaridibar, #horeca), geo-targeting locale (#Potenza, #Basilicata, #PotenzaEProvincia, coerente con [[workflow-campagna-completo]] "geo-targeting Potenza e provincia via hashtag/caption locali"). Nessun hashtag generico da bacino enorme e fuori target (es. #food, #instafood): non porterebbero ristoratori della zona, solo volume di view non qualificato.
 
 ## Correlazioni
 
