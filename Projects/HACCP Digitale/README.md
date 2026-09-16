@@ -43,6 +43,7 @@ Lanciato da 20 giorni, 4 licenze vendute (poi 8, vedi correzioni in [[funnel-que
 - [Annuncio lavoro: Consulente Commerciale](drafts/annuncio-lavoro-consulente-commerciale.md) . bozza annuncio per un secondo commerciale sul territorio di Potenza, in Partita IVA a provvigione, da completare con contatti e percentuale prima della pubblicazione
 - [Revisione opt-in page, 12 settembre 2026](feedback/revisione-opting-page-2026-09-12.md) . critica esterna su promessa doppia/non quantificata, prova sociale assente, form e visivo non allineati al target; correzione in corso, blocco su cifra reale sanzione NAS e asset reali (nomi, foto, numeri)
 - [Riscrittura copy landing page, struttura Direct Response a 15 sezioni](drafts/copy-landing-page-analisi-gratuita-riscrittura.md) . copy completo pronto per sostituire il testo live su `offerta.haccpdigitale.it`, in risposta alla revisione del 12/9; adattato da un template infoprodotto a pagamento a un'offerta gratuita (niente price/bonus stack fittizi, niente urgenza finta); resta bloccato su 4 dati reali segnalati `[DA CONFERMARE]` nel testo (cifra sanzione NAS, nome tecnologo alimentare, nomi/città case study, pubblicabilità del numero "8 locali")
+- [Didascalia reel: gestione lotti ed etichette](drafts/caption-reel-gestione-lotti-etichette.md) . didascalia generale, CTA conversazionale "scrivi in chat" per l'analisi gratuita dei punti critici, coerente col Funnel Medio
 
 ## Riferimenti
 
