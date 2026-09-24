@@ -13,6 +13,9 @@ Struttura approvata da [[Antonio Malatesta]] il 2026-09-14: si riparte da zero r
 > [!note] Framework applicati
 > [[chiara-dosio]] per [[livelli-di-consapevolezza]], [[profile-funnel]] e [[story-funnel]]. [[offerta-irresistibile-mario-olivelli]] per la catena di convinzioni e la vendita consulenziale. Coerente con Regola 18.
 
+> [!warning] Correzione permanente CTA, 2026-09-24
+> [[Antonio Malatesta]] ha corretto due didascalie video di fila (etichette in scatola di scarpe, macellerie/pescherie/caseifici) da CTA checklist ("Commenta INFO") a CTA diretta "scrivimi in DM" per il link dell'Analisi Gratuita dei Punti Critici ([[copy-landing-page-analisi-gratuita-riscrittura]]). **Default per le prossime didascalie video, salvo indicazione contraria esplicita:** CTA "scrivimi in DM, ti mando il link per l'analisi gratuita", non la checklist del funnel freddo storico. La distinzione teorica freddo/medio in questo documento resta valida per la leva e il corpo del contenuto, ma la CTA operativa attuale sui video è questa, non "Commenta INFO".
+
 ## 🧊 Funnel Freddo
 
 **Target:** chi non conosce ancora [[Antonio Malatesta]] o [[HACCP Digitale]], intercettato dal [[il-loop-di-distribuzione]], prima esposizione. Livello 1-2 di [[livelli-di-consapevolezza]].
